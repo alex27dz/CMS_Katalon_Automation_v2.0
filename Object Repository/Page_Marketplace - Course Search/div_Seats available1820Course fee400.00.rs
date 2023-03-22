@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Seats available1820Course fee400.00</name>
+   <tag></tag>
+   <elementGuidId>4b7c472f-2b6e-41cc-8d98-50b73586c679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.seats-section</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35405f55-ba68-49ef-bb79-5246f544f04d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seats-section</value>
+      <webElementGuid>f4046d5b-0372-4415-839d-31d806f49fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seats available18/20Course fee$400.00</value>
+      <webElementGuid>73353f48-e0ff-4e94-bb3e-b6d8658cbb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;button-row ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 selected-view&quot;]/app-course-schedule-search-result-card[1]/div[@class=&quot;card&quot;]/div[@class=&quot;seats-section&quot;]</value>
+      <webElementGuid>3afc5aa4-2d42-4d22-8f82-9df1136feae9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div/div[2]</value>
+      <webElementGuid>d45df270-3720-482f-9cb9-f016712c269f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saturday'])[1]/following::div[1]</value>
+      <webElementGuid>36b0b037-455d-4b41-a76a-408ea9cd7eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July'])[1]/following::div[3]</value>
+      <webElementGuid>8414c21c-3051-464f-a85f-6a33f43209df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-course-schedule-search-result-card/div/div[2]</value>
+      <webElementGuid>bdf60fce-83f5-4f0f-9273-931012991b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Seats available18/20Course fee$400.00' or . = 'Seats available18/20Course fee$400.00')]</value>
+      <webElementGuid>88879851-ac10-4f68-bec5-1525147c5a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

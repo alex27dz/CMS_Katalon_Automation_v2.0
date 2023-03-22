@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Explore other recommended safety traini_5478a4</name>
+   <tag></tag>
+   <elementGuidId>7bbe9e92-bcc8-43c0-b6e5-b322599fc24f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-banner-subheading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/div[2]/app-login-header/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>173c381f-2cbd-4ad1-98d4-45abe1618e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-banner-subheading</value>
+      <webElementGuid>b8b9a425-86f2-4cc5-845b-92d76ffc4469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Explore other recommended safety training by sector or work type</value>
+      <webElementGuid>996d3303-f410-43c7-9088-93a89c023683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/div[@class=&quot;marketplace-login-banner&quot;]/app-login-header[1]/div[@class=&quot;login-banner-container&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;marketPlaceHeader ontario-columns ontario-small-12&quot;]/div[@class=&quot;login-banner-subheading&quot;]</value>
+      <webElementGuid>e1f105ee-b874-45d7-aa20-6d66a530fc22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/div[2]/app-login-header/div/div/div/div[2]</value>
+      <webElementGuid>e97ec047-d210-474a-8718-11ba5e825b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLTSD CPO Approved Training Courses'])[1]/following::div[1]</value>
+      <webElementGuid>5d78ae66-7399-40db-9f83-d54caa5e5583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[1]/following::div[7]</value>
+      <webElementGuid>429b67e9-32ac-4745-858c-13531f6ab5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPO Approved Courses'])[1]/preceding::div[2]</value>
+      <webElementGuid>39e39ce2-c0cb-420a-a942-7282f7ef4920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Eligibility'])[1]/preceding::div[2]</value>
+      <webElementGuid>8e3fea55-1348-4184-8d53-83822fbcdcaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Explore other recommended safety training by sector or work type']/parent::*</value>
+      <webElementGuid>53900959-f199-432e-9bd1-3e6a2b8d5366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>82a8d5a5-a8c6-4e1d-8eac-74e631a376e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Explore other recommended safety training by sector or work type' or . = 'Explore other recommended safety training by sector or work type')]</value>
+      <webElementGuid>7fab1e0f-2355-4881-88be-c34c0dd87a54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

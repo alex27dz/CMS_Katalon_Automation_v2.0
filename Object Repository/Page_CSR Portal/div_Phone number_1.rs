@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Phone number_1</name>
+   <tag></tag>
+   <elementGuidId>6c0111d5-e5f6-4769-8a40-de5fcc6b417a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-add-edit-worker/form/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5065258d-2b6a-4f8d-85f1-d3c3ef8cbdeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column form-input-div ontario-small-12 ontario-medium-4 ontario-large-3</value>
+      <webElementGuid>80c9898d-cbad-40b5-aa12-a09b73e3d57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone number*</value>
+      <webElementGuid>d0d2c27a-88c3-44d8-8504-c98f2f8b9559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-add-edit-worker[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-4 ontario-large-3&quot;]</value>
+      <webElementGuid>6d94d254-433d-4da4-a55f-f9db0be42b73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-add-edit-worker/form/div[4]/div[2]</value>
+      <webElementGuid>c351808a-a42e-4f8e-bb4b-7e35813ff3c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address*'])[1]/following::div[1]</value>
+      <webElementGuid>41aa50cc-d3ad-474c-a5a3-ea8a30c317b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name*'])[1]/following::div[4]</value>
+      <webElementGuid>1e4e166b-b66f-47f3-b1c6-b3393bbbd7a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary email address'])[1]/preceding::div[2]</value>
+      <webElementGuid>5c972ef3-75c0-43e8-ab0a-210273173080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>7fcc77d2-d803-4dfe-b31c-b5d7d4909714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Phone number*' or . = 'Phone number*')]</value>
+      <webElementGuid>d35de634-7658-4f6e-b092-5a1d128f82e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

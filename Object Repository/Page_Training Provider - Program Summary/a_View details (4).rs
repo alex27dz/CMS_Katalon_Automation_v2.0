@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View details (4)</name>
+   <tag></tag>
+   <elementGuidId>9afef42a-0534-40ea-9d32-d828c1c5bee1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='view-details']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#view-details</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89b8d631-e957-434e-bb4a-c46e16768003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>view-details</value>
+      <webElementGuid>881602fe-d304-4766-8401-8c90bf532b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit-link</value>
+      <webElementGuid>d94a9030-d619-4c57-bfde-e1e5e5401d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details</value>
+      <webElementGuid>07cb999d-8dc2-4c31-b6d5-aac0962c5ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/app-training-program-list-card[1]/div[@class=&quot;tpListCard submitted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column subsection ontario-small-12 ontario-padding-bottom-32-!&quot;]/a[@id=&quot;view-details&quot;]</value>
+      <webElementGuid>ddea7c0b-45d6-4efb-9133-47ba30d1cd87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='view-details']</value>
+      <webElementGuid>f62062a9-2d65-4b92-9d63-7e7d05101267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[5]/app-training-program-list-card/div/div[5]/div/a</value>
+      <webElementGuid>2333bd49-3d81-48f6-bdf1-647a171a774c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View details')]</value>
+      <webElementGuid>edfd4991-4116-422b-97f7-b3eb0aa66048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jean Belec'])[1]/following::a[1]</value>
+      <webElementGuid>026b1e82-ac21-4c33-bd46-9de8df8d1e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned assessor'])[1]/following::a[1]</value>
+      <webElementGuid>9899cec7-34f6-4d3b-adb6-60fc259b23ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part One'])[2]/preceding::a[1]</value>
+      <webElementGuid>8e884db4-dd19-48d1-a237-6ab4196cc4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application review in progress'])[3]/preceding::a[1]</value>
+      <webElementGuid>16a6a967-b9dc-4880-964e-6fd506d0c969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View details']/parent::*</value>
+      <webElementGuid>21caa22e-44da-42e9-b45f-cb9d98d52954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>d7a3c1e0-21a0-4d4e-b18c-8d448b882911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'view-details' and (text() = 'View details' or . = 'View details')]</value>
+      <webElementGuid>0a52a1ef-1d63-409d-af7e-29662c71ecaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

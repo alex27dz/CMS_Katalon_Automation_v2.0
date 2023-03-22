@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training program requirements</name>
+   <tag></tag>
+   <elementGuidId>5b200452-3469-496a-ac0d-8a9cfaa11f81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[3]/app-tabs/div/div[2]/app-tab[2]/div/div/div[2]/div/app-accordion/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a25eefcf-b19f-4a1b-87d3-cf152068455c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>7a5e99e2-d2bf-4258-8b86-cf2ef13b722b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program requirements</value>
+      <webElementGuid>ecbd906e-ea67-45eb-b325-3261d35ff3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-provider-attestation[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[3]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>1ae19a52-85d2-4fed-b460-6eab9a386ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2261f395-2a6a-4415-bd2c-35549c1bc02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>ca349451-6b30-4fc2-a020-cdc5c4636b27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program requirements</value>
+      <webElementGuid>f97340eb-9dc7-49be-983f-24a0a55566fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-provider-attestation[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[3]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>68029449-d858-4827-b33a-ec0b85b9dbf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[3]/app-tabs/div/div[2]/app-tab[2]/div/div/div[2]/div/app-accordion/div/div</value>
+      <webElementGuid>1dcf0004-b9ec-43c6-9c99-963e0b10511d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand all'])[1]/following::div[6]</value>
+      <webElementGuid>c6047ab2-c966-4149-b4ba-1f3f48c8efbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scroll up to select “Program Attestation” tab'])[1]/following::div[7]</value>
+      <webElementGuid>bb0f8e9a-87ac-47b3-8cea-f402b4ecae46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design'])[2]/preceding::div[3]</value>
+      <webElementGuid>17ea3f84-666a-4ba0-a181-2b8fa6203678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/app-accordion/div/div</value>
+      <webElementGuid>96b365cc-1acc-46a0-b246-6580c39e356f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training program requirements' or . = 'Training program requirements')]</value>
+      <webElementGuid>eb0cd2e5-26ab-4d9a-a39d-b709f08e0a64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

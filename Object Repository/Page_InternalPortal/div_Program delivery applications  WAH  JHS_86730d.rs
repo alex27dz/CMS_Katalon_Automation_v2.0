@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Program delivery applications  WAH  JHS_86730d</name>
+   <tag></tag>
+   <elementGuidId>ece7705a-1100-4ced-8100-177a571c3995</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-medium-12.ontario-large-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ececad2c-64c2-4ba9-83e9-e3101806324a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-12 ontario-large-12</value>
+      <webElementGuid>f60f597f-d12c-4439-a345-05dde4512b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Program delivery applications  WAH  JHSC  First Aid  SOSE  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecAndrea De SouzaSayeed RahmanNimesh GaralaKhalil IssaSufian BaigBaha JabarinAkhil PogulaMarty CerisanoJack WangRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanShowing 0 applications SearchReset</value>
+      <webElementGuid>87591b86-1e2b-4c8b-8575-3b27a2bf94ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]</value>
+      <webElementGuid>17fac062-4716-4f81-96df-884d33a8088f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div</value>
+      <webElementGuid>a069daa6-7bcf-465a-91c2-462da7ae2a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aleksey Dzhoharidze'])[1]/following::div[2]</value>
+      <webElementGuid>4d8df573-21b0-460a-ae86-aedc7bb042d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessor Portal'])[1]/following::div[5]</value>
+      <webElementGuid>4707652d-61ad-467b-ba61-1285b8fffa47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-program-delivery-applications/div/div</value>
+      <webElementGuid>9fa0d867-77b4-4e6c-bdbf-4dbbf2828495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Program delivery applications  WAH  JHSC  First Aid  SOSE  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecAndrea De SouzaSayeed RahmanNimesh GaralaKhalil IssaSufian BaigBaha JabarinAkhil PogulaMarty CerisanoJack WangRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanShowing 0 applications SearchReset' or . = ' Program delivery applications  WAH  JHSC  First Aid  SOSE  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation  All  Triage  Desk  Field  Recommendation SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecAndrea De SouzaSayeed RahmanNimesh GaralaKhalil IssaSufian BaigBaha JabarinAkhil PogulaMarty CerisanoJack WangRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanShowing 0 applications SearchReset')]</value>
+      <webElementGuid>9dea5025-9e23-4364-af68-97a162a23d76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

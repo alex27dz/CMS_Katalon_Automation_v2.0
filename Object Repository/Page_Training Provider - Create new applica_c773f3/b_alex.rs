@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_alex</name>
+   <tag></tag>
+   <elementGuidId>8e1ae9db-78f9-4754-ba0a-1f43b2cb1b19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-onboarding-summary/div/div/div[7]/label[2]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a9c7dda3-e0b4-42fb-8cc7-5082b7e9cbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>alex</value>
+      <webElementGuid>1dbe4c69-0ca3-42ef-a069-e393f00a425d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-onboarding-summary[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9 ontario-margin-bottom-32-!&quot;]/div[@class=&quot;onboarding-details-row&quot;]/label[@class=&quot;answer-text&quot;]/b[1]</value>
+      <webElementGuid>314ebb0e-6ea9-423f-b180-bae9243d6415</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-onboarding-summary/div/div/div[7]/label[2]/b</value>
+      <webElementGuid>beff3212-f7a2-4ebf-ab4c-e2e74f6278d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/following::b[1]</value>
+      <webElementGuid>8d6ccc84-d522-498d-982b-c311a06aa5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant contact information'])[1]/following::b[1]</value>
+      <webElementGuid>711150f2-7980-4cac-a5ff-6cdcafdcab15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[1]/preceding::b[1]</value>
+      <webElementGuid>181afb9c-c04d-4edf-b6d1-9827b66dd748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dezho'])[1]/preceding::b[1]</value>
+      <webElementGuid>427d1996-5caf-49b4-ab5d-c1e7a16fccff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='alex']/parent::*</value>
+      <webElementGuid>6e2b5e9c-00a1-46d2-890f-ef588bbdedbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/label[2]/b</value>
+      <webElementGuid>f836c511-c4b2-4989-a5e4-bf0a96d14bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'alex' or . = 'alex')]</value>
+      <webElementGuid>9a30b711-4c0e-413d-8af8-51c2331c90a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Working to prevent workplace injuries a_8fc2b8</name>
+   <tag></tag>
+   <elementGuidId>2aae732c-483e-4688-9563-657213383b9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-banner-description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/div[2]/app-login-header/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de25921b-71e7-4c59-a451-341f41e31f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-banner-description</value>
+      <webElementGuid>0c05669f-25e9-486b-aa60-b354f6c4f292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario.</value>
+      <webElementGuid>46b6bab0-1d2f-4980-b4f3-245c2a6ce613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/div[@class=&quot;marketplace-login-banner&quot;]/app-login-header[1]/div[@class=&quot;login-banner-container&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;marketPlaceHeader ontario-columns ontario-small-12&quot;]/div[@class=&quot;login-banner-description&quot;]</value>
+      <webElementGuid>b34fb152-fc4e-41ba-89db-d954dafe3779</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/div[2]/app-login-header/div/div/div/div[3]</value>
+      <webElementGuid>cc5c1a32-07b4-4d78-9862-ea5151ee3646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore other recommended safety training by sector or work type'])[1]/following::div[1]</value>
+      <webElementGuid>89e6bc8c-cc24-4eee-a32d-bd8f6f540803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLTSD CPO Approved Training Courses'])[1]/following::div[2]</value>
+      <webElementGuid>8faab84f-6651-4b1a-9ca5-93a5aef4c3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPO Approved Courses'])[1]/preceding::div[1]</value>
+      <webElementGuid>d7d173a0-7f97-4746-9a3f-89aa035a817a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Eligibility'])[1]/preceding::div[1]</value>
+      <webElementGuid>c49efba9-580a-4183-9058-f9f2d2357ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario.']/parent::*</value>
+      <webElementGuid>aef96f04-07e3-4311-88ee-498d3d02d1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>6113a9fe-de22-4e31-a175-8d84d387ccf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario.' or . = 'Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario.')]</value>
+      <webElementGuid>01496154-f18a-4265-9206-984049ea2615</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

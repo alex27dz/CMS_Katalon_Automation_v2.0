@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Program documents</name>
+   <tag></tag>
+   <elementGuidId>139aaea2-3305-484d-8503-bee494c19001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div/app-triage-sidebar/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ac4ca30-7da7-45b1-ba92-3ff0a1d45802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>76574d9c-4340-4bf8-b632-0341274a2b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsible-header collapsed</value>
+      <webElementGuid>f7e11567-97e4-4ac3-ab2c-ed11662083d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Program documents </value>
+      <webElementGuid>05c25ff3-5431-4d00-b07e-250c21fa0c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;sticky ontario-column ontario-small-12 ontario-medium-3 float-right ontario-margin-top-24-!&quot;]/app-triage-sidebar[1]/div[@class=&quot;sidebar-background&quot;]/div[@class=&quot;collapsible-header collapsed&quot;]</value>
+      <webElementGuid>e97c60a9-1ee7-4ae5-b078-afabc915e6f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div/app-triage-sidebar/div/div[3]</value>
+      <webElementGuid>f6adfb73-cddc-4f3a-80e5-9bb4d23708c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attestations'])[1]/following::div[1]</value>
+      <webElementGuid>f2a018c8-5c37-4c1c-97d4-0b63438d41b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant information'])[1]/following::div[3]</value>
+      <webElementGuid>5d8ffd4c-f73e-4d87-be0c-9e7e9fbcb317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program requirements'])[1]/preceding::div[2]</value>
+      <webElementGuid>abd4d5de-a8c6-4901-a7dd-0b7cbcbfa705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant information'])[2]/preceding::div[4]</value>
+      <webElementGuid>65929174-e6d2-454c-a681-2ab48b4248d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Program documents']/parent::*</value>
+      <webElementGuid>82affb66-5c39-490c-86ff-f3a0376422e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-triage-sidebar/div/div[3]</value>
+      <webElementGuid>ef03de4a-1f99-4663-a3f7-c12a7e69ddea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Program documents ' or . = ' Program documents ')]</value>
+      <webElementGuid>d7a4e7e2-1bc0-4c7d-889d-e9a4b9df8c71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

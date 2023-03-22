@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Aleksey Dzhoharidze_rotated back-arrow (4)</name>
+   <tag></tag>
+   <elementGuidId>86288629-b86d-49b9-9bcd-1159b4fb0e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.rotated.back-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-merge-worker/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1bba3212-fe7c-4846-9c84-45ed1a06a774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Go back to previous screen</value>
+      <webElementGuid>92a46e93-dc5b-40f5-994c-7c30f8847925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/chevron-down-blue-border.svg</value>
+      <webElementGuid>de7e591c-a87d-4ff4-905c-8f43db9c68b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>91853e51-a3ac-4e79-9287-9d84cd66b11d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rotated back-arrow</value>
+      <webElementGuid>7cd797fa-5d5a-445a-b852-ea7c8efb1ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-merge-worker[1]/div[@class=&quot;merge-worker-container&quot;]/div[@class=&quot;ontario-row ontario-margin-top-24-!&quot;]/img[@class=&quot;rotated back-arrow&quot;]</value>
+      <webElementGuid>d5c1dc89-34ea-4780-bfb5-03b87580ec91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-merge-worker/div/div/img</value>
+      <webElementGuid>95a960b5-4c86-46bf-bdb7-be6b7a01d5bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Go back to previous screen']</value>
+      <webElementGuid>76914493-d8b4-4619-9817-7793232a1c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>c2da1449-597a-469f-a3f2-1a1905283329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Go back to previous screen' and @src = 'assets/images/chevron-down-blue-border.svg']</value>
+      <webElementGuid>ec1be8f1-cfa0-4f15-b7bf-01c5601053d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

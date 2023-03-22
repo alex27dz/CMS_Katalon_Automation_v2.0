@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training delivery modes</name>
+   <tag></tag>
+   <elementGuidId>91dcbeab-1e97-45f8-8d9b-79afe6257671</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.paragraph-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-generic-paragraph/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7fa04aa6-bb0c-483b-acdd-ea5181fe4d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paragraph-title</value>
+      <webElementGuid>b63204bb-d24e-45b4-95ee-4c4c941c81bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training delivery modes</value>
+      <webElementGuid>d00ad655-5ab3-4786-9ba2-cbd277d9706f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section&quot;]/app-page-content-loop[1]/app-generic-paragraph[1]/div[@class=&quot;paragraph&quot;]/div[@class=&quot;paragraph-title&quot;]</value>
+      <webElementGuid>74bae8cb-9145-42c7-942c-9218493108ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-generic-paragraph/div/div</value>
+      <webElementGuid>c586a88f-7e2d-4356-acfe-65f1cdb75eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional information'])[1]/following::div[5]</value>
+      <webElementGuid>da824fdc-862a-4ef9-a87d-351c44606cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select training program'])[1]/following::div[8]</value>
+      <webElementGuid>934e6d48-0f6d-4f5a-a5b7-b10905e8df35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blended learning'])[1]/preceding::div[1]</value>
+      <webElementGuid>3e399ed8-e511-4794-926a-d7078fc26ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distance learning'])[1]/preceding::div[1]</value>
+      <webElementGuid>d48d75b3-4c8f-4206-b693-08e29babd601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Training delivery modes']/parent::*</value>
+      <webElementGuid>c727aaa4-247e-49a0-9c7c-7b8103ec7fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-generic-paragraph/div/div</value>
+      <webElementGuid>619dbda9-6da2-4fc0-b84e-127bba320ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training delivery modes' or . = 'Training delivery modes')]</value>
+      <webElementGuid>ee204af9-d556-4550-9d73-0af61a5c3972</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

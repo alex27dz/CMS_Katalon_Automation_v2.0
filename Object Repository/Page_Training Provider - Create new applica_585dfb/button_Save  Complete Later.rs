@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save  Complete Later</name>
+   <tag></tag>
+   <elementGuidId>bc1ea41f-1568-452a-a628-e9e043ec5051</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.black-button.save-buttons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div[3]/div/div/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3c2c7616-5a78-4737-88cf-68b9c03d9497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>09b74f20-0fb2-4a2a-a2af-be10036d9bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>6c168903-c08c-49b5-9a8b-b97eb9cf17d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>87faf00d-7f69-4579-9a61-9b389c853603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48b50f38-8730-43d1-af93-fd91f2cd5f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>3d7cc64a-e214-4b78-bd60-6d9f1aa2b53f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>e38647c3-e683-42c9-bf0c-71baf6da62f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>d2090e3f-fea5-42da-9eb9-1b56588e80ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b3bdb0ac-8dcd-483e-adc8-287eb8c4e4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>2b9eaaa2-5fe2-4bcc-b9ef-ef3cdd58202c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>eb81a6df-72b8-41d2-be62-6b72b86ee412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>7caeadaf-4b59-4857-83c0-3ae1a5452366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e1a99fce-c95d-4d1a-8fb9-401987561c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>d03af985-f50f-4233-be46-8a26de9cdf5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>56c499f9-3098-4f8c-a861-e6be099a27af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>3a2fd063-8ac2-4e8f-b23f-933e25817a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>05c4dd55-2cf9-4c3a-893e-005cc8a68401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>089c948e-8b66-4132-90d2-b1e62b5375e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>573db50f-74b6-45e1-940e-0f08a6414987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>988ba168-a362-492c-95b3-193f8f3867d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>754b54b4-c68f-4676-b5e3-e29c85e9e54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>770aaca2-d3da-4863-8441-b48a176d553e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>9b53cc1b-d3ef-4109-9698-a1ec078a91ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>5bdda6b2-9e2b-4615-9b9e-c55f830adcff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>82111502-6c51-4544-9164-d50908742a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>54d8e230-f251-4799-ad88-ac66bdf6cd1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>c054b426-2fb9-4df2-b257-31d80c7ff28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>45001424-68c5-4da6-bfbd-c59128984f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cdb244f5-b3cc-44af-8090-1d71da462ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button save-buttons</value>
+      <webElementGuid>741c9423-76ce-4eae-aa52-1cc702b30025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save &amp; Complete Later </value>
+      <webElementGuid>8f12a28a-d110-4c7d-8040-fed7aefb75a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]/button[@class=&quot;black-button save-buttons&quot;]</value>
+      <webElementGuid>6aef442a-101f-4092-b42d-81c5e0e19ff5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div[3]/div/div/div/button[3]</value>
+      <webElementGuid>d716fc56-b868-4427-a0a4-95869cd98252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Continue'])[1]/following::button[1]</value>
+      <webElementGuid>7931db28-9e6a-4f93-8d22-de2aad5e29fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[2]</value>
+      <webElementGuid>0053e217-55c4-4024-bcfc-6de4afafa036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ministry of Labour, Immigration, Training and Skills Development'])[1]/preceding::button[4]</value>
+      <webElementGuid>2725c876-5f73-40a8-9be6-361b2854c395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Ontario'])[1]/preceding::button[4]</value>
+      <webElementGuid>9ed1bc2c-1655-4158-83d9-d6a83c07d580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save &amp; Complete Later']/parent::*</value>
+      <webElementGuid>6b1bb88e-0be4-459e-8d72-44da3ad5088e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>76d8dd83-8de3-4e6e-8386-848e7eef727b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Save &amp; Complete Later ' or . = ' Save &amp; Complete Later ')]</value>
+      <webElementGuid>615db89c-3d11-4967-8cfd-b203670aaf25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Working at Heights - Refresher</name>
+   <tag></tag>
+   <elementGuidId>cc0a9293-7acc-4d79-842d-c71b21b5e6d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#not-completed > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='not-completed']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>9cdae8bf-96b3-4982-a01f-b95fcc4649b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working at Heights - Refresher</value>
+      <webElementGuid>b9f227f8-3a29-4cb0-a461-120b999fcff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;not-completed&quot;)/b[1]</value>
+      <webElementGuid>cbace9ce-67f1-49ec-97af-54aa56cd466e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>90475e3c-caff-4c44-a8cb-66cc616997c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working at Heights - Refresher</value>
+      <webElementGuid>30b84a89-158a-4bc9-87cf-7eeb940ebf94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;completed&quot;)/b[2]</value>
+      <webElementGuid>a1778825-a849-404f-b06a-6488ae1759c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='not-completed']/b</value>
+      <webElementGuid>642efd08-670f-47f9-8ba2-f0960f096d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(111) 111-1111'])[1]/following::b[1]</value>
+      <webElementGuid>834d836b-0b60-4dc4-b26c-215b54804e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[2]/following::b[2]</value>
+      <webElementGuid>8ea646be-6a7c-4b1e-974e-8baae3d38656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights Certification.'])[1]/preceding::b[1]</value>
+      <webElementGuid>5f17aea4-8930-4d14-9658-5800dae4ec8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Working at Heights - Refresher']/parent::*</value>
+      <webElementGuid>f9175173-8c06-415a-b7ce-2c0bcdf356d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/b</value>
+      <webElementGuid>da7dfd2e-5c03-4a70-bd88-a0b63dc89692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Working at Heights - Refresher' or . = 'Working at Heights - Refresher')]</value>
+      <webElementGuid>40cc51fe-c537-4b56-8b6d-4f0a19146273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='completed']/b[2]</value>
+      <webElementGuid>ca8900bd-a349-4094-802c-ccc2306819f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights - Full'])[1]/following::b[1]</value>
+      <webElementGuid>b06378ca-51e8-4bed-907c-795fef79a3ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training and other requirements'])[1]/preceding::b[1]</value>
+      <webElementGuid>154829ab-6639-4fc4-b66a-41950561ab4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b[2]</value>
+      <webElementGuid>f1b48ba8-62d2-413a-838f-262fbe224c2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

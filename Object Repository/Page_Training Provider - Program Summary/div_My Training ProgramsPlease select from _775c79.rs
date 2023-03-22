@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My Training ProgramsPlease select from _775c79</name>
+   <tag></tag>
+   <elementGuidId>a7e49135-9582-405e-a35c-7d1e15386e58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5bcb740b-8620-4227-ac1a-1f33ee5f2bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>073bee77-edc5-4ba9-9416-f680a1dd3d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Training ProgramsPlease select from the available options below. To access the full functionality of this site, you need to start by creating your account as a training provider. Once your account is created you will have the option of submitting training programs to become a CPO-approved training provider. Once your training programs are CPO-approved, they will be listed below and new functions will be added in the menu bar to the left.  Create your account as a training provider  Submit training program application for CPO approval  Training program application review and status  Manage approved training programs Submit training program delivery applicationTraining programs</value>
+      <webElementGuid>df0e41d6-c068-49e5-8dbe-6f0596f831bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>bf4c18b6-9e2f-497c-96df-8936c28df618</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div</value>
+      <webElementGuid>df7db521-07a1-4067-a84a-ecc35d693a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='john doe'])[1]/following::div[2]</value>
+      <webElementGuid>58aac702-5506-4f27-9e9d-ad9c4027ffa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alex Dev Inc'])[1]/following::div[5]</value>
+      <webElementGuid>53c6eaa5-2e89-4bb7-bfbb-362d164b7026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-provider-registration-confirmation/div/div</value>
+      <webElementGuid>6c5e7eb5-5867-474d-b4ce-edc2167306ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My Training ProgramsPlease select from the available options below. To access the full functionality of this site, you need to start by creating your account as a training provider. Once your account is created you will have the option of submitting training programs to become a CPO-approved training provider. Once your training programs are CPO-approved, they will be listed below and new functions will be added in the menu bar to the left.  Create your account as a training provider  Submit training program application for CPO approval  Training program application review and status  Manage approved training programs Submit training program delivery applicationTraining programs' or . = 'My Training ProgramsPlease select from the available options below. To access the full functionality of this site, you need to start by creating your account as a training provider. Once your account is created you will have the option of submitting training programs to become a CPO-approved training provider. Once your training programs are CPO-approved, they will be listed below and new functions will be added in the menu bar to the left.  Create your account as a training provider  Submit training program application for CPO approval  Training program application review and status  Manage approved training programs Submit training program delivery applicationTraining programs')]</value>
+      <webElementGuid>fd5903b5-e6c6-4f14-a571-9bf6fbd28c44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

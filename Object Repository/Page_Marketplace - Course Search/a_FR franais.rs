@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FR franais</name>
+   <tag></tag>
+   <elementGuidId>77b4c587-1ffc-4eb9-936c-d6b0d45cad11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ontario-header__language-toggler.ontario-header-button.ontario-header-button--without-outline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='french-button']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>afaf1fac-d3a3-4767-9c4e-19a39e987aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>29b88a08-e856-4334-9c05-bd9ee8b12da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-header__language-toggler ontario-header-button ontario-header-button--without-outline</value>
+      <webElementGuid>e1810666-c6a9-4c7b-8c83-789f1e01ae1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> FR français</value>
+      <webElementGuid>aa32c2c2-f9e4-43cd-9938-dfba905f0c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;french-button&quot;)/a[@class=&quot;ontario-header__language-toggler ontario-header-button ontario-header-button--without-outline&quot;]</value>
+      <webElementGuid>ecba6b3f-dd67-4506-93f7-43df4614aa35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='french-button']/a</value>
+      <webElementGuid>d303c853-f1f0-46ad-9ac4-4e898a57f626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>18807eb9-bfd2-4d7e-9ec5-8362a3c02153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' FR français' or . = ' FR français')]</value>
+      <webElementGuid>492599e1-95de-4872-a96b-ad84ca5dacd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

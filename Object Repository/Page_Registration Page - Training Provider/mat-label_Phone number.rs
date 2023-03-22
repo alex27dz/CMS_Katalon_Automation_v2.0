@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-label_Phone number</name>
+   <tag></tag>
+   <elementGuidId>39b6a3c6-c7ff-4666-a684-0596becfbb82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-add-team-member[@id='teamMember']/div/div[2]/form/div[3]/div/mat-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-label</value>
+      <webElementGuid>205c9606-55a0-4011-947b-95158471306f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-label</value>
+      <webElementGuid>4ce4226d-8d30-4922-875b-94a943523b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone number </value>
+      <webElementGuid>a4d36a7f-3738-4a6e-8200-252d304c20de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teamMember&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;signing-authority-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5&quot;]/mat-label[@class=&quot;input-label&quot;]</value>
+      <webElementGuid>5bb725fc-3053-4b0a-8e5c-9f51c55e7cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-label</value>
+      <webElementGuid>25989035-fcec-40cf-b182-cf6c2b03e9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-label</value>
+      <webElementGuid>be8ac012-be8c-4ce1-9e35-099bc508a97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone number </value>
+      <webElementGuid>e34f777a-9327-47a3-b91a-ee193c3aaf46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teamMember&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;signing-authority-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5&quot;]/mat-label[@class=&quot;input-label&quot;]</value>
+      <webElementGuid>fac96455-70f3-4c74-a512-f436076e0c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-add-team-member[@id='teamMember']/div/div[2]/form/div[3]/div/mat-label</value>
+      <webElementGuid>3d0733a6-17c2-47dc-850a-b43d3847c098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[2]/following::mat-label[1]</value>
+      <webElementGuid>8d9220a5-c324-48d5-b4d4-ad0401782aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[2]/following::mat-label[2]</value>
+      <webElementGuid>42e56dac-71f3-4c9b-8ac4-88f4acfb1514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[2]/preceding::mat-label[1]</value>
+      <webElementGuid>fd55e9cd-24cc-474d-b746-cbe0c0c739ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Team member', &quot;'&quot;, 's role in organization/company')])[1]/preceding::mat-label[2]</value>
+      <webElementGuid>d5c2e8e3-b84e-4b1b-95a4-edb984570b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div[3]/div/mat-label</value>
+      <webElementGuid>a9b995ab-8fdd-484c-948b-0db7291598a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-label[(text() = 'Phone number ' or . = 'Phone number ')]</value>
+      <webElementGuid>ae07c7c9-f0a2-4d73-b001-364573b4c8f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

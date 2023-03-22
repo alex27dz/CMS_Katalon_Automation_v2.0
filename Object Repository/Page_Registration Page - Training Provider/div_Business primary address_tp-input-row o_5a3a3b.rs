@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business primary address_tp-input-row o_5a3a3b</name>
+   <tag></tag>
+   <elementGuidId>b37d92a7-b4e9-48f5-a70b-a2d15d87c3ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-business-information[@id='businessInformation']/div/div/form/div[8]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c9c6e43-afba-4962-9bc6-dba98ff74723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tp-input-row ontario-small-12 ontario-medium-6 ontario-column ontario-large-5</value>
+      <webElementGuid>139e3acb-6f19-46b6-ad5c-40bb6f8a2147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;businessInformation&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row ontario-row&quot;]/div[@class=&quot;tp-input-row ontario-small-12 ontario-medium-6 ontario-column ontario-large-5&quot;]</value>
+      <webElementGuid>1048d324-3097-490d-9660-507da0b425b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-business-information[@id='businessInformation']/div/div/form/div[8]/div</value>
+      <webElementGuid>2d89d1dd-569c-46d1-a6b0-aa5ba6188627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business primary address'])[1]/following::div[4]</value>
+      <webElementGuid>baa9cdad-9a96-4e1c-bb82-3067b8530cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WSIB Account Number'])[1]/following::div[7]</value>
+      <webElementGuid>fd02d8d7-76b0-4475-ba86-44d329e52100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company website'])[1]/preceding::div[10]</value>
+      <webElementGuid>7fa60d81-7ffa-47e6-8327-060f2138c00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred method of correspondence'])[1]/preceding::div[12]</value>
+      <webElementGuid>2a0515be-c622-47e1-a896-efc5536994e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-business-information/div/div/form/div[8]/div</value>
+      <webElementGuid>86e531bc-2943-4dce-a282-7dcc1aef58e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

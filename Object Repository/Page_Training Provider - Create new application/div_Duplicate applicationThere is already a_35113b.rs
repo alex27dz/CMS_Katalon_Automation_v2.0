@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Duplicate applicationThere is already a_35113b</name>
+   <tag></tag>
+   <elementGuidId>14d8eb4e-64d4-48a9-8937-e9e126fc793c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[5]/div/app-alert-banner/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef61e196-148b-4386-8cd2-508150e13915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>28abc2ce-6342-47cd-86ae-61fd9a3efd11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Duplicate applicationThere is already an application listed for the same program and same delivery format. Click cancel button to go back to ‘My training programs’ page and check possible duplicates.</value>
+      <webElementGuid>df96c118-9e60-4615-a2bd-370ee9e9cdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row ontario-padding-left-0-! ontario-padding-top-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/app-alert-banner[1]/div[@class=&quot;banner warning&quot;]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>4036b1d3-9068-462d-815b-121b9acae846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[5]/div/app-alert-banner/div/div[2]</value>
+      <webElementGuid>e0a42a09-4a11-48e3-ac63-4b830ff02757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety Training Formats'])[1]/following::div[7]</value>
+      <webElementGuid>84480e0e-0585-4083-9c06-5af7001d2cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional information'])[1]/preceding::div[6]</value>
+      <webElementGuid>6ca00a06-441a-45a1-a3ef-7e6f8ec6bde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='There is already an application listed for the same program and same delivery format. Click cancel button to go back to ‘My training programs’ page and check possible duplicates.']/parent::*</value>
+      <webElementGuid>52e91892-51e8-4ce1-9f1c-862ee8283027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alert-banner/div/div[2]</value>
+      <webElementGuid>f3e4ce3f-2412-4f7a-bf93-19ceb1a1ae8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Duplicate applicationThere is already an application listed for the same program and same delivery format. Click cancel button to go back to ‘My training programs’ page and check possible duplicates.' or . = 'Duplicate applicationThere is already an application listed for the same program and same delivery format. Click cancel button to go back to ‘My training programs’ page and check possible duplicates.')]</value>
+      <webElementGuid>ceae1aef-a4de-485a-84ed-23c760cdc0cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

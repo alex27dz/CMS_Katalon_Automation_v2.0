@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Add a team member on your account (Optional)</name>
+   <tag></tag>
+   <elementGuidId>12c693e9-2c30-404d-bd1b-b013c7de2bcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div[8]/app-applicant-info-add-team-member/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>f4f57db1-a2ad-478e-8a20-d33de08c7f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add a team member on your account (Optional) </value>
+      <webElementGuid>4955a9a4-d5d1-4f76-8335-d916c6faf1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-padding-bottom-16-!&quot;]/app-applicant-info-add-team-member[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-header teamMemberExpender&quot;]/h3[1]</value>
+      <webElementGuid>155c0efe-ef16-4a45-9518-13ccb6decd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ccf1c2da-7bad-4e55-8a98-450b0bcc46be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add a team member on your account (Optional) </value>
+      <webElementGuid>f32f615e-fb1a-4285-a5b7-a0bdac0ea270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-padding-bottom-16-!&quot;]/app-applicant-info-add-team-member[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-header teamMemberExpender&quot;]/h3[1]</value>
+      <webElementGuid>70bea521-ce8a-4b91-8fc3-f639fa22c122</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div[8]/app-applicant-info-add-team-member/div/div/h3</value>
+      <webElementGuid>939b1146-19ef-472e-98aa-79b4b6baec01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alternate Contact (if required)'])[1]/following::h3[1]</value>
+      <webElementGuid>e28322ea-eb52-4b96-a05b-9ed300aa65cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want to be listed as a training provider offering training services to the public.'])[1]/following::h3[1]</value>
+      <webElementGuid>a3e29eb5-a014-4714-b54b-70bc12b7c0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::h3[1]</value>
+      <webElementGuid>d3e5352a-f364-4a62-86a6-ec52d5df639d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Continue'])[1]/preceding::h3[1]</value>
+      <webElementGuid>f391cf9e-cfba-43ea-8302-e8426106ff53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add a team member on your account (Optional)']/parent::*</value>
+      <webElementGuid>7cdbac06-6add-46e8-857f-7c9802ba5fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>5e717ac3-8d84-46b3-b1ab-e3e3cea0610a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Add a team member on your account (Optional) ' or . = 'Add a team member on your account (Optional) ')]</value>
+      <webElementGuid>6803bdb5-d1e1-4046-8707-1abfeb7b6257</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

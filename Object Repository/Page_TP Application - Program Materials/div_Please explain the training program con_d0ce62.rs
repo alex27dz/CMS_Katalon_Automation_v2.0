@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please explain the training program con_d0ce62</name>
+   <tag></tag>
+   <elementGuidId>bc43daf4-4854-4438-a5ff-687dc055193f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tab[@id='reqs-tab']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-row.margin-left-0px</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d3e1a5e1-718a-45d2-ba38-b328f7cfe977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row margin-left-0px</value>
+      <webElementGuid>c6a14b47-fbba-4f7b-8c15-f9ded2b024b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning</value>
+      <webElementGuid>57e035f4-e8b9-463a-821a-5a8fb07e854d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reqs-tab&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row margin-left-0px&quot;]</value>
+      <webElementGuid>2b5aa6f4-40ed-4555-a84b-248f6fed2a21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-tab[@id='reqs-tab']/div/div</value>
+      <webElementGuid>10c6c382-a625-45ee-a073-facf1e1fa3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scroll up to select “Training Provider Requirements” tab'])[1]/following::div[2]</value>
+      <webElementGuid>42aef1aa-9c8a-4ae7-b56b-db6fa7718fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program requirements'])[2]/following::div[3]</value>
+      <webElementGuid>770712f6-a8c8-4799-b469-5286325c7db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/app-tabs/div/div[2]/app-tab[2]/div/div</value>
+      <webElementGuid>ae72a3cc-bf51-4726-a96f-9b5e74833bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning' or . = ' Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning')]</value>
+      <webElementGuid>3718f57f-2dc6-4739-939e-5fe5ef2ae3a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

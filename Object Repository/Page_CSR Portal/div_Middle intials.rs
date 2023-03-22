@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Middle intials</name>
+   <tag></tag>
+   <elementGuidId>6432628d-1273-4afc-8ded-f842e4339804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.form-input-div.ontario-small-12.ontario-medium-6.ontario-large-custom-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/form/div/div/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6f606c6-38a6-4423-978e-e7b48f229315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-custom-2</value>
+      <webElementGuid>c4c83b3c-8777-4e72-a746-a99c104fb7eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Middle intials</value>
+      <webElementGuid>24aff1a4-e93f-429b-bc07-4ea558c9a719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[@class=&quot;ontario-margin-top-24-!&quot;]/app-csr-workers[1]/app-worker-search-criteria[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ontario-row search-criteria-container ontario-margin-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-10&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-custom-2&quot;]</value>
+      <webElementGuid>7f0fda4d-eb0a-4f0e-9390-fc6b1ca23b92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/form/div/div/div/div[5]</value>
+      <webElementGuid>1c708163-4a44-4400-9039-856c6a79691f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use exact match'])[2]/following::div[1]</value>
+      <webElementGuid>fbdfa6f9-9830-4584-9d53-ba2b5f2beb56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/following::div[2]</value>
+      <webElementGuid>4ef1b104-5a70-44c7-82df-55489c9dfb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::div[1]</value>
+      <webElementGuid>6be75ed5-5871-4baa-9b41-202033adc62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>52e81a78-71f5-4491-836c-9cecb9a64274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Middle intials' or . = 'Middle intials')]</value>
+      <webElementGuid>464113b2-ed3a-4d8b-b0f7-e5f4c0e5c0f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

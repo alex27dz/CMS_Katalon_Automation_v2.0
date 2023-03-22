@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Merge (6)</name>
+   <tag></tag>
+   <elementGuidId>a1729fd2-a009-4452-b35d-c8119583ea34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.search-button.margin-top-0.margin-right-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a58949f2-8a82-404c-982b-99bbe0b339d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-button margin-top-0 margin-right-1</value>
+      <webElementGuid>f5ef9382-463f-48ef-abb2-954926d459f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Merge</value>
+      <webElementGuid>4b021136-7493-4274-bff7-0fe5645886ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[@class=&quot;ontario-margin-top-24-!&quot;]/app-csr-workers[1]/app-worker-search-criteria[1]/div[@class=&quot;ontario-row ontario-margin-top-24-! ontario-margin-bottom-8-!&quot;]/div[@class=&quot;ontario-column ontario-small-6 merge-column&quot;]/button[@class=&quot;search-button margin-top-0 margin-right-1&quot;]</value>
+      <webElementGuid>4980f4fc-dd95-413d-924f-cb0b5daa7b79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/div/div[2]/button</value>
+      <webElementGuid>76e1e955-600d-4449-99f8-bfc5c9901916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[1]</value>
+      <webElementGuid>39bbd9f0-8b6f-4780-b6c0-c0af10a53c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[2]</value>
+      <webElementGuid>1a04e855-de4c-4b5a-9ac6-e13b19cb29c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add learner to class'])[1]/preceding::button[1]</value>
+      <webElementGuid>628d936e-d356-436d-9c2b-5980221b5bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ministry of Labour, Immigration, Training and Skills Development'])[1]/preceding::button[2]</value>
+      <webElementGuid>cfe827e2-8a47-4091-89e7-e8af75aea326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Merge']/parent::*</value>
+      <webElementGuid>3b793db4-bb9a-4c65-b62d-549b5cd1f865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-worker-search-criteria/div/div[2]/button</value>
+      <webElementGuid>855aa22e-eb9a-4788-b7f7-22f13f9e6931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Merge' or . = 'Merge')]</value>
+      <webElementGuid>bd992086-3c36-4521-836f-cdc982bdd2b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

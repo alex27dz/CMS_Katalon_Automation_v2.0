@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Offer JHSC training program</name>
+   <tag></tag>
+   <elementGuidId>4576b271-b64c-4179-ad96-103ae861bbf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='trainingDeliveryInfo']/div[2]/div/div/app-checkbox[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a670e162-9970-4f55-9394-c4f9cfb0d3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-checkboxes__label</value>
+      <webElementGuid>2b8892d1-6db3-4334-8816-acb2ea1a4211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>checkbox-option-Offer JHSC training program</value>
+      <webElementGuid>a2dd3cee-7f87-4ec7-a5ba-126e9071f078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Offer JHSC training program</value>
+      <webElementGuid>6aaebecb-6b09-43c5-b1d6-3a380ebd3eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trainingDeliveryInfo&quot;)/div[@class=&quot;input-div ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row checkbox-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/app-checkbox[2]/div[@class=&quot;ontario-checkboxes__item&quot;]/label[@class=&quot;ontario-checkboxes__label&quot;]</value>
+      <webElementGuid>9aa04ffd-a4a0-4aba-b3cf-7c566083dec6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trainingDeliveryInfo']/div[2]/div/div/app-checkbox[2]/div/label</value>
+      <webElementGuid>f336d8a4-d1aa-4ba4-939d-e7458347df84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer WAH training program'])[1]/following::label[1]</value>
+      <webElementGuid>07328767-b1b0-40d0-9154-d6853058bf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary purpose of the training provider registration'])[1]/following::label[2]</value>
+      <webElementGuid>89341074-58cf-4f91-bd46-7c23b62667f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer first aid training program'])[1]/preceding::label[1]</value>
+      <webElementGuid>f6417ac8-11b1-40c3-90ce-06d26304159a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[1]/preceding::label[2]</value>
+      <webElementGuid>beab4001-7aef-4e87-8922-716d2057394b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Offer JHSC training program']/parent::*</value>
+      <webElementGuid>c67f3dd8-f99f-44f8-8152-7406b1a1d4b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-checkbox[2]/div/label</value>
+      <webElementGuid>f1988459-7801-4cfe-a175-8ad1aefadfa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Offer JHSC training program' or . = 'Offer JHSC training program')]</value>
+      <webElementGuid>2c880a91-2b3b-49de-ace1-e0fd2dba8961</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

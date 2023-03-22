@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Contact</name>
+   <tag></tag>
+   <elementGuidId>3b96a638-e523-4e95-9c54-fdea5268b630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-providers-search/div[2]/div/div/div/div[4]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-col.header-col.contact-cell > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ef78c22c-bd81-4640-aac1-d2611ac8e520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>contact</value>
+      <webElementGuid>883ab893-4979-4fd8-beb8-956dcf9901e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact</value>
+      <webElementGuid>8514a890-8d91-49f1-a55f-2b923741028f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers-search[1]/div[@class=&quot;ontario-row results-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;table&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;table-col header-col contact-cell&quot;]/label[1]</value>
+      <webElementGuid>8ebb351d-e531-4057-89f5-3359855ffb16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-providers-search/div[2]/div/div/div/div[4]/label</value>
+      <webElementGuid>ee01fcf5-6670-42d3-ba03-1a980f690590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered address'])[1]/following::label[1]</value>
+      <webElementGuid>7438da5f-a8ba-4498-8448-451a5d8fb5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City/Town'])[1]/following::label[2]</value>
+      <webElementGuid>a858bedf-955e-41c5-8d0d-5c4a6232e07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offered to'])[1]/preceding::label[1]</value>
+      <webElementGuid>abcb1aec-e68f-4dac-87ed-bb24839efe9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program offered'])[1]/preceding::label[2]</value>
+      <webElementGuid>13d0eae5-2404-4fa6-a107-230d19c9fd28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact']/parent::*</value>
+      <webElementGuid>fcb19d7e-0614-40d1-b997-a82c8badc17c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label</value>
+      <webElementGuid>3deff24f-4387-4d26-8249-c0070bad3923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Contact' or . = 'Contact')]</value>
+      <webElementGuid>375d7332-bf49-4704-88e0-9333a39178b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

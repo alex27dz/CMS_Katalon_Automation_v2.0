@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Are you a designated signing authorit_0aa322</name>
+   <tag></tag>
+   <elementGuidId>22717131-8385-40a3-9a5b-7ed1e7f0bb4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-register-training-provider/div/div[2]/div[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6c603abd-8ea0-4f5f-b00f-bfa9295c5cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>461283e7-9848-4cac-8632-e66c58cfe0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Are you a designated signing authority within your organization, responsible for the creation of this account? *</value>
+      <webElementGuid>15c0108f-59e2-43f9-ba35-ff9ebbf99f15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-register-training-provider[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;input-div&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>a5462465-e55f-4b0d-a59c-076e42e9e5f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-register-training-provider/div/div[2]/div[5]/label</value>
+      <webElementGuid>9fc697f0-5a12-4583-8b4d-7ecad220e0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TODO: SUPPORT LINK REQUIRED'])[1]/following::label[1]</value>
+      <webElementGuid>5f2d4f32-11a2-41be-8a13-5f0adab86d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::label[1]</value>
+      <webElementGuid>dc2eb47e-e663-4d4b-b82b-587e4ca824e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::label[2]</value>
+      <webElementGuid>92417173-e67f-493c-8775-7fd8771b44ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Are you a designated signing authority within your organization, responsible for the creation of this account? *']/parent::*</value>
+      <webElementGuid>c171f722-51de-4dcd-ae73-a7ae6fe593bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>f48b80d0-46ae-42f3-937a-f7682f7ebe42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Are you a designated signing authority within your organization, responsible for the creation of this account? *' or . = 'Are you a designated signing authority within your organization, responsible for the creation of this account? *')]</value>
+      <webElementGuid>c4011591-f0f8-4c09-917e-47f3a903e176</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Supporting Ontarios Safe Employers is a_ec7ea0</name>
+   <tag></tag>
+   <elementGuidId>f5f9f77b-74f3-46ee-828e-1c72a2937dbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[4]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ce97313f-f197-47ab-961c-e26408ea4898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>23cc893b-f4a1-4aeb-9446-01eb11c95c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness.</value>
+      <webElementGuid>305e45e7-8bf5-4d62-a0e1-fcee6468bfba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[4]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>7c232829-faf8-4377-816f-f9735d6f92a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[4]/div/div[2]/div</value>
+      <webElementGuid>bd5cfe64-4b7b-4862-8faa-3352016e772b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supporting Ontario’s Safe Employers Program'])[1]/following::div[2]</value>
+      <webElementGuid>75382c3a-a1b3-4d30-8b7e-323c2e8b9183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisor health and safety awareness in five steps'])[1]/following::div[4]</value>
+      <webElementGuid>3183bcd5-9eee-4aa1-a003-c7079763737d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[1]/preceding::div[1]</value>
+      <webElementGuid>72aca035-0e73-4095-b261-f935f0f9db57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become an approved training provider'])[1]/preceding::div[3]</value>
+      <webElementGuid>e7e01b6d-d1b2-4efd-94d5-dffe5b6d6617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Supporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness.']/parent::*</value>
+      <webElementGuid>9a014b44-f784-489e-aa0e-e6e09a0e011c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar[4]/div/div[2]/div</value>
+      <webElementGuid>ebb895a6-1c26-480f-8f19-9e8153136f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Supporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness.' or . = 'Supporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness.')]</value>
+      <webElementGuid>6071df8c-3358-4c89-a034-06ec4e2be360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

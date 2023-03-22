@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Applicant business information</name>
+   <tag></tag>
+   <elementGuidId>9f297a4a-eec2-4074-8556-403b45ae4557</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#businessInformation > div.ontario-row.input-div > div.ontario-column.ontario-small-12.ontario-large-12 > div > h3.border-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-business-information[@id='businessInformation']/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>0e34e1cd-7dd9-454f-b13b-5f1956f390b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>0c05cc83-4b65-469e-aa7b-cde5ad6a5863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant business information</value>
+      <webElementGuid>1dc19eef-59cb-4f57-ad30-692fa37a2fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;businessInformation&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/div[1]/h3[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>24fc1b70-049a-4670-a067-60879b172690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7b119e8b-d7f5-4b47-925b-84759cf437c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>70396df9-fbce-493a-a089-be492bcda0c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant business information</value>
+      <webElementGuid>e146480e-6dd7-479e-a62a-ab044d7181c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;businessInformation&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/div[1]/h3[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>43be1b78-6050-4e6c-8f72-bcc91449c455</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-business-information[@id='businessInformation']/div/div/div/h3</value>
+      <webElementGuid>db9fc045-f04f-4321-b3d4-fe93dbea1e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add alternate signing authority (optional)'])[1]/following::h3[1]</value>
+      <webElementGuid>f7f5b72a-40f1-4b2e-b563-3930b8a5b15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing address'])[1]/following::h3[2]</value>
+      <webElementGuid>64bb09d6-c29c-4816-b72a-b7756e174679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This section requires you to provide contact information details about your organization.'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c781fc7a-15ff-43ca-bc96-dc4fdece7ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization operating name'])[1]/preceding::h3[1]</value>
+      <webElementGuid>262df65f-6aa5-45ff-b86b-2011b8ac6ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Applicant business information']/parent::*</value>
+      <webElementGuid>9f5e1259-46ff-47bd-8ebb-d5337830d591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-business-information/div/div/div/h3</value>
+      <webElementGuid>b3fc8eaa-2c76-40d4-8e33-c3d96d9d1653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Applicant business information' or . = 'Applicant business information')]</value>
+      <webElementGuid>1bf19ddd-b6d5-480d-854a-708c3559ef44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

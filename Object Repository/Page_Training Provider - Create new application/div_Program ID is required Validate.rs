@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Program ID is required Validate</name>
+   <tag></tag>
+   <elementGuidId>981366e4-29c5-4d64-82cd-08728c52e473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[6]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-row.margin-bottom-1P5rem</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc28dddc-d923-4694-9494-167b7d78e889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row margin-bottom-1P5rem</value>
+      <webElementGuid>53055b13-1e7d-4678-ba39-5ada0ddad075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Program ID is required Validate </value>
+      <webElementGuid>111f35cd-0ec5-41a1-976d-a952a7d5c0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row padding-2rerm ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;ontario-row purchased-material-btm&quot;]/div[@class=&quot;ontario-row margin-bottom-1P5rem&quot;]</value>
+      <webElementGuid>a960e779-2ba4-42a2-b2ee-4dd2ba77a188</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[6]/div[2]/div[2]</value>
+      <webElementGuid>b7d02bb0-7b9d-415b-9a3b-3d332f2ee152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program ID number'])[1]/following::div[1]</value>
+      <webElementGuid>2698c892-99db-41a5-93f5-3b8691fef01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate application'])[1]/following::div[9]</value>
+      <webElementGuid>2c000086-2af6-4fb3-bace-023a1bb74b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>793fb113-b462-4a0e-961a-11ccbae54776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Program ID is required Validate ' or . = '  Program ID is required Validate ')]</value>
+      <webElementGuid>254e06fa-d2a2-4648-870f-40345798c52a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

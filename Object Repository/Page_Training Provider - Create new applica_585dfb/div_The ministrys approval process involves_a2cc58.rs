@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The ministrys approval process involves_a2cc58</name>
+   <tag></tag>
+   <elementGuidId>cb1be2fa-458d-498f-bffd-5353551b9f4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>088aa066-c28a-4d3d-acd3-e6bbe5440f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-text</value>
+      <webElementGuid>5db636d0-0684-429f-9f80-324354508cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The ministry's approval process involves five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights.</value>
+      <webElementGuid>01c87569-cdf7-411b-81d7-c5e313efaca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-padding-bottom-8-!&quot;]/div[@class=&quot;sub-text&quot;]</value>
+      <webElementGuid>936e3240-ed41-4e99-a7a7-4624017834a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[5]/div/div</value>
+      <webElementGuid>2249bdf0-9f75-4dff-adb2-8bc8eae85fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand all'])[2]/following::div[1]</value>
+      <webElementGuid>794a308f-100e-48d9-a5e1-4dfcacd3cedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Triage'])[1]/preceding::div[2]</value>
+      <webElementGuid>445b5dcf-0153-4529-8485-249843a16426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desk assessment'])[1]/preceding::div[8]</value>
+      <webElementGuid>1e2e99b1-fa3b-4d9d-a173-e7cc85c463a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>c22cd0ca-fead-47fe-8ee6-bb8b6f66fbb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;The ministry&quot; , &quot;'&quot; , &quot;s approval process involves five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights.&quot;) or . = concat(&quot;The ministry&quot; , &quot;'&quot; , &quot;s approval process involves five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights.&quot;))]</value>
+      <webElementGuid>05338563-f8fe-4631-bfa5-18e5357faeb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

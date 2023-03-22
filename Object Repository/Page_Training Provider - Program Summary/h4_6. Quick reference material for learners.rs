@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_6. Quick reference material for learners</name>
+   <tag></tag>
+   <elementGuidId>c63e6ea6-30c5-4c92-a2e2-ba3c84127a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/app-tabs/div/div[2]/app-tab[3]/div/app-approved-application-program-material/div/div[2]/app-application-program-material-files/h4[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>6dac1b1c-993d-478e-9adc-609022a537aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-margin-top-16-!</value>
+      <webElementGuid>8996c0af-2a4c-41b9-be2f-2598dbcf3b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6. Quick reference material for learners </value>
+      <webElementGuid>bbb962aa-6f1c-47d3-8ba4-50df6fdd97bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-approved-application[1]/div[@class=&quot;ontario-margin-top-32-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[3]/div[@class=&quot;tab&quot;]/app-approved-application-program-material[1]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/h4[@class=&quot;ontario-margin-top-16-!&quot;]</value>
+      <webElementGuid>8c48de71-d94b-480d-a209-ff7e88b40d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>032963c5-8b05-4270-85b9-8749842d4944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-margin-top-16-!</value>
+      <webElementGuid>f1ad9477-b49d-44ff-a366-39575a6d63cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6. Quick reference material for learners </value>
+      <webElementGuid>9bddd30a-1649-4dd6-a2ce-f37e9f0070ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-approved-application[1]/div[@class=&quot;ontario-margin-top-32-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[3]/div[@class=&quot;tab&quot;]/app-approved-application-program-material[1]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/h4[@class=&quot;ontario-margin-top-16-!&quot;]</value>
+      <webElementGuid>179df73d-47f1-4b89-a5eb-1eb45d020dc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/app-tabs/div/div[2]/app-tab[3]/div/app-approved-application-program-material/div/div[2]/app-application-program-material-files/h4[6]</value>
+      <webElementGuid>ee948e83-97d2-4718-b0d6-86ab32715dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[5]/following::h4[1]</value>
+      <webElementGuid>bd854b67-2e33-4114-a0c7-a18fd7a3d6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[4]/following::h4[2]</value>
+      <webElementGuid>12c92486-ecd4-49ef-bc80-bd649881c280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[6]/preceding::h4[1]</value>
+      <webElementGuid>40a75e8a-7b3a-4dc5-a4ea-b16d4d7f3ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[7]/preceding::h4[2]</value>
+      <webElementGuid>5c3ff194-d3c0-49ae-84a4-7a3c6ec4f4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='6. Quick reference material for learners']/parent::*</value>
+      <webElementGuid>9f330e3a-9fee-4a1b-9fe5-31e1d00339f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4[6]</value>
+      <webElementGuid>91974e69-47b0-4ce4-b8ca-9bbb40d87f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '6. Quick reference material for learners ' or . = '6. Quick reference material for learners ')]</value>
+      <webElementGuid>a5a665c3-bc25-4a05-aaef-e3da741860ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Program materials</name>
+   <tag></tag>
+   <elementGuidId>5b2bec8f-11c0-4307-ba7b-53b8718059a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.active.ontario-tab.wider</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div/app-materials-sidebar/div/div/app-tabs/div/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2813c805-ed92-4afd-a5a3-142ea18b3306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active ontario-tab wider</value>
+      <webElementGuid>49821e32-bab0-4d20-b4e7-4d6cbc47f885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Program materials </value>
+      <webElementGuid>ebb2b222-c157-42f0-98e2-022e320028d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right sidebar-col&quot;]/app-materials-sidebar[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 no-wrap&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[1]/ul[@class=&quot;ontario-nav-tabs not-padded&quot;]/li[@class=&quot;active ontario-tab wider&quot;]</value>
+      <webElementGuid>f8456897-4605-4307-a2c2-2bc24d1a1c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9d04fe3a-a3ef-4268-96a9-669fc34d8eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active ontario-tab wider</value>
+      <webElementGuid>99630ec7-b7ba-4b00-8b55-8b9f0cde58d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Program materials </value>
+      <webElementGuid>5dad2b2b-2218-4ad8-b008-77613297b772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right sidebar-col&quot;]/app-materials-sidebar[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 no-wrap&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[1]/ul[@class=&quot;ontario-nav-tabs not-padded&quot;]/li[@class=&quot;active ontario-tab wider&quot;]</value>
+      <webElementGuid>0a1758e7-d220-4ed4-98ad-2f60f003f95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5505cb96-d16f-49c4-a6fe-d99d9631f60c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active ontario-tab wider</value>
+      <webElementGuid>e1c1ac6c-3f53-495e-8b0b-e06e70dc7b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Program materials </value>
+      <webElementGuid>8179cc2a-6829-49e7-917e-93c7751381d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right sidebar-col&quot;]/app-materials-sidebar[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 no-wrap&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[1]/ul[@class=&quot;ontario-nav-tabs not-padded&quot;]/li[@class=&quot;active ontario-tab wider&quot;]</value>
+      <webElementGuid>a78946cd-9fda-49b2-9fad-e61c5787f65e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div/app-materials-sidebar/div/div/app-tabs/div/div/div/ul/li</value>
+      <webElementGuid>c965b43d-ce55-41ad-9398-d627cfa0f07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::li[1]</value>
+      <webElementGuid>f070c8b0-c5d2-463d-bb43-e5074ff653e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview &amp; Submit application'])[1]/following::li[1]</value>
+      <webElementGuid>08c37520-2698-4750-b2d8-27b3be20ad62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Files uploaded'])[1]/preceding::li[1]</value>
+      <webElementGuid>36ece8d9-1cb2-4894-8fec-4b6fa63c1507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lesson Plan'])[1]/preceding::li[3]</value>
+      <webElementGuid>7afe2f1c-440d-4e1c-b419-efda29e64457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Program materials']/parent::*</value>
+      <webElementGuid>8b2bfe45-8213-41d0-9fb8-dc329c6d5e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>f865bdca-eea7-4f30-8e37-142a63cc14f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Program materials ' or . = ' Program materials ')]</value>
+      <webElementGuid>be979fe0-9bc8-4410-8172-850790447bdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

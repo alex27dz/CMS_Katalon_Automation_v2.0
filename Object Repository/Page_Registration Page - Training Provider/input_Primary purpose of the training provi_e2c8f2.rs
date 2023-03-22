@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Primary purpose of the training provi_e2c8f2</name>
+   <tag></tag>
+   <elementGuidId>cc68eea7-d025-4b03-81d8-cb3027946963</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='checkbox-option-Offer WAH training program']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e7c2b1c4-b78c-4c52-a61b-a49a34585109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>be502fab-3103-479a-93aa-e837d4186436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-checkboxes__input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>6c2b4e41-79c8-4ab8-af19-c140d1567364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkbox-option-Offer WAH training program</value>
+      <webElementGuid>8415026c-05e7-43df-97e3-73aed81e9fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkbox-option-Offer WAH training program&quot;)</value>
+      <webElementGuid>0bcfeb5b-770d-4ccf-b34a-0ae94f7c5ff4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='checkbox-option-Offer WAH training program']</value>
+      <webElementGuid>162debaa-9142-444f-b226-61ac8093879f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trainingDeliveryInfo']/div[2]/div/div/app-checkbox/div/input</value>
+      <webElementGuid>e05d9f46-6070-43e3-a740-efeb0a83f0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/app-checkbox/div/input</value>
+      <webElementGuid>e6131fba-eb6a-414f-88a6-03b10d19ccac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'checkbox-option-Offer WAH training program']</value>
+      <webElementGuid>36e9ad0b-fcf9-4f3a-b468-f6df80635caa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_9.2.5Rescue planning</name>
+   <tag></tag>
+   <elementGuidId>73609c4c-4c7a-4c56-b74d-2e49f97fa366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[12]/div/div/app-accordion/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f1daeb1-930c-493d-856f-c3c7442cb61c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>82b62173-859a-429a-a17c-949a9dbfa0de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9.2.5Rescue planning</value>
+      <webElementGuid>b6ed5880-2144-4afe-bea8-de05b321e0bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reqs-tab&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row margin-left-0px&quot;]/app-requirements-section-list[1]/app-requirements-input[12]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>4a8d5db1-b013-4409-b2a8-69cc63473347</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[12]/div/div/app-accordion/div/div</value>
+      <webElementGuid>e2263519-5387-4bd6-9ef4-b4a6d2641a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work access equipment, and platforms'])[1]/following::div[5]</value>
+      <webElementGuid>739a394c-bcc4-4bf6-be85-86a6d20710a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anchor points'])[1]/following::div[12]</value>
+      <webElementGuid>f771c34e-aad7-4012-a060-a6f32be8a730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::div[4]</value>
+      <webElementGuid>84db0dc4-7c6d-4176-b326-a62e6814c33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-requirements-input[12]/div/div/app-accordion/div/div</value>
+      <webElementGuid>d8f54418-d08d-4688-b415-71b5b063d2e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '9.2.5Rescue planning' or . = '9.2.5Rescue planning')]</value>
+      <webElementGuid>02756485-01b4-4d1c-bb4f-d99edb106394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Complete application (1)</name>
+   <tag></tag>
+   <elementGuidId>01a84a1f-21fb-49e5-902e-a21ec1128c21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='continue-app']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#continue-app</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>389dda1c-3f21-4c19-880d-ef44230e56d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>continue-app</value>
+      <webElementGuid>9a365392-06fe-460d-9c22-80776e7a2ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit-link</value>
+      <webElementGuid>1da16a7f-03f6-439b-ad78-a565bb5d177d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Complete application</value>
+      <webElementGuid>44717f37-b742-49f1-a1ae-b0dae69b5d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/app-training-program-list-card[1]/div[@class=&quot;tpListCard incomplete&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column subsection ontario-small-12 ontario-padding-bottom-32-!&quot;]/a[@id=&quot;continue-app&quot;]</value>
+      <webElementGuid>587de455-b127-41d4-ae63-e7bd30594c68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='continue-app']</value>
+      <webElementGuid>a95dcadf-092a-4f7d-b711-00fb8d7e7fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[4]/app-training-program-list-card/div/div[4]/div/a</value>
+      <webElementGuid>1c973529-079f-495e-8c96-23bfc95cb727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Complete application')]</value>
+      <webElementGuid>2746ffe3-c0be-4258-8448-6d873eb79224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/following::a[1]</value>
+      <webElementGuid>e26b8196-c085-488a-af90-8a37f6474695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application submitted on'])[1]/following::a[1]</value>
+      <webElementGuid>f0acbb49-8a5d-43d1-8f05-b7d55c72c324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7417226-feb9-407a-9801-4986449e9fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part One'])[3]/preceding::a[2]</value>
+      <webElementGuid>0a438eff-0310-4b09-80c0-cb458625f484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Complete application']/parent::*</value>
+      <webElementGuid>84e9f85a-35ce-4cf1-ae31-62c6654f2713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a</value>
+      <webElementGuid>ad9bad2a-195e-44c2-8a8f-49855561666c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'continue-app' and (text() = 'Complete application' or . = 'Complete application')]</value>
+      <webElementGuid>3f5fabb9-ff53-4e5b-b45f-44967eeff546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

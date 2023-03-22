@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create your account as a training provi_a56488</name>
+   <tag></tag>
+   <elementGuidId>e9788d30-5553-4754-97b5-9f6cda468e3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-register-training-provider/div/div[2]/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>badd5dbd-2127-47c6-9d46-356d7ca970db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-container</value>
+      <webElementGuid>845a9996-3799-49e1-b4db-96489cb9f436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create your account as a training provider  Submit training program to become CPO approved training provider  Assessor reviews training program application  Manage and market your training programs </value>
+      <webElementGuid>57e4843d-1c54-4dab-a428-e9a898330312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-register-training-provider[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-margin-bottom-48-!&quot;]/div[@class=&quot;text-container&quot;]</value>
+      <webElementGuid>141af109-be3a-4c8a-a00d-5a544aa24f15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-register-training-provider/div/div[2]/div[3]/div[2]</value>
+      <webElementGuid>7fcd7145-f1aa-4cfb-a709-9d4978cc6238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application to create an account as a training provider'])[1]/following::div[5]</value>
+      <webElementGuid>ac623073-3fa7-4167-a43c-df2737448297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 5 - Chief Prevention Officer approval'])[1]/following::div[7]</value>
+      <webElementGuid>ccf4a8a8-49c1-45ea-a3ed-fcbfb3c696aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>1e941402-2101-4010-be49-b3adfc571d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Create your account as a training provider  Submit training program to become CPO approved training provider  Assessor reviews training program application  Manage and market your training programs ' or . = ' Create your account as a training provider  Submit training program to become CPO approved training provider  Assessor reviews training program application  Manage and market your training programs ')]</value>
+      <webElementGuid>3fa106e1-1400-4ee2-8ab9-4e4eaa56ec85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

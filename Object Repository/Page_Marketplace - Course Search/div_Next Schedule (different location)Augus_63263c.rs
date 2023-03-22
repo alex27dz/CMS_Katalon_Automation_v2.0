@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Next Schedule (different location)Augus_63263c</name>
+   <tag></tag>
+   <elementGuidId>c795b7d9-2722-412a-9ef8-de2e6eb67849</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.expanded-details</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>612e3e93-8b9d-4c01-8585-9d45ed580ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>expanded-details</value>
+      <webElementGuid>c08ad64a-d806-4ac8-87a5-9390cac27db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next Schedule (different location)August 1111:00 AM to 4:00 PMThu TEST - 654 new street, TEST - Mississauga ON, P0J 1P0 E: atif@mto.caP: 444-456-666W:http://www.mto.caNext Schedule (same location)August 1111:00 AM to 4:00 PMThu TEST - 123 Street, TEST - Toronto ON, T0T 0T0 E: atif@mto.caP: 444-456-666W:http://www.mto.ca</value>
+      <webElementGuid>3a96f8f4-81a2-46b3-820e-f41790789bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;button-row ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 selected-view&quot;]/app-course-schedule-search-result-card[1]/div[@class=&quot;expanded-details&quot;]</value>
+      <webElementGuid>db2aeae4-7dc0-4b0d-8246-e8c6eaf6db20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div[2]</value>
+      <webElementGuid>0e33cadc-30c8-4aea-8d7b-faa86c905b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='http://www.jaclynlearning.com'])[1]/following::div[1]</value>
+      <webElementGuid>291c660b-324a-4be8-8830-501524284798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::div[1]</value>
+      <webElementGuid>8fddc43a-5289-4db1-a514-e290548247ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-course-schedule-search-result-card/div[2]</value>
+      <webElementGuid>5c837341-7e52-4983-9eca-c8ab23117160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Next Schedule (different location)August 1111:00 AM to 4:00 PMThu TEST - 654 new street, TEST - Mississauga ON, P0J 1P0 E: atif@mto.caP: 444-456-666W:http://www.mto.caNext Schedule (same location)August 1111:00 AM to 4:00 PMThu TEST - 123 Street, TEST - Toronto ON, T0T 0T0 E: atif@mto.caP: 444-456-666W:http://www.mto.ca' or . = 'Next Schedule (different location)August 1111:00 AM to 4:00 PMThu TEST - 654 new street, TEST - Mississauga ON, P0J 1P0 E: atif@mto.caP: 444-456-666W:http://www.mto.caNext Schedule (same location)August 1111:00 AM to 4:00 PMThu TEST - 123 Street, TEST - Toronto ON, T0T 0T0 E: atif@mto.caP: 444-456-666W:http://www.mto.ca')]</value>
+      <webElementGuid>c6651604-f969-4f6e-9b2a-5b0a08d59354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

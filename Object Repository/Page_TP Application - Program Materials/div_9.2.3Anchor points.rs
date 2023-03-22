@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_9.2.3Anchor points</name>
+   <tag></tag>
+   <elementGuidId>5acb2599-97f3-4955-a5f9-e4d9db245428</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[10]/div/div/app-accordion/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9cf2d91e-8bff-425e-843c-50c84b9c0abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>f7f2a735-87b7-49d4-9eaa-63675353fb28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9.2.3Anchor points</value>
+      <webElementGuid>2ee9fafe-f484-4294-95fb-28d825c83ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reqs-tab&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row margin-left-0px&quot;]/app-requirements-section-list[1]/app-requirements-input[10]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>ca3990f9-0d7a-4d29-b73b-5bb461f7807f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[10]/div/div/app-accordion/div/div</value>
+      <webElementGuid>871f26e5-2782-47c5-a9ea-13055bb2ba44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal fall protection equipment'])[2]/following::div[5]</value>
+      <webElementGuid>b20c9f04-8220-4031-9036-d6872ef3db17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barriers and other fixed equipment'])[1]/following::div[12]</value>
+      <webElementGuid>1f11c1f1-91ee-4640-9f57-fc4284b2d20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work access equipment, and platforms'])[1]/preceding::div[5]</value>
+      <webElementGuid>e5582354-1818-447e-86e8-c3362b6fa6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-requirements-input[10]/div/div/app-accordion/div/div</value>
+      <webElementGuid>05f8c52c-9261-4e76-b808-1a4f73167b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '9.2.3Anchor points' or . = '9.2.3Anchor points')]</value>
+      <webElementGuid>cad925ec-d51a-45ec-bd71-8b1d497911a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Application for new training program de_1e9199</name>
+   <tag></tag>
+   <elementGuidId>063f8aa2-11a7-4b8b-9894-692ef3d7ef54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-medium-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1ba7da2-fb9b-47e2-afe2-4070c478e913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-9</value>
+      <webElementGuid>f7078518-b6f8-4838-98ef-cfa226a64ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application for new training program deliveryPlease use the following sections to tell us about your training program.Select training program JHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsPlease select the language that you want to deliver the training in? You have to submit a separate application for each language. English  French Please select the training format that you want to deliver the training in? You have to submit a separate application for each training format. Distance  In-Class  Blended  eLearning Not sure? Want to learn more about training formats? Safety Training FormatsHave you purchased the training materials and rights from an approved Training Provider organization/individual?</value>
+      <webElementGuid>8074931f-e0c6-444f-830e-13c84f3e0f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]</value>
+      <webElementGuid>c4a08494-9da3-4d74-b21c-91a3ecf08586</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div</value>
+      <webElementGuid>10c9832e-35f6-4aac-b0ef-ac79378d657f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[2]</value>
+      <webElementGuid>fa140ec7-389d-49dc-b24f-a72c260ddcd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABC Training Inc.'])[1]/following::div[5]</value>
+      <webElementGuid>e1283ddb-53d5-416b-b7df-ffaf9c39c337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-application-for-new-training-delivery/div/div</value>
+      <webElementGuid>1c3033fa-3dc0-475f-a264-f2ed638a02c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Application for new training program deliveryPlease use the following sections to tell us about your training program.Select training program JHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsPlease select the language that you want to deliver the training in? You have to submit a separate application for each language. English  French Please select the training format that you want to deliver the training in? You have to submit a separate application for each training format. Distance  In-Class  Blended  eLearning Not sure? Want to learn more about training formats? Safety Training FormatsHave you purchased the training materials and rights from an approved Training Provider organization/individual?' or . = 'Application for new training program deliveryPlease use the following sections to tell us about your training program.Select training program JHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsPlease select the language that you want to deliver the training in? You have to submit a separate application for each language. English  French Please select the training format that you want to deliver the training in? You have to submit a separate application for each training format. Distance  In-Class  Blended  eLearning Not sure? Want to learn more about training formats? Safety Training FormatsHave you purchased the training materials and rights from an approved Training Provider organization/individual?')]</value>
+      <webElementGuid>0588fd4c-4c1b-4f8b-b7e6-23c3b9283a9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Field visit general notes</name>
+   <tag></tag>
+   <elementGuidId>1a6ab410-9eed-4937-b62a-ff691312d7ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-field-assessment/div/div[2]/app-field-assessment-notes/app-tabs/div/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b26f32d9-1590-479c-979e-d130834398b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-tab</value>
+      <webElementGuid>6bdd3cfb-04a3-4f50-93f8-6118cb917851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Field visit general notes </value>
+      <webElementGuid>3c25306d-0c11-4829-8abc-2b1e80eea411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-field-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-field-assessment-notes[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;ontario-tab&quot;]</value>
+      <webElementGuid>5c611900-972e-4886-b6fd-fd3b838da52a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-field-assessment/div/div[2]/app-field-assessment-notes/app-tabs/div/div/div/ul/li[2]</value>
+      <webElementGuid>3f998d0c-b567-4395-9f43-a48541237835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desk review notes'])[1]/following::li[1]</value>
+      <webElementGuid>6ff708d4-9b7f-4203-a58c-bf31fde42ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::li[2]</value>
+      <webElementGuid>8c169bfe-9e9f-455e-b9b7-978d89deef49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General notes'])[1]/preceding::li[1]</value>
+      <webElementGuid>653f0537-8a69-4456-b4ff-b3fbb93c482b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add another General notes'])[1]/preceding::li[1]</value>
+      <webElementGuid>2f67f597-5ff7-4ae8-8110-75a4af935a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Field visit general notes']/parent::*</value>
+      <webElementGuid>beae5b6c-2db4-484e-ad94-ea51f282cf31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-field-assessment-notes/app-tabs/div/div/div/ul/li[2]</value>
+      <webElementGuid>28e1edec-2f81-4c57-a2fd-f35d3a5f93a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Field visit general notes ' or . = ' Field visit general notes ')]</value>
+      <webElementGuid>39976b86-aaf1-4834-ad3b-ffceabb7b41d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

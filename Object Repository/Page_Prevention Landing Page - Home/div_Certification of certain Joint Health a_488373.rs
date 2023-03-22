@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Certification of certain Joint Health a_488373</name>
+   <tag></tag>
+   <elementGuidId>5aec90bc-d342-4507-95ed-a86dad768841</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>418900e0-5e19-4d74-a4ee-4845fa6e18a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-box-content</value>
+      <webElementGuid>76c84b5e-7ef7-4dd6-a480-03ef9b282ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certification of certain Joint Health and Safety Committee (JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act (OHSA). The JHSC Certification Training Program Standard specifies the criteria that a program must meet in order to be approved by the Chief Prevention Officer (CPO).</value>
+      <webElementGuid>237d7773-6dc8-4e2b-9a0a-013524b2d4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-page-content-loop[1]/app-grey-text-tile[2]/div[@class=&quot;grey-box&quot;]/div[@class=&quot;grey-box-content&quot;]</value>
+      <webElementGuid>7172b8ba-e1af-45aa-89f7-eeba40ef223a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile[2]/div/div</value>
+      <webElementGuid>63dfc121-56a1-4464-91b7-7f10e8119174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joint health and safety committee training [JHSC]'])[1]/following::div[1]</value>
+      <webElementGuid>76582d3c-a3be-4fa2-a264-dc39944266be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standards'])[1]/following::div[2]</value>
+      <webElementGuid>94ac0cf6-7e69-4c83-9332-2bd8da82328d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find available courses'])[2]/preceding::div[1]</value>
+      <webElementGuid>c7accbae-d3aa-43ab-9b51-80e52feb3993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standards'])[2]/preceding::div[1]</value>
+      <webElementGuid>c961740d-f65c-4f0f-bf82-f63c70461992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Certification of certain Joint Health and Safety Committee (JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act (OHSA). The JHSC Certification Training Program Standard specifies the criteria that a program must meet in order to be approved by the Chief Prevention Officer (CPO).']/parent::*</value>
+      <webElementGuid>39569fbf-ee07-4c6e-b5ab-8af22974216b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-tile[2]/div/div</value>
+      <webElementGuid>67964360-3592-4900-a23f-49162a6bf8e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Certification of certain Joint Health and Safety Committee (JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act (OHSA). The JHSC Certification Training Program Standard specifies the criteria that a program must meet in order to be approved by the Chief Prevention Officer (CPO).' or . = 'Certification of certain Joint Health and Safety Committee (JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act (OHSA). The JHSC Certification Training Program Standard specifies the criteria that a program must meet in order to be approved by the Chief Prevention Officer (CPO).')]</value>
+      <webElementGuid>0b62658d-226d-4f0a-98c2-abf01b8b1fab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

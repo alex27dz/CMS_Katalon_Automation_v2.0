@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_If your Application does not have all t_589187</name>
+   <tag></tag>
+   <elementGuidId>72cef04d-a023-4e23-90ea-3fcec9b6dc64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>130a7393-6a65-431d-beb0-343de102fd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-div</value>
+      <webElementGuid>37b89a4c-3431-4eb6-9c5b-0357dbf4c04d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>If your Application does not have all the required documentation outlined in the checklist, it will be returned to you with a deficiency list. Failure to provide all required documents may result in the rejection of your application.</value>
+      <webElementGuid>ab7a6b3c-392b-4ff2-b0f4-1d19204590d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;text-div&quot;]</value>
+      <webElementGuid>23d28875-2491-4d21-b4b4-414cf868f309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d4ac3f9-2cb4-4c97-aeab-7102b272b871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-div</value>
+      <webElementGuid>e6076a2a-d53a-455e-9212-a39be1e36a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>If your Application does not have all the required documentation outlined in the checklist, it will be returned to you with a deficiency list. Failure to provide all required documents may result in the rejection of your application.</value>
+      <webElementGuid>2a6ade98-91bc-423f-9a32-fcd75ccb0627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;text-div&quot;]</value>
+      <webElementGuid>773a5cb9-448a-43a7-95d5-2f75391bd641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div[2]</value>
+      <webElementGuid>20ba8164-6d83-4cac-ad15-118eba7ec6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter applicant information'])[2]/following::div[2]</value>
+      <webElementGuid>fa422e35-fe43-402e-b357-ce954ab244ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[7]</value>
+      <webElementGuid>6bfb57fb-bff3-41ec-a1bc-f9cf4ab8785a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updating pre populated information'])[1]/preceding::div[3]</value>
+      <webElementGuid>183e9318-d3f6-4ddb-82d9-fd8e9d8b42f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant business information'])[1]/preceding::div[7]</value>
+      <webElementGuid>9b9d0248-fe9a-41ea-b7de-e9b8d48c844f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='If your Application does not have all the required documentation outlined in the checklist, it will be returned to you with a deficiency list. Failure to provide all required documents may result in the rejection of your application.']/parent::*</value>
+      <webElementGuid>d64d6d3a-77fd-4386-8345-465ba30927ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tp-application-information/div/div/div[2]</value>
+      <webElementGuid>82834e33-2e37-4183-84a1-8ac812c6c390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'If your Application does not have all the required documentation outlined in the checklist, it will be returned to you with a deficiency list. Failure to provide all required documents may result in the rejection of your application.' or . = 'If your Application does not have all the required documentation outlined in the checklist, it will be returned to you with a deficiency list. Failure to provide all required documents may result in the rejection of your application.')]</value>
+      <webElementGuid>277cf7cd-73b8-4e74-b641-cc5383da65bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

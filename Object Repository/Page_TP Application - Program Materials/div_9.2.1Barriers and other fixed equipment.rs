@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_9.2.1Barriers and other fixed equipment</name>
+   <tag></tag>
+   <elementGuidId>84aee390-70f5-420c-8435-6b2a3a6d049b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[8]/div/div/app-accordion/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a624a14-0df9-4353-971b-629dedf43bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>6f42bba6-2539-4788-a6b0-353c7004bea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9.2.1Barriers and other fixed equipment</value>
+      <webElementGuid>b2b80b54-991b-4a90-843b-0528a35eabad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reqs-tab&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row margin-left-0px&quot;]/app-requirements-section-list[1]/app-requirements-input[8]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>8d19bdd5-acdd-427d-8965-b2f60c26f9f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[8]/div/div/app-accordion/div/div</value>
+      <webElementGuid>64f4eabd-3acf-4e0f-b95e-bc8097134748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal fall protection equipment'])[1]/following::div[5]</value>
+      <webElementGuid>4b194fca-325d-4cd7-b1e4-99bf4d131a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ladders and similar equipment'])[1]/following::div[12]</value>
+      <webElementGuid>036bde36-a1e4-48dc-a66b-ed191e3e69a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal fall protection equipment'])[2]/preceding::div[5]</value>
+      <webElementGuid>e18ea31e-538b-48c7-89d2-070041944630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-requirements-input[8]/div/div/app-accordion/div/div</value>
+      <webElementGuid>b7f1748b-3925-4ce0-b3d4-9f0e99990cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '9.2.1Barriers and other fixed equipment' or . = '9.2.1Barriers and other fixed equipment')]</value>
+      <webElementGuid>33a8705b-2dcc-42e2-b6a6-148d52ddb1ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

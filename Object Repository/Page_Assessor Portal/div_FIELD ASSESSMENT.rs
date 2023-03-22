@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FIELD ASSESSMENT</name>
+   <tag></tag>
+   <elementGuidId>f7e6a69a-c4ef-4216-a7d1-d0bbbe92a57b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.page-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-field-assessment/app-page-sub-header/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>650da053-2875-4632-8361-d0fab49cfbf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title</value>
+      <webElementGuid>497f738b-d8c6-4da4-8e6b-c4d20b060007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FIELD ASSESSMENT</value>
+      <webElementGuid>c7824de2-3a0a-4f29-942b-e6f58f9fcc8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-field-assessment[1]/app-page-sub-header[1]/div[@class=&quot;subheader yellow&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;page-title&quot;]</value>
+      <webElementGuid>4df8a55b-96a8-4cbc-b174-9cc25defa33a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-field-assessment/app-page-sub-header/div/div/div/div</value>
+      <webElementGuid>c5e4e40a-3b07-455c-8685-55e099347a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aleksey Dzhoharidze'])[1]/following::div[4]</value>
+      <webElementGuid>de61e9b9-ae3f-41d7-b1e6-d2095aca86ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessor Portal'])[2]/following::div[7]</value>
+      <webElementGuid>488bfcd4-5ead-414b-932f-9fde5bec0828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights - Full'])[1]/preceding::div[1]</value>
+      <webElementGuid>1602127c-9085-4de1-8cf9-a8e47b3ecf27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH-10564'])[1]/preceding::div[2]</value>
+      <webElementGuid>e92f2a1e-d0ad-4ff4-ac71-cd465316c8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FIELD ASSESSMENT']/parent::*</value>
+      <webElementGuid>ae6cd46c-87a6-480b-b860-26a3f8cf8867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-page-sub-header/div/div/div/div</value>
+      <webElementGuid>8b9822ee-d0a1-42b7-8144-237b40a24889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FIELD ASSESSMENT' or . = 'FIELD ASSESSMENT')]</value>
+      <webElementGuid>77aae286-e2e8-4d09-9159-57bf12a8b194</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

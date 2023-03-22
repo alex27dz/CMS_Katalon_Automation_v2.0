@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Designated signing authority information</name>
+   <tag></tag>
+   <elementGuidId>8dcfead1-d1f7-4254-b88d-553d2a967d9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-12.bordered > div > h2.border-bottom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>2c51676f-5625-4067-86fc-a6001f7943ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>24fd649e-cadf-4b8f-ac5e-1d6dc6b5c810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Designated signing authority information</value>
+      <webElementGuid>de065d94-7151-4705-bc7e-e53fea4e4af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;designateSigningAuthority&quot;)/div[@class=&quot;ontario-row ontario-margin-top-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12 bordered&quot;]/div[1]/h2[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>18726265-2b8a-4431-9392-ffb0eab0a0cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>56bea16b-b335-45ff-a335-d6972087175d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>110d5903-4cc3-48c8-888d-243ac3fdc4ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Designated signing authority information</value>
+      <webElementGuid>60924ada-9b0a-47d3-9ade-2400078a6df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;designateSigningAuthority&quot;)/div[@class=&quot;ontario-row ontario-margin-top-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12 bordered&quot;]/div[1]/h2[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>77a3759d-fdff-4e4e-8495-6a190540f338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div/div/h2</value>
+      <webElementGuid>175fc2fd-a553-4bd3-8d2c-f8d1ee080619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::h2[1]</value>
+      <webElementGuid>d4ad4dd6-27de-46a5-94fd-91e854232ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred method of correspondence'])[1]/following::h2[1]</value>
+      <webElementGuid>cd5717d0-db25-4c7c-960f-ad4c7ff6c6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[2]/preceding::h2[1]</value>
+      <webElementGuid>2600a9c5-f018-4aa8-94ac-51ad48986127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[2]/preceding::h2[1]</value>
+      <webElementGuid>6dfa6ec2-f164-4c62-ae5e-c9f4da8bf817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Designated signing authority information']/parent::*</value>
+      <webElementGuid>b1699d20-820f-4ada-9290-afbe8852dba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information/div/div/div/h2</value>
+      <webElementGuid>e3d07c89-e9d2-4064-bf1f-7a7660da5baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Designated signing authority information' or . = 'Designated signing authority information')]</value>
+      <webElementGuid>19267436-2674-4ff2-a5a6-7f3ecdf8c767</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

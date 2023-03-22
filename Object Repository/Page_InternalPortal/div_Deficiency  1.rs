@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deficiency  1</name>
+   <tag></tag>
+   <elementGuidId>64e7c5d3-e62a-41f7-a57b-6025f0d209e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div/div/app-notes-section/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4cfe19ca-d685-4156-9eb1-f1e7fe37f1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>5678ad47-a35b-4f2d-be24-e0582cd281ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notes-tab ontario-padding-right-48-!</value>
+      <webElementGuid>8726f8c1-ce61-4983-9af8-03630633cd0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Deficiency  1</value>
+      <webElementGuid>2580b8a2-c3fa-4c52-a53a-67ed006f2fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-program-docs[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-padding-left-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[1]/app-notes-section[1]/div[@class=&quot;note-section-div&quot;]/div[@class=&quot;grey-col-note no_assesment ontario-margin-bottom-16-! deficiency&quot;]/div[@class=&quot;tabs-div&quot;]/div[@class=&quot;notes-tab ontario-padding-right-48-!&quot;]</value>
+      <webElementGuid>68bc0138-fcfd-4567-b627-f6376dad21ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div/div/app-notes-section/div/div/div/div</value>
+      <webElementGuid>d81c7815-4ef9-417c-a19a-92a68143a123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deficiency'])[1]/following::div[2]</value>
+      <webElementGuid>1fc0195a-0ea0-4c08-920e-adec26ff8797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[1]/following::div[2]</value>
+      <webElementGuid>0451dae4-a4f3-4b9a-99c6-dac0e54ce672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::div[2]</value>
+      <webElementGuid>dfdcd824-1b6a-4c44-adba-1b47e3e93043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add internal comments for program documents step'])[1]/preceding::div[3]</value>
+      <webElementGuid>483867a1-80d4-4205-a7d1-9585836b326f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-notes-section/div/div/div/div</value>
+      <webElementGuid>872f92b1-c3b5-4643-95ee-8453f10e1d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Deficiency  1' or . = ' Deficiency  1')]</value>
+      <webElementGuid>84c0c182-368a-42bf-a8df-aa5edb69b2e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

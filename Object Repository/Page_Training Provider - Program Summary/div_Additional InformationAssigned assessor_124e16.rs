@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Additional InformationAssigned assessor_124e16</name>
+   <tag></tag>
+   <elementGuidId>73f51b8a-4432-4d0e-a90a-cececab72356</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09462468-d963-4823-b55a-e097650c8009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!</value>
+      <webElementGuid>44e8c1ea-0ab6-496b-8fae-a04c8bc61d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional InformationAssigned assessorJean BelecMy training programsBack to my training programs Working at Heights - Full  Under review by PRA  Overview  Key events  Application Review  Assigned staff  Notifications Sort ByLatestEarliestFilter ByShow all30 days180 daysCustomEventsAllPre-approvalPost-approvalIn progress eventMilestone event Your actions  Ministry’s actions 2022 DEC 06Triage stage started Triage started by program review assessor (PRA) Assessor: Jean BelecProgram delivery application submitted Applicant submitted the Working at Heights - Full program delivery application. Applicant: Firsty McLasterson DEC 06Application CreatedApplicant: Firsty McLasterson DEC 06</value>
+      <webElementGuid>28163b19-403c-427d-b69b-959501faa812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]</value>
+      <webElementGuid>226084c4-b9cd-4009-b63e-5d64c2c0dd34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div</value>
+      <webElementGuid>89350300-cd5f-471a-8b13-b1aafe1753d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[1]</value>
+      <webElementGuid>5a8373ca-b122-4e4e-8eaf-7c8af46de03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABC Training Inc.'])[1]/following::div[4]</value>
+      <webElementGuid>398bebe1-7c4e-4207-add3-a54dc2251d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-program-details/div</value>
+      <webElementGuid>b5062a22-23ea-4d92-bcdf-0a2484f40875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Additional InformationAssigned assessorJean BelecMy training programsBack to my training programs Working at Heights - Full  Under review by PRA  Overview  Key events  Application Review  Assigned staff  Notifications Sort ByLatestEarliestFilter ByShow all30 days180 daysCustomEventsAllPre-approvalPost-approvalIn progress eventMilestone event Your actions  Ministry’s actions 2022 DEC 06Triage stage started Triage started by program review assessor (PRA) Assessor: Jean BelecProgram delivery application submitted Applicant submitted the Working at Heights - Full program delivery application. Applicant: Firsty McLasterson DEC 06Application CreatedApplicant: Firsty McLasterson DEC 06' or . = 'Additional InformationAssigned assessorJean BelecMy training programsBack to my training programs Working at Heights - Full  Under review by PRA  Overview  Key events  Application Review  Assigned staff  Notifications Sort ByLatestEarliestFilter ByShow all30 days180 daysCustomEventsAllPre-approvalPost-approvalIn progress eventMilestone event Your actions  Ministry’s actions 2022 DEC 06Triage stage started Triage started by program review assessor (PRA) Assessor: Jean BelecProgram delivery application submitted Applicant submitted the Working at Heights - Full program delivery application. Applicant: Firsty McLasterson DEC 06Application CreatedApplicant: Firsty McLasterson DEC 06')]</value>
+      <webElementGuid>9f322b4e-4525-4963-8b86-c4a4b9a3c91a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

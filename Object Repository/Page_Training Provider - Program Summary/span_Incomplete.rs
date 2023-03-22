@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Incomplete</name>
+   <tag></tag>
+   <elementGuidId>ec1cde83-2f65-4dba-b3d4-bd7b3bca03a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.triage-box.incomplete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-training-program-list-card/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>717dd1a6-1b3d-44f7-a394-6ebefc9b4857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>triage-box incomplete</value>
+      <webElementGuid>7a0a547f-ebb8-4596-bc9b-d78aca4aa419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Incomplete</value>
+      <webElementGuid>bb1ba7b5-eb16-49d4-99f1-79d24ffea5c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/app-training-program-list-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tpListCard incomplete&quot;]/div[@class=&quot;ontario-row greyBox&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-4&quot;]/span[@class=&quot;triage-box incomplete&quot;]</value>
+      <webElementGuid>f0d0dcf0-41e6-47a2-9f1b-0d74b7775ebc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-training-program-list-card/div/div/div[2]/span</value>
+      <webElementGuid>b10a5508-2bd5-4bf6-8d91-f71068a0b28b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part One'])[2]/following::span[1]</value>
+      <webElementGuid>d97d1fe5-181f-41da-b3ae-d146121831c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::span[1]</value>
+      <webElementGuid>57abf4f8-ce5c-4cdf-a1e0-4d0c8fe762fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>969941eb-35d3-4fd8-a555-7e3cf56691ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC-2014-1-10024'])[1]/preceding::span[1]</value>
+      <webElementGuid>1ef11773-cf94-4362-bba3-8b2baf9d07e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>e546f6e5-a0b9-44aa-a5cb-333c83d33442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Incomplete' or . = 'Incomplete')]</value>
+      <webElementGuid>a93f7e9f-789b-4caf-a51d-0afa4c3d7e26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

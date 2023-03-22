@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Workers</name>
+   <tag></tag>
+   <elementGuidId>8300c80e-044b-4361-98f5-369f804a2f36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.active.ontario-tab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tabs[@id='upper-tabs']/div/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>524e820c-1e77-4a4d-854a-998ef892141d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active ontario-tab</value>
+      <webElementGuid>542744c1-1634-40e1-acaf-05e47fd88e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Workers </value>
+      <webElementGuid>9743da94-3128-4099-927a-0e8b2d2e9d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;upper-tabs&quot;)/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;active ontario-tab&quot;]</value>
+      <webElementGuid>b82ccfda-eb4e-49b6-b189-8737705f781b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-tabs[@id='upper-tabs']/div/div/div/ul/li</value>
+      <webElementGuid>a092a96b-ee99-465d-b355-d4e3fff23e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage profiles'])[1]/following::li[1]</value>
+      <webElementGuid>8cba1751-f4f4-4684-a658-14aa01bba2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aleksey Dzhoharidze'])[1]/following::li[3]</value>
+      <webElementGuid>431d943c-e8b8-4c40-852e-737006297949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Providers'])[1]/preceding::li[1]</value>
+      <webElementGuid>03eda12f-cd05-4489-b803-37fd5ba4fddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/preceding::li[2]</value>
+      <webElementGuid>0d7a5769-a098-4ff7-98c6-0e95639613e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Workers']/parent::*</value>
+      <webElementGuid>3fe6e5f7-405b-4513-8650-e278df3d718d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li</value>
+      <webElementGuid>272bcf1e-f36d-43d3-b1e7-0b4131555097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Workers ' or . = ' Workers ')]</value>
+      <webElementGuid>15c85bdd-9da6-4484-a8d9-129fe45dea30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

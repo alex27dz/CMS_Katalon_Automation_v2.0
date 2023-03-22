@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Adult learning principles  This section_8ec510</name>
+   <tag></tag>
+   <elementGuidId>0c6e5817-44db-4e58-be5c-5fd20319e761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-requirements/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-triage-requirements > div.ontario-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8dd95526-2cff-4a49-9198-74e2496814b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row</value>
+      <webElementGuid>83f03cbc-0885-4cbf-a107-4de3d04e710c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning Add internal comments for program requirements step </value>
+      <webElementGuid>f1181e0f-8c76-422a-8cf0-0e2f00165fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-requirements[1]/div[@class=&quot;ontario-row&quot;]</value>
+      <webElementGuid>1d328860-eefc-4715-ad68-6beaa5b0caab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-requirements/div</value>
+      <webElementGuid>bbac869e-fd52-4d74-bc0f-6e90a36c8af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program requirements'])[2]/following::div[6]</value>
+      <webElementGuid>e91623b2-e4f6-4301-860f-69b5cdadf669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program documents'])[2]/following::div[6]</value>
+      <webElementGuid>b04b9677-6983-4982-96cc-ece4218d3e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-triage-requirements/div</value>
+      <webElementGuid>074a2a70-a503-4d16-b2c2-5957729ecc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning Add internal comments for program requirements step ' or . = ' Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning Add internal comments for program requirements step ')]</value>
+      <webElementGuid>8d11a5f6-6b78-46de-822b-dfe1becbcef7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

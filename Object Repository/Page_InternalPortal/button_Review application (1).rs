@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Review application (1)</name>
+   <tag></tag>
+   <elementGuidId>8dae3bf9-6a65-4b60-9bea-3a3485173b94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.review-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a2700792-c564-443b-8e21-4a159354257e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>review-button</value>
+      <webElementGuid>ffad904b-58c8-4b6f-be57-78ed5a282338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review application</value>
+      <webElementGuid>44c15587-f319-44b3-a7fd-3306a26874f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-training-program-application-card-list[1]/app-training-program-application-card[1]/div[@class=&quot;card&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;display-row&quot;]/div[@class=&quot;display-cell body-small-cell&quot;]/div[@class=&quot;padded-border-col padding-top-cell empty&quot;]/div[1]/button[@class=&quot;review-button&quot;]</value>
+      <webElementGuid>1fe5f59e-d904-426e-b8b6-b86131eeed95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div/div[2]/div[4]/div[4]/div/div/button</value>
+      <webElementGuid>33e33456-2e70-40b5-b1d1-be6ff41af52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provider profile'])[1]/following::button[1]</value>
+      <webElementGuid>8b1181ef-0d45-4e57-8dee-2aaa7e4f4497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned to'])[2]/following::button[1]</value>
+      <webElementGuid>9f154f56-80b4-448e-b5c8-9f08d4813d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ministry of Labour, Immigration, Training and Skills Development'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f1370f0-eaa6-45ea-8bf9-28b6c2697dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Ontario'])[1]/preceding::button[1]</value>
+      <webElementGuid>1415f4f3-b13e-4482-8727-e8e75ec021be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Review application']/parent::*</value>
+      <webElementGuid>cccb948f-cb53-4754-a91a-27cb1e7c64e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>a1157d8a-7a61-4ffd-9d7c-38e46239952f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Review application' or . = 'Review application')]</value>
+      <webElementGuid>36980e9c-f559-4d88-b40d-9038c9cfe4e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_5. Associated Handouts</name>
+   <tag></tag>
+   <elementGuidId>c0d43432-0158-4da7-bd33-910b02aa150b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/app-tabs/div/div[2]/app-tab[3]/div/app-approved-application-program-material/div/div[2]/app-application-program-material-files/h4[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>b9d41304-6e27-4a83-b9e9-c30daae00ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-margin-top-16-!</value>
+      <webElementGuid>0c72957c-ea41-4ecf-82a2-bf0d36f5bbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5. Associated Handouts </value>
+      <webElementGuid>3b2eff0d-0db2-4e43-ad08-57e79184e7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-approved-application[1]/div[@class=&quot;ontario-margin-top-32-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[3]/div[@class=&quot;tab&quot;]/app-approved-application-program-material[1]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/h4[@class=&quot;ontario-margin-top-16-!&quot;]</value>
+      <webElementGuid>91639eb4-1f9a-4995-a429-6dc7655b3487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>c625cf37-5e5d-4ca0-b4f0-743ad31b6d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-margin-top-16-!</value>
+      <webElementGuid>6f64202b-d3a5-458f-b985-f4ff49906cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5. Associated Handouts </value>
+      <webElementGuid>d1c06d27-eb2e-449d-8014-28a30ca5d8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-approved-application[1]/div[@class=&quot;ontario-margin-top-32-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[3]/div[@class=&quot;tab&quot;]/app-approved-application-program-material[1]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/h4[@class=&quot;ontario-margin-top-16-!&quot;]</value>
+      <webElementGuid>33237e40-49bc-4798-bd05-af7f463c16b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/app-tabs/div/div[2]/app-tab[3]/div/app-approved-application-program-material/div/div[2]/app-application-program-material-files/h4[5]</value>
+      <webElementGuid>4e8df1e5-e780-4710-b3f2-6bdbeec3ed76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[4]/following::h4[1]</value>
+      <webElementGuid>c6483abb-213a-44be-84ed-ea4b57fa4f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[3]/following::h4[2]</value>
+      <webElementGuid>bc994495-4b9b-48ac-975c-5c9f499a10e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[5]/preceding::h4[1]</value>
+      <webElementGuid>01a2263d-cbc4-42d5-95a3-a2b617c15266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload New document'])[6]/preceding::h4[2]</value>
+      <webElementGuid>03b279af-c708-4752-bf1b-15dfcf5af446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5. Associated Handouts']/parent::*</value>
+      <webElementGuid>13bc6960-af78-42a1-abeb-6e7cae1b8d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4[5]</value>
+      <webElementGuid>3ad0569e-b93b-4082-9699-1049440506c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '5. Associated Handouts ' or . = '5. Associated Handouts ')]</value>
+      <webElementGuid>17c84e6c-515d-4eb4-b2e7-30d51ecc6bf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

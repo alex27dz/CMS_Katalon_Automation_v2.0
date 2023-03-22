@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please select provincestateABBCMBNBN_789096</name>
+   <tag></tag>
+   <elementGuidId>18423095-c108-4792-acef-6c3a41c24682</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='undefined'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tp-input-row.ontario-column.padding-top-02.ontario-small-12.ontario-medium-6.ontario-large-5.dropdown-col.mailing-dropdown > app-dropdown > #undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>34c86edf-2a5e-46bd-b241-9eb2761f0d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>622f6680-44d5-45fb-bfdf-578cbfc203b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>undefined</value>
+      <webElementGuid>855ab40e-ebf3-4baf-b443-40f435b247fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYT</value>
+      <webElementGuid>1e92f044-438e-4377-a509-cc1440794afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactInfo&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row ontario-row&quot;]/div[@class=&quot;tp-input-row ontario-column padding-top-02 ontario-small-12 ontario-medium-6 ontario-large-5 dropdown-col mailing-dropdown&quot;]/app-dropdown[1]/select[@id=&quot;undefined&quot;]</value>
+      <webElementGuid>419229bc-087d-40fe-a805-bcdf81b623d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='undefined'])[2]</value>
+      <webElementGuid>94112589-2a3b-487a-8002-7a9cf7788a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-applicant-contact-information[@id='contactInfo']/div/div/form/div[8]/div/app-dropdown/select</value>
+      <webElementGuid>3d2a8831-b4de-4188-a438-922e1542233a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing address'])[1]/following::select[2]</value>
+      <webElementGuid>94c1ddf6-519a-4405-9bfa-64febdfb6393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please specify your role'])[1]/following::select[2]</value>
+      <webElementGuid>14798b9f-ea32-4d08-87e6-67eb81f9f7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add alternate signing authority (optional)'])[1]/preceding::select[1]</value>
+      <webElementGuid>c79d8dc3-938d-4777-b187-142041d5153c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant business information'])[1]/preceding::select[1]</value>
+      <webElementGuid>e86df03a-5d37-4f4e-90df-3d4b5dd8bd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/app-dropdown/select</value>
+      <webElementGuid>a01ee340-98af-4566-8a34-d18cb6bfd864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'undefined' and (text() = 'Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYT' or . = 'Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYT')]</value>
+      <webElementGuid>ac74de31-cda9-409d-b19f-9b736d704d03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

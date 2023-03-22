@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2Instructor Manual</name>
+   <tag></tag>
+   <elementGuidId>64e0fb04-7d48-46ed-bd4d-d11549bac3b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]/app-file-upload-accordion[2]/div/app-accordion/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f04d26b-33c7-4a6f-9f67-11929877f815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>43b75ef9-2121-49c8-90a9-802fdc243ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2Instructor Manual</value>
+      <webElementGuid>fc5a53e3-ed53-49f4-a458-83e5db6afe10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;page-body&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;program-mats&quot;]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 banners-accordians&quot;]/app-file-upload-accordion[2]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>bc38634f-f030-4939-8202-e836a0f4a3bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]/app-file-upload-accordion[2]/div/app-accordion/div/div</value>
+      <webElementGuid>acc36bcb-53b8-4c32-8d94-5b3d3d39f924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload document'])[1]/following::div[3]</value>
+      <webElementGuid>0a656fea-b58a-4cc4-a713-6791c5f69975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Documents'])[1]/following::div[6]</value>
+      <webElementGuid>3cde366d-0d13-47da-b3aa-7421921924c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Documents'])[2]/preceding::div[4]</value>
+      <webElementGuid>3bc11896-2bbf-43ae-8160-df73c1c5b418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-file-upload-accordion[2]/div/app-accordion/div/div</value>
+      <webElementGuid>d43a6432-ff2c-40d1-b618-7914583ec012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2Instructor Manual' or . = '2Instructor Manual')]</value>
+      <webElementGuid>26c5f598-252c-4654-b95b-7d38929fad1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

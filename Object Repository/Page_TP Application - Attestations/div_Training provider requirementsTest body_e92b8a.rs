@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training provider requirementsTest body_e92b8a</name>
+   <tag></tag>
+   <elementGuidId>6ea9fe8a-aa00-4bd7-8358-f1d44a2696fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[3]/app-tabs/div/div[2]/app-tab/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-medium-12.ontario-large-11.float-norm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f1904a4-d8b6-4ad8-a4e3-20947b53b40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm</value>
+      <webElementGuid>b64647de-8a77-4317-8561-02a3abd315e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training provider requirementsTest bodySection 3.1: Legislative and Insurance Requirements *The training provider complies with all relevant provincial workplace legislation, including, but not limited to, Workplace Safety and Insurance Act, 1997, Occupational Health and Safety Act, Employment Standards Act, 2000, Labour Relations Act, 1995 and Accessibility for Ontarians with Disabilities Act, 2005In addition, the training provider has all necessary and appropriate commercial liability or errors and omissions insurance that a prudent person, carrying out activities similar to those of the approved training provider, would maintain. Yes  No Section 3.2: Advance Course Materials *The course materials meets the requirements in section 3.2 of the Working at Heights Training Provider Standard. Yes  No Section 3.3 Learning Needs *The learning experience meets the specific needs of learners, per the requirements in section 3.3. of the Working at Heights Training Provider Standard. Yes  No Section 3.4: Alternative Delivery Modes *The eLearning, blended learning and distance learning delivery modes meet the requirements of the Working at Heights Training Program Standard and the CPO’s eLearning Instructional Design Guidelines (if applicable). Yes  No Section 3.5: Program Materials *All training program materials used for the approved program meet the requirements of section 3.5 of the Working at Heights Training Provider Standard. Yes  No Section 3.6: Learning Environment *The learning environment is supportive of the transfer of learning, including a safe, healthy and accessible learning environment regardless of location. Yes  No Section 3.8: Support Transfer of Learning *The transfer of learning is supported by evaluating the learner’s successful achievement of learning outcomes in the approved training program, in accordance with the requirements listed in section 3.8 of the Working at Heights Training Provider Standard. Yes  No Training instructor requirementsTest bodySection 4.1: Instructor Qualifications *Instructors maintain valid and current qualifications in accordance with the requirements in section 4 .1 of the Working at Heights Training Provider Standard if he or she delivers an approved training program. Yes  No The programs delivered via eLearning, blended learning or distance learning, instructors will have experience delivering through the applicable mode of training and who are proficient in the use of the software, platform, or other information technology that is being used (if applicable). Yes  No Section 4.2: Instructor Delivery Expectations *Instructors are effective in creating positive learning environments, engaging learners and assessing the achievement of learning outcomes, in accordance with section 4.2 of the Working at Heights Training Provider Standard. Yes  No Training evaluator requirementsTest bodySection 5.1: Evaluator Qualifications *Evaluators meet the evaluation qualification requirements set out in section 5.1 of the Working at Heights Training Provider Standard. Yes  No Section 5.2: Evaluator Expectations *Evaluators meet the evaluator expectations set out in section 5.2 of the Working at Heights Training Provider Standard. Yes  No Code of ethicsTest bodySection 6: Code of ethics *The training provider, in carrying out their training operation, strives for a high level of professional and ethical conduct at all times, in adherence with the requirements in section 6 of the Working at Heights Training Provider Standard. Yes  No AdministrationTest bodySection 7: Administration *The administrative and maintenance requirements for approved training providers will be met in accordance with the requirements listed in section 7 of the Working at Heights Training Provider Standard. Yes  No Scroll up to select “Program Attestation” tab</value>
+      <webElementGuid>27ddd399-e78b-4f9d-ab65-7b14da4567e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-provider-attestation[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[3]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm&quot;]</value>
+      <webElementGuid>f3906223-ed11-4ae8-a7cb-905a4718999e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[3]/app-tabs/div/div[2]/app-tab/div/div/div[3]</value>
+      <webElementGuid>1ea6fa7c-03bf-45fa-9494-751dac6df281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse all'])[1]/following::div[2]</value>
+      <webElementGuid>0747edfc-8a9d-4f77-a7a0-3e0e27152e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program attestation'])[1]/following::div[6]</value>
+      <webElementGuid>57bec53d-8c88-48d6-826e-dcc4c7ee0b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab/div/div/div[3]</value>
+      <webElementGuid>506c17bd-f659-4a36-9c90-776e50b00056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training provider requirementsTest bodySection 3.1: Legislative and Insurance Requirements *The training provider complies with all relevant provincial workplace legislation, including, but not limited to, Workplace Safety and Insurance Act, 1997, Occupational Health and Safety Act, Employment Standards Act, 2000, Labour Relations Act, 1995 and Accessibility for Ontarians with Disabilities Act, 2005In addition, the training provider has all necessary and appropriate commercial liability or errors and omissions insurance that a prudent person, carrying out activities similar to those of the approved training provider, would maintain. Yes  No Section 3.2: Advance Course Materials *The course materials meets the requirements in section 3.2 of the Working at Heights Training Provider Standard. Yes  No Section 3.3 Learning Needs *The learning experience meets the specific needs of learners, per the requirements in section 3.3. of the Working at Heights Training Provider Standard. Yes  No Section 3.4: Alternative Delivery Modes *The eLearning, blended learning and distance learning delivery modes meet the requirements of the Working at Heights Training Program Standard and the CPO’s eLearning Instructional Design Guidelines (if applicable). Yes  No Section 3.5: Program Materials *All training program materials used for the approved program meet the requirements of section 3.5 of the Working at Heights Training Provider Standard. Yes  No Section 3.6: Learning Environment *The learning environment is supportive of the transfer of learning, including a safe, healthy and accessible learning environment regardless of location. Yes  No Section 3.8: Support Transfer of Learning *The transfer of learning is supported by evaluating the learner’s successful achievement of learning outcomes in the approved training program, in accordance with the requirements listed in section 3.8 of the Working at Heights Training Provider Standard. Yes  No Training instructor requirementsTest bodySection 4.1: Instructor Qualifications *Instructors maintain valid and current qualifications in accordance with the requirements in section 4 .1 of the Working at Heights Training Provider Standard if he or she delivers an approved training program. Yes  No The programs delivered via eLearning, blended learning or distance learning, instructors will have experience delivering through the applicable mode of training and who are proficient in the use of the software, platform, or other information technology that is being used (if applicable). Yes  No Section 4.2: Instructor Delivery Expectations *Instructors are effective in creating positive learning environments, engaging learners and assessing the achievement of learning outcomes, in accordance with section 4.2 of the Working at Heights Training Provider Standard. Yes  No Training evaluator requirementsTest bodySection 5.1: Evaluator Qualifications *Evaluators meet the evaluation qualification requirements set out in section 5.1 of the Working at Heights Training Provider Standard. Yes  No Section 5.2: Evaluator Expectations *Evaluators meet the evaluator expectations set out in section 5.2 of the Working at Heights Training Provider Standard. Yes  No Code of ethicsTest bodySection 6: Code of ethics *The training provider, in carrying out their training operation, strives for a high level of professional and ethical conduct at all times, in adherence with the requirements in section 6 of the Working at Heights Training Provider Standard. Yes  No AdministrationTest bodySection 7: Administration *The administrative and maintenance requirements for approved training providers will be met in accordance with the requirements listed in section 7 of the Working at Heights Training Provider Standard. Yes  No Scroll up to select “Program Attestation” tab' or . = 'Training provider requirementsTest bodySection 3.1: Legislative and Insurance Requirements *The training provider complies with all relevant provincial workplace legislation, including, but not limited to, Workplace Safety and Insurance Act, 1997, Occupational Health and Safety Act, Employment Standards Act, 2000, Labour Relations Act, 1995 and Accessibility for Ontarians with Disabilities Act, 2005In addition, the training provider has all necessary and appropriate commercial liability or errors and omissions insurance that a prudent person, carrying out activities similar to those of the approved training provider, would maintain. Yes  No Section 3.2: Advance Course Materials *The course materials meets the requirements in section 3.2 of the Working at Heights Training Provider Standard. Yes  No Section 3.3 Learning Needs *The learning experience meets the specific needs of learners, per the requirements in section 3.3. of the Working at Heights Training Provider Standard. Yes  No Section 3.4: Alternative Delivery Modes *The eLearning, blended learning and distance learning delivery modes meet the requirements of the Working at Heights Training Program Standard and the CPO’s eLearning Instructional Design Guidelines (if applicable). Yes  No Section 3.5: Program Materials *All training program materials used for the approved program meet the requirements of section 3.5 of the Working at Heights Training Provider Standard. Yes  No Section 3.6: Learning Environment *The learning environment is supportive of the transfer of learning, including a safe, healthy and accessible learning environment regardless of location. Yes  No Section 3.8: Support Transfer of Learning *The transfer of learning is supported by evaluating the learner’s successful achievement of learning outcomes in the approved training program, in accordance with the requirements listed in section 3.8 of the Working at Heights Training Provider Standard. Yes  No Training instructor requirementsTest bodySection 4.1: Instructor Qualifications *Instructors maintain valid and current qualifications in accordance with the requirements in section 4 .1 of the Working at Heights Training Provider Standard if he or she delivers an approved training program. Yes  No The programs delivered via eLearning, blended learning or distance learning, instructors will have experience delivering through the applicable mode of training and who are proficient in the use of the software, platform, or other information technology that is being used (if applicable). Yes  No Section 4.2: Instructor Delivery Expectations *Instructors are effective in creating positive learning environments, engaging learners and assessing the achievement of learning outcomes, in accordance with section 4.2 of the Working at Heights Training Provider Standard. Yes  No Training evaluator requirementsTest bodySection 5.1: Evaluator Qualifications *Evaluators meet the evaluation qualification requirements set out in section 5.1 of the Working at Heights Training Provider Standard. Yes  No Section 5.2: Evaluator Expectations *Evaluators meet the evaluator expectations set out in section 5.2 of the Working at Heights Training Provider Standard. Yes  No Code of ethicsTest bodySection 6: Code of ethics *The training provider, in carrying out their training operation, strives for a high level of professional and ethical conduct at all times, in adherence with the requirements in section 6 of the Working at Heights Training Provider Standard. Yes  No AdministrationTest bodySection 7: Administration *The administrative and maintenance requirements for approved training providers will be met in accordance with the requirements listed in section 7 of the Working at Heights Training Provider Standard. Yes  No Scroll up to select “Program Attestation” tab')]</value>
+      <webElementGuid>5b49d297-defb-455e-aafa-10eebaf6944d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

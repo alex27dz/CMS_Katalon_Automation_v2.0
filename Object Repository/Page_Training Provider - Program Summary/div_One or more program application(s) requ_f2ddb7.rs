@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_One or more program application(s) requ_f2ddb7</name>
+   <tag></tag>
+   <elementGuidId>ca6a5e34-7286-4adf-9f89-d33fa768988e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-alert-banner/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d67ede57-d85e-4107-8a32-af20b49d9b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>6ec41582-0182-4ede-a9ec-89bf71a95ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>One or more program application(s) require your action En Curabitur at diam enim. Duis eget dignissim nisl. Ut at risus elementum, laoreet justo vitae, euismod purus. Vivamus semper tortor vel pretium pellentesque. Cras sapien turpis, pharetra vel rhoncus sed, bibendum a felis.</value>
+      <webElementGuid>266abd19-81c8-47ad-a685-73b06a4c69fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-7 ontario-margin-top-24-! float-left&quot;]/app-alert-banner[1]/div[@class=&quot;banner critical&quot;]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>3f42fb61-7284-4477-a3d4-d2681375cb10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-alert-banner/div/div[2]</value>
+      <webElementGuid>8445e0f1-93f4-4fe9-8d4a-4d2f33c6f3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit training program delivery application'])[1]/following::div[5]</value>
+      <webElementGuid>a3174ca8-6d28-4390-ba87-80c4d4e35b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage approved training programs'])[1]/following::div[6]</value>
+      <webElementGuid>9d243482-c551-4340-b0a2-b68bde4c32fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Type'])[1]/preceding::div[2]</value>
+      <webElementGuid>37bd3542-ca2e-480c-8be0-68bbee9770eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alert-banner/div/div[2]</value>
+      <webElementGuid>6531120d-30a1-4f41-84fe-111d84c0d5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'One or more program application(s) require your action En Curabitur at diam enim. Duis eget dignissim nisl. Ut at risus elementum, laoreet justo vitae, euismod purus. Vivamus semper tortor vel pretium pellentesque. Cras sapien turpis, pharetra vel rhoncus sed, bibendum a felis.' or . = 'One or more program application(s) require your action En Curabitur at diam enim. Duis eget dignissim nisl. Ut at risus elementum, laoreet justo vitae, euismod purus. Vivamus semper tortor vel pretium pellentesque. Cras sapien turpis, pharetra vel rhoncus sed, bibendum a felis.')]</value>
+      <webElementGuid>c1b161ba-3d59-4fbf-8273-ac4e9fcc19a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

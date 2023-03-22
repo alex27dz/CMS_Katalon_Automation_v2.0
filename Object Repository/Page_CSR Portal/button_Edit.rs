@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>ac6805e2-d9c5-4087-8ed6-ab616dd39d06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ontario-button.ontario-button--tertiary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-view-worker/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f994e797-8ba4-4ab5-854d-ca88b607062e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-button ontario-button--tertiary</value>
+      <webElementGuid>0a778ad2-907e-4e32-84d2-52fa89f818dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit </value>
+      <webElementGuid>a9c68185-5cac-4977-85de-afdd9f28f641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-view-worker[1]/div[@class=&quot;ontario-row ontario-margin-top-16-! relative&quot;]/div[@class=&quot;worker-header ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 border-bottom ontario-margin-bottom-24-!&quot;]/button[@class=&quot;ontario-button ontario-button--tertiary&quot;]</value>
+      <webElementGuid>8157e34e-8a94-44fb-ab3d-8c9e5c2cd7f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-view-worker/div/div/button</value>
+      <webElementGuid>50c4310c-1d8a-4cc8-bbe1-28fd5b8bfee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker profile'])[1]/following::button[1]</value>
+      <webElementGuid>aab5a104-3ee4-433b-ae37-431d5d6ddf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aleksey Dzhoharidze'])[1]/following::button[1]</value>
+      <webElementGuid>1340ac19-6ce1-40a0-87bf-cf11ef424aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merge'])[1]/preceding::button[1]</value>
+      <webElementGuid>1188bf7b-a1fc-466d-a09f-a2642ee96bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add learner to class'])[1]/preceding::button[2]</value>
+      <webElementGuid>0be6edd3-7d4e-4d65-92e7-f2e5b46bb021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>dda0902a-e648-44cf-84ca-2896f03463ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>e2f41075-0ec7-462d-b93f-1c8d572bd457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Edit ' or . = ' Edit ')]</value>
+      <webElementGuid>ca32fa42-732d-49eb-abba-0d24d4a0e11d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

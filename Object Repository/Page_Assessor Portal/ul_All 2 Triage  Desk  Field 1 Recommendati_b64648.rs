@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_All 2 Triage  Desk  Field 1 Recommendati_b64648</name>
+   <tag></tag>
+   <elementGuidId>3b84ff82-63e1-4d6e-9ab8-80cc9d542313</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-tabs/div/div[2]/app-tab/div/app-sub-tabs/app-tabs/div/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-sub-tabs > app-tabs > div.ontario-tabs > div.ontario-tabs-header > div.ontario-row > ul.ontario-nav-tabs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>1ad3d2db-b528-4e67-89c8-0aa8e4c31460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-nav-tabs</value>
+      <webElementGuid>a3e79821-612c-456e-9e49-dd3da0a5ac3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> All 2 Triage  Desk  Field 1 Recommendation  Archived 1</value>
+      <webElementGuid>4ff32bd3-0a0f-475f-b3d6-9be688b6e2a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/app-sub-tabs[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]</value>
+      <webElementGuid>88e77bc3-e9a9-4a3a-a154-d73075816b61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-tabs/div/div[2]/app-tab/div/app-sub-tabs/app-tabs/div/div/div/ul</value>
+      <webElementGuid>e7e63194-5360-4579-a6b0-09153047660b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC'])[1]/following::ul[1]</value>
+      <webElementGuid>3e983f47-f054-4138-a921-392daf5a2c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH'])[1]/following::ul[1]</value>
+      <webElementGuid>d57f0c66-6164-44e1-bcae-74db42bcfd43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-sub-tabs/app-tabs/div/div/div/ul</value>
+      <webElementGuid>3211ef5e-4a7f-4a90-bf1a-5854da023292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = ' All 2 Triage  Desk  Field 1 Recommendation  Archived 1' or . = ' All 2 Triage  Desk  Field 1 Recommendation  Archived 1')]</value>
+      <webElementGuid>6dbb886a-a525-460d-80b0-0df76acd5e3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

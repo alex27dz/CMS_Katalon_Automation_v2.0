@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Steps to approve your application Expand all</name>
+   <tag></tag>
+   <elementGuidId>ac2bc85f-0769-4405-9ef2-51b30772a0dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[5]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>39d34bde-1cd8-4b9f-9fac-f9e8bf248a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>bf64643e-bb17-49a8-aa7b-e6a9228ed25f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Steps to approve your application Expand all</value>
+      <webElementGuid>725a51bf-b86f-46a9-a6fb-e4453c65aa48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-padding-bottom-8-!&quot;]/h3[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>92b3e945-1ca4-467f-adf7-d593908f9e4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[5]/div/h3</value>
+      <webElementGuid>3676b2b0-7433-4317-a4f3-978cfb023a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview &amp; Submit application'])[1]/following::h3[1]</value>
+      <webElementGuid>cfb29ba9-974f-432d-9f48-88496c98e3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program materials'])[1]/following::h3[1]</value>
+      <webElementGuid>9badd7d6-1031-44f2-a80c-0bfc7a02910f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Triage'])[1]/preceding::h3[1]</value>
+      <webElementGuid>0b0211a2-1a6a-4e8b-a10d-f00172e65ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Steps to approve your application']/parent::*</value>
+      <webElementGuid>002128c1-5de1-4ac9-b3ea-ddd3b48c82a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/h3</value>
+      <webElementGuid>640e8293-05c6-4d6b-9e9e-2d7d9be8bf5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Steps to approve your application Expand all' or . = 'Steps to approve your application Expand all')]</value>
+      <webElementGuid>a8bdca7c-b64a-41c5-ba9f-e6989a5c4c22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

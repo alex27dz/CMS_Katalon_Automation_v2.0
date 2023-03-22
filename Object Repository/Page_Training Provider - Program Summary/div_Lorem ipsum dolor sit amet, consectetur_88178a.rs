@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lorem ipsum dolor sit amet, consectetur_88178a</name>
+   <tag></tag>
+   <elementGuidId>2984ecc8-226b-4331-a8bf-bd0ffacc3ae4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/div/app-tabs/div/div[2]/app-tab[2]/div/app-approved-application-attestation/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-12 > div.ontario-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dcdd7371-bbfc-4a41-86b8-4c42eb5d0ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row</value>
+      <webElementGuid>236900d1-fab1-40c4-8451-791cd4e61ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In laoreet enim ut dolor pharetra sagittis. Fusce iaculis interdum sem, non luctus dui molestie in. Proin nibh turpis, aliquam non volutpat quis, mollis vel nunc. Suspendisse rutrum venenatis ipsum. Suspendisse in erat vel risus cursus interdum.Deficiency action plan issuedAction required by Dec 2, 2022 The assessment is paused until you respond.Please DO NOT submit the response with pending deficiencies.Please contact assigned assessor for more help or clarification.Training provider attestationTraining program attestationApplication submission consentDeficiencies identified</value>
+      <webElementGuid>4668d98e-5f68-4b0e-9e00-fab4f7a25174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-approved-application[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-32-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/app-approved-application-attestation[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/div[@class=&quot;ontario-row&quot;]</value>
+      <webElementGuid>af10fe51-3255-460f-b681-776b5765e106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/div/app-tabs/div/div[2]/app-tab[2]/div/app-approved-application-attestation/div/div/div</value>
+      <webElementGuid>1e2e9f74-69da-49ec-bd3a-15763316c107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want to be listed as a training provider offering training services to the public.'])[1]/following::div[4]</value>
+      <webElementGuid>af447d57-ecde-40ee-89cc-bfa1452c73df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consent for Posting of Approval Status'])[1]/following::div[6]</value>
+      <webElementGuid>0965d707-183d-42ac-ab46-230c69a5a1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-approved-application-attestation/div/div/div</value>
+      <webElementGuid>f6ed933d-9eed-4e70-9d90-0d94c668d7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. In laoreet enim ut dolor pharetra sagittis. Fusce iaculis interdum sem, non luctus dui molestie in. Proin nibh turpis, aliquam non volutpat quis, mollis vel nunc. Suspendisse rutrum venenatis ipsum. Suspendisse in erat vel risus cursus interdum.Deficiency action plan issuedAction required by Dec 2, 2022 The assessment is paused until you respond.Please DO NOT submit the response with pending deficiencies.Please contact assigned assessor for more help or clarification.Training provider attestationTraining program attestationApplication submission consentDeficiencies identified' or . = ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. In laoreet enim ut dolor pharetra sagittis. Fusce iaculis interdum sem, non luctus dui molestie in. Proin nibh turpis, aliquam non volutpat quis, mollis vel nunc. Suspendisse rutrum venenatis ipsum. Suspendisse in erat vel risus cursus interdum.Deficiency action plan issuedAction required by Dec 2, 2022 The assessment is paused until you respond.Please DO NOT submit the response with pending deficiencies.Please contact assigned assessor for more help or clarification.Training provider attestationTraining program attestationApplication submission consentDeficiencies identified')]</value>
+      <webElementGuid>e7377b7d-1c51-40f1-9da8-e8cc9158e7a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

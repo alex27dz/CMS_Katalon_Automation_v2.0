@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Ministry of Labour, Immigration, Trainin_57799f</name>
+   <tag></tag>
+   <elementGuidId>4e51835f-b4fa-46d6-aebd-30d4e21ec098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='ministry-title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ministry-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>92970eee-cea7-4e79-9beb-17d4d18502ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ministry-title</value>
+      <webElementGuid>7610e372-ba34-4064-96ba-a94db1a6ec7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-h4</value>
+      <webElementGuid>96793cdb-3a88-4641-b625-5fe551628fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ministry of Labour, Immigration, Training and Skills Development </value>
+      <webElementGuid>0f138b8e-3191-4d51-9321-715290cde372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ministry-title&quot;)</value>
+      <webElementGuid>a7c81e1a-97ac-436e-89f6-a07e27377c25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='ministry-title']</value>
+      <webElementGuid>10b43c14-b0cc-4aaa-9de6-de8623d57b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[11]/following::h2[1]</value>
+      <webElementGuid>52b65007-ff98-4978-9796-cba3e96a1bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The assessment is paused until you respond.'])[2]/following::h2[1]</value>
+      <webElementGuid>e2a8170d-7cfd-446d-894d-0337eb4c1f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Ontario'])[1]/preceding::h2[1]</value>
+      <webElementGuid>1faa3412-c49f-4f40-866b-b4ae6072b834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/preceding::h2[1]</value>
+      <webElementGuid>431bb3bf-e124-4627-b60c-b13ca41be5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ministry of Labour, Immigration, Training and Skills Development']/parent::*</value>
+      <webElementGuid>ad077052-8011-45ee-a46f-406a1b2b8d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/h2</value>
+      <webElementGuid>81767580-9ee6-44d2-9121-f85e8618c0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'ministry-title' and (text() = 'Ministry of Labour, Immigration, Training and Skills Development ' or . = 'Ministry of Labour, Immigration, Training and Skills Development ')]</value>
+      <webElementGuid>567a65e2-81d7-43df-9c97-9045086cd086</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The alternate signing authority is an e_9a74cf</name>
+   <tag></tag>
+   <elementGuidId>110e1e1e-5435-480e-83fc-a65a296c3261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-alt-signing-authority-information[@id='alternateSigningAuthority']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sub-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c26fe04-eb7e-4aea-a024-d5356dba21ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-text</value>
+      <webElementGuid>fd844698-a03f-4842-ba48-5fdb60afc86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The alternate signing authority is an employee who is assigned by the designated signing authority to act on their behalf when necessary.</value>
+      <webElementGuid>05a1a744-fa0f-4f20-ac90-79a6b75699a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alternateSigningAuthority&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-text&quot;]</value>
+      <webElementGuid>7614a959-5fd2-4b04-a789-8f5ed9b4be3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-alt-signing-authority-information[@id='alternateSigningAuthority']/div/div[2]/div</value>
+      <webElementGuid>ded83322-3454-45b2-bbe8-886dd845ce51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add alternate signing authority (optional)'])[1]/following::div[2]</value>
+      <webElementGuid>4a8d1c4b-f6b3-4c9e-9dcf-833c5a7fafcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing address'])[1]/following::div[16]</value>
+      <webElementGuid>2489ed0d-0b3c-4562-bd95-bd3569fec341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[2]/preceding::div[1]</value>
+      <webElementGuid>581988bb-cf3a-4df6-b6cc-b4b16ff66bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[2]/preceding::div[3]</value>
+      <webElementGuid>04c493ab-8f25-420e-beea-a636de76f446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The alternate signing authority is an employee who is assigned by the designated signing authority to act on their behalf when necessary.']/parent::*</value>
+      <webElementGuid>6014af1b-78a8-40a1-a36a-3f62618f1acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alt-signing-authority-information/div/div[2]/div</value>
+      <webElementGuid>77d61593-cd06-4330-b646-128441ea7dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The alternate signing authority is an employee who is assigned by the designated signing authority to act on their behalf when necessary.' or . = 'The alternate signing authority is an employee who is assigned by the designated signing authority to act on their behalf when necessary.')]</value>
+      <webElementGuid>ede4e566-bfde-44b8-9ba8-2f6610238164</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>116f8a36-ba37-48e2-ae93-318a60e124bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.accordion-icon > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]/app-file-upload-accordion/div/app-accordion/div/div/div[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a75a58d8-f616-43ff-86cb-a7a60477f689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/chevron-down-white-border.svg</value>
+      <webElementGuid>4fcbd5f9-65b0-4751-a5ab-b3a98066e70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;page-body&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;program-mats&quot;]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 banners-accordians&quot;]/app-file-upload-accordion[1]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading selected&quot;]/div[@class=&quot;accordion-row&quot;]/div[@class=&quot;accordion-icon&quot;]/img[1]</value>
+      <webElementGuid>0026c9e2-b376-4312-960a-f5f0b2739f97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]/app-file-upload-accordion/div/app-accordion/div/div/div[3]/img</value>
+      <webElementGuid>d8f7895c-0efc-459c-80cd-e9f158619b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>12b43543-1ba8-40e2-8600-e50fda4bad43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/chevron-down-white-border.svg']</value>
+      <webElementGuid>2c86de31-f3fc-48d1-8675-6162b75c3845</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

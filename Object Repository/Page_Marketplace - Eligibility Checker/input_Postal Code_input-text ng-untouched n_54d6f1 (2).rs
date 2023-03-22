@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Postal Code_input-text ng-untouched n_54d6f1 (2)</name>
+   <tag></tag>
+   <elementGuidId>36f7647e-f730-45f1-8263-d40b490f8bd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='tel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.input-text.ng-untouched.ng-invalid.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>94946823-ae9e-4141-99e8-83bc98a0d8ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>a6a256eb-fd05-41c8-9cea-7118bfcba8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mask</name>
+      <type>Main</type>
+      <value>(000) 000-0000</value>
+      <webElementGuid>895a9a3b-22f2-4d08-acf6-dc300abf27d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>phoneNo</value>
+      <webElementGuid>3a3fbec8-572b-495e-b987-3c2f59cabb61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text ng-untouched ng-invalid ng-dirty</value>
+      <webElementGuid>261056db-729e-4de6-b234-941b7f135030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter phone number</value>
+      <webElementGuid>3e06e18d-4c26-4071-b672-c4c2fff19552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/form[@class=&quot;ng-invalid ng-submitted ng-untouched ng-dirty&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-details&quot;]/div[@class=&quot;table-header&quot;]/div[@class=&quot;training-details-row ontario-small-12 ontario-medium-6 ontario-large-4&quot;]/input[@class=&quot;input-text ng-untouched ng-invalid ng-dirty&quot;]</value>
+      <webElementGuid>6303efa5-a190-4275-807b-95d004ab95c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='tel']</value>
+      <webElementGuid>87167d87-87ae-4a73-9d0e-8e7d02f435fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab/div/form/div/div/div/div[4]/input</value>
+      <webElementGuid>a5c6646e-ec6c-4ee6-bee9-6bf933d85427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>7f7f127a-7431-4457-baea-12f63b34bd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'tel' and @placeholder = 'Enter phone number']</value>
+      <webElementGuid>a8411217-bf96-4637-9c0e-d7497e699064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

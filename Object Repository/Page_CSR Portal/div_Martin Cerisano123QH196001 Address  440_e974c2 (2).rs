@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Martin Cerisano123QH196001 Address  440_e974c2 (2)</name>
+   <tag></tag>
+   <elementGuidId>2517d41a-1d04-4f19-b074-e816ff1ede21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7cc0cde3-ca4c-45cd-8119-f600d6599515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12</value>
+      <webElementGuid>a0054d0c-bd9e-46dd-bd51-4bcc7eabe270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Martin Cerisano123QH196001 Address  4403 Test Street  City  Hamilton  Postal code  L9L 9L9  Email address  marty.cerisano2@ontario.ca  Phone number  (123) 123-1231 Worker profile</value>
+      <webElementGuid>a644169e-47ec-4510-a13f-52b33fac87c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[@class=&quot;ontario-margin-top-24-!&quot;]/app-csr-workers[1]/app-worker-search-criteria[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]</value>
+      <webElementGuid>95f71674-5039-4735-9af3-f0f06d08ff60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/div[2]/div[2]</value>
+      <webElementGuid>55d824d1-c8f3-4673-a069-e8c75e146472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker profile'])[1]/following::div[1]</value>
+      <webElementGuid>8d331657-0493-4fe9-a6bf-c10cd5564b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(123) 678-1234'])[1]/following::div[5]</value>
+      <webElementGuid>3056c9b5-3de7-4489-abb4-0aea5d629b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>e29e586a-df16-4ac1-bc1e-79b2c8844396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Martin Cerisano123QH196001 Address  4403 Test Street  City  Hamilton  Postal code  L9L 9L9  Email address  marty.cerisano2@ontario.ca  Phone number  (123) 123-1231 Worker profile' or . = 'Martin Cerisano123QH196001 Address  4403 Test Street  City  Hamilton  Postal code  L9L 9L9  Email address  marty.cerisano2@ontario.ca  Phone number  (123) 123-1231 Worker profile')]</value>
+      <webElementGuid>bc455a94-2a87-44e4-b12e-28cb11ef27d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

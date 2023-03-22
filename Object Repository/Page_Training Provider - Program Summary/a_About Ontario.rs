@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_About Ontario</name>
+   <tag></tag>
+   <elementGuidId>e3f8c713-36ba-4d0d-894e-53b9893b53c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'About Ontario')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ontario-footer__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3b7ddbb2-8d99-4b3e-b80c-20432ca346e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>de5630f9-33b2-4384-baad-5c431d3ede21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-footer__link</value>
+      <webElementGuid>4528f10b-943e-4a8c-8aee-d606f4d5a2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ontario.ca/page/about-ontario</value>
+      <webElementGuid>28998f5b-160e-44f1-960b-db3f15a8d82e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Ontario</value>
+      <webElementGuid>bc079fef-37b3-4587-b182-222397250e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-footer[1]/footer[@class=&quot;ontario-footer ontario-footer--expanded noprint&quot;]/div[@class=&quot;ontario-footer__expanded-top-section&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-columns ontario-small-12 ontario-medium-5 border-left-white ontario-margin-top-12-!&quot;]/div[@class=&quot;ontario-columns ontario-small-12 ontario-medium-12 ontario-large-4 footer-column&quot;]/a[@class=&quot;ontario-footer__link&quot;]</value>
+      <webElementGuid>2c2d2063-49c3-4d97-9323-bd72e3d121cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'About Ontario')]</value>
+      <webElementGuid>a636883b-d661-4040-a3b5-fb20da0600f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ministry of Labour, Immigration, Training and Skills Development'])[1]/following::a[1]</value>
+      <webElementGuid>833a2c7f-944c-412e-8fb8-0f0d4b44bcb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[11]/following::a[1]</value>
+      <webElementGuid>b59a5701-e03e-4bb7-bdc0-c3c83c937b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d2c5992-2b06-4685-97a8-1208db56232a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::a[2]</value>
+      <webElementGuid>38595d53-e622-432d-8066-9eabec2ae7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='About Ontario']/parent::*</value>
+      <webElementGuid>8979ef65-6b66-4471-9fed-47e53ca64f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ontario.ca/page/about-ontario')]</value>
+      <webElementGuid>fe08b67f-1798-4b1f-874f-e41e7b0b5158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>e3c1fa49-3d1a-47bb-ad19-66682bd9f052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ontario.ca/page/about-ontario' and (text() = 'About Ontario' or . = 'About Ontario')]</value>
+      <webElementGuid>b17c53a7-37d4-4e09-a61e-c2bee312bd99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

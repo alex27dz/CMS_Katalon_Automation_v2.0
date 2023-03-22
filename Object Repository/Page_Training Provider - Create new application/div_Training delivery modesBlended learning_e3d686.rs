@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training delivery modesBlended learning_e3d686</name>
+   <tag></tag>
+   <elementGuidId>9fe6861b-b657-4d35-9aa8-122b40f2ee3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.paragraph</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-generic-paragraph/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93532f68-758e-4fd0-ac39-2102d6b4e82a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paragraph</value>
+      <webElementGuid>85319426-578b-4d43-ac85-f608fce7669b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training delivery modesBlended learningDescribes the practice of using several training delivery mediums in a single training program. It typically refers to the combination of classroom instruction and eLearning.Distance learningAn educational situation in which the instructor and students are separated by time, location, or both. Education or training courses are delivered to remote locations via synchronous or asynchronous instruction (ASTD definition).eLearning (electronic learning)A term covering a wide set of applications and processes that includes web-based learning, computer-based learning, virtual classrooms, and digital collaboration.Face-to-face trainingUsually refers to traditional classroom training, in which an instructor teaches a course to a room of training participants. The term is used synonymously with on-site training and classroom training and instructor-led training (slightly modified from ASTD definition).</value>
+      <webElementGuid>10a8bb44-613c-4dc4-8486-7b3136dcb0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section&quot;]/app-page-content-loop[1]/app-generic-paragraph[1]/div[@class=&quot;paragraph&quot;]</value>
+      <webElementGuid>01e7bc99-1af7-4f6d-921c-2d9dc57ade1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-generic-paragraph/div</value>
+      <webElementGuid>349ef72b-6da9-475b-9bdf-03430b13ce13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional information'])[1]/following::div[4]</value>
+      <webElementGuid>5408144c-f745-4443-b0cb-12a9e53669ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select training program'])[1]/following::div[7]</value>
+      <webElementGuid>955f9c11-b6b5-4848-a475-f3abb4ab42f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-generic-paragraph/div</value>
+      <webElementGuid>684d4f49-1fd6-4ad5-a5b1-d71dbbebe503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training delivery modesBlended learningDescribes the practice of using several training delivery mediums in a single training program. It typically refers to the combination of classroom instruction and eLearning.Distance learningAn educational situation in which the instructor and students are separated by time, location, or both. Education or training courses are delivered to remote locations via synchronous or asynchronous instruction (ASTD definition).eLearning (electronic learning)A term covering a wide set of applications and processes that includes web-based learning, computer-based learning, virtual classrooms, and digital collaboration.Face-to-face trainingUsually refers to traditional classroom training, in which an instructor teaches a course to a room of training participants. The term is used synonymously with on-site training and classroom training and instructor-led training (slightly modified from ASTD definition).' or . = 'Training delivery modesBlended learningDescribes the practice of using several training delivery mediums in a single training program. It typically refers to the combination of classroom instruction and eLearning.Distance learningAn educational situation in which the instructor and students are separated by time, location, or both. Education or training courses are delivered to remote locations via synchronous or asynchronous instruction (ASTD definition).eLearning (electronic learning)A term covering a wide set of applications and processes that includes web-based learning, computer-based learning, virtual classrooms, and digital collaboration.Face-to-face trainingUsually refers to traditional classroom training, in which an instructor teaches a course to a room of training participants. The term is used synonymously with on-site training and classroom training and instructor-led training (slightly modified from ASTD definition).')]</value>
+      <webElementGuid>d80f190d-e2b7-41b1-a866-d24294cb9adf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

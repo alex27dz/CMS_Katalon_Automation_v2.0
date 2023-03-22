@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Automated scenarios CMS.xlsx</name>
+   <tag></tag>
+   <elementGuidId>43421225-05a2-4ac8-af92-70d9ae580bea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':3p']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.docs-homescreen-list-item-title-value</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ecafc02-bfe8-42e2-b2e4-497ee9fe3f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>docs-homescreen-list-item-title-value</value>
+      <webElementGuid>1ac1aa6d-9ed6-40fd-ae30-b0cabbff3a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automated scenarios CMS.xlsx</value>
+      <webElementGuid>c0a21a09-4d0f-478a-a8fa-81cb926c71f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:3p&quot;)/div[@class=&quot;docs-homescreen-list-item-cell docs-homescreen-list-item-title&quot;]/div[@class=&quot;docs-homescreen-list-item-title-value&quot;]</value>
+      <webElementGuid>732626a7-870e-466b-b2f3-c3139cf5868b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':3p']/div[2]/div</value>
+      <webElementGuid>6aba7386-1572-4d72-9397-f1f486b20a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last opened by me'])[3]/following::div[7]</value>
+      <webElementGuid>5cd39525-fb9e-4dbf-b699-d51a1baee571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not owned by me'])[3]/following::div[11]</value>
+      <webElementGuid>74ac4537-1034-4bbc-95d8-7425080e6e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='me'])[1]/preceding::div[3]</value>
+      <webElementGuid>bb47a366-0157-4e17-a9f6-b79f2c22bae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous 7 days'])[1]/preceding::div[9]</value>
+      <webElementGuid>9db2d0e7-e7b3-43e2-8ae8-e705d2846efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Automated scenarios CMS.xlsx']/parent::*</value>
+      <webElementGuid>f5db0e19-b054-45c1-8e3f-71ad045c2cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>3443fc0b-d488-44bb-b6e6-236d97b51abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Automated scenarios CMS.xlsx' or . = 'Automated scenarios CMS.xlsx')]</value>
+      <webElementGuid>aca54949-93eb-470d-bb6a-0fab68fe60c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

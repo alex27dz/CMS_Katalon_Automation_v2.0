@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_9.1.1Rights and Responsibilities</name>
+   <tag></tag>
+   <elementGuidId>717e32ec-5731-4c55-9a05-4727b93d4ed4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[2]/div/div/app-accordion/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e87a984-99f0-4dc5-9fb9-2da9de4e76a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>79b4e972-d569-4f0b-bb4a-9536c38e5fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9.1.1Rights and Responsibilities</value>
+      <webElementGuid>bb1609db-eee0-4076-a81f-4cb496a47a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reqs-tab&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row margin-left-0px&quot;]/app-requirements-section-list[1]/app-requirements-input[2]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>c23e8ed3-6a86-4aa1-8ad1-14aa97d805e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[2]/div/div/app-accordion/div/div</value>
+      <webElementGuid>14b8fc6b-82a6-4778-b2c8-8179be2cd9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand all'])[2]/following::div[5]</value>
+      <webElementGuid>215aa760-44e7-4c8d-8632-b4a927cc52e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructor Materials, Learner Materials, Evaluation Materials'])[2]/following::div[5]</value>
+      <webElementGuid>28b101b3-a94e-4305-b1db-8cc2493cb8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification of the hazards of working at heights'])[1]/preceding::div[5]</value>
+      <webElementGuid>ba1136af-3fb1-407f-b988-14772178f110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-requirements-input[2]/div/div/app-accordion/div/div</value>
+      <webElementGuid>799821ea-ae21-400c-a5ce-1745fd79f9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '9.1.1Rights and Responsibilities' or . = '9.1.1Rights and Responsibilities')]</value>
+      <webElementGuid>63c26286-bdf9-464f-9d18-0cd003858e43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

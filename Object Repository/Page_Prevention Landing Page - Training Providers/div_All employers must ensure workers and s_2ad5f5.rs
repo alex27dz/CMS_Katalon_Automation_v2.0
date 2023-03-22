@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All employers must ensure workers and s_2ad5f5</name>
+   <tag></tag>
+   <elementGuidId>38f9a025-22ac-4b8d-a7ee-05b6880d9b24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[3]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0712f24-2a70-4c38-8037-e2ecc3df2e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>7c8da02f-8323-4b11-a48a-97518456af6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All employers must ensure workers and supervisors complete, or have completed, an awareness training program that meets the regulatory requirements. This is mandatory whether they work on a construction project, in a retail store or factory, hospital or long-term care facility, mine or mining plant, or farming operation, etc.</value>
+      <webElementGuid>1148af0c-362e-4a5f-9fbc-5e2cdee2c631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[3]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>357b0b56-1b63-4b8c-a978-128f10e5fc7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[3]/div/div[2]/div</value>
+      <webElementGuid>498c53fe-06de-4d12-ae66-dd928baa8a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic awareness training'])[1]/following::div[2]</value>
+      <webElementGuid>2c33f4b9-49b9-4e42-b935-f055b354e0d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Standard'])[1]/following::div[4]</value>
+      <webElementGuid>2981368d-2a7f-4eff-bb41-19d9d15d322e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker health and safety awareness in four steps'])[1]/preceding::div[1]</value>
+      <webElementGuid>fcef5d82-69e2-4e4a-a5f9-a46bf9f3a353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisor health and safety awareness in five steps'])[1]/preceding::div[1]</value>
+      <webElementGuid>c427ac87-5362-4b1c-96cb-79ab5d8ccdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All employers must ensure workers and supervisors complete, or have completed, an awareness training program that meets the regulatory requirements. This is mandatory whether they work on a construction project, in a retail store or factory, hospital or long-term care facility, mine or mining plant, or farming operation, etc.']/parent::*</value>
+      <webElementGuid>3f5b0942-8d2f-4a50-88d3-a39a1a8e78fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar[3]/div/div[2]/div</value>
+      <webElementGuid>672838db-8dd2-4566-a217-97e5196d88ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All employers must ensure workers and supervisors complete, or have completed, an awareness training program that meets the regulatory requirements. This is mandatory whether they work on a construction project, in a retail store or factory, hospital or long-term care facility, mine or mining plant, or farming operation, etc.' or . = 'All employers must ensure workers and supervisors complete, or have completed, an awareness training program that meets the regulatory requirements. This is mandatory whether they work on a construction project, in a retail store or factory, hospital or long-term care facility, mine or mining plant, or farming operation, etc.')]</value>
+      <webElementGuid>253f42f5-aa3b-4253-adf3-9de33492758c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

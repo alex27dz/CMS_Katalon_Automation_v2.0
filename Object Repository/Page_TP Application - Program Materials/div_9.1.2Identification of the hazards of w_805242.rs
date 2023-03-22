@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_9.1.2Identification of the hazards of w_805242</name>
+   <tag></tag>
+   <elementGuidId>14e9e09c-f3d4-413e-bdbd-97b83e594758</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[3]/div/div/app-accordion/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>132cb26d-673a-43b5-b539-54b908966d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-row</value>
+      <webElementGuid>f4e7cf92-a8aa-47f4-b76f-b1a5e884ae19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9.1.2Identification of the hazards of working at heights</value>
+      <webElementGuid>6d77adca-f8bb-4557-8878-f64cc403f624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reqs-tab&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-row margin-left-0px&quot;]/app-requirements-section-list[1]/app-requirements-input[3]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]</value>
+      <webElementGuid>441abad5-ac5f-40b8-ab9f-b6c1e7f259cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-tab[@id='reqs-tab']/div/div/app-requirements-section-list/app-requirements-input[3]/div/div/app-accordion/div/div</value>
+      <webElementGuid>0a5a234b-acdc-470c-9bbc-1d4d7930a092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rights and Responsibilities'])[1]/following::div[5]</value>
+      <webElementGuid>46cc6775-905f-433a-a379-48c6cab96cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand all'])[2]/following::div[12]</value>
+      <webElementGuid>296cb201-a725-428a-9d70-ea947cbf08a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminating or controlling the hazards of working at heights'])[1]/preceding::div[5]</value>
+      <webElementGuid>9fd5e071-4529-4a90-88c7-8dff6e78f52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-requirements-input[3]/div/div/app-accordion/div/div</value>
+      <webElementGuid>61aa5f4e-99c3-4fb3-9289-102af3a7a564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '9.1.2Identification of the hazards of working at heights' or . = '9.1.2Identification of the hazards of working at heights')]</value>
+      <webElementGuid>12b993ec-3df2-43e4-a2f6-8e173fae7400</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

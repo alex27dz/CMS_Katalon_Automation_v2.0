@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AugSun07 eLearning Software Development_279a4e</name>
+   <tag></tag>
+   <elementGuidId>0901b916-b4ee-4735-88aa-54c6c3a92bfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66207a91-aead-469c-99ab-aec9881c04d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tile-container ontario-column ontario-small-12 ontario-medium-12 ontario-large-4</value>
+      <webElementGuid>ec337c42-ee8b-4798-99d0-a839ab2978d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AugSun07 eLearning Software DevelopmentTEST - Atif's super cool training provisionsTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 7 - Sun @ 11:00 AM to 4:00 PM Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available1/30Course FeeContact us</value>
+      <webElementGuid>6ec1534f-4483-4e38-9c7b-f7d3ab03303a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;button-row ontario-column ontario-small-12&quot;]/div[@class=&quot;marketplace-tile-row selected-view&quot;]/div[@class=&quot;schedule-container ontario-row&quot;]/div[@class=&quot;tile-container ontario-column ontario-small-12 ontario-medium-12 ontario-large-4&quot;]</value>
+      <webElementGuid>932220d6-c23f-45b9-85e9-9719c5b6e9d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/div/div[2]</value>
+      <webElementGuid>40a9896f-7797-4619-adf8-5546b4afd9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$400.00'])[1]/following::div[1]</value>
+      <webElementGuid>92317d6d-f24b-4243-a002-1911f6c52642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Fee'])[1]/following::div[1]</value>
+      <webElementGuid>9aee43a8-41f0-4c76-8925-eae826f48c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]</value>
+      <webElementGuid>f09d680f-23cc-4cd3-9f82-927116b135e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;AugSun07 eLearning Software DevelopmentTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 7 - Sun @ 11:00 AM to 4:00 PM Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available1/30Course FeeContact us&quot;) or . = concat(&quot;AugSun07 eLearning Software DevelopmentTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 7 - Sun @ 11:00 AM to 4:00 PM Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available1/30Course FeeContact us&quot;))]</value>
+      <webElementGuid>2d0da5ba-3f90-445a-a242-d72f79ff3b0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

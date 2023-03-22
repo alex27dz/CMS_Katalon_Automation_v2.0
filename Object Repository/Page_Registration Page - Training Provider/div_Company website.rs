@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Company website</name>
+   <tag></tag>
+   <elementGuidId>83b5d38a-25ce-434b-ba68-95906143f1f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-business-information[@id='businessInformation']/div/div/form/div[14]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b66aee9-5fce-4733-86ff-9d9474026fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tp-input-row ontario-small-12 ontario-medium-6 ontario-column ontario-large-5</value>
+      <webElementGuid>e977c072-1903-453e-aa40-e4d48c97b60a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Company website </value>
+      <webElementGuid>d48a0300-113b-4e9e-b0c2-44c795ecf7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;businessInformation&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row ontario-row&quot;]/div[@class=&quot;tp-input-row ontario-small-12 ontario-medium-6 ontario-column ontario-large-5&quot;]</value>
+      <webElementGuid>f394faba-7fe6-4582-89c2-88ad879234f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-business-information[@id='businessInformation']/div/div/form/div[14]/div</value>
+      <webElementGuid>679c1cc6-f963-46a2-955c-f6dbf38642e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business primary address'])[1]/following::div[15]</value>
+      <webElementGuid>aad4d658-b38f-4cbb-b125-6006eb9c0fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WSIB Account Number'])[1]/following::div[18]</value>
+      <webElementGuid>0ad4a5cb-9f9c-4e53-9b0f-d06e3c10fdb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred method of correspondence'])[1]/preceding::div[1]</value>
+      <webElementGuid>c00fba2b-8e93-4b80-a86c-81e479c95018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div</value>
+      <webElementGuid>d612fb64-91ed-4a2a-a0f0-3f53fa144dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Company website ' or . = 'Company website ')]</value>
+      <webElementGuid>7e6e0499-f01d-4e7a-90e0-0eee2360b36e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

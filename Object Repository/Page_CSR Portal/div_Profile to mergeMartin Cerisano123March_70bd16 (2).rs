@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile to mergeMartin Cerisano123March_70bd16 (2)</name>
+   <tag></tag>
+   <elementGuidId>087d8dfb-fde4-4fda-9081-986375a49751</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-merge-worker/div/div/form/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16ad0fe8-b4c6-4edc-8b9c-b28d1533d725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column form-input-div ontario-small-12 ontario-medium-4 ontario-large-4</value>
+      <webElementGuid>b4fd92cb-18e9-41a6-b398-74dc69b72eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile to mergeMartin Cerisano123March 20, 2023IDQH196001 Select all Full name  Martin Cerisano123  Address  4403 Test Street  City  Hamilton  Postal code  L9L9L9  Phone number  1231231231  Email Address  marty.cerisano2@ontario.ca </value>
+      <webElementGuid>4c56f487-61d8-4329-8cc6-384980b97d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-merge-worker[1]/div[@class=&quot;merge-worker-container&quot;]/div[@class=&quot;ontario-row ontario-margin-top-24-!&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-4 ontario-large-4&quot;]</value>
+      <webElementGuid>081c2047-1ad3-4354-99f1-448149bad6f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-merge-worker/div/div/form/div/div/div[3]</value>
+      <webElementGuid>1b8c78f7-4605-472e-86da-5d8cdb738229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary@email.com'])[1]/following::div[2]</value>
+      <webElementGuid>5b0e5c4b-c838-4ffd-bb52-b1cb7797edba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary Email Address'])[1]/following::div[3]</value>
+      <webElementGuid>d5f1d364-5f72-459a-a9dc-d8be1950fa91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>a3262029-053e-4e3c-a5e7-cc07b8c3b09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile to mergeMartin Cerisano123March 20, 2023IDQH196001 Select all Full name  Martin Cerisano123  Address  4403 Test Street  City  Hamilton  Postal code  L9L9L9  Phone number  1231231231  Email Address  marty.cerisano2@ontario.ca ' or . = 'Profile to mergeMartin Cerisano123March 20, 2023IDQH196001 Select all Full name  Martin Cerisano123  Address  4403 Test Street  City  Hamilton  Postal code  L9L9L9  Phone number  1231231231  Email Address  marty.cerisano2@ontario.ca ')]</value>
+      <webElementGuid>e0c066e9-2298-4b64-9897-f314924767ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

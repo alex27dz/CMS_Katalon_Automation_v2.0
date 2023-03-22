@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Application previewExpand allPlease rev_0c1455</name>
+   <tag></tag>
+   <elementGuidId>cf88edd5-aa4a-4371-aae6-8aac234b946e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-review-program-application/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-9 > div.ontario-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd8144f1-0f18-44e2-b3ff-44fe6adc65ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row</value>
+      <webElementGuid>ac09011f-42ff-4d24-907b-24d447f93fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Application previewExpand allPlease review the application carefully before you submit.Applicant informationTraining provider attestationTraining program attestationTraining program requirements</value>
+      <webElementGuid>4a91471e-3ce7-49f3-81ba-95f03a2be407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-review-program-application[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]</value>
+      <webElementGuid>e20b519f-5690-424f-8328-774086b20824</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-review-program-application/div/div[2]/div</value>
+      <webElementGuid>e361d02e-11f5-4e65-95d3-7c0780e11bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ongoing access to your information'])[1]/following::div[2]</value>
+      <webElementGuid>48d005f2-6fed-4cb0-8e67-39e203935a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next step(s)'])[1]/following::div[4]</value>
+      <webElementGuid>a5ae0f73-bc9a-4e70-b0e2-ccd98195b89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-review-program-application/div/div[2]/div</value>
+      <webElementGuid>291fa721-bc77-4a66-ac06-c76fc9f9211d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Application previewExpand allPlease review the application carefully before you submit.Applicant informationTraining provider attestationTraining program attestationTraining program requirements' or . = ' Application previewExpand allPlease review the application carefully before you submit.Applicant informationTraining provider attestationTraining program attestationTraining program requirements')]</value>
+      <webElementGuid>c86182b2-94e7-4598-9fa2-245c03504afd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

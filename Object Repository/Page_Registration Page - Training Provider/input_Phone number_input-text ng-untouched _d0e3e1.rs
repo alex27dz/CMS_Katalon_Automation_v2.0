@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phone number_input-text ng-untouched _d0e3e1</name>
+   <tag></tag>
+   <elementGuidId>3fd06913-1911-439e-ab46-5720a7800984</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.input-text.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1e6321e7-aa52-43ba-bc59-b861ba57e96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0aa73815-2b90-4105-a8e1-a380fbdf536e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mask</name>
+      <type>Main</type>
+      <value>(000) 000-0000</value>
+      <webElementGuid>c0ae8aee-4ba2-4b01-ae98-4e51301e900f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>phone</value>
+      <webElementGuid>d8759cb2-7614-4c67-8dfa-eebdadb481a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>f549f022-1453-44b6-aa9b-0363668a5877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter phone number</value>
+      <webElementGuid>8dd9dc26-7c7e-4774-bc4a-0a9ec07d65d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactInfo&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row ontario-row&quot;]/div[@class=&quot;tp-input-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5&quot;]/input[@class=&quot;input-text ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>6544f899-f40a-43cc-a617-e06b7f0adb1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>0a20d048-34d1-4205-9e59-5f6428a54b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-applicant-contact-information[@id='contactInfo']/div/div/form/div[3]/div/input</value>
+      <webElementGuid>cbbd6539-c97d-4006-af77-18353cd64198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>c1f1045d-176b-462d-8f99-0e0c74739091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter phone number']</value>
+      <webElementGuid>6a6b4212-abda-4988-be3a-d092766b5501</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

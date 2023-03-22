@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Joint Health and Safety Committee Provid_31871b</name>
+   <tag></tag>
+   <elementGuidId>fcd545dc-edae-44a6-9728-73bf9acb7711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d7b2844a-7f5c-416e-8807-a73a0c279e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Joint Health and Safety Committee Provider Standard</value>
+      <webElementGuid>0f11fb8a-e9a9-4304-b921-58f3472b8aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/ul[@class=&quot;standards-bullet-list margin-left-3&quot;]/li[1]</value>
+      <webElementGuid>478db535-c508-4b36-a61d-a46f671389f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/ul/li</value>
+      <webElementGuid>4aedec4a-5e00-4af0-b793-0eab426a7393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application for Joint Health and Safety Committee training program delivery'])[1]/following::li[1]</value>
+      <webElementGuid>69adc586-6cf9-48da-b85d-ba17f41e62e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::li[1]</value>
+      <webElementGuid>a18be4bd-9561-483a-9b68-c170ca9f08c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eLearning Instructional Design Guidelines (as applicable)'])[1]/preceding::li[1]</value>
+      <webElementGuid>e1ea6523-5b84-48c9-a40b-53ff84ffb8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>d97ac1c0-02c9-4077-be63-d0d8fd4bcb37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Joint Health and Safety Committee Provider Standard' or . = 'Joint Health and Safety Committee Provider Standard')]</value>
+      <webElementGuid>1f009f8c-aa13-41bf-a634-f99b502cd95a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

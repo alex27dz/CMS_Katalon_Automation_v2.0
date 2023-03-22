@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prepare your documents in the method an_fd0bf2</name>
+   <tag></tag>
+   <elementGuidId>4e0a21c8-75f4-47e0-8972-a416a1f919d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f8f089b-add6-471c-85a8-1ee907ecca09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-div</value>
+      <webElementGuid>269cb359-ddb1-48ba-bbbb-26b8b3b914b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prepare your documents in the method and format outlined in the Preparing your application section. Your documents may be submitted in English or French only. Hand written forms will not be accepted.</value>
+      <webElementGuid>73c91b46-0a0b-42ad-97e7-e34d4570142e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;text-div&quot;]</value>
+      <webElementGuid>7be1259d-1dde-4432-b333-8c0d982433c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4caa2b6b-a0ef-481c-b484-60000a943d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-div</value>
+      <webElementGuid>38dbb606-e59a-4c45-9fdc-ba221e7875c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prepare your documents in the method and format outlined in the Preparing your application section. Your documents may be submitted in English or French only. Hand written forms will not be accepted.</value>
+      <webElementGuid>2e2fa06c-8077-4458-bc41-cca49f2095fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;text-div&quot;]</value>
+      <webElementGuid>8acd24b1-c195-496e-8a66-5a0bfbb72eda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div</value>
+      <webElementGuid>81240e9f-421c-4518-aedb-bccb0b4705d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter applicant information'])[2]/following::div[1]</value>
+      <webElementGuid>7fc04c95-ac3b-4371-b039-0c9e4e5c39c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[6]</value>
+      <webElementGuid>eeca585e-7636-491e-a797-3c46445bd350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updating pre populated information'])[1]/preceding::div[4]</value>
+      <webElementGuid>aec15fe8-8489-40fd-bbbf-452583446b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant business information'])[1]/preceding::div[8]</value>
+      <webElementGuid>83a7f1b7-03ea-42c9-a504-5fa72e2cf034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prepare your documents in the method and format outlined in the Preparing your application section. Your documents may be submitted in English or French only. Hand written forms will not be accepted.']/parent::*</value>
+      <webElementGuid>b8a409ae-9625-4e6b-9fb9-1370e24e381d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tp-application-information/div/div/div</value>
+      <webElementGuid>f45b0e34-8d63-4928-b999-68b9241eeb5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Prepare your documents in the method and format outlined in the Preparing your application section. Your documents may be submitted in English or French only. Hand written forms will not be accepted.' or . = 'Prepare your documents in the method and format outlined in the Preparing your application section. Your documents may be submitted in English or French only. Hand written forms will not be accepted.')]</value>
+      <webElementGuid>b6d8c073-8231-4080-aa37-86c97942aa81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

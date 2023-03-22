@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Worker profile (1)</name>
+   <tag></tag>
+   <elementGuidId>8df633e3-42cb-4013-a031-7a1be001324c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#worker-profile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='worker-profile']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2bfe612e-fc55-41a7-b89b-f601916d9661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>worker-profile</value>
+      <webElementGuid>34d6ea44-2cfb-4569-b358-375a045572c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button float-right</value>
+      <webElementGuid>b898cd7d-bfa0-4fc2-9183-288dfcd80f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Worker profile</value>
+      <webElementGuid>c0b8de8b-39e1-45f1-ac52-37cc8366d8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[@class=&quot;ontario-margin-top-24-!&quot;]/app-csr-workers[1]/app-worker-search-criteria[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/app-worker-card[1]/div[@class=&quot;worker-container&quot;]/div[@class=&quot;worker-details-box ontario-row&quot;]/div[@class=&quot;right-panel ontario-column ontario-small-12 ontario-large-3&quot;]/div[@class=&quot;button-box&quot;]/button[@id=&quot;worker-profile&quot;]</value>
+      <webElementGuid>d2e1fb6a-e7ac-46a2-9254-5222c7b74a16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='worker-profile']</value>
+      <webElementGuid>6ed3b7c6-414a-480a-b185-9ebde57de870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/div[2]/div/app-worker-card/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>3a2f53b6-6a6d-4b2d-8a4d-0a278bc85b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(123) 678-1234'])[1]/following::button[1]</value>
+      <webElementGuid>20a4166f-589c-4fe6-a13c-41c17a0bbe91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number'])[2]/following::button[1]</value>
+      <webElementGuid>2ee2d97c-1806-46db-980d-0084aa76ae3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Martin Cerisano123'])[1]/preceding::button[1]</value>
+      <webElementGuid>1c434f52-3849-4a10-9173-cd6788a51c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QH196001'])[1]/preceding::button[1]</value>
+      <webElementGuid>ee628c10-31d5-40c0-9212-62212fa18bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Worker profile']/parent::*</value>
+      <webElementGuid>e24b3352-6a0e-4c7b-a3bc-340f428df6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>0e80b996-f93a-4ca2-a908-23b35fa12b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'worker-profile' and (text() = 'Worker profile' or . = 'Worker profile')]</value>
+      <webElementGuid>2b61f1c9-ddb5-450c-bd55-e321ce61b931</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

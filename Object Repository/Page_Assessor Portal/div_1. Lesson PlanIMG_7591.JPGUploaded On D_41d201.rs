@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1. Lesson PlanIMG_7591.JPGUploaded On D_41d201</name>
+   <tag></tag>
+   <elementGuidId>3b8fe634-74a3-49ed-b098-a60224cb6287</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e9a4ed2-5357-4476-af3a-782b95dbd20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12</value>
+      <webElementGuid>febb4311-f130-467e-899b-94cae7afe88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. Lesson PlanIMG_7591.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 2. Instructor ManualIMG_2766.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 3. Presentation MaterialsIMG_7593.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 4. Participant ManualIMG_9057.PNGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 5. Proof of training completion document (sample)IMG_3916.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes </value>
+      <webElementGuid>3e942dec-1ed9-421b-b76e-51169bbaa61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-program-docs[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-padding-left-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]</value>
+      <webElementGuid>861eb54a-1c36-435a-a995-4eedebb7dbfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div</value>
+      <webElementGuid>cea9ffa0-92fa-432c-a323-34ddd987033e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program requirements'])[2]/following::div[10]</value>
+      <webElementGuid>21e34f6b-b96a-4bac-ad56-cf169f85ed4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program documents'])[2]/following::div[10]</value>
+      <webElementGuid>b56a7ba0-1b86-42ef-9710-17a2125d1386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-application-program-material-files/div/div/div</value>
+      <webElementGuid>37291f6e-11e4-4008-a8f6-267447060c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1. Lesson PlanIMG_7591.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 2. Instructor ManualIMG_2766.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 3. Presentation MaterialsIMG_7593.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 4. Participant ManualIMG_9057.PNGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 5. Proof of training completion document (sample)IMG_3916.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes ' or . = '1. Lesson PlanIMG_7591.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 2. Instructor ManualIMG_2766.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 3. Presentation MaterialsIMG_7593.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 4. Participant ManualIMG_9057.PNGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes 5. Proof of training completion document (sample)IMG_3916.JPGUploaded On: Dec 19, 2022 Program review assessment CompleteDeficiency Notes ')]</value>
+      <webElementGuid>3b7be235-a9e9-409d-8425-57d655629201</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Benefits of RegistrationThe delivery of_18c40a</name>
+   <tag></tag>
+   <elementGuidId>58c6caf8-d504-4733-96c5-1e60dc8a4ec0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-register-training-provider/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d36e6ac-1418-4b8c-bf74-1cdc6afa4caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>6d17a0d2-b154-4509-80f5-766425c36285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Benefits of RegistrationThe delivery of CPO-mandated occupational health and safety training may only be delivered by a CPO-approved training provider. All applicants must submit a complete training provider application in order to be considered for CPO approval. A complete application must include the related training program.A training provider account is required for the online submission of a new application form and creates a direct line of communication with the ministry. After submitting an application, the account can be accessed to view the status of the application, make any required updates, and ask any questions related to the submission.The Application ProcessThe ministry’s approval process involves five levels of assessment to verify that both the technical content and program delivery elements meet the requirements of  the related training programLevel 1 - TriageThe ministry will review the training provider application to ensure all components of the application(e.g.attestations, program submissions) are complete.Level 2 - Desk assessmentThe ministry will conduct an assessment of the submitted application (including the training program). Standardized forms will be used to streamline the process of measuring program content and provider elements against the requirements of the Working at Heights Training Program and Provider Standards.Level 3 - Field assessmentThe ministry will visit the proposed learning site (i.e. field assessment) to confirm the effectiveness and the delivery of the program.Level 4 - Recommendation to the Chief Prevention OfficerThe ministry will prepare a formal recommendation report including the desk and field assessment findings, with a recommendation for CPO’s review and consideration.Level 5 - Chief Prevention Officer approvalThe CPO will provide a formal approval or rejection of the training provider and program application.</value>
+      <webElementGuid>f864f62f-7c72-4bed-9768-b3e3208a153b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-register-training-provider[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>8cf580f4-9040-49b2-91df-3a4d5b3b10c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-register-training-provider/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div</value>
+      <webElementGuid>8e1d43df-8c70-46db-9048-da2cc4a3c8b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional information'])[1]/following::div[2]</value>
+      <webElementGuid>8ca18c99-1338-4bcc-9d65-ec7bd008c81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[1]/following::div[6]</value>
+      <webElementGuid>307d443b-c701-4bac-90c6-fdb693a57eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The delivery of CPO-mandated occupational health and safety training may only be delivered by a CPO-approved training provider. All applicants must submit a complete training provider application in order to be considered for CPO approval. A complete application must include the related training program.']/parent::*</value>
+      <webElementGuid>1ec70407-ce9b-413a-9fa0-f940fa157575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar/div/div[2]/div</value>
+      <webElementGuid>a08ef442-4346-447e-9116-4e03f41f933e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Benefits of RegistrationThe delivery of CPO-mandated occupational health and safety training may only be delivered by a CPO-approved training provider. All applicants must submit a complete training provider application in order to be considered for CPO approval. A complete application must include the related training program.A training provider account is required for the online submission of a new application form and creates a direct line of communication with the ministry. After submitting an application, the account can be accessed to view the status of the application, make any required updates, and ask any questions related to the submission.The Application ProcessThe ministry’s approval process involves five levels of assessment to verify that both the technical content and program delivery elements meet the requirements of  the related training programLevel 1 - TriageThe ministry will review the training provider application to ensure all components of the application(e.g.attestations, program submissions) are complete.Level 2 - Desk assessmentThe ministry will conduct an assessment of the submitted application (including the training program). Standardized forms will be used to streamline the process of measuring program content and provider elements against the requirements of the Working at Heights Training Program and Provider Standards.Level 3 - Field assessmentThe ministry will visit the proposed learning site (i.e. field assessment) to confirm the effectiveness and the delivery of the program.Level 4 - Recommendation to the Chief Prevention OfficerThe ministry will prepare a formal recommendation report including the desk and field assessment findings, with a recommendation for CPO’s review and consideration.Level 5 - Chief Prevention Officer approvalThe CPO will provide a formal approval or rejection of the training provider and program application.' or . = 'Benefits of RegistrationThe delivery of CPO-mandated occupational health and safety training may only be delivered by a CPO-approved training provider. All applicants must submit a complete training provider application in order to be considered for CPO approval. A complete application must include the related training program.A training provider account is required for the online submission of a new application form and creates a direct line of communication with the ministry. After submitting an application, the account can be accessed to view the status of the application, make any required updates, and ask any questions related to the submission.The Application ProcessThe ministry’s approval process involves five levels of assessment to verify that both the technical content and program delivery elements meet the requirements of  the related training programLevel 1 - TriageThe ministry will review the training provider application to ensure all components of the application(e.g.attestations, program submissions) are complete.Level 2 - Desk assessmentThe ministry will conduct an assessment of the submitted application (including the training program). Standardized forms will be used to streamline the process of measuring program content and provider elements against the requirements of the Working at Heights Training Program and Provider Standards.Level 3 - Field assessmentThe ministry will visit the proposed learning site (i.e. field assessment) to confirm the effectiveness and the delivery of the program.Level 4 - Recommendation to the Chief Prevention OfficerThe ministry will prepare a formal recommendation report including the desk and field assessment findings, with a recommendation for CPO’s review and consideration.Level 5 - Chief Prevention Officer approvalThe CPO will provide a formal approval or rejection of the training provider and program application.')]</value>
+      <webElementGuid>4d5284af-b996-41d4-9e05-e5f1952faf10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

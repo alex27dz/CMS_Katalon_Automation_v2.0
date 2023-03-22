@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SearchReset filtersSort by Date Earlies_25f310</name>
+   <tag></tag>
+   <elementGuidId>a30566fb-cdbf-426d-8446-85a5e5d4d265</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.button-row.ontario-column.ontario-small-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38ff3292-43ec-4012-8a88-f394d36dff84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-row ontario-column ontario-small-12</value>
+      <webElementGuid>99517cde-2c17-4b2a-849b-a5f48e1658a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SearchReset filtersSort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - LowShowing 7 course advertisementsIn-ClassJuly30SaturdaySeats available18/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn's amazing trainingClass informationJul 30 @ 11:00 AM to 4:00 PMAug 07 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: jaclyn@jaclynlearning.comP: 123-456-7890W: http://www.jaclynlearning.comeLearningAugust07SundaySeats available29/30Course feeN/ASoftware DevelopmentProvided byTEST - Atif's super cool training provisionsClass informationAug 07 @ 11:00 AM to 4:00 PMAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 654 new street, TEST - Mississauga ON, P0J 1P0ContactE: sufian@mto.caP: 321-456-0987W: http://www.mto.caIn-ClassSeptember11SundaySeats available20/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn's amazing trainingClass informationSep 11 @ 4:00 PM to 8:15 PMAug 07 @ 1:30 PM to 3:30 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactIn-ClassAugust11ThursdaySeats available20/20Course fee$600.00Software Development-JavaProvided byTEST - Jaclyn's amazing trainingClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caeLearningAugust11ThursdaySeats available40/40Course fee$0.00Software DevelopmentProvided byTEST - Atif's super cool training provisionsClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caIn-ClassAugust11ThursdaySeats available20/20Course fee$600.00Software Development-C#Provided byTEST - Jaclyn's amazing trainingClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 654 new street, TEST - Mississauga ON, P0J 1P0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caIn-ClassOctober11TuesdaySeats available20/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn's amazing trainingClass informationOct 11 @ 12:00 PM to 2:00 PMSep 07 @ 9:15 AM to 11:30 AMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactJulSat30 In-Class Software DevelopmentTEST - Jaclyn's amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Jul 30 - Sat @ 11:00 AM to 4:00 PM Aug 7 - Sun @ 11:00 AM to 4:00 PMSeats available2/20Course Fee$400.00AugSun07 eLearning Software DevelopmentTEST - Atif's super cool training provisionsTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 7 - Sun @ 11:00 AM to 4:00 PM Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available1/30Course FeeContact usSepSun11 In-Class Software DevelopmentTEST - Jaclyn's amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Sep 11 - Sun @ 4:00 PM to 8:15 PM Aug 7 - Sun @ 1:30 PM to 3:30 PMSeats available0/20Course Fee$400.00AugThu11 In-Class Software Development-JavaTEST - Jaclyn's amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/20Course Fee$600.00AugThu11 eLearning Software DevelopmentTEST - Atif's super cool training provisionsTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/40Course Fee$0.00AugThu11 In-Class Software Development-C#TEST - Jaclyn's amazing trainingTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/20Course Fee$600.00OctTue11 In-Class Software DevelopmentTEST - Jaclyn's amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Oct 11 - Tue @ 12:00 PM to 2:00 PM Sep 7 - Wed @ 9:15 AM to 11:30 AMSeats available0/20Course Fee$400.00</value>
+      <webElementGuid>0a162774-5f0c-4634-9d68-4cd19219278b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;button-row ontario-column ontario-small-12&quot;]</value>
+      <webElementGuid>b52cb567-6eb6-4f6a-84aa-77ababf6019b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]</value>
+      <webElementGuid>508821cd-94aa-4f9b-8321-c730e314faf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekend classes only'])[1]/following::div[1]</value>
+      <webElementGuid>af58ff59-2bc5-408c-ae12-152a91653d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show the listings with course fee only'])[1]/following::div[3]</value>
+      <webElementGuid>2bdb3a06-ec90-4c5c-ab90-4304495bf011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]</value>
+      <webElementGuid>2a9f6e4c-efeb-417e-a3b4-d221c961d8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;SearchReset filtersSort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - LowShowing 7 course advertisementsIn-ClassJuly30SaturdaySeats available18/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationJul 30 @ 11:00 AM to 4:00 PMAug 07 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: jaclyn@jaclynlearning.comP: 123-456-7890W: http://www.jaclynlearning.comeLearningAugust07SundaySeats available29/30Course feeN/ASoftware DevelopmentProvided byTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsClass informationAug 07 @ 11:00 AM to 4:00 PMAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 654 new street, TEST - Mississauga ON, P0J 1P0ContactE: sufian@mto.caP: 321-456-0987W: http://www.mto.caIn-ClassSeptember11SundaySeats available20/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationSep 11 @ 4:00 PM to 8:15 PMAug 07 @ 1:30 PM to 3:30 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactIn-ClassAugust11ThursdaySeats available20/20Course fee$600.00Software Development-JavaProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caeLearningAugust11ThursdaySeats available40/40Course fee$0.00Software DevelopmentProvided byTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caIn-ClassAugust11ThursdaySeats available20/20Course fee$600.00Software Development-C#Provided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 654 new street, TEST - Mississauga ON, P0J 1P0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caIn-ClassOctober11TuesdaySeats available20/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationOct 11 @ 12:00 PM to 2:00 PMSep 07 @ 9:15 AM to 11:30 AMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactJulSat30 In-Class Software DevelopmentTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Jul 30 - Sat @ 11:00 AM to 4:00 PM Aug 7 - Sun @ 11:00 AM to 4:00 PMSeats available2/20Course Fee$400.00AugSun07 eLearning Software DevelopmentTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 7 - Sun @ 11:00 AM to 4:00 PM Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available1/30Course FeeContact usSepSun11 In-Class Software DevelopmentTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Sep 11 - Sun @ 4:00 PM to 8:15 PM Aug 7 - Sun @ 1:30 PM to 3:30 PMSeats available0/20Course Fee$400.00AugThu11 In-Class Software Development-JavaTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/20Course Fee$600.00AugThu11 eLearning Software DevelopmentTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/40Course Fee$0.00AugThu11 In-Class Software Development-C#TEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/20Course Fee$600.00OctTue11 In-Class Software DevelopmentTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Oct 11 - Tue @ 12:00 PM to 2:00 PM Sep 7 - Wed @ 9:15 AM to 11:30 AMSeats available0/20Course Fee$400.00&quot;) or . = concat(&quot;SearchReset filtersSort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - LowShowing 7 course advertisementsIn-ClassJuly30SaturdaySeats available18/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationJul 30 @ 11:00 AM to 4:00 PMAug 07 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: jaclyn@jaclynlearning.comP: 123-456-7890W: http://www.jaclynlearning.comeLearningAugust07SundaySeats available29/30Course feeN/ASoftware DevelopmentProvided byTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsClass informationAug 07 @ 11:00 AM to 4:00 PMAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 654 new street, TEST - Mississauga ON, P0J 1P0ContactE: sufian@mto.caP: 321-456-0987W: http://www.mto.caIn-ClassSeptember11SundaySeats available20/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationSep 11 @ 4:00 PM to 8:15 PMAug 07 @ 1:30 PM to 3:30 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactIn-ClassAugust11ThursdaySeats available20/20Course fee$600.00Software Development-JavaProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caeLearningAugust11ThursdaySeats available40/40Course fee$0.00Software DevelopmentProvided byTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caIn-ClassAugust11ThursdaySeats available20/20Course fee$600.00Software Development-C#Provided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationAug 11 @ 11:00 AM to 4:00 PMTraining LocationTEST - 654 new street, TEST - Mississauga ON, P0J 1P0ContactE: atif@mto.caP: 444-456-666W: http://www.mto.caIn-ClassOctober11TuesdaySeats available20/20Course fee$400.00Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationOct 11 @ 12:00 PM to 2:00 PMSep 07 @ 9:15 AM to 11:30 AMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactJulSat30 In-Class Software DevelopmentTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Jul 30 - Sat @ 11:00 AM to 4:00 PM Aug 7 - Sun @ 11:00 AM to 4:00 PMSeats available2/20Course Fee$400.00AugSun07 eLearning Software DevelopmentTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 7 - Sun @ 11:00 AM to 4:00 PM Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available1/30Course FeeContact usSepSun11 In-Class Software DevelopmentTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Sep 11 - Sun @ 4:00 PM to 8:15 PM Aug 7 - Sun @ 1:30 PM to 3:30 PMSeats available0/20Course Fee$400.00AugThu11 In-Class Software Development-JavaTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/20Course Fee$600.00AugThu11 eLearning Software DevelopmentTEST - Atif&quot; , &quot;'&quot; , &quot;s super cool training provisionsTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/40Course Fee$0.00AugThu11 In-Class Software Development-C#TEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 654 new street, TEST - Mississauga, ON, P0J 1P0Class information Aug 11 - Thu @ 11:00 AM to 4:00 PMSeats available0/20Course Fee$600.00OctTue11 In-Class Software DevelopmentTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingTraining LocationTEST - 123 Street, TEST - Toronto, ON, T0T 0T0Class information Oct 11 - Tue @ 12:00 PM to 2:00 PM Sep 7 - Wed @ 9:15 AM to 11:30 AMSeats available0/20Course Fee$400.00&quot;))]</value>
+      <webElementGuid>2f0fbe2a-abfe-49bb-85ad-720cd2e915df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

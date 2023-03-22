@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assign portfolio contact Portfolio cont_14dba0</name>
+   <tag></tag>
+   <elementGuidId>9b4e8627-200d-4dcf-8736-3087b728d6e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-provider-details/div/div/app-provider-profile/div/div/app-assessor-sidebar/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d53d5bc-f4ea-49e2-90f6-b1060b3901b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row sidebar-body ontario-margin-bottom-48-!</value>
+      <webElementGuid>f771e3a2-9afa-4384-9d4c-b13c6a7e5376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Assign portfolio contact Portfolio contactMarty CerisanoEmail addressMarty.Cerisano@ontario.caPhone number (333) 333-3333Assigned on Nov 14, 2022 at 9:33 am Delete </value>
+      <webElementGuid>13322d77-ca07-4d0d-a273-3e51a890201c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-provider-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-provider-profile[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-4 float-right sidebar-col assessor-sidebar&quot;]/app-assessor-sidebar[1]/div[@class=&quot;ontario-row sidebar-body ontario-margin-bottom-48-!&quot;]</value>
+      <webElementGuid>7b05caf4-d73a-4a84-9425-7c4e0ecf12b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-provider-details/div/div/app-provider-profile/div/div/app-assessor-sidebar/div</value>
+      <webElementGuid>de1a52c2-243a-407e-842c-e10dd1ffc6e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programs'])[1]/following::div[6]</value>
+      <webElementGuid>0996c1b0-27ff-49eb-a6f6-a74479317898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provider profile'])[1]/following::div[6]</value>
+      <webElementGuid>d0179955-5a26-4c97-a9a2-17990a52594e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-assessor-sidebar/div</value>
+      <webElementGuid>63ee4f7c-a3e3-4e7f-8d7e-d3e3c9525d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Assign portfolio contact Portfolio contactMarty CerisanoEmail addressMarty.Cerisano@ontario.caPhone number (333) 333-3333Assigned on Nov 14, 2022 at 9:33 am Delete ' or . = ' Assign portfolio contact Portfolio contactMarty CerisanoEmail addressMarty.Cerisano@ontario.caPhone number (333) 333-3333Assigned on Nov 14, 2022 at 9:33 am Delete ')]</value>
+      <webElementGuid>8ba27d2a-b4cb-473e-b77c-e3e0c1b48e79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

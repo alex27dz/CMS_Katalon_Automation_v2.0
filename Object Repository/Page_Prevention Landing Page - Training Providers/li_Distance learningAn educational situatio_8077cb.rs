@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Distance learningAn educational situatio_8077cb</name>
+   <tag></tag>
+   <elementGuidId>253a6859-6577-4edd-bb59-a896c42b0e83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/app-page-content-loop/app-generic-paragraph/div/div[2]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>29a546fa-e595-44c4-be78-8d505008a288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distance learningAn educational situation in which the instructor and learners are separated by location. Education or training courses are delivered to remote locations via synchronous or real-time instruction.</value>
+      <webElementGuid>98a8acc6-9fd8-441a-8dfe-508caecf6756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[2]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section&quot;]/app-page-content-loop[1]/app-dynamic-tab-list[1]/app-page-content-loop[1]/app-generic-paragraph[1]/div[@class=&quot;paragraph&quot;]/div[@class=&quot;paragraph-content&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>f963fcf2-6d5a-483a-a299-0781d6c7e650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c1a9f67c-2b2b-4990-8b33-a06c6cbcce0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distance learningAn educational situation in which the instructor and learners are separated by location. Education or training courses are delivered to remote locations via synchronous or real-time instruction.</value>
+      <webElementGuid>6d450fc6-5fe0-4dca-82a3-59de7d0454e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[2]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section&quot;]/app-page-content-loop[1]/app-dynamic-tab-list[1]/app-page-content-loop[1]/app-generic-paragraph[1]/div[@class=&quot;paragraph&quot;]/div[@class=&quot;paragraph-content&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>44a3cfd3-fd5d-4ba7-9976-7d9cf15169a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/app-page-content-loop/app-generic-paragraph/div/div[2]/ul/li[2]</value>
+      <webElementGuid>ca05427a-cd19-4f11-a937-6fe5fec8e887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Face-to-face (in-class) training'])[1]/following::li[1]</value>
+      <webElementGuid>04c3e652-88c1-4f67-97f5-b6134fde43d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery modes for Joint Health and Safety Committee'])[1]/following::li[2]</value>
+      <webElementGuid>616efd9e-2fa0-45bc-b6e2-6b45aaf13271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eLearning (Electronic Learning)'])[1]/preceding::li[1]</value>
+      <webElementGuid>d7023a35-5aa1-4c58-8cb5-b4c2606e4540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='An educational situation in which the instructor and learners are separated by location. Education or training courses are delivered to remote locations via synchronous or real-time instruction.']/parent::*</value>
+      <webElementGuid>7d6c2d32-9842-4096-bba4-4d1db2119c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]</value>
+      <webElementGuid>15d5d89c-e6cb-4ba1-95f4-479d5116ccd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Distance learningAn educational situation in which the instructor and learners are separated by location. Education or training courses are delivered to remote locations via synchronous or real-time instruction.' or . = 'Distance learningAn educational situation in which the instructor and learners are separated by location. Education or training courses are delivered to remote locations via synchronous or real-time instruction.')]</value>
+      <webElementGuid>ba14cfd6-c836-4d29-9c3c-22ec80762906</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

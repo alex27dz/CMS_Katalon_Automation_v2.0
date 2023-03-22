@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Additional observation</name>
+   <tag></tag>
+   <elementGuidId>5a5a5c11-dbe0-45cb-9444-b09a9ab7cf13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-field-assessment/div/div/app-field-assessment-side-bar/div/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2879e75e-1bda-4694-9129-29aa354585d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0f6f25ca-9a37-4d35-b4b1-3470bfcbeab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsible-header less-left-padding collapsed</value>
+      <webElementGuid>aabe6ae8-92b6-4fa9-88b3-3b0c0158aeaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Additional observation </value>
+      <webElementGuid>ed0641fd-c2f0-4319-8b55-bc08bea2df1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-field-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-3 float-right ontario-margin-top-24-! sticky&quot;]/app-field-assessment-side-bar[1]/div[@class=&quot;sidebar-background&quot;]/div[@class=&quot;collapsible-header less-left-padding collapsed&quot;]</value>
+      <webElementGuid>6176d96c-9355-4e73-add1-a2bfbde7d7de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-field-assessment/div/div/app-field-assessment-side-bar/div/div[6]</value>
+      <webElementGuid>3e6f80f3-cfd9-4ca8-8288-af9912f96afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field visit worksheet'])[1]/following::div[1]</value>
+      <webElementGuid>e330df1d-043d-42a1-99a9-0ecc47ebb194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule &amp; Pre-field Checklist'])[1]/following::div[2]</value>
+      <webElementGuid>9e69a3b0-7e19-409c-ae54-e5f784710ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application'])[1]/preceding::div[1]</value>
+      <webElementGuid>0db20dd0-74fe-4b94-a921-269acd79f2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prep &amp; observation'])[1]/preceding::div[2]</value>
+      <webElementGuid>8dc12e95-0401-42fa-9505-bb5be7def06e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional observation']/parent::*</value>
+      <webElementGuid>97385f7b-0127-4283-afe9-349c24ff2bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>f050a363-8f7c-4a17-bcc2-1e993441cc81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Additional observation ' or . = ' Additional observation ')]</value>
+      <webElementGuid>eb84668a-75d2-4bc0-a690-ca4eebe79325</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

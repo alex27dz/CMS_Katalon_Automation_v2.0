@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All 6 Triage 4 Desk 1 Field  Recommenda_863329</name>
+   <tag></tag>
+   <elementGuidId>b665d973-306a-43b9-8fc1-bb11a569c1d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-tabs/div/div[2]/app-tab/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8837d90-18c0-4326-9947-b30f723cab2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>adbfc908-7d83-4998-b814-f825398d9dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> All 6 Triage 4 Desk 1 Field  Recommendation  Archived 1</value>
+      <webElementGuid>e71adc9e-95e5-4281-b197-2b5a1152fead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]</value>
+      <webElementGuid>fd52390f-90bf-4a50-b2c8-26becce127f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-tabs/div/div[2]/app-tab/div</value>
+      <webElementGuid>d72fb6e3-65a6-4c94-9d4c-dc440869a06e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC'])[1]/following::div[2]</value>
+      <webElementGuid>58a53b89-8088-4a0a-a2d1-f14521025de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH'])[1]/following::div[2]</value>
+      <webElementGuid>1e216b45-9524-41b1-bcec-1f3f797bccdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab/div</value>
+      <webElementGuid>49aa79c5-2f4b-4b5e-9b18-5fd2707d5973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' All 6 Triage 4 Desk 1 Field  Recommendation  Archived 1' or . = ' All 6 Triage 4 Desk 1 Field  Recommendation  Archived 1')]</value>
+      <webElementGuid>bd2379c3-8307-4251-ac5e-8aafe7103b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View details (1)</name>
+   <tag></tag>
+   <elementGuidId>29ab0e34-88c1-4f6d-ae5b-5c43b973f0cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='triage-button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2c7ed2ad-2318-4c06-9eb5-20eb8ce9f865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>triage-button</value>
+      <webElementGuid>afd2bcb7-1f1b-44f9-8e8c-5c163b2813c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button</value>
+      <webElementGuid>95aabf9c-6ec9-4273-a307-1262f46a31a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details</value>
+      <webElementGuid>8294ea47-fc92-4dc3-8a9f-287508e29a56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/app-program-overview[1]/div[@class=&quot;cards-container ontario-row&quot;]/div[@class=&quot;stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3&quot;]/app-approval-card[1]/div[@class=&quot;stage-card&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;button-container&quot;]/button[@id=&quot;triage-button&quot;]</value>
+      <webElementGuid>6e57955e-42f2-4e55-a7f8-95b3784c11f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='triage-button'])[2]</value>
+      <webElementGuid>15943de0-3006-4399-89ee-d0c5e09385ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[5]/div[2]/app-approval-card/div/div[2]/div[4]/button</value>
+      <webElementGuid>90f81632-f4e7-4e1f-917b-1119c2a95583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='in 17 days'])[1]/following::button[1]</value>
+      <webElementGuid>20c90c07-939b-415f-88d9-7503ef84bc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 05, 2023'])[1]/following::button[1]</value>
+      <webElementGuid>2bb35eac-6111-4824-bfcf-4215c5c8db5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FIELD'])[2]/preceding::button[1]</value>
+      <webElementGuid>63154a71-83f9-46b7-924a-fd0e4fe58333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/app-approval-card/div/div[2]/div[4]/button</value>
+      <webElementGuid>d8332489-61a5-4eb7-a14a-39ca8ea88af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'triage-button' and (text() = 'View details' or . = 'View details')]</value>
+      <webElementGuid>bed21ecf-a4f9-4473-ba76-29d813a78dd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

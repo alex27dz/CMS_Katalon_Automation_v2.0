@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_You have successfully submitted the JHSC1_3f2032</name>
+   <tag></tag>
+   <elementGuidId>17cc98b4-7dc3-4b5a-9067-b8a817e43eca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-alert-banner/div/div[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>8f22902b-090a-4f59-b92f-593b20115c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have successfully submitted the JHSC1 training application.</value>
+      <webElementGuid>9cb36da3-331b-47c1-b5af-d2cf91e379fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-7 ontario-margin-top-24-! float-left&quot;]/app-alert-banner[1]/div[@class=&quot;banner success&quot;]/div[@class=&quot;icon-text&quot;]/b[1]</value>
+      <webElementGuid>7fb4c3b4-2e37-4053-8c2b-3abdf3306a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ac485456-d69a-4e81-a710-7bf19f339fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have successfully submitted the JHSC1 training application.</value>
+      <webElementGuid>31914f01-2c6c-4855-b349-b879ae5e4472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-7 ontario-margin-top-24-! float-left&quot;]/app-alert-banner[1]/div[@class=&quot;banner success&quot;]/div[@class=&quot;icon-text&quot;]/b[1]</value>
+      <webElementGuid>e66a1a42-54d8-4fa6-b6ee-e25d2cdf2621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-alert-banner/div/div[2]/b</value>
+      <webElementGuid>c42d827e-f7d3-4b7e-a851-28db8ce17284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit training program delivery application'])[1]/following::b[1]</value>
+      <webElementGuid>8ee524a9-7a92-41f6-998f-6ca742b27ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage approved training programs'])[1]/following::b[1]</value>
+      <webElementGuid>913a31e0-f62a-4185-ac80-9ff4a701380e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One or more program application(s) require your action'])[1]/preceding::b[1]</value>
+      <webElementGuid>82e239ad-62ba-4cbe-8cf8-317a8e138038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Type'])[1]/preceding::b[2]</value>
+      <webElementGuid>233d6f99-9054-4d89-8bb3-3c19317a3a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You have successfully submitted the JHSC1 training application.']/parent::*</value>
+      <webElementGuid>aa4412fc-a30e-47c2-9d4f-d91851c910e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>b01b396c-24fd-422f-8e7c-3d183ed8b409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'You have successfully submitted the JHSC1 training application.' or . = 'You have successfully submitted the JHSC1 training application.')]</value>
+      <webElementGuid>106ab8cf-ef7c-4f14-a497-a187aab5088a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To access training recordsCall 1-877 20_5ecb11</name>
+   <tag></tag>
+   <elementGuidId>2cbea838-ad91-4ed4-ba48-2226ca7f429d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb7a12ae-173f-4963-9dd6-718cc4faad75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box</value>
+      <webElementGuid>cf60e9aa-f24f-4dd8-a48b-263bfdd612c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To access training recordsCall: 1-877 202 0008OR Submit an online request here</value>
+      <webElementGuid>de9cbd32-3df6-4f32-87c3-2f60a35fb374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[2]/div[@class=&quot;box&quot;]</value>
+      <webElementGuid>6ea9bb57-e20e-47cc-ba73-92a1ab52f58d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div</value>
+      <webElementGuid>18fb1ae7-00b3-4e57-9906-83dbad5f672e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address/ Phone number/ Postal code'])[1]/following::div[2]</value>
+      <webElementGuid>281b692b-f774-45c4-bc3e-b1cf026d83eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learner ID &amp; Name on training records'])[1]/following::div[3]</value>
+      <webElementGuid>a20536c9-1743-42fe-9268-72c31f34051b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar[2]/div</value>
+      <webElementGuid>daedbdb5-1ffc-4337-87fe-29898eff0a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'To access training recordsCall: 1-877 202 0008OR Submit an online request here' or . = 'To access training recordsCall: 1-877 202 0008OR Submit an online request here')]</value>
+      <webElementGuid>519c5ab0-e32c-4ed4-8e79-f26218a2c881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

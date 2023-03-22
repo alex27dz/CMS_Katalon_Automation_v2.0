@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>97ad338b-ee3b-47a8-9dd6-797c2a626578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Government of Ontario&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='ontario-header-default']/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>33104660-617d-43f5-a3f2-bd599e9af650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/ontario-design-system/logos/ontario-logo--desktop.svg</value>
+      <webElementGuid>47714c41-0aed-44f1-bad2-0bd7759b0438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Government of Ontario</value>
+      <webElementGuid>9673741c-1af1-4c41-b2c0-d6208e65733e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ontario-header-default&quot;)/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-header__logo-container ontario-columns ontario-small-9&quot;]/a[1]/img[1]</value>
+      <webElementGuid>25b8bd51-a991-4a59-a135-3692633d9025</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='ontario-header-default']/div/div/a/img</value>
+      <webElementGuid>70cf398c-12c0-41e7-b02c-1dc7b86f36b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Government of Ontario']</value>
+      <webElementGuid>c8b6f15e-5104-4de7-a03c-06681619c4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>c09dacd3-9c63-4ad7-981c-b79f09fa804d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/ontario-design-system/logos/ontario-logo--desktop.svg' and @alt = 'Government of Ontario']</value>
+      <webElementGuid>34a793ed-6f6b-4ec1-9c84-8643b545e601</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

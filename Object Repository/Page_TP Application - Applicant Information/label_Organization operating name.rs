@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Organization operating name</name>
+   <tag></tag>
+   <elementGuidId>1dd987a8-68d2-46d7-a34c-90a3795416f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.question-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/form/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ac8ee34a-17d9-4469-bab1-fa115f22446d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>question-text</value>
+      <webElementGuid>f48b73bb-b420-4941-ae07-0fc6ad8d110b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Organization operating name</value>
+      <webElementGuid>8063fcd2-d878-46fa-9ab2-7dd8e3b63a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/form[@class=&quot;ontario-margin-top-8-! ontario-padding-left-16-! ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row ontario-margin-top-24-!&quot;]/label[@class=&quot;question-text&quot;]</value>
+      <webElementGuid>03e673a0-6f5e-4902-86dc-f211ffd70e01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/form/div/label</value>
+      <webElementGuid>7040f36c-62c9-4832-bded-8754080a6938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please use my account settings page to update the business information.'])[1]/following::label[1]</value>
+      <webElementGuid>897f74ee-4d29-481d-8370-0a60dcdbd2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant business information'])[1]/following::label[1]</value>
+      <webElementGuid>f1bc6c47-b687-49d8-bb8f-056afd3077f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('ABC', &quot;'&quot;, 's Training Center')])[1]/preceding::label[1]</value>
+      <webElementGuid>7f5f8e7d-f947-4f99-8ee3-f4b2551865c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization legal name'])[1]/preceding::label[1]</value>
+      <webElementGuid>6c63f5c6-94d6-41a4-b83b-f5de16b53128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organization operating name']/parent::*</value>
+      <webElementGuid>311b934e-3149-49a6-9fb5-655b42863729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>46ea0336-254b-4211-8986-ea0c8a5ce9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Organization operating name' or . = ' Organization operating name')]</value>
+      <webElementGuid>3a82b33c-6d02-443b-805f-14e7a24d827d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

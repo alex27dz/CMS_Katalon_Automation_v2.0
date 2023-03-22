@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>9e2cdd80-297e-44ad-99ed-eed21ee62385</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-attestations-info/div/div/div/div/app-accordion/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.accordion-icon > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>44592e5c-f597-4f37-80da-f296c59ae082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/chevron-down-black-grey-border.svg</value>
+      <webElementGuid>4d0ce88e-b724-4b39-a3f4-d064c55138e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-attestations-info[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;accordion-div ontario-column ontario-small-12 ontario-medium-11 ontario-large-11 float-norm&quot;]/app-accordion[1]/div[@class=&quot;accordion-heading&quot;]/div[@class=&quot;accordion-row&quot;]/div[@class=&quot;accordion-icon&quot;]/img[1]</value>
+      <webElementGuid>5b1d6846-b4e7-469a-b6f5-12f75d253080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-attestations-info/div/div/div/div/app-accordion/div/div/div[2]/img</value>
+      <webElementGuid>f1e2e9b6-1cb4-4f48-bbea-ffb1f05ddc51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/img</value>
+      <webElementGuid>699f7ec9-c527-43f3-a75a-6dc88628b237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/chevron-down-black-grey-border.svg']</value>
+      <webElementGuid>c1676b18-8821-48a3-a668-298aa0782584</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

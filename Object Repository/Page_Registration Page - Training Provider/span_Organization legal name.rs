@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Organization legal name</name>
+   <tag></tag>
+   <elementGuidId>0084f2f2-0d19-404c-a2cc-bd22566c138f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-business-information[@id='businessInformation']/div/div/form/div[2]/div/mat-label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d76dcf0e-13eb-47ee-85c2-c80a024a6896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required-field</value>
+      <webElementGuid>b88d2ec1-ed2f-486c-b3fa-cf393f2f2c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organization legal name</value>
+      <webElementGuid>c096a1d1-3460-4142-ab2c-974f7f67468d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;businessInformation&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row ontario-row&quot;]/div[@class=&quot;tp-input-row ontario-small-12 ontario-medium-6 ontario-column ontario-large-5&quot;]/mat-label[@class=&quot;input-label&quot;]/span[@class=&quot;required-field&quot;]</value>
+      <webElementGuid>4daa5c9e-ae5f-4e8c-8007-df14db493df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c130551-690a-4d46-ab88-d56662722769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required-field</value>
+      <webElementGuid>9d86dcf2-19e7-44ce-9f5f-b6a2a8e9d624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organization legal name</value>
+      <webElementGuid>233dad64-d1bf-48d1-b7a8-b0781fff05c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;businessInformation&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row ontario-row&quot;]/div[@class=&quot;tp-input-row ontario-small-12 ontario-medium-6 ontario-column ontario-large-5&quot;]/mat-label[@class=&quot;input-label&quot;]/span[@class=&quot;required-field&quot;]</value>
+      <webElementGuid>129d88eb-6651-439c-bd19-10cc50f428c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-business-information[@id='businessInformation']/div/div/form/div[2]/div/mat-label/span</value>
+      <webElementGuid>ec6b985f-520c-4218-b73b-cf3a121951ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization operating name'])[1]/following::span[1]</value>
+      <webElementGuid>c0674103-7eff-480b-84a0-0af6ff2f6472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This section requires you to provide contact information details about your organization.'])[1]/following::span[2]</value>
+      <webElementGuid>c06c0d4e-ef51-4fca-8ef5-4a31578edf95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Number (BN9)'])[1]/preceding::span[1]</value>
+      <webElementGuid>bb589a52-4db7-42b9-acae-35da030d1591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Type'])[1]/preceding::span[2]</value>
+      <webElementGuid>996a9971-c8f9-42d0-a14e-5e938d3225ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organization legal name']/parent::*</value>
+      <webElementGuid>b8a3e067-9128-4535-8ccc-d3c7b10ddfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-business-information/div/div/form/div[2]/div/mat-label/span</value>
+      <webElementGuid>9ef13512-4b58-428a-9431-f9685b0c56de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Organization legal name' or . = 'Organization legal name')]</value>
+      <webElementGuid>7de7ad79-b36a-4fff-b0cd-46aa00fdb4c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

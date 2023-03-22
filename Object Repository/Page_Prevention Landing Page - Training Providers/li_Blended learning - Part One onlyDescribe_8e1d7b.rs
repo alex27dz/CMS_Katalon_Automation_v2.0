@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Blended learning - Part One onlyDescribe_8e1d7b</name>
+   <tag></tag>
+   <elementGuidId>fcef2622-1424-44d7-a11b-fc0fce231780</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/app-page-content-loop/app-generic-paragraph/div/div[2]/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bf927d8c-dc83-4dc8-9cd6-9fc3da8bf4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blended learning - Part One onlyDescribes the practice of using several training delivery methods in one curriculum. It typically refers to the combination of classroom instruction and any type of training that includes self-directed use of online capabilities.</value>
+      <webElementGuid>e87bc4ac-1e12-4b1c-a3ec-a831dfe9c83b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[2]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section&quot;]/app-page-content-loop[1]/app-dynamic-tab-list[1]/app-page-content-loop[1]/app-generic-paragraph[1]/div[@class=&quot;paragraph&quot;]/div[@class=&quot;paragraph-content&quot;]/ul[1]/li[4]</value>
+      <webElementGuid>5b244b55-0f1e-4704-a820-f63fd65a13be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0dedd620-556e-4e88-bac6-16865f08e8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blended learning - Part One onlyDescribes the practice of using several training delivery methods in one curriculum. It typically refers to the combination of classroom instruction and any type of training that includes self-directed use of online capabilities.</value>
+      <webElementGuid>cd76eb82-2db8-42ed-9019-594f73585eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[2]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section&quot;]/app-page-content-loop[1]/app-dynamic-tab-list[1]/app-page-content-loop[1]/app-generic-paragraph[1]/div[@class=&quot;paragraph&quot;]/div[@class=&quot;paragraph-content&quot;]/ul[1]/li[4]</value>
+      <webElementGuid>16f6a925-ba66-4c44-9ee1-18db18716ae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/app-page-content-loop/app-generic-paragraph/div/div[2]/ul/li[4]</value>
+      <webElementGuid>c65b3dce-2cee-4ee5-b051-3a85611e6917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Part One only'])[1]/following::li[1]</value>
+      <webElementGuid>428d6e90-1d13-4f3c-95fc-155ec8e566d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eLearning (Electronic Learning)'])[1]/following::li[1]</value>
+      <webElementGuid>e70221f7-1c4a-4d58-ac32-96292c68bb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]</value>
+      <webElementGuid>5a8d0e66-54e9-40ee-bb38-480dffdf424e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Blended learning - Part One onlyDescribes the practice of using several training delivery methods in one curriculum. It typically refers to the combination of classroom instruction and any type of training that includes self-directed use of online capabilities.' or . = 'Blended learning - Part One onlyDescribes the practice of using several training delivery methods in one curriculum. It typically refers to the combination of classroom instruction and any type of training that includes self-directed use of online capabilities.')]</value>
+      <webElementGuid>808171fb-5ecc-4a01-9a69-beb806733b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

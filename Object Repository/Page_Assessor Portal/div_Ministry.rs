@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ministry</name>
+   <tag></tag>
+   <elementGuidId>79a6cc48-bcff-48f4-8402-4f8f92238ffd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div/div[2]/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.display-cell.third-cell.padding-top-cell > div.answer-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7663383b-5bf0-49f6-88e1-ab1a62d4b92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>answer-text</value>
+      <webElementGuid>5a2cb7c6-cfb9-4faa-9e94-6672e9c05612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ministry </value>
+      <webElementGuid>675986c7-116e-4d02-a11b-eb88f8ce6f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-training-program-application-card-list[1]/app-training-program-application-card[1]/div[@class=&quot;card amber&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;display-row&quot;]/div[@class=&quot;display-cell third-cell padding-top-cell&quot;]/div[@class=&quot;answer-text&quot;]</value>
+      <webElementGuid>0ec78198-dc6a-4867-a451-bf3d76298fde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div/div[2]/div[4]/div/div</value>
+      <webElementGuid>b421ef7f-7088-4f2a-99c5-d0356471cf12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action required by'])[1]/following::div[1]</value>
+      <webElementGuid>ea9cafee-ec3c-49d1-81e9-5fc423157c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[4]/following::div[9]</value>
+      <webElementGuid>f5c544b4-e35c-434f-93c8-66eabb865481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Received on'])[1]/preceding::div[2]</value>
+      <webElementGuid>17f29e94-2ec5-4d4c-8711-aeb2c1ef75ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ministry']/parent::*</value>
+      <webElementGuid>170810d7-66a1-4e0f-994d-532a0640f231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>c401d69c-7e1a-46df-a0df-26a21ebec299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Ministry ' or . = ' Ministry ')]</value>
+      <webElementGuid>a7d42898-61b3-4ef8-b425-c5bc18cfe374</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

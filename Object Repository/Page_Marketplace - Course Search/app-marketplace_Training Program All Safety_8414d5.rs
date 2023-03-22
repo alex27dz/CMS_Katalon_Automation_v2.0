@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-marketplace_Training Program All Safety_8414d5</name>
+   <tag></tag>
+   <elementGuidId>04bb57b3-11ed-4693-8125-74789ddcbc93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-marketplace</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-marketplace</value>
+      <webElementGuid>262e034c-6175-449f-9a63-321c3b05778b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training Program All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherTraining providerTraining typeAllBlendedDistanceeLearningIn-ClassTraining locationSelect radiusAll25 kms50 kms100 kms From date  To dateTotal seatsShow the listings with course fee onlyWeekend classes onlySearchReset filtersSort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - LowShowing 0 course advertisementsFeedback We would like to hear about your experience and welcome suggestions/feedback to improve the service. </value>
+      <webElementGuid>775f2aef-8473-48ea-800c-8b77010e5940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]</value>
+      <webElementGuid>33caf2d9-6b8a-4824-a8c9-57b8d330a044</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace</value>
+      <webElementGuid>2696ab46-b73b-4fcd-8716-6a1c925c2a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved Training Providers'])[1]/following::app-marketplace[1]</value>
+      <webElementGuid>29d25a09-34c7-4893-8b9c-30090c9b344a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Eligibility'])[1]/following::app-marketplace[1]</value>
+      <webElementGuid>2730474d-d73a-45e7-bcbf-8800a66a4c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-marketplace</value>
+      <webElementGuid>375ac769-b1ac-44b4-a305-38464964b5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-marketplace[(text() = 'Training Program All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherTraining providerTraining typeAllBlendedDistanceeLearningIn-ClassTraining locationSelect radiusAll25 kms50 kms100 kms From date  To dateTotal seatsShow the listings with course fee onlyWeekend classes onlySearchReset filtersSort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - LowShowing 0 course advertisementsFeedback We would like to hear about your experience and welcome suggestions/feedback to improve the service. ' or . = 'Training Program All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherTraining providerTraining typeAllBlendedDistanceeLearningIn-ClassTraining locationSelect radiusAll25 kms50 kms100 kms From date  To dateTotal seatsShow the listings with course fee onlyWeekend classes onlySearchReset filtersSort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - LowShowing 0 course advertisementsFeedback We would like to hear about your experience and welcome suggestions/feedback to improve the service. ')]</value>
+      <webElementGuid>e9a25aac-be38-44bc-9aa9-50c3191673a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business information  Organization oper_b8f290</name>
+   <tag></tag>
+   <elementGuidId>42f2e537-220a-47f0-8691-9f470ac6f388</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-provider-details/div/div/app-provider-profile/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>515dbdc9-9712-4a5c-baf9-ad02bdd23d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-8 ontario-padding-right-32-!</value>
+      <webElementGuid>d34affaa-deac-4cf7-aeed-8d8be373a600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business information  Organization operating nameABC's Training Center Organization legal nameOntario 15473821 Inc. Provider IDN/A Business TypeJob center WSIB Account Number123abc Business Number (BN9)123456789 Business primary address 564 Road LaneNorth CobaltON P0J 1P0Canada Preferred method of correspondenceEmail Company websitewebsite.comAuthorized contact (DSA)  NameJonathan Doe Phone number(123) 123-1234 Email addressmarty.cerisano@ontario.ca RoleAdministrative Support Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaAuthorized contact (ASA)  NameSamridhi Bindal Phone number(555) 444-6666 Email addressauthy.mcauthorson@email.com RoleHealth and Safety Coordinator Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaOther contact(s)  NameSufian Baig Phone number(321) 456-0987 Email addresssufian@mto.ca RoleManager / Senior Leadership NameJack Wang Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameAtif Razzaq Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameJaclyn Binch Phone number(111) 111-1111 Email addressjaclyn@jaclynlearning.com RoleManager / Senior Leadership NameSayeedur Rahman Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameHitesh Chaudhari Phone number(123) 456-7890 Email addresshitesh@mto.ca RoleManager / Senior Leadership NameRamaprasad Kolla Sridhar Phone numberN/A Email addressN/A RoleManager / Senior Leadership</value>
+      <webElementGuid>71b9503e-d362-4f54-bcf1-81e931718b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-provider-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-provider-profile[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-8 ontario-padding-right-32-!&quot;]</value>
+      <webElementGuid>7110b543-8647-4e93-9380-7be7b9ab1533</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-provider-details/div/div/app-provider-profile/div/div[2]</value>
+      <webElementGuid>4cc45f62-9cd6-409b-81e5-b383a6bbde8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign temporary assessor'])[1]/following::div[1]</value>
+      <webElementGuid>03d4557d-5265-4700-b80f-1b702cd8d26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[3]</value>
+      <webElementGuid>9d5be00c-7831-4cdb-a465-53301096c23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-provider-profile/div/div[2]</value>
+      <webElementGuid>1440e681-f2d0-4929-8f93-382dde558860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Business information  Organization operating nameABC&quot; , &quot;'&quot; , &quot;s Training Center Organization legal nameOntario 15473821 Inc. Provider IDN/A Business TypeJob center WSIB Account Number123abc Business Number (BN9)123456789 Business primary address 564 Road LaneNorth CobaltON P0J 1P0Canada Preferred method of correspondenceEmail Company websitewebsite.comAuthorized contact (DSA)  NameJonathan Doe Phone number(123) 123-1234 Email addressmarty.cerisano@ontario.ca RoleAdministrative Support Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaAuthorized contact (ASA)  NameSamridhi Bindal Phone number(555) 444-6666 Email addressauthy.mcauthorson@email.com RoleHealth and Safety Coordinator Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaOther contact(s)  NameSufian Baig Phone number(321) 456-0987 Email addresssufian@mto.ca RoleManager / Senior Leadership NameJack Wang Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameAtif Razzaq Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameJaclyn Binch Phone number(111) 111-1111 Email addressjaclyn@jaclynlearning.com RoleManager / Senior Leadership NameSayeedur Rahman Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameHitesh Chaudhari Phone number(123) 456-7890 Email addresshitesh@mto.ca RoleManager / Senior Leadership NameRamaprasad Kolla Sridhar Phone numberN/A Email addressN/A RoleManager / Senior Leadership&quot;) or . = concat(&quot;Business information  Organization operating nameABC&quot; , &quot;'&quot; , &quot;s Training Center Organization legal nameOntario 15473821 Inc. Provider IDN/A Business TypeJob center WSIB Account Number123abc Business Number (BN9)123456789 Business primary address 564 Road LaneNorth CobaltON P0J 1P0Canada Preferred method of correspondenceEmail Company websitewebsite.comAuthorized contact (DSA)  NameJonathan Doe Phone number(123) 123-1234 Email addressmarty.cerisano@ontario.ca RoleAdministrative Support Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaAuthorized contact (ASA)  NameSamridhi Bindal Phone number(555) 444-6666 Email addressauthy.mcauthorson@email.com RoleHealth and Safety Coordinator Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaOther contact(s)  NameSufian Baig Phone number(321) 456-0987 Email addresssufian@mto.ca RoleManager / Senior Leadership NameJack Wang Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameAtif Razzaq Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameJaclyn Binch Phone number(111) 111-1111 Email addressjaclyn@jaclynlearning.com RoleManager / Senior Leadership NameSayeedur Rahman Phone numberN/A Email addressN/A RoleManager / Senior Leadership NameHitesh Chaudhari Phone number(123) 456-7890 Email addresshitesh@mto.ca RoleManager / Senior Leadership NameRamaprasad Kolla Sridhar Phone numberN/A Email addressN/A RoleManager / Senior Leadership&quot;))]</value>
+      <webElementGuid>c5d0596c-ca9d-463c-a504-dd6f515c5756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

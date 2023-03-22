@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create Profile  Cancel (1)</name>
+   <tag></tag>
+   <elementGuidId>2ef0ad28-937b-43e3-a1fa-80ae7671c116</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-add-edit-worker/form/div[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7c3cb82-8a9c-4a82-856f-83dff83bb102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row ontario-margin-top-48-! ontario-margin-bottom-40-! ontario-padding-top-16-!</value>
+      <webElementGuid>a9feabd6-3564-4650-8c63-b19640c94540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Profile  Cancel </value>
+      <webElementGuid>eba7aed0-75f6-437f-916c-ea6aa14c80ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-add-edit-worker[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row ontario-margin-top-48-! ontario-margin-bottom-40-! ontario-padding-top-16-!&quot;]</value>
+      <webElementGuid>27ce1a2a-ab27-4aa9-8831-439e40821fb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-add-edit-worker/form/div[9]</value>
+      <webElementGuid>d37ae6ee-fbba-40f4-9117-d1c1904be7a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::div[5]</value>
+      <webElementGuid>62dbcf7e-8627-419e-873f-b389890599d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sharing of information'])[1]/following::div[11]</value>
+      <webElementGuid>5b437add-c413-47af-b807-c61a7c9ed286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]</value>
+      <webElementGuid>5816d9be-297f-43e3-859b-fb6f4a9ad935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Create Profile  Cancel ' or . = ' Create Profile  Cancel ')]</value>
+      <webElementGuid>64adf949-2cae-4063-87b9-1d4ef74e7c75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

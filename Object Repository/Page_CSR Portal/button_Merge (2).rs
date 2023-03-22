@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Merge (2)</name>
+   <tag></tag>
+   <elementGuidId>e371decd-bc85-4a64-8027-7fbb7889cf53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-view-worker/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b388cac-0575-4530-b806-487496278f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-button ontario-button--tertiary</value>
+      <webElementGuid>5ae6ab66-8c6d-44f6-b05f-048279dfe519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Merge </value>
+      <webElementGuid>41789ff6-c2c7-49b9-87fe-c5007346bb2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-view-worker[1]/div[@class=&quot;ontario-row ontario-margin-top-16-! relative&quot;]/div[@class=&quot;worker-header ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 border-bottom ontario-margin-bottom-24-!&quot;]/button[@class=&quot;ontario-button ontario-button--tertiary&quot;]</value>
+      <webElementGuid>09f9a421-e6e7-4431-816f-fcbccc0c81f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-view-worker/div/div/button[2]</value>
+      <webElementGuid>9ab39da8-839c-4d6c-a4cd-8d7481b2cde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      <webElementGuid>1a8c1cfc-0c9e-4f87-a721-00b92f570c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker profile'])[1]/following::button[2]</value>
+      <webElementGuid>98ff17c7-881e-4fd4-9b12-5ce7175e68b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add learner to class'])[1]/preceding::button[1]</value>
+      <webElementGuid>c9c7dafd-57d9-4896-8999-0e62bf75ae25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full name'])[1]/preceding::button[2]</value>
+      <webElementGuid>0bb5f887-49d3-4a9d-84d2-93f78e3d7eb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Merge']/parent::*</value>
+      <webElementGuid>b626523f-1870-4db7-bbb9-f60140e8f6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>b7c6e4d1-ae69-46bd-826d-c000affc83a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Merge ' or . = ' Merge ')]</value>
+      <webElementGuid>c368ca3d-efed-4b57-a437-8101e967b153</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

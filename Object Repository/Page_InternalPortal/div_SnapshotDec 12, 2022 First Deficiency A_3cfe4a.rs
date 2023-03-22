@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SnapshotDec 12, 2022 First Deficiency A_3cfe4a</name>
+   <tag></tag>
+   <elementGuidId>4725d171-6e44-41ba-862c-9e704c34b6b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.body > div.display-row > div.display-cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>167c0082-5652-4555-8019-13dc7643380b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display-cell</value>
+      <webElementGuid>95db286c-b80f-427c-9599-e99b386c5460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SnapshotDec 12, 2022: First Deficiency Action Plan responses receivedDec 12, 2022: First Deficiency Action Plan issued with 0 deficienciesDec 12, 2022: Desk review started by TSADec 12, 2022: Triage stage completed in 0 daysDec 12, 2022: Triage stage started</value>
+      <webElementGuid>59d8c9db-fdf4-43cf-a217-a3176296665c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-training-program-application-card-list[1]/app-training-program-application-card[1]/div[@class=&quot;card amber&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;display-row&quot;]/div[@class=&quot;display-cell&quot;]</value>
+      <webElementGuid>d25d7217-3d76-4d2b-b2d4-5cbb4cb6fb59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div/div[2]/div/div</value>
+      <webElementGuid>beb05c6d-8fe2-4424-bb95-11c377587366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH-10280'])[1]/following::div[3]</value>
+      <webElementGuid>a447070e-1989-4ef8-8f8f-407f584c2fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First DAP responses under review'])[1]/following::div[5]</value>
+      <webElementGuid>0f1c5e10-e75b-46bd-bde9-fd86f4edb468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-program-application-card/div/div[2]/div/div</value>
+      <webElementGuid>1cb33c79-c35c-49f6-845a-d07d745124bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SnapshotDec 12, 2022: First Deficiency Action Plan responses receivedDec 12, 2022: First Deficiency Action Plan issued with 0 deficienciesDec 12, 2022: Desk review started by TSADec 12, 2022: Triage stage completed in 0 daysDec 12, 2022: Triage stage started' or . = 'SnapshotDec 12, 2022: First Deficiency Action Plan responses receivedDec 12, 2022: First Deficiency Action Plan issued with 0 deficienciesDec 12, 2022: Desk review started by TSADec 12, 2022: Triage stage completed in 0 daysDec 12, 2022: Triage stage started')]</value>
+      <webElementGuid>65bf1e64-f5d0-4cf9-bbfc-75724de9b4b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

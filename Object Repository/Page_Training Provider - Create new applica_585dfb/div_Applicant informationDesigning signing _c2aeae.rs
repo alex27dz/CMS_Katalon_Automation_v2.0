@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Applicant informationDesigning signing _c2aeae</name>
+   <tag></tag>
+   <elementGuidId>f98eea3f-bda8-47e8-9200-2c823b0842a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>201bcd1b-000e-4207-b5f9-7949d4825d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-01rem accordion-border-bottom ontario-padding-bottom-8-!</value>
+      <webElementGuid>1b385e3b-92ae-4fde-bbcc-1ea3f15b492c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant informationDesigning signing authority Alternate contactTraining locationsConsent for posting approval status</value>
+      <webElementGuid>1f619331-8765-42d7-9225-578fe75f0f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/div[@class=&quot;padding-01rem accordion-border-bottom ontario-padding-bottom-8-!&quot;]</value>
+      <webElementGuid>07d69b2f-bc9d-439b-acd9-12f3958f5c86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3547355c-668a-489a-93d2-156a7d156379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-01rem accordion-border-bottom ontario-padding-bottom-8-!</value>
+      <webElementGuid>c1ab1c8b-7c2a-4e44-8d9b-5d404c20566c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant informationDesigning signing authority Alternate contactTraining locationsConsent for posting approval status</value>
+      <webElementGuid>0519ab7c-dde1-4c02-87d8-94e3a6814eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm&quot;]/div[@class=&quot;accordion-div&quot;]/div[@class=&quot;padding-01rem accordion-border-bottom ontario-padding-bottom-8-!&quot;]</value>
+      <webElementGuid>f8b54b28-0b0a-442f-904e-6c10df114a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[3]/div/div/div</value>
+      <webElementGuid>0b2707ef-d4aa-40d3-b7ee-28dc26b8af1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant information'])[1]/following::div[3]</value>
+      <webElementGuid>d8bcbf4c-766c-4ac5-b2b7-cee752dacc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse all'])[1]/following::div[10]</value>
+      <webElementGuid>c13c2eb9-6903-4f50-9a63-6e9532450740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/div</value>
+      <webElementGuid>1898dd5f-d12c-4bb1-99a2-1e1d1e539492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Applicant informationDesigning signing authority Alternate contactTraining locationsConsent for posting approval status' or . = 'Applicant informationDesigning signing authority Alternate contactTraining locationsConsent for posting approval status')]</value>
+      <webElementGuid>8f49b936-dc15-4373-9560-a741714b7011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[4]/div/div/div</value>
+      <webElementGuid>04e057fd-4e41-4ba2-95f2-e6b1c2c3a0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>8a62cbbc-b03d-4fa4-90a1-5b887706d919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Show the listings with course fee onl_49a2d2</name>
+   <tag></tag>
+   <elementGuidId>1d3b537b-0a2f-4dca-aa0f-3366254b3fce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='checkbox-option-Weekend classes only']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5038ad86-880b-4c4c-9c25-29182c8b8e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>93a6103a-a650-41d3-8360-884eb9d25b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-checkboxes__input ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>a04e12cc-6251-40aa-821e-cf84afc60808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkbox-option-Weekend classes only</value>
+      <webElementGuid>e79cd123-d923-438f-bb63-8a2035bd9fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkbox-option-Weekend classes only&quot;)</value>
+      <webElementGuid>206bd8ae-38a2-430b-9e58-90f0cec5366d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='checkbox-option-Weekend classes only']</value>
+      <webElementGuid>32060910-3e12-4d18-8ccf-7a64b7581a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[9]/app-checkbox/div/input</value>
+      <webElementGuid>9a089b0d-5596-4b2b-86e3-fa898bd838cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/app-checkbox/div/input</value>
+      <webElementGuid>a81bc7dd-e5f2-47e0-be86-f2a0898eaa7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'checkbox-option-Weekend classes only']</value>
+      <webElementGuid>a4e59992-f011-407a-b2d3-8102b995d061</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

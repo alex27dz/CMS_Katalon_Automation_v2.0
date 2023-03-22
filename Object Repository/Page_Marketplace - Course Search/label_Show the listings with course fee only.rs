@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Show the listings with course fee only</name>
+   <tag></tag>
+   <elementGuidId>ee7c0714-0598-475e-8c82-4e591d6ba5a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.ontario-checkboxes__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[8]/app-checkbox/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f166b29b-423b-48f3-950e-e15b2bc2796b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-checkboxes__label</value>
+      <webElementGuid>25e1c78a-84cc-484d-b03a-ea53aed3df20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>checkbox-option-Show the listings with course fee only</value>
+      <webElementGuid>96a5c731-45c5-4397-bc88-5a7e2cc203ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show the listings with course fee only</value>
+      <webElementGuid>9453fdd5-5494-49a9-b567-0d450f3325f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-12 ontario-large-4 checkbox-col&quot;]/app-checkbox[1]/div[@class=&quot;ontario-checkboxes__item&quot;]/label[@class=&quot;ontario-checkboxes__label&quot;]</value>
+      <webElementGuid>a7fa40ce-3594-4b83-b39c-42ec3bbc42c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[8]/app-checkbox/div/label</value>
+      <webElementGuid>79b369f8-1d8c-4a7c-a556-05ece35bc717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total seats'])[1]/following::label[1]</value>
+      <webElementGuid>10651b62-ac50-4b24-a620-ea1264814558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To date'])[1]/following::label[2]</value>
+      <webElementGuid>63f49673-9a8e-4416-b15f-3711509fc645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekend classes only'])[1]/preceding::label[1]</value>
+      <webElementGuid>be03c69e-75b6-4919-8b69-ec7fcc7d784c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::label[2]</value>
+      <webElementGuid>1b6962b9-f52c-4ff2-adc1-27c81a9ad05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show the listings with course fee only']/parent::*</value>
+      <webElementGuid>5293505f-2068-4831-9ac8-a5857e47a094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-checkbox/div/label</value>
+      <webElementGuid>e618491c-ef4a-4cda-a109-c2f60dc10037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Show the listings with course fee only' or . = 'Show the listings with course fee only')]</value>
+      <webElementGuid>77989d75-d44f-4ce1-abd6-c39cd019b96e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

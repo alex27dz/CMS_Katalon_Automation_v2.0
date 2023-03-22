@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add internal comments for attestations step</name>
+   <tag></tag>
+   <elementGuidId>80622633-7aa0-426f-b126-189e62d57491</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-attestations-info/div/div[2]/app-internal-notes-section/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapsible-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2839bbe5-b06c-4fd8-9873-7ec69d0caf86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7f454038-1a8c-4233-8044-2b87115b0aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsible-row</value>
+      <webElementGuid>598f21ea-a044-49ff-9b7a-77ad36cb44ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add internal comments for attestations step </value>
+      <webElementGuid>5033aad4-f11d-4fb3-81e3-c9440dd606e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-attestations-info[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-48-!&quot;]/app-internal-notes-section[1]/div[@class=&quot;collapsible-row&quot;]</value>
+      <webElementGuid>c59ad77a-2cd5-4d42-bcc8-a7d5bb80e4a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-attestations-info/div/div[2]/app-internal-notes-section/div</value>
+      <webElementGuid>1b7bd858-9ce4-49dd-bc19-2ca8cddee4aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application submission consent'])[1]/following::div[3]</value>
+      <webElementGuid>1e3dab86-3628-4eaa-ae51-3fe9bf8bf591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program attestation'])[1]/following::div[8]</value>
+      <webElementGuid>70533089-ab80-45a7-8872-ec85093f9833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Overview'])[1]/preceding::div[1]</value>
+      <webElementGuid>3290bb28-6002-484d-8913-b3b348af142a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ministry of Labour, Immigration, Training and Skills Development'])[1]/preceding::div[5]</value>
+      <webElementGuid>72b6e8c0-90c9-4d41-8674-6019018fa1b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add internal comments for attestations step']/parent::*</value>
+      <webElementGuid>04206d58-1098-40a9-bf90-5fdb80d7ba3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-internal-notes-section/div</value>
+      <webElementGuid>c1094496-145c-4270-bd77-9aca00e0aca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Add internal comments for attestations step ' or . = ' Add internal comments for attestations step ')]</value>
+      <webElementGuid>69008161-3e7a-4d05-b676-550e8f5d6f30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

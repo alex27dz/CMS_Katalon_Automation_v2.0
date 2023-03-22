@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Working at heights</name>
+   <tag></tag>
+   <elementGuidId>9fbeb368-07e5-4700-8b96-362d92541c79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-providers-search/div[2]/div/div/div[2]/div[6]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e071595d-0c53-41d1-9ccf-d12eb39599f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working at heights</value>
+      <webElementGuid>99066a6a-ecc0-4c05-9151-e9a2456cab65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers-search[1]/div[@class=&quot;ontario-row results-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;table&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;table-col program-cell&quot;]/div[@class=&quot;column-val&quot;]/p[1]</value>
+      <webElementGuid>7cfbfee5-6d62-434f-bdb0-e3949ad3738f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>58d3ada1-5318-446c-b8da-5ce4a67421e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working at heights</value>
+      <webElementGuid>9373b9f0-cfec-4c4e-b41a-1c8c9bda5b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers-search[1]/div[@class=&quot;ontario-row results-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;table&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;table-col program-cell&quot;]/div[@class=&quot;column-val&quot;]/p[1]</value>
+      <webElementGuid>11e46093-4efa-474f-8b55-5f0d10de038f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-providers-search/div[2]/div/div/div[2]/div[6]/div/p</value>
+      <webElementGuid>5b5f0090-571f-4469-bb6e-93c2272d8955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/following::p[1]</value>
+      <webElementGuid>fc43519c-7e81-4a7c-8ffa-eaa9fa4963ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Storefront'])[1]/following::p[1]</value>
+      <webElementGuid>dfff1a7f-6b3c-46a7-9e2b-c22b5464b68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('TEST - Jaclyn', &quot;'&quot;, 's amazing training')])[1]/preceding::p[2]</value>
+      <webElementGuid>82cab6fc-ed06-4453-ad51-869108001950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[3]/preceding::p[2]</value>
+      <webElementGuid>468bea6d-8433-48c4-9238-7f368d7bf8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Working at heights']/parent::*</value>
+      <webElementGuid>061c4d5a-8b9a-464e-a0e9-cc1aa901d277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>721af485-6acf-47a9-a8d3-86989757b701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Working at heights' or . = 'Working at heights')]</value>
+      <webElementGuid>a46de783-b646-4b34-bdd2-96534b0f28fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

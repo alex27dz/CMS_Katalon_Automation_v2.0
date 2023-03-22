@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1. Lesson Plan 2. Instructor Manual 3. _26bd27</name>
+   <tag></tag>
+   <elementGuidId>d2a3ed40-7378-4bdb-9d84-f41c232e9539</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='training-program-side-bar']/div/app-tabs/div/div[2]/app-tab/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bbbaa6c7-97b7-455e-bdda-fc215c880e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-body</value>
+      <webElementGuid>be8dd792-1cfc-4334-9111-d5963466aebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. Lesson Plan 2. Instructor Manual 3. Presentation Materials 4. Participant Manual 5. Associated Handouts 6. Quick Reference Materials for Learners 7. Equipment Lists 8. Learner Evaluation Plan 9. Written Tests and Assessment Documents 10. Quality Assurance and Continuous Improvement Plan 11. Proof of Training Completion Document (Sample) </value>
+      <webElementGuid>8745176e-803d-4be3-8668-ec5357489110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@id=&quot;training-program-side-bar&quot;]/app-materials-sidebar-training-programs[1]/div[@id=&quot;training-program-side-bar&quot;]/div[@class=&quot;ontario-column ontario-small-12 no-wrap&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[@class=&quot;first-tab&quot;]/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-body&quot;]</value>
+      <webElementGuid>b408ab2c-c1a5-411b-bdcc-37d82f6c75ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='training-program-side-bar']/div/app-tabs/div/div[2]/app-tab/div/div</value>
+      <webElementGuid>059c00f4-daa2-484b-a778-b2d8c7748afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Files uploaded'])[1]/following::div[3]</value>
+      <webElementGuid>e294777f-3f5d-44f3-87e7-461b11f42ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program materials'])[1]/following::div[3]</value>
+      <webElementGuid>4c2dab89-ec62-45c6-81fe-6286edac37f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab/div/div</value>
+      <webElementGuid>2dadb97f-6167-4add-b9be-d459f7faad71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1. Lesson Plan 2. Instructor Manual 3. Presentation Materials 4. Participant Manual 5. Associated Handouts 6. Quick Reference Materials for Learners 7. Equipment Lists 8. Learner Evaluation Plan 9. Written Tests and Assessment Documents 10. Quality Assurance and Continuous Improvement Plan 11. Proof of Training Completion Document (Sample) ' or . = '1. Lesson Plan 2. Instructor Manual 3. Presentation Materials 4. Participant Manual 5. Associated Handouts 6. Quick Reference Materials for Learners 7. Equipment Lists 8. Learner Evaluation Plan 9. Written Tests and Assessment Documents 10. Quality Assurance and Continuous Improvement Plan 11. Proof of Training Completion Document (Sample) ')]</value>
+      <webElementGuid>bc0b53f2-1b36-49b3-9b5a-164eec379143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

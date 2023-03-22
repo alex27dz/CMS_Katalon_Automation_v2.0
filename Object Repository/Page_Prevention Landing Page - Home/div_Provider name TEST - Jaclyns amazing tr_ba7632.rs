@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Provider name TEST - Jaclyns amazing tr_ba7632</name>
+   <tag></tag>
+   <elementGuidId>d6c02f38-fa74-4c30-9e52-9eaea2797651</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.results-table</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a9478454-05f0-4d3f-b5b0-f07be26c5666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>results-table</value>
+      <webElementGuid>cf2d2a27-bfe4-46fe-9039-104161e467a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Provider name TEST - Jaclyn's amazing trainingRegistered address N/AContact E. jaclyn@jaclynlearning.comOffered to eLearning, In-ClassProgram offeredWAH Delivery methodIn-Class Approved on10 May 2022Approval status No longer approved  10 May 2022Program offeredJHSC REFRESHER Delivery methodeLearning Approved on10 May 2022Approval status Active Program offeredJHSC 1 Delivery methodIn-Class Approved on10 May 2022Approval status No longer approved  10 May 2022</value>
+      <webElementGuid>a4baa540-25ff-4911-8561-26c3744d2696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;provider-results&quot;]/div[@class=&quot;results-table&quot;]</value>
+      <webElementGuid>30699718-b2c5-4a49-9092-45cc9e821bf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/div[5]/div</value>
+      <webElementGuid>9f5f39c0-dcb8-4420-b2cb-59cd4918afa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access all CPO-approved providers'])[1]/following::div[2]</value>
+      <webElementGuid>765747c4-1862-419c-8925-ef8b37126536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact MLTSD for more information'])[1]/following::div[2]</value>
+      <webElementGuid>9aa62e9f-9b74-4e83-ba7f-32b92ce1fb6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>d9879541-2ec8-4244-af62-f25c35f3fe1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Provider name TEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingRegistered address N/AContact E. jaclyn@jaclynlearning.comOffered to eLearning, In-ClassProgram offeredWAH Delivery methodIn-Class Approved on10 May 2022Approval status No longer approved  10 May 2022Program offeredJHSC REFRESHER Delivery methodeLearning Approved on10 May 2022Approval status Active Program offeredJHSC 1 Delivery methodIn-Class Approved on10 May 2022Approval status No longer approved  10 May 2022&quot;) or . = concat(&quot;Provider name TEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingRegistered address N/AContact E. jaclyn@jaclynlearning.comOffered to eLearning, In-ClassProgram offeredWAH Delivery methodIn-Class Approved on10 May 2022Approval status No longer approved  10 May 2022Program offeredJHSC REFRESHER Delivery methodeLearning Approved on10 May 2022Approval status Active Program offeredJHSC 1 Delivery methodIn-Class Approved on10 May 2022Approval status No longer approved  10 May 2022&quot;))]</value>
+      <webElementGuid>3a266bfa-3dcf-4910-b014-0e507b3a7fe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

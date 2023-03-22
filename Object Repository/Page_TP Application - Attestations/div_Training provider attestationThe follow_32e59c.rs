@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training provider attestationThe follow_32e59c</name>
+   <tag></tag>
+   <elementGuidId>02d7ca57-116b-423c-a899-7770e4ce655a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-medium-12.ontario-large-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcd116cb-5995-4983-8dee-2d549331beb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-12 ontario-large-9</value>
+      <webElementGuid>1b11c61e-c1c9-4a4a-916f-43d416b3122d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Training provider attestationThe following includes a list of criteria that the applicant must meet, per the JHSC Certification Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these criteria throughout the duration of your approval. Provider attestation  Program attestation Expand all Fields marked with an asterisk (*) are mandatory.If you need to consult the Training Provider Standard, you can find a link for it in the side bar.Training provider requirementsTraining instructor requirementsTraining evaluator requirementsCode of ethicsAdministrationScroll up to select “Program Attestation” tabExpand all Fields marked with an asterisk (*) are mandatory.If you need to consult the Training Provider Standard, you can find a link for it in the side bar.DesignDelivery mode</value>
+      <webElementGuid>38e49425-b192-431d-8032-06b6c7a630bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-provider-attestation[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]</value>
+      <webElementGuid>9847ed97-7163-4093-b88b-276b6252cbd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]</value>
+      <webElementGuid>836b323c-e870-4f04-a517-64d1bb293aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standard'])[1]/following::div[1]</value>
+      <webElementGuid>93047d76-d45d-450e-80c3-8ee6438ffeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::div[4]</value>
+      <webElementGuid>a995389c-e7eb-43e3-831b-fa529fddee25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-provider-attestation/div/div[2]</value>
+      <webElementGuid>1d2e9b06-3fd1-4ab5-abc0-f88e82e86164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Training provider attestationThe following includes a list of criteria that the applicant must meet, per the JHSC Certification Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these criteria throughout the duration of your approval. Provider attestation  Program attestation Expand all Fields marked with an asterisk (*) are mandatory.If you need to consult the Training Provider Standard, you can find a link for it in the side bar.Training provider requirementsTraining instructor requirementsTraining evaluator requirementsCode of ethicsAdministrationScroll up to select “Program Attestation” tabExpand all Fields marked with an asterisk (*) are mandatory.If you need to consult the Training Provider Standard, you can find a link for it in the side bar.DesignDelivery mode' or . = ' Training provider attestationThe following includes a list of criteria that the applicant must meet, per the JHSC Certification Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these criteria throughout the duration of your approval. Provider attestation  Program attestation Expand all Fields marked with an asterisk (*) are mandatory.If you need to consult the Training Provider Standard, you can find a link for it in the side bar.Training provider requirementsTraining instructor requirementsTraining evaluator requirementsCode of ethicsAdministrationScroll up to select “Program Attestation” tabExpand all Fields marked with an asterisk (*) are mandatory.If you need to consult the Training Provider Standard, you can find a link for it in the side bar.DesignDelivery mode')]</value>
+      <webElementGuid>465e9e5f-9dea-403d-803f-e8f7197d25b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_En savoir plus sur les navigateurs que _b87837</name>
+   <tag></tag>
+   <elementGuidId>dd545655-e40f-4ad1-84e1-bea439f76415</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.small-12.column.text-center.top-padding.bottom-padding-double > img.site-logo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ng-view']/div/main/div/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b740972e-3486-49fc-b312-22aa13df0f58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Government of Ontario | Gouvernement de l’Ontario</value>
+      <webElementGuid>389a1883-3510-4ded-bddb-6a407eda17e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/ontario@2x.png</value>
+      <webElementGuid>83e3b4ae-1c59-48ac-b400-25de7ffcba45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-logo</value>
+      <webElementGuid>f6f4ec4e-5efe-40bd-b5d4-4b882d25c86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ng-view&quot;)/div[1]/main[1]/div[@class=&quot;row top-margin-6x&quot;]/div[@class=&quot;small-centered small-10 medium-6 column end no-border panel--semitransparent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 column text-center top-padding bottom-padding-double&quot;]/img[@class=&quot;site-logo&quot;]</value>
+      <webElementGuid>2bcf4973-9ee7-4989-b1c4-5e2331925ef8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ng-view']/div/main/div/div/div/div/img</value>
+      <webElementGuid>386b3f13-986e-43cc-8408-8d140a7a77fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Government of Ontario | Gouvernement de l’Ontario']</value>
+      <webElementGuid>039f2c00-ed7d-4066-b581-d8d7baea8373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/img</value>
+      <webElementGuid>be22c050-c003-409e-8820-af6df67f76d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Government of Ontario | Gouvernement de l’Ontario' and @src = '/img/ontario@2x.png']</value>
+      <webElementGuid>d680b71c-2d79-4683-a1d9-28354dcab20d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

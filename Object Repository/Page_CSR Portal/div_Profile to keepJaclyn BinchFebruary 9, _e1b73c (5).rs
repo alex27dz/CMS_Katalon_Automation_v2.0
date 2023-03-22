@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile to keepJaclyn BinchFebruary 9, _e1b73c (5)</name>
+   <tag></tag>
+   <elementGuidId>4f027944-46a4-4772-b428-d66cf2d581c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.form-input-div.ontario-small-12.ontario-medium-4.ontario-large-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-merge-worker/div/div/form/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a816b633-2d30-470a-b705-80690792636a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column form-input-div ontario-small-12 ontario-medium-4 ontario-large-4</value>
+      <webElementGuid>f7e66c63-be1a-4c32-9919-812fd035136d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile to keepJaclyn BinchFebruary 9, 2023IDNV856946 Select all Full name  Jaclyn Binch  Address  ABC st  City  Toronto  Postal code  m1m1m1  Phone number  1236781234  Email Address  Akhil1@gmail.com  Secondary Phone number  1231235444  Secondary Email Address  Secondary@email.com </value>
+      <webElementGuid>b93622e2-5918-4b4c-91c4-a5da60ea5cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-merge-worker[1]/div[@class=&quot;merge-worker-container&quot;]/div[@class=&quot;ontario-row ontario-margin-top-24-!&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid ng-submitted&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-4 ontario-large-4&quot;]</value>
+      <webElementGuid>48912fa3-931f-404e-ac88-8617351c5261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-merge-worker/div/div/form/div/div/div</value>
+      <webElementGuid>db6aa883-6ac6-4066-a846-344e67e68220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merge worker profile'])[1]/following::div[3]</value>
+      <webElementGuid>448ce0d2-c256-4674-ab69-88d088136d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aleksey Dzhoharidze'])[1]/following::div[7]</value>
+      <webElementGuid>3d661139-f065-4b3d-9e29-b7775a573d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>e5bdd7f1-8cb6-4def-86bb-40eca82ffe30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile to keepJaclyn BinchFebruary 9, 2023IDNV856946 Select all Full name  Jaclyn Binch  Address  ABC st  City  Toronto  Postal code  m1m1m1  Phone number  1236781234  Email Address  Akhil1@gmail.com  Secondary Phone number  1231235444  Secondary Email Address  Secondary@email.com ' or . = 'Profile to keepJaclyn BinchFebruary 9, 2023IDNV856946 Select all Full name  Jaclyn Binch  Address  ABC st  City  Toronto  Postal code  m1m1m1  Phone number  1236781234  Email Address  Akhil1@gmail.com  Secondary Phone number  1231235444  Secondary Email Address  Secondary@email.com ')]</value>
+      <webElementGuid>bda774a8-d9d1-4c39-9d25-466d7e5dd943</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

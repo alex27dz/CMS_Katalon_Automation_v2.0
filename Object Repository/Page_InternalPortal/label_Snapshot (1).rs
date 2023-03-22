@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Snapshot (1)</name>
+   <tag></tag>
+   <elementGuidId>1274269b-5f53-42cc-bd27-d5ede37fb7ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div/div[2]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.display-cell > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e3b13d32-ffe6-4d4a-805b-9a25167104a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Snapshot</value>
+      <webElementGuid>0db302aa-7e15-4f73-84ab-7efe7e9e0772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-training-program-application-card-list[1]/app-training-program-application-card[1]/div[@class=&quot;card&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;display-row&quot;]/div[@class=&quot;display-cell&quot;]/label[1]</value>
+      <webElementGuid>e2b9aacd-add7-44ae-9b14-f0ad74fabce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div/div[2]/div/div/label</value>
+      <webElementGuid>6611aeda-0993-49c9-b191-09284520c1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH-10280'])[1]/following::label[1]</value>
+      <webElementGuid>1cac2554-5022-495c-a6be-81026d0cbd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responses to First DAP required'])[1]/following::label[1]</value>
+      <webElementGuid>cd5bd90e-c64e-4e60-83cf-c271db3becb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 12, 2022: First Deficiency Action Plan issued with 0 deficiencies'])[1]/preceding::label[1]</value>
+      <webElementGuid>7b2c3a46-be4a-42c3-9a3d-55e0d38da958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 12, 2022: Desk review started by TSA'])[1]/preceding::label[2]</value>
+      <webElementGuid>64aad2a6-1e19-4bae-9593-f3cb4935c75b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Snapshot']/parent::*</value>
+      <webElementGuid>c0a6ae1b-a7ad-43d6-a55c-0e1328dd4ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label</value>
+      <webElementGuid>e921c03e-d817-4f97-90f8-35de9ba238fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Snapshot' or . = 'Snapshot')]</value>
+      <webElementGuid>b1bc6ace-ccd2-4355-a6e1-a3a4cf5cc7f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

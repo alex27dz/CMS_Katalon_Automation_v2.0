@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Add internal comments for applicant inf_bb2888</name>
+   <tag></tag>
+   <elementGuidId>b3886f71-88d5-42cd-a06b-287dc024aef7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-applicant-info/div/div[12]/app-internal-notes-section/div/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.chevron-thing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ed0c9dd7-7e67-4799-883a-df82b1e616e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/chevron-down-white-border.svg</value>
+      <webElementGuid>030ed057-f594-4d56-afff-732cb19ed9a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chevron-thing</value>
+      <webElementGuid>07c798f5-cdd8-42b5-8b34-73a419113cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-applicant-info[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/app-internal-notes-section[1]/div[@class=&quot;collapsible-row&quot;]/img[@class=&quot;chevron-thing&quot;]</value>
+      <webElementGuid>8e270e17-fd63-4946-8405-f5f4e2cfb431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-applicant-info/div/div[12]/app-internal-notes-section/div/img[2]</value>
+      <webElementGuid>33a7fa82-a323-475d-9fd9-4e18d3010857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>e3d256e3-e569-4944-b209-2b1425c73e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/chevron-down-white-border.svg']</value>
+      <webElementGuid>00915b61-cf02-4eeb-a2ec-ad878a9c3fea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

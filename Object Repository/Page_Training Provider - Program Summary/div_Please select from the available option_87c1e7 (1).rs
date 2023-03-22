@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please select from the available option_87c1e7 (1)</name>
+   <tag></tag>
+   <elementGuidId>a366eb19-36c3-44c9-ad93-988028dbde8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0cf019bd-973c-4609-923f-103595422091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-text</value>
+      <webElementGuid>781656ef-755a-46f4-ba0e-92444f28221e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select from the available options below. To access the full functionality of this site, you need to start by creating your account as a training provider. Once your account is created you will have the option of submitting training programs to become a CPO-approved training provider. Once your training programs are CPO-approved, they will be listed below and new functions will be added in the menu bar to the left. </value>
+      <webElementGuid>5e523608-f54e-4a0e-969c-0c38f1fa072f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;main-text&quot;]</value>
+      <webElementGuid>d7e742f3-96d8-4390-9cf1-5a7ee8526130</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div/div[2]</value>
+      <webElementGuid>523bbdc3-84cb-4809-9522-0e03e311963a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Training Programs'])[1]/following::div[1]</value>
+      <webElementGuid>d032953c-8eab-4312-a07f-77c95af155b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[4]</value>
+      <webElementGuid>abdc9db1-168e-4815-bff8-590b14ef8c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create your account as a training provider'])[1]/preceding::div[2]</value>
+      <webElementGuid>05edd8d7-0222-4e0d-a194-6c7d32d103db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit training program application for CPO approval'])[1]/preceding::div[3]</value>
+      <webElementGuid>1fa134dd-6799-466a-9a0a-d03e31ab1167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please select from the available options below. To access the full functionality of this site, you need to start by creating your account as a training provider. Once your account is created you will have the option of submitting training programs to become a CPO-approved training provider. Once your training programs are CPO-approved, they will be listed below and new functions will be added in the menu bar to the left.']/parent::*</value>
+      <webElementGuid>6e862f18-a1c4-4910-bd83-853b4044e915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-provider-registration-confirmation/div/div/div[2]</value>
+      <webElementGuid>b414568b-ef12-4991-b443-300534ed0753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please select from the available options below. To access the full functionality of this site, you need to start by creating your account as a training provider. Once your account is created you will have the option of submitting training programs to become a CPO-approved training provider. Once your training programs are CPO-approved, they will be listed below and new functions will be added in the menu bar to the left. ' or . = 'Please select from the available options below. To access the full functionality of this site, you need to start by creating your account as a training provider. Once your account is created you will have the option of submitting training programs to become a CPO-approved training provider. Once your training programs are CPO-approved, they will be listed below and new functions will be added in the menu bar to the left. ')]</value>
+      <webElementGuid>377b34d2-4e6c-4dae-b283-b7e3391d5f89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

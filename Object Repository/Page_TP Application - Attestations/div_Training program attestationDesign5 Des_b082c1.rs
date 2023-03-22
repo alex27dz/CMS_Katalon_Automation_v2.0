@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training program attestationDesign5 Des_b082c1</name>
+   <tag></tag>
+   <elementGuidId>8f466ef0-6adf-45c5-be0e-af32acfe9223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='attest-sidebar']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.checked-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2dde8e53-d812-410d-a6ed-bf030138f3da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 checked-list</value>
+      <webElementGuid>62b30f8a-e32b-4a6b-8b1d-8b80a645b540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program attestationDesign5 Design of training programDelivery mode6.1 Face-to-face learning6.3 eLearning learning6.3.a eLearning - durationRead program standard</value>
+      <webElementGuid>3aa6b76c-8fd0-4de0-ac16-e54a4e39620d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attest-sidebar&quot;)/div[@class=&quot;ontario-row attest-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 checked-list&quot;]</value>
+      <webElementGuid>41dee8e2-a34b-45c1-81d0-4b1faf6ef249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attest-sidebar']/div/div</value>
+      <webElementGuid>1f8d56da-c6c7-453b-ac54-b904ed293ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[7]</value>
+      <webElementGuid>ccd3d07a-0d75-49ed-88f3-147daab505c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview &amp; Submit application'])[1]/following::div[10]</value>
+      <webElementGuid>8866be4b-4d5b-4b72-8606-ee97948fb7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-provider-attestation/div/div/div/div</value>
+      <webElementGuid>bdc3fec5-0ef8-4a79-95fb-5cc6d1c52bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training program attestationDesign5 Design of training programDelivery mode6.1 Face-to-face learning6.3 eLearning learning6.3.a eLearning - durationRead program standard' or . = 'Training program attestationDesign5 Design of training programDelivery mode6.1 Face-to-face learning6.3 eLearning learning6.3.a eLearning - durationRead program standard')]</value>
+      <webElementGuid>147ad329-dc16-466b-86d0-ad82cc54f87e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Certification I certify that the inform_fe65b6</name>
+   <tag></tag>
+   <elementGuidId>a831acb7-d6fe-480b-830b-0ceafeff2a9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.certification-content.ontario-small-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-withdraw-program/div/div[2]/div[8]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff27ad48-1427-4c36-a338-9bee3e915953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column certification-content ontario-small-12</value>
+      <webElementGuid>ebec821d-1e30-4086-861b-ef3c4bc24add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application. CommunicationThe system will send an email to the designated signing authority to inform them about this submission. First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority</value>
+      <webElementGuid>d6e864ee-99dc-430c-8ca6-f4a644bb41b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-withdraw-program[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-norm&quot;]/div[@class=&quot;ontario-row ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 ontario-margin-top-12-! ontario-margin-bottom-48-!&quot;]/div[@class=&quot;ontario-column certification-content ontario-small-12&quot;]</value>
+      <webElementGuid>18edafd0-2cfc-467a-abec-61c41119299d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-withdraw-program/div/div[2]/div[8]/div/div[2]</value>
+      <webElementGuid>19f23720-cd7e-4c20-9447-ef0ef085025e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Describe the reason for withdrawal'])[1]/following::div[2]</value>
+      <webElementGuid>a04a9039-53a7-487f-9e62-7ffca6d1268d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason for Withdrawal'])[1]/following::div[3]</value>
+      <webElementGuid>4f690532-0998-4b14-8e88-4d54f3ba91e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]</value>
+      <webElementGuid>cb2feea2-d213-4e5b-9c8c-2c20fed2fdce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application. CommunicationThe system will send an email to the designated signing authority to inform them about this submission. First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority' or . = 'Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application. CommunicationThe system will send an email to the designated signing authority to inform them about this submission. First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority')]</value>
+      <webElementGuid>130a0d10-93ab-44b0-8213-5262d0cef6e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Working at heights WAHThis Working at H_fd1a9a</name>
+   <tag></tag>
+   <elementGuidId>7b0d9992-48b1-43e7-9234-6fac0c03193f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c6d1a7c-2c89-4af9-ad0b-4dab3a85f797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>ba71484e-3dc4-4dee-88a2-3e8786c42c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval.</value>
+      <webElementGuid>7ad3701c-0d9b-46c3-b59a-c7187e05693c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>b9001720-ad13-4a29-a867-672e75bc179a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div</value>
+      <webElementGuid>87f39155-89a5-4c9d-bb8c-d11e7494515d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPO approved programs'])[1]/following::div[2]</value>
+      <webElementGuid>45f9ed92-4b02-49ae-ac4c-039f66645712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[6]</value>
+      <webElementGuid>bbe01479-70d7-42bf-be91-b1a3bf28e823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read provider standards'])[1]/preceding::div[1]</value>
+      <webElementGuid>8d3e1b92-f81d-49a4-9452-0cd3ebebd2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval.']/parent::*</value>
+      <webElementGuid>39b454b4-ccd6-4621-8776-a1340f18ddae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar/div/div[2]/div</value>
+      <webElementGuid>a5290c66-399e-4d33-9a4a-27279b6cbe34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Working at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval.' or . = 'Working at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval.')]</value>
+      <webElementGuid>545225cd-80c5-4c9a-94a8-bef8a79e242b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

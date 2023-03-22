@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1Triage2Desk assessment3Field assessmen_d87503</name>
+   <tag></tag>
+   <elementGuidId>c38e7852-5ff3-4415-ad04-19503c8fcdb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[6]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>032559dc-a3c4-490f-a692-64dbeb5e43da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm</value>
+      <webElementGuid>326c6189-b193-41bf-b85c-44264a33534c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1Triage2Desk assessment3Field assessment4Recommendation to the Chief Prevention Officer5Chief Prevention Officer approvalThe administrative process and other information for approved training providers are subject to change.Important noticeAnswer all questions and sign all forms where applicable. Please note that by signing these documents you are certifying that all information provided therein, whether prepared by you or on your behalf, is complete, accurate and true.If you or someone acting on your behalf submits false documents or misrepresents facts relating to your Application, your Application may be rejected. Applicants who are granted CPO approval based on submission of false or inaccurate information may have their approval subsequently revoked.The Ministry assessor will base their assessment and recommendation for approval on the documents submitted at the time of the assessment. If there are any changes required to your Application after submitting your Application, it is your responsibility to notify the Ministry and provide the relevant supporting documentation. Any changes not communicated to the Ministry may delay the processing of your Application.The administrative process and other information for approved training providers are subject to change. Notice of authorityThe information you provide in this Application is collected and the process for the evaluation of that information is authorized under subsection 7.4 (3) of the  Occupational Health and Safety Act, to determine if you may be approved by the CPO to deliver a CPO approved  Working at Heights Training Program.</value>
+      <webElementGuid>e71a53c0-62a9-49b1-af0b-b6a36e968dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm&quot;]</value>
+      <webElementGuid>ceff0f75-1e70-4f30-83b5-3d236f8a2adb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[6]/div</value>
+      <webElementGuid>3378370e-5e1a-4b5b-a9a6-5f0eac6ebffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand all'])[2]/following::div[3]</value>
+      <webElementGuid>fa385cd2-51c5-42a4-980a-7ea742480a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>8bd29b02-fca6-4006-be66-3cc26ae44c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1Triage2Desk assessment3Field assessment4Recommendation to the Chief Prevention Officer5Chief Prevention Officer approvalThe administrative process and other information for approved training providers are subject to change.Important noticeAnswer all questions and sign all forms where applicable. Please note that by signing these documents you are certifying that all information provided therein, whether prepared by you or on your behalf, is complete, accurate and true.If you or someone acting on your behalf submits false documents or misrepresents facts relating to your Application, your Application may be rejected. Applicants who are granted CPO approval based on submission of false or inaccurate information may have their approval subsequently revoked.The Ministry assessor will base their assessment and recommendation for approval on the documents submitted at the time of the assessment. If there are any changes required to your Application after submitting your Application, it is your responsibility to notify the Ministry and provide the relevant supporting documentation. Any changes not communicated to the Ministry may delay the processing of your Application.The administrative process and other information for approved training providers are subject to change. Notice of authorityThe information you provide in this Application is collected and the process for the evaluation of that information is authorized under subsection 7.4 (3) of the  Occupational Health and Safety Act, to determine if you may be approved by the CPO to deliver a CPO approved  Working at Heights Training Program.' or . = '1Triage2Desk assessment3Field assessment4Recommendation to the Chief Prevention Officer5Chief Prevention Officer approvalThe administrative process and other information for approved training providers are subject to change.Important noticeAnswer all questions and sign all forms where applicable. Please note that by signing these documents you are certifying that all information provided therein, whether prepared by you or on your behalf, is complete, accurate and true.If you or someone acting on your behalf submits false documents or misrepresents facts relating to your Application, your Application may be rejected. Applicants who are granted CPO approval based on submission of false or inaccurate information may have their approval subsequently revoked.The Ministry assessor will base their assessment and recommendation for approval on the documents submitted at the time of the assessment. If there are any changes required to your Application after submitting your Application, it is your responsibility to notify the Ministry and provide the relevant supporting documentation. Any changes not communicated to the Ministry may delay the processing of your Application.The administrative process and other information for approved training providers are subject to change. Notice of authorityThe information you provide in this Application is collected and the process for the evaluation of that information is authorized under subsection 7.4 (3) of the  Occupational Health and Safety Act, to determine if you may be approved by the CPO to deliver a CPO approved  Working at Heights Training Program.')]</value>
+      <webElementGuid>cdc1da05-b4ca-4c69-bf61-f6744f46fa3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

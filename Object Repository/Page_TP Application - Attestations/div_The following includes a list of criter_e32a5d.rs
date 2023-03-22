@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The following includes a list of criter_e32a5d</name>
+   <tag></tag>
+   <elementGuidId>1d81654b-37b8-434e-9c0d-88b370a8c139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b650a4dc-9dfa-4429-91c4-949105d6556c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-text</value>
+      <webElementGuid>955515ff-d190-4208-afc9-3618e73d9a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The following includes a list of criteria that the applicant must meet, per the JHSC Certification Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these criteria throughout the duration of your approval.</value>
+      <webElementGuid>d5b81697-8c8f-425f-825e-df7396434e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-provider-attestation[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;main-text&quot;]</value>
+      <webElementGuid>c4ac21fe-5aaa-43ab-bd1c-071bb7487bf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[2]</value>
+      <webElementGuid>5a4590b1-5c08-4081-88bb-e82aa99c815e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training provider attestation'])[3]/following::div[1]</value>
+      <webElementGuid>3597452b-5f92-4102-865f-5fc236557555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standard'])[1]/following::div[3]</value>
+      <webElementGuid>653721b1-ca40-4c35-9501-72db8b3884d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provider attestation'])[1]/preceding::div[1]</value>
+      <webElementGuid>356c5b23-9dfc-46b5-a818-3f434de8d581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program attestation'])[1]/preceding::div[1]</value>
+      <webElementGuid>f22d39d0-9ec8-482a-8551-9f11ca56048c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The following includes a list of criteria that the applicant must meet, per the JHSC Certification Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these criteria throughout the duration of your approval.']/parent::*</value>
+      <webElementGuid>1e20a81c-6dd0-48eb-ab1c-1e631039ae91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>0d0ec79d-77d8-4ec1-91be-390e33951880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The following includes a list of criteria that the applicant must meet, per the JHSC Certification Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these criteria throughout the duration of your approval.' or . = 'The following includes a list of criteria that the applicant must meet, per the JHSC Certification Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these criteria throughout the duration of your approval.')]</value>
+      <webElementGuid>ac01dac3-75d7-45b9-aee4-b1ed49bea617</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

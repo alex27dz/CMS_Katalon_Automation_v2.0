@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_999923006</name>
+   <tag></tag>
+   <elementGuidId>e02f96c4-657b-4023-b8dc-16e644fc4c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-onboarding-summary/div/div/div[24]/label[2]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a0a91219-3c9a-4f0f-acde-44570e07a7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>999923006</value>
+      <webElementGuid>8b03e223-1ebf-4380-8862-1d76aea0944e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-onboarding-summary[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9 ontario-margin-bottom-32-!&quot;]/div[@class=&quot;onboarding-details-row&quot;]/label[@class=&quot;answer-text&quot;]/b[1]</value>
+      <webElementGuid>1174dccc-20a9-461b-b407-b7a46e12724f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-onboarding-summary/div/div/div[24]/label[2]/b</value>
+      <webElementGuid>10f1cdf1-6bbf-4549-9e10-dfafe8212844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Number (BN9)'])[1]/following::b[1]</value>
+      <webElementGuid>9a387c88-9958-49cb-a4dd-a466b4815e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='abcd'])[1]/following::b[1]</value>
+      <webElementGuid>3d12852d-92f6-4123-a8a5-51ca414896e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Type'])[1]/preceding::b[1]</value>
+      <webElementGuid>17926645-ed55-42af-a7d2-96bcdc30d54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='manage'])[1]/preceding::b[1]</value>
+      <webElementGuid>c548346e-cf35-4c64-b54b-18dc665b47a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='999923006']/parent::*</value>
+      <webElementGuid>5cb0412d-3144-459f-b5ec-a1f4828a476e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/label[2]/b</value>
+      <webElementGuid>ce66d956-aee7-432f-adad-15f01d2fbd4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '999923006' or . = '999923006')]</value>
+      <webElementGuid>754a261a-eba1-4e8c-97e7-df45df26eff6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

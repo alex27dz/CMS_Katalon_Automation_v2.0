@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mailing address</name>
+   <tag></tag>
+   <elementGuidId>909d6c29-9e1a-4b99-b052-73c992dafffc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div/form/div[6]/div/mat-label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.signing-authority-address-row.ontario-column.ontario-small-12.ontario-medium-6.ontario-large-5.dropdown-col.mailing-dropdown.first > mat-label.input-label > span.required-field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cacacebf-e6cb-4c6c-a748-e3f11bc7555c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required-field</value>
+      <webElementGuid>8c62ead5-5932-4980-a9d8-f4feacbab98d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mailing address</value>
+      <webElementGuid>e1c87e56-7d8a-4dd5-aff7-6d601313b76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;designateSigningAuthority&quot;)/div[@class=&quot;ontario-row ontario-margin-top-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12 bordered&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;signing-authority-address-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5 dropdown-col mailing-dropdown first&quot;]/mat-label[@class=&quot;input-label&quot;]/span[@class=&quot;required-field&quot;]</value>
+      <webElementGuid>bd60afba-fa24-48e5-8119-324495a3a009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ef27b746-8614-4458-a6cc-a5065ea76c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required-field</value>
+      <webElementGuid>8751f86d-6be7-43b4-9815-e2e67eb7445a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mailing address</value>
+      <webElementGuid>897b16af-205e-45cc-b1f9-d7406ecbd161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alternateSigningAuthority&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row ontario-row&quot;]/div[@class=&quot;signing-authority-address-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5 dropdown-col mailing-dropdown first&quot;]/mat-label[@class=&quot;input-label&quot;]/span[@class=&quot;required-field&quot;]</value>
+      <webElementGuid>211b3537-b0c0-4044-bcff-143065d45c9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div/form/div[6]/div/mat-label/span</value>
+      <webElementGuid>e06c4d6e-364c-41d1-a259-fdf50ed7c458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Designated signing authority', &quot;'&quot;, 's role in organization/company')])[1]/following::span[1]</value>
+      <webElementGuid>3c5d8b66-0548-4e9b-b637-d386ef28d39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Designated signing authority', &quot;'&quot;, 's email address')])[1]/following::span[1]</value>
+      <webElementGuid>f71328ca-12f3-4229-81e1-2d62d8ff4e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My mailing address is the same as my business address.'])[1]/preceding::span[1]</value>
+      <webElementGuid>5de37f72-5fa1-4f06-81a4-fbcd3d48ac1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery information'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2675c92-bfa8-4346-9de0-0f18a91e55cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information/div/div/form/div[6]/div/mat-label/span</value>
+      <webElementGuid>61b97c5e-f6dd-4263-9f83-ece4e9c25c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mailing address' or . = 'Mailing address')]</value>
+      <webElementGuid>db822133-d717-4faa-ae75-0cf254c1f7df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-alt-signing-authority-information[@id='alternateSigningAuthority']/div/div[2]/form/div[6]/div/mat-label/span</value>
+      <webElementGuid>dedc7371-b18e-4108-82fa-a5c278602206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Alternate signing authority', &quot;'&quot;, 's role in organization/company')])[1]/following::span[1]</value>
+      <webElementGuid>dc7b508a-fd9e-42c2-beff-918df97a878c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+      <webElementGuid>8c637a35-e8f3-4372-aebd-e7923f6e3697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[1]</value>
+      <webElementGuid>9a29269d-fb72-4ebf-82e7-d4b79e7fe815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant business information'])[1]/preceding::span[1]</value>
+      <webElementGuid>2c21c04f-cafa-43bc-b89d-75904c61e48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/mat-label/span</value>
+      <webElementGuid>2e815b8a-fcb3-435f-a313-b447573fd52e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

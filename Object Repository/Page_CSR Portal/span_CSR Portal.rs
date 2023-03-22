@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CSR Portal</name>
+   <tag></tag>
+   <elementGuidId>1358efff-3947-4b1d-ae40-7b140a077791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.portal-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='ontario-header-default']/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f9e3bfac-26b8-4304-bab6-37e500e40356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>portal-name</value>
+      <webElementGuid>11188b9b-c564-4d62-af65-86c332359c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CSR Portal </value>
+      <webElementGuid>e0f89c8f-a488-4821-b593-35e97fead779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ontario-header-default&quot;)/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-header__logo-container ontario-columns ontario-small-9 logo-portal&quot;]/span[@class=&quot;portal-name&quot;]</value>
+      <webElementGuid>c67d96bb-df76-4c49-a523-fea1dd6dd759</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='ontario-header-default']/div/div/span[2]</value>
+      <webElementGuid>8f9a10a1-56d8-4b64-8e10-f8406961d203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aleksey Dzhoharidze'])[1]/preceding::span[1]</value>
+      <webElementGuid>ceae1ca4-c9ee-41ab-8a19-2abcce681220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage profiles'])[1]/preceding::span[2]</value>
+      <webElementGuid>30613898-7f63-4e73-ac63-a7dafe9b4f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>cf14576b-a10a-44a1-b2fc-5a6dc26c4585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' CSR Portal ' or . = ' CSR Portal ')]</value>
+      <webElementGuid>81f97bb7-0115-47ae-b513-bab55cb05e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

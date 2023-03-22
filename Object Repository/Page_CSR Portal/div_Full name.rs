@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Full name</name>
+   <tag></tag>
+   <elementGuidId>c869fdab-3bf5-469b-897f-27ea7a8ce803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-merge-worker/div/div/form/div/div/div[5]/div[2]/div[2]/div[2]/app-merge-worker-checkbox[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d6c4ee2c-c07a-45cb-98c3-d29a7c9558ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7259e94a-cbfd-410f-9fe4-265fc92fa227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Full name </value>
+      <webElementGuid>542f0ae7-5522-4099-900d-a26a49ae55b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-merge-worker[1]/div[@class=&quot;merge-worker-container&quot;]/div[@class=&quot;ontario-row ontario-margin-top-24-!&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid ng-submitted&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-4 ontario-large-4&quot;]/div[@class=&quot;merge-margin-top&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;worker-info-section&quot;]/app-merge-worker-checkbox[2]/div[@class=&quot;ontario-small-12 control-row&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;label&quot;]</value>
+      <webElementGuid>d78bc419-14ab-46a9-8bf4-d4e3ed6c59a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-merge-worker/div/div/form/div/div/div[5]/div[2]/div[2]/div[2]/app-merge-worker-checkbox[2]/div/div/div</value>
+      <webElementGuid>8632e7e7-4c72-451a-a6ca-e3e731ab273d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NV856946'])[2]/following::div[3]</value>
+      <webElementGuid>c0a0601f-5ba6-4958-879c-807d98f9a7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[3]/following::div[4]</value>
+      <webElementGuid>2e7d1c56-598c-4f7e-8324-2dbd8fee7cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jaclyn Binch'])[4]/preceding::div[1]</value>
+      <webElementGuid>7e7c66a2-06dd-428e-a981-a60ac859f7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[3]/preceding::div[2]</value>
+      <webElementGuid>8425f1bf-309d-458d-88a8-9a244756b8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-merge-worker-checkbox[2]/div/div/div</value>
+      <webElementGuid>0f5d94f0-7c17-4e21-97f7-6a909756452c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Full name ' or . = ' Full name ')]</value>
+      <webElementGuid>6db5ad6d-abc6-4f8c-9f85-16162ca4bf31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

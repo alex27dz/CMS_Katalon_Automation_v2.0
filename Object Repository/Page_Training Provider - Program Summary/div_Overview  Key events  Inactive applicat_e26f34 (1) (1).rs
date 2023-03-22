@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overview  Key events  Inactive applicat_e26f34 (1) (1)</name>
+   <tag></tag>
+   <elementGuidId>9d26ee6d-c193-45f9-ae5a-144b17fdaf97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>15032566-e8e6-4d4c-b8dc-59b11f513a7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!</value>
+      <webElementGuid>6b218db1-e695-41c9-a8f9-306659f2d7b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Overview  Key events  Inactive application Program status is inactiveProgram status is inactive. -- Details needed in english and french both Lorem ipsum dolor sit amet, consectetur adipiscing elit. In laoreet enim ut dolor pharetra sagittis. Fusce iaculis interdum sem, non luctus dui molestie in. Proin nibh turpis, aliquam non volutpat quis, mollis vel nunc. Suspendisse rutrum venenatis ipsum. Suspendisse in erat vel risus cursus interdum.Program nameJHSC - Part OneTraining delivery typeDistanceTraining delivery languageEnglishApproved program IDJHSC-2014-1-10062Application approved onN/AApplication inactivated onNov 17, 2022StatusWithdrawnReason of inactive statusWITHDRAWSteps to approve your application Expand all The Ministry’s approval process has five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights Training Program and Training Provider Standards.Triage stageDesk assessmentField assessmentRecommendation to the Chief Prevention OfficerChief Prevention Officer approval</value>
+      <webElementGuid>2bdf06b6-8d6e-43f5-894b-238c8084465c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]</value>
+      <webElementGuid>35f163b5-4029-4ff1-afcb-3de8b3718aa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div</value>
+      <webElementGuid>3be5697a-b75d-4ae0-b107-7a2fbc62146b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC-2014-1-10062'])[1]/following::div[2]</value>
+      <webElementGuid>6ae6336a-ce18-4099-bdd6-eec9d9fbf380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part One'])[1]/following::div[3]</value>
+      <webElementGuid>4c93b221-ba0a-4058-8c0f-db0507c1e5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>f6834144-d89a-4797-8106-fe55995d7728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Overview  Key events  Inactive application Program status is inactiveProgram status is inactive. -- Details needed in english and french both Lorem ipsum dolor sit amet, consectetur adipiscing elit. In laoreet enim ut dolor pharetra sagittis. Fusce iaculis interdum sem, non luctus dui molestie in. Proin nibh turpis, aliquam non volutpat quis, mollis vel nunc. Suspendisse rutrum venenatis ipsum. Suspendisse in erat vel risus cursus interdum.Program nameJHSC - Part OneTraining delivery typeDistanceTraining delivery languageEnglishApproved program IDJHSC-2014-1-10062Application approved onN/AApplication inactivated onNov 17, 2022StatusWithdrawnReason of inactive statusWITHDRAWSteps to approve your application Expand all The Ministry’s approval process has five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights Training Program and Training Provider Standards.Triage stageDesk assessmentField assessmentRecommendation to the Chief Prevention OfficerChief Prevention Officer approval' or . = ' Overview  Key events  Inactive application Program status is inactiveProgram status is inactive. -- Details needed in english and french both Lorem ipsum dolor sit amet, consectetur adipiscing elit. In laoreet enim ut dolor pharetra sagittis. Fusce iaculis interdum sem, non luctus dui molestie in. Proin nibh turpis, aliquam non volutpat quis, mollis vel nunc. Suspendisse rutrum venenatis ipsum. Suspendisse in erat vel risus cursus interdum.Program nameJHSC - Part OneTraining delivery typeDistanceTraining delivery languageEnglishApproved program IDJHSC-2014-1-10062Application approved onN/AApplication inactivated onNov 17, 2022StatusWithdrawnReason of inactive statusWITHDRAWSteps to approve your application Expand all The Ministry’s approval process has five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights Training Program and Training Provider Standards.Triage stageDesk assessmentField assessmentRecommendation to the Chief Prevention OfficerChief Prevention Officer approval')]</value>
+      <webElementGuid>ed4f0010-b63c-4aa2-8447-840db3482c16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

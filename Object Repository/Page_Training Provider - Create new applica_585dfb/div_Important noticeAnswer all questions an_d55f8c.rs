@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Important noticeAnswer all questions an_d55f8c</name>
+   <tag></tag>
+   <elementGuidId>aa1162d7-19db-4535-93d8-cc9070ea6d68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[6]/div/div[7]/app-alert-banner/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ee5e5fd-ab7e-4c4b-af92-051bbe0439cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>1e179f98-7e16-4efc-88be-9872d25d02ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Important noticeAnswer all questions and sign all forms where applicable. Please note that by signing these documents you are certifying that all information provided therein, whether prepared by you or on your behalf, is complete, accurate and true.If you or someone acting on your behalf submits false documents or misrepresents facts relating to your Application, your Application may be rejected. Applicants who are granted CPO approval based on submission of false or inaccurate information may have their approval subsequently revoked.The Ministry assessor will base their assessment and recommendation for approval on the documents submitted at the time of the assessment. If there are any changes required to your Application after submitting your Application, it is your responsibility to notify the Ministry and provide the relevant supporting documentation. Any changes not communicated to the Ministry may delay the processing of your Application.The administrative process and other information for approved training providers are subject to change.</value>
+      <webElementGuid>3eb60ea6-968b-42fe-b206-05234555d5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[1]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-11 float-norm&quot;]/div[@class=&quot;notice-banner&quot;]/app-alert-banner[1]/div[@class=&quot;banner alert&quot;]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>a53a9c26-adfe-496e-b1a3-960de5010ce9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/div[6]/div/div[7]/app-alert-banner/div/div[2]</value>
+      <webElementGuid>95c96a5a-9147-49df-ab01-58700a2ba30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chief Prevention Officer approval'])[1]/following::div[7]</value>
+      <webElementGuid>9b372e34-e7cb-4434-a897-147dae2057ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendation to the Chief Prevention Officer'])[1]/following::div[13]</value>
+      <webElementGuid>f6a86c65-7ebc-4bfc-85e6-ee8c55c0ebc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice of authority'])[1]/preceding::div[1]</value>
+      <webElementGuid>517f094c-36a5-4685-badb-d60206d8ee6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Answer all questions and sign all forms where applicable. Please note that by signing these documents you are certifying that all information provided therein, whether prepared by you or on your behalf, is complete, accurate and true.']/parent::*</value>
+      <webElementGuid>22158371-1879-4e69-b8eb-b5520cffd3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alert-banner/div/div[2]</value>
+      <webElementGuid>ef89b0e4-892b-4db7-a5bb-39b8ab5797e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Important noticeAnswer all questions and sign all forms where applicable. Please note that by signing these documents you are certifying that all information provided therein, whether prepared by you or on your behalf, is complete, accurate and true.If you or someone acting on your behalf submits false documents or misrepresents facts relating to your Application, your Application may be rejected. Applicants who are granted CPO approval based on submission of false or inaccurate information may have their approval subsequently revoked.The Ministry assessor will base their assessment and recommendation for approval on the documents submitted at the time of the assessment. If there are any changes required to your Application after submitting your Application, it is your responsibility to notify the Ministry and provide the relevant supporting documentation. Any changes not communicated to the Ministry may delay the processing of your Application.The administrative process and other information for approved training providers are subject to change.' or . = 'Important noticeAnswer all questions and sign all forms where applicable. Please note that by signing these documents you are certifying that all information provided therein, whether prepared by you or on your behalf, is complete, accurate and true.If you or someone acting on your behalf submits false documents or misrepresents facts relating to your Application, your Application may be rejected. Applicants who are granted CPO approval based on submission of false or inaccurate information may have their approval subsequently revoked.The Ministry assessor will base their assessment and recommendation for approval on the documents submitted at the time of the assessment. If there are any changes required to your Application after submitting your Application, it is your responsibility to notify the Ministry and provide the relevant supporting documentation. Any changes not communicated to the Ministry may delay the processing of your Application.The administrative process and other information for approved training providers are subject to change.')]</value>
+      <webElementGuid>9947f5f0-fba8-429a-80ef-7aa38f87d317</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

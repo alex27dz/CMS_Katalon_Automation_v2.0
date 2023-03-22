@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IDLast nameUse exact matchFirst nameUse_d2be0c (3)</name>
+   <tag></tag>
+   <elementGuidId>5dedb5db-900f-41ca-8126-ee5c682703d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a9da52da-f5bc-4a93-8d34-5494df57af3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row search-criteria-container ontario-margin-top-32-!</value>
+      <webElementGuid>c3ee9a64-f919-49ce-a60b-705473271304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDLast nameUse exact matchFirst nameUse exact matchMiddle intialsEmail addressPhone numberAddressCityPostal codeCourse Type Working at HeightsJoint Health &amp; Safety CommitteeResetSearch</value>
+      <webElementGuid>fecfddcf-b243-4fa1-82c1-791cc91e071e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[@class=&quot;ontario-margin-top-24-!&quot;]/app-csr-workers[1]/app-worker-search-criteria[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ontario-row search-criteria-container ontario-margin-top-32-!&quot;]</value>
+      <webElementGuid>1f32a05e-535d-47d4-9319-65b4a9438618</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/form/div</value>
+      <webElementGuid>d772e015-2223-40fe-af4d-e59ebccce85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a worker'])[1]/following::div[1]</value>
+      <webElementGuid>830ba64f-4234-40ae-9899-2093b2adccb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/following::div[6]</value>
+      <webElementGuid>7ecf008a-8c1a-423e-8065-25a78774c136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>ff60e046-d35c-410e-a6a4-7471e2f12963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IDLast nameUse exact matchFirst nameUse exact matchMiddle intialsEmail addressPhone numberAddressCityPostal codeCourse Type Working at HeightsJoint Health &amp; Safety CommitteeResetSearch' or . = 'IDLast nameUse exact matchFirst nameUse exact matchMiddle intialsEmail addressPhone numberAddressCityPostal codeCourse Type Working at HeightsJoint Health &amp; Safety CommitteeResetSearch')]</value>
+      <webElementGuid>5574923d-ea4d-48bb-9feb-997c0f84ee1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

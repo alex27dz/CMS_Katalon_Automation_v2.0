@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Application to create an account as a t_5caded</name>
+   <tag></tag>
+   <elementGuidId>967f35e0-b6bb-4133-b55e-c1464af648ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-register-training-provider/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb3ae3d8-5a74-4aff-8f5a-9f65d7224548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>f0482e8d-401a-4342-b3ca-eebc13aac3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application to create an account as a training providerPlease complete the form below and submit your application to become an approved training provider. You will receive an email to verify your email address. Once you verify, you will be able to submit your training program application to get CPO’s approval. Note: You have to submit a minimum one training program application within 180 days to maintain your status as an approved training provider. Create your account as a training provider  Submit training program to become CPO approved training provider  Assessor reviews training program application  Manage and market your training programs Have you already been approved as a CPO's approved training provider? loginORCreate TODO: SUPPORT LINK REQUIRED to access the account Or call 1877-202-0008Are you a designated signing authority within your organization, responsible for the creation of this account? * Yes  No The designated signing authority is a duly authorized representative of the organization. This person is responsible for the creation and maintenance of this account and for the submission of training program applications for CPO approval and acts as the main contact for the organization. Please indicate if you are the designated signing authority for this organization.Applicant contact informationContact information required here is for the person who is responsible for the administration of the training provider’s portal account with the ministry.Fields marked with an asterisk (*) are mandatory.First nameLast namePhone numberEmail addressAlternate email address(es)Enter multiple email addresses separated by commaYour role in your organization/company Manager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportPlease specify your roleMailing address CanadaUSA ABBCMBNBNLNSNTNUONPEQCSKYTAdd alternate signing authority (optional)The alternate signing authority is an employee who is assigned by the designated signing authority to act on their behalf when necessary.Applicant business informationThis section requires you to provide contact information details about your organization.Organization operating nameOrganization legal nameBusiness Number (BN9)Business TypeWSIB Account NumberBusiness primary address CanadaUSA ABBCMBNBNLNSNTNUONPEQCSKYTCompany website Preferred method of correspondenceEmailTraining delivery informationSection specific placeholder textPrimary purpose of the training provider registrationOffer WAH training programOffer JHSC training programOffer first aid training programOtherIs the primary location of your training records the same as the mailing address you have provided to the Ministry of Labour, Training and Skills Development?* Yes  No Other MLTSD ProgramsThis section requires you to provide your current approval status with the Ministry of Labour, Training and Skills Development (if applicable).Do you have an Occupational Health and Safety Management System (OHSMS) that has been accredited by the Chief Prevention Officer (CPO) through the Supporting Ontario Safe Employer (SOSE) program?* Yes  No Has your organization applied for Chief Prevention Officer (CPO) Employer Recognition through the Supporting Ontario Safe Employer (SOSE) program?* Yes  No Add a team member on your account (Optional) You can appoint your team member to complete the program delivery application on your behalf. System will send an invitation email to your team member to setup the account. You will be able to add team members with different access permission later.Preview</value>
+      <webElementGuid>af63bc59-6b57-4b9d-875b-6c6031ff9cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-register-training-provider[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>2f0b9611-ccb4-4d9a-b303-ec60e49c5246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-register-training-provider/div/div[2]</value>
+      <webElementGuid>4602149b-646b-44e1-83e4-186c6be99255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 5 - Chief Prevention Officer approval'])[1]/following::div[1]</value>
+      <webElementGuid>885c2e2c-19ac-4033-9737-e522a46ab751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 4 - Recommendation to the Chief Prevention Officer'])[1]/following::div[1]</value>
+      <webElementGuid>e2c2f835-8843-45aa-b945-52e6e0bf1798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-register-training-provider/div/div[2]</value>
+      <webElementGuid>aabae019-7f9e-41f4-a98b-d02b689967f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Application to create an account as a training providerPlease complete the form below and submit your application to become an approved training provider. You will receive an email to verify your email address. Once you verify, you will be able to submit your training program application to get CPO’s approval. Note: You have to submit a minimum one training program application within 180 days to maintain your status as an approved training provider. Create your account as a training provider  Submit training program to become CPO approved training provider  Assessor reviews training program application  Manage and market your training programs Have you already been approved as a CPO&quot; , &quot;'&quot; , &quot;s approved training provider? loginORCreate TODO: SUPPORT LINK REQUIRED to access the account Or call 1877-202-0008Are you a designated signing authority within your organization, responsible for the creation of this account? * Yes  No The designated signing authority is a duly authorized representative of the organization. This person is responsible for the creation and maintenance of this account and for the submission of training program applications for CPO approval and acts as the main contact for the organization. Please indicate if you are the designated signing authority for this organization.Applicant contact informationContact information required here is for the person who is responsible for the administration of the training provider’s portal account with the ministry.Fields marked with an asterisk (*) are mandatory.First nameLast namePhone numberEmail addressAlternate email address(es)Enter multiple email addresses separated by commaYour role in your organization/company Manager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportPlease specify your roleMailing address CanadaUSA ABBCMBNBNLNSNTNUONPEQCSKYTAdd alternate signing authority (optional)The alternate signing authority is an employee who is assigned by the designated signing authority to act on their behalf when necessary.Applicant business informationThis section requires you to provide contact information details about your organization.Organization operating nameOrganization legal nameBusiness Number (BN9)Business TypeWSIB Account NumberBusiness primary address CanadaUSA ABBCMBNBNLNSNTNUONPEQCSKYTCompany website Preferred method of correspondenceEmailTraining delivery informationSection specific placeholder textPrimary purpose of the training provider registrationOffer WAH training programOffer JHSC training programOffer first aid training programOtherIs the primary location of your training records the same as the mailing address you have provided to the Ministry of Labour, Training and Skills Development?* Yes  No Other MLTSD ProgramsThis section requires you to provide your current approval status with the Ministry of Labour, Training and Skills Development (if applicable).Do you have an Occupational Health and Safety Management System (OHSMS) that has been accredited by the Chief Prevention Officer (CPO) through the Supporting Ontario Safe Employer (SOSE) program?* Yes  No Has your organization applied for Chief Prevention Officer (CPO) Employer Recognition through the Supporting Ontario Safe Employer (SOSE) program?* Yes  No Add a team member on your account (Optional) You can appoint your team member to complete the program delivery application on your behalf. System will send an invitation email to your team member to setup the account. You will be able to add team members with different access permission later.Preview&quot;) or . = concat(&quot;Application to create an account as a training providerPlease complete the form below and submit your application to become an approved training provider. You will receive an email to verify your email address. Once you verify, you will be able to submit your training program application to get CPO’s approval. Note: You have to submit a minimum one training program application within 180 days to maintain your status as an approved training provider. Create your account as a training provider  Submit training program to become CPO approved training provider  Assessor reviews training program application  Manage and market your training programs Have you already been approved as a CPO&quot; , &quot;'&quot; , &quot;s approved training provider? loginORCreate TODO: SUPPORT LINK REQUIRED to access the account Or call 1877-202-0008Are you a designated signing authority within your organization, responsible for the creation of this account? * Yes  No The designated signing authority is a duly authorized representative of the organization. This person is responsible for the creation and maintenance of this account and for the submission of training program applications for CPO approval and acts as the main contact for the organization. Please indicate if you are the designated signing authority for this organization.Applicant contact informationContact information required here is for the person who is responsible for the administration of the training provider’s portal account with the ministry.Fields marked with an asterisk (*) are mandatory.First nameLast namePhone numberEmail addressAlternate email address(es)Enter multiple email addresses separated by commaYour role in your organization/company Manager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportPlease specify your roleMailing address CanadaUSA ABBCMBNBNLNSNTNUONPEQCSKYTAdd alternate signing authority (optional)The alternate signing authority is an employee who is assigned by the designated signing authority to act on their behalf when necessary.Applicant business informationThis section requires you to provide contact information details about your organization.Organization operating nameOrganization legal nameBusiness Number (BN9)Business TypeWSIB Account NumberBusiness primary address CanadaUSA ABBCMBNBNLNSNTNUONPEQCSKYTCompany website Preferred method of correspondenceEmailTraining delivery informationSection specific placeholder textPrimary purpose of the training provider registrationOffer WAH training programOffer JHSC training programOffer first aid training programOtherIs the primary location of your training records the same as the mailing address you have provided to the Ministry of Labour, Training and Skills Development?* Yes  No Other MLTSD ProgramsThis section requires you to provide your current approval status with the Ministry of Labour, Training and Skills Development (if applicable).Do you have an Occupational Health and Safety Management System (OHSMS) that has been accredited by the Chief Prevention Officer (CPO) through the Supporting Ontario Safe Employer (SOSE) program?* Yes  No Has your organization applied for Chief Prevention Officer (CPO) Employer Recognition through the Supporting Ontario Safe Employer (SOSE) program?* Yes  No Add a team member on your account (Optional) You can appoint your team member to complete the program delivery application on your behalf. System will send an invitation email to your team member to setup the account. You will be able to add team members with different access permission later.Preview&quot;))]</value>
+      <webElementGuid>12381d86-a1a5-44f4-b015-bd8fc45fbe38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

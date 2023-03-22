@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Support_range-border active-cell-border</name>
+   <tag></tag>
+   <elementGuidId>56fbb2aa-37c2-4a4a-b7f0-15f7b2bce7ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollable_right_0']/div[3]/div[16]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0cca7162-195c-45a8-925a-5f559767be11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>range-border active-cell-border</value>
+      <webElementGuid>8c269520-3835-4d41-802f-c37721c136f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollable_right_0&quot;)/div[@class=&quot;overlay-container-ltr&quot;]/div[16]/div[@class=&quot;range-border active-cell-border&quot;]</value>
+      <webElementGuid>7d323c8a-cc76-4e08-986d-b7695f74b00c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollable_right_0']/div[3]/div[16]/div[2]</value>
+      <webElementGuid>767f0fd7-dec7-42d6-915c-5d1d1bb64a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[16]/div[2]</value>
+      <webElementGuid>b13e4fd3-44ae-401e-ac48-133f26b5294c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

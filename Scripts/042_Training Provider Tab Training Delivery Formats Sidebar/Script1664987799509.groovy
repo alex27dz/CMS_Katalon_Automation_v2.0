@@ -1,0 +1,64 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
+
+WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/h3_Training delivery formats'), 
+    'Training delivery formats')
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_WAH'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_JHSC'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_First Aid'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Training delivery modes for Working at Heights'), 
+    'Training delivery modes for Working at Heights')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Face-to-face (in-class) trainingRefers t_8b886b'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Blended learningDescribes the practice o_29fc0a'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_JHSC'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Training delivery modes for Joint Healt_743ee1'), 
+    'Training delivery modes for Joint Health and Safety Committee')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Face-to-face (in-class) trainingRefers t_8b886b'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Distance learningAn educational situatio_8077cb'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_eLearning (Electronic Learning) - Part O_0ac282'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Blended learning - Part One onlyDescribe_8e1d7b'), 
+    0)
+
+WebUI.closeBrowser()
+

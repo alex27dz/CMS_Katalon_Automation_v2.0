@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dont have an accountCreate AccountORSig_b8d1de</name>
+   <tag></tag>
+   <elementGuidId>079ca43c-f02d-405a-ae06-9ab95544d715</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='okta-login-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#okta-login-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d051b13-34bc-42dc-b25f-55eb8cf338ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>okta-login-container</value>
+      <webElementGuid>d0af9f4b-fddf-4e4d-b771-e05bf74cec3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> login-container</value>
+      <webElementGuid>b1bc3e5e-db62-42db-aaef-e74d8a237c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Don't have an account?Create AccountORSign in to My Ontario AccountEmail The email address you registered withPassword Remember meORSign-In PartnerNeed help signing in?Forgot password?Unlock account?Expired code?</value>
+      <webElementGuid>42da9084-ae0b-43c4-a064-83973959da7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;okta-login-container&quot;)</value>
+      <webElementGuid>354f7d77-282f-48db-a453-5666e6ed53c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='okta-login-container']</value>
+      <webElementGuid>98ccf74d-1f58-4894-995a-217601d32014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Français'])[1]/following::div[1]</value>
+      <webElementGuid>9fc0e48e-6a74-4f18-8210-97ac36724b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FR'])[1]/following::div[1]</value>
+      <webElementGuid>240b211c-3477-4fb1-92f7-da0e3401d8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div</value>
+      <webElementGuid>dc8becd6-1609-4809-821c-ada1c1547a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'okta-login-container' and (text() = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account?Create AccountORSign in to My Ontario AccountEmail The email address you registered withPassword Remember meORSign-In PartnerNeed help signing in?Forgot password?Unlock account?Expired code?&quot;) or . = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account?Create AccountORSign in to My Ontario AccountEmail The email address you registered withPassword Remember meORSign-In PartnerNeed help signing in?Forgot password?Unlock account?Expired code?&quot;))]</value>
+      <webElementGuid>bdea2077-5e4e-4389-8cb0-04c1aafd0e66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

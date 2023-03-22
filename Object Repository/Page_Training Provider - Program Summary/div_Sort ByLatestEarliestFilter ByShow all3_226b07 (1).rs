@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sort ByLatestEarliestFilter ByShow all3_226b07 (1)</name>
+   <tag></tag>
+   <elementGuidId>bf10d848-e87e-4433-94e8-3a38cf522456</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-timeline/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-row.search-criteria-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>513e7d25-aebe-4805-abfa-7fe18329ac2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row search-criteria-container</value>
+      <webElementGuid>61bbdd83-afa3-4b37-95d6-8bdca0efcb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sort ByLatestEarliestFilter ByShow all30 days180 daysCustomEventsAllPre-approvalPost-approval</value>
+      <webElementGuid>6bde3bbc-9110-4344-823b-c45d63e232de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-timeline[1]/div[@class=&quot;ontario-row search-criteria-container&quot;]</value>
+      <webElementGuid>6a7925b7-faca-4694-91dd-14e5b489b286</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-timeline/div</value>
+      <webElementGuid>a7ec2ef8-9d3e-4e54-9400-63e48d227c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[7]</value>
+      <webElementGuid>5922f596-f264-4438-9680-c9f41e658311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned staff'])[1]/following::div[7]</value>
+      <webElementGuid>2701811e-f53b-4d4e-a8c1-a00b1e2b28be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-timeline/div</value>
+      <webElementGuid>4f5459d8-f2be-4e08-b41b-6ed8cc27f951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sort ByLatestEarliestFilter ByShow all30 days180 daysCustomEventsAllPre-approvalPost-approval' or . = 'Sort ByLatestEarliestFilter ByShow all30 days180 daysCustomEventsAllPre-approvalPost-approval')]</value>
+      <webElementGuid>d73c2db8-d0bd-4442-9b54-48877e922b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

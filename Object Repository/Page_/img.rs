@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>d4cab22d-f9fe-4b84-b9c3-bc16c53d80a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7fdbe1e7-7ae1-4bcf-9b3c-fc88abb8e263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/tempImgs/mazda_logo.png</value>
+      <webElementGuid>28a6a882-ba5a-4185-b2a8-dad840b622e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sb-main-padded sb-show-main mz-bg--white&quot;]/div[@class=&quot;mz-menu active&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;mz-menu-logo&quot;]/a[1]/img[1]</value>
+      <webElementGuid>171dd40d-acd6-4628-8e24-0ceb89486a21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>185e631e-36b7-4666-b505-82faba3c1b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/tempImgs/mazda_logo.png']</value>
+      <webElementGuid>bf7f0263-6bf1-4ebb-aa42-5d469a25b484</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

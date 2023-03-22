@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training program requirementsThanks for_a31d1d</name>
+   <tag></tag>
+   <elementGuidId>66a3e091-45c2-47b5-b491-a0cf30271217</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]/app-alert-banner/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-medium-11.banners-accordians > app-alert-banner > div.banner.alert > div.icon-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c9550eb-4858-4dac-a9a1-ded454836b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>f9979df4-a53e-41fa-b2cf-d182f89b7d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.</value>
+      <webElementGuid>9caeacb2-ed98-4547-8332-be7f0019c599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;page-body&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;program-mats&quot;]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 banners-accordians&quot;]/app-alert-banner[1]/div[@class=&quot;banner alert&quot;]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>b09755e8-bf7d-4919-be79-a704c4c94fc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]/app-alert-banner/div/div[2]</value>
+      <webElementGuid>fcc83ef2-39ee-4f87-b7bf-70563b998660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload document'])[11]/following::div[4]</value>
+      <webElementGuid>6833be0e-b0fa-4352-8ba2-33d39f41e868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Documents'])[11]/following::div[7]</value>
+      <webElementGuid>56572c97-d793-4379-852a-2f748fc37cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scroll up to select “Training Provider Requirements” tab'])[1]/preceding::div[1]</value>
+      <webElementGuid>ad30cddc-ffc7-4b9b-9e5a-86454e149d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/app-alert-banner/div/div[2]</value>
+      <webElementGuid>2ee79e10-5b3c-425b-b3a3-44936c439481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.' or . = 'Training program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.')]</value>
+      <webElementGuid>66171717-b1fe-48ca-bb48-c27fe8c9c4f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

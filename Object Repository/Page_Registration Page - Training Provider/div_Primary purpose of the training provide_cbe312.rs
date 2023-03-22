@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Primary purpose of the training provide_cbe312</name>
+   <tag></tag>
+   <elementGuidId>564d8857-d222-406e-9a8a-27a64ce9870b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='trainingDeliveryInfo']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-div.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0664da2e-c995-4689-aa9e-9c5021f52ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-div ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>7f946bab-2fdb-42e4-ac00-6e02a79e3e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Primary purpose of the training provider registrationOffer WAH training programOffer JHSC training programOffer first aid training programOtherIs the primary location of your training records the same as the mailing address you have provided to the Ministry of Labour, Training and Skills Development?* Yes  No </value>
+      <webElementGuid>536b392c-a593-44f3-bc11-619b8554b324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trainingDeliveryInfo&quot;)/div[@class=&quot;input-div ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>d5c12f56-c8dd-48ca-9ee5-eb8daa3aef4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trainingDeliveryInfo']/div[2]</value>
+      <webElementGuid>5af828be-5146-4350-85b0-a3a55aa853b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section specific placeholder text'])[1]/following::div[1]</value>
+      <webElementGuid>941ec36a-bcf2-40b4-9468-d31a9775bee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery information'])[1]/following::div[2]</value>
+      <webElementGuid>fe28e070-b612-40b5-b2e8-a146a8e97d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]</value>
+      <webElementGuid>e4ac8419-9b8b-4e3b-ac2b-5980dce0ca0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Primary purpose of the training provider registrationOffer WAH training programOffer JHSC training programOffer first aid training programOtherIs the primary location of your training records the same as the mailing address you have provided to the Ministry of Labour, Training and Skills Development?* Yes  No ' or . = 'Primary purpose of the training provider registrationOffer WAH training programOffer JHSC training programOffer first aid training programOtherIs the primary location of your training records the same as the mailing address you have provided to the Ministry of Labour, Training and Skills Development?* Yes  No ')]</value>
+      <webElementGuid>1f67544d-a60c-4062-82e3-8ddf789b41b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

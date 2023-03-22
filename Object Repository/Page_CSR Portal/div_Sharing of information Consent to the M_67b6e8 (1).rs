@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sharing of information Consent to the M_67b6e8 (1)</name>
+   <tag></tag>
+   <elementGuidId>aa436fb7-4c22-4f9b-9385-9808f885c64a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkboxes-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-add-edit-worker/form/div[8]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f170ed9-3cf0-4aef-b6dc-57060e0d0c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkboxes-row</value>
+      <webElementGuid>fd02ebd8-33e6-434f-bb5d-779d818c5308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sharing of information Consent to the Ministry of Labour, Training and Skills Development disclosing to a potential or current employer, pursuant to subsection 7.5(4) of the Occupational Health and Safety Act, information about your successful completion of an approved training program.Allow the MLTSD to contact you to provide feedback on the courses you have completed for program evaluation and quality assurance purposes.Allow the MLTSD to contact you with opportunities to take part in research related to occupational health and safety. Subscriptions Subscribe to receive general information on Working at Heights and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers.Subscribe to receive general information on Joint Health and Safety Committees and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers. You may unsubscribe at any time.</value>
+      <webElementGuid>ecd71a45-bd85-4f1b-99a7-73220f172057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-add-edit-worker[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row flow-left&quot;]/div[@class=&quot;ontario-small-9&quot;]/div[@class=&quot;checkboxes-row&quot;]</value>
+      <webElementGuid>49e666d7-c6e8-4b5f-b1cf-4fdd3b6cbfb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-add-edit-worker/form/div[8]/div/div</value>
+      <webElementGuid>b4363d98-5520-443b-a259-5a3c7a991e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal code*'])[1]/following::div[5]</value>
+      <webElementGuid>bc4d1154-d2b4-4df9-b258-7b07c8a47414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City*'])[1]/following::div[8]</value>
+      <webElementGuid>e0d07cf6-468e-409a-a6cf-3d0da9581be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>13449a5e-5f9f-416a-9250-39e57f7515fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Sharing of information Consent to the Ministry of Labour, Training and Skills Development disclosing to a potential or current employer, pursuant to subsection 7.5(4) of the Occupational Health and Safety Act, information about your successful completion of an approved training program.Allow the MLTSD to contact you to provide feedback on the courses you have completed for program evaluation and quality assurance purposes.Allow the MLTSD to contact you with opportunities to take part in research related to occupational health and safety. Subscriptions Subscribe to receive general information on Working at Heights and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers.Subscribe to receive general information on Joint Health and Safety Committees and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers. You may unsubscribe at any time.' or . = ' Sharing of information Consent to the Ministry of Labour, Training and Skills Development disclosing to a potential or current employer, pursuant to subsection 7.5(4) of the Occupational Health and Safety Act, information about your successful completion of an approved training program.Allow the MLTSD to contact you to provide feedback on the courses you have completed for program evaluation and quality assurance purposes.Allow the MLTSD to contact you with opportunities to take part in research related to occupational health and safety. Subscriptions Subscribe to receive general information on Working at Heights and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers.Subscribe to receive general information on Joint Health and Safety Committees and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers. You may unsubscribe at any time.')]</value>
+      <webElementGuid>6dfa64c5-50e7-4a9e-8d1e-6e13e10a5eea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

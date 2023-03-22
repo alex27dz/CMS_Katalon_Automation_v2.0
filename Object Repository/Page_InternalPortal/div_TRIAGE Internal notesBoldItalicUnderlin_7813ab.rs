@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TRIAGE Internal notesBoldItalicUnderlin_7813ab</name>
+   <tag></tag>
+   <elementGuidId>48f959b3-d2f3-45ed-87f0-6d03ec15c5d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-applicant-info/div/div[12]/app-internal-notes-section/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapsed-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a953ad7-9e7f-440d-8654-15c50a301c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsed-row</value>
+      <webElementGuid>58ef5e24-15b8-4af4-8ef5-9d29d080efca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRIAGE: Internal notesBoldItalicUnderlineMore TextAlign LeftAlign CenterOrdered ListMore ParagraphEnable Track ChangesMarkdownInsert LinkInsert Horizontal LineUndoRedoMore MiscStrikethroughSubscriptSuperscriptFont Size89101112141824303648607296Clear FormattingAlign RightAlign JustifyOrdered List DefaultLower AlphaLower GreekLower RomanUpper AlphaUpper Roman  Unordered List DefaultCircleDiscSquare  Paragraph FormatNormalHeading 1Heading 2Heading 3Heading 4CodeLine HeightDefaultSingle1.151.5DoubleDecrease IndentIncrease IndentSelect AllShow ChangesAccept All ChangesReject All ChangesAccept Single ChangeReject Single ChangeType somethingCharacters : 0</value>
+      <webElementGuid>6faa8a83-deb2-4bdd-befa-e1ae83e527f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-applicant-info[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/app-internal-notes-section[1]/div[@class=&quot;collapsed-row&quot;]</value>
+      <webElementGuid>5d8ea897-b241-43c6-95d9-44c9b6607e6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-applicant-info/div/div[12]/app-internal-notes-section/div[2]</value>
+      <webElementGuid>bde8f6d5-8bf1-409e-b4fd-6120375ab0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add internal comments for applicant information step'])[1]/following::div[1]</value>
+      <webElementGuid>f52a5c1e-6bcc-4193-8f14-28df9f5c18cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[3]</value>
+      <webElementGuid>417f37e4-fd9d-435c-81ba-94a5dd1cbb64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-internal-notes-section/div[2]</value>
+      <webElementGuid>3c6238c0-eb3b-4762-847c-e563833666b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TRIAGE: Internal notesBoldItalicUnderlineMore TextAlign LeftAlign CenterOrdered ListMore ParagraphEnable Track ChangesMarkdownInsert LinkInsert Horizontal LineUndoRedoMore MiscStrikethroughSubscriptSuperscriptFont Size89101112141824303648607296Clear FormattingAlign RightAlign JustifyOrdered List DefaultLower AlphaLower GreekLower RomanUpper AlphaUpper Roman  Unordered List DefaultCircleDiscSquare  Paragraph FormatNormalHeading 1Heading 2Heading 3Heading 4CodeLine HeightDefaultSingle1.151.5DoubleDecrease IndentIncrease IndentSelect AllShow ChangesAccept All ChangesReject All ChangesAccept Single ChangeReject Single ChangeType somethingCharacters : 0' or . = 'TRIAGE: Internal notesBoldItalicUnderlineMore TextAlign LeftAlign CenterOrdered ListMore ParagraphEnable Track ChangesMarkdownInsert LinkInsert Horizontal LineUndoRedoMore MiscStrikethroughSubscriptSuperscriptFont Size89101112141824303648607296Clear FormattingAlign RightAlign JustifyOrdered List DefaultLower AlphaLower GreekLower RomanUpper AlphaUpper Roman  Unordered List DefaultCircleDiscSquare  Paragraph FormatNormalHeading 1Heading 2Heading 3Heading 4CodeLine HeightDefaultSingle1.151.5DoubleDecrease IndentIncrease IndentSelect AllShow ChangesAccept All ChangesReject All ChangesAccept Single ChangeReject Single ChangeType somethingCharacters : 0')]</value>
+      <webElementGuid>192ec2f4-c1ac-457d-bbec-05f3067c1eac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

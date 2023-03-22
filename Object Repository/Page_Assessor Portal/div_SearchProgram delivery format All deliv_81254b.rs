@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SearchProgram delivery format All deliv_81254b</name>
+   <tag></tag>
+   <elementGuidId>8ba6e3e3-02c5-438a-bdf4-67a0b7ec083c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-search/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c88693ca-f230-4f79-8987-ecfe41355ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-criteria-container ontario-padding-right-24-! ontario-padding-left-24-!</value>
+      <webElementGuid>a268d153-29df-4635-b965-6316eb99c0eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecAndrea De SouzaSayeed RahmanNimesh GaralaKhalil IssaAndrea DesouzaSufian BaigBaha JabarinMelissa FisherAkhil PogulaGaeun KimMarty CerisanoJack WangRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanBalazs SztojkovicsShowing 2 applications SearchReset</value>
+      <webElementGuid>322d7d3b-fa1f-4845-8415-f1070a595e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-training-program-application-card-list[1]/app-training-program-search[1]/div[@class=&quot;search-criteria-container ontario-padding-right-24-! ontario-padding-left-24-!&quot;]</value>
+      <webElementGuid>94ecb6aa-c2db-47dc-8272-dc69f22bc60e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-search/div</value>
+      <webElementGuid>d17136cb-35e4-4ab5-9e6c-76bf70d11cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendation'])[2]/following::div[8]</value>
+      <webElementGuid>fcf2b6de-db23-4a7f-8b6e-f8df4d90464b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-program-search/div</value>
+      <webElementGuid>1cbdb14e-6a98-4db0-838c-6e311516398b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecAndrea De SouzaSayeed RahmanNimesh GaralaKhalil IssaAndrea DesouzaSufian BaigBaha JabarinMelissa FisherAkhil PogulaGaeun KimMarty CerisanoJack WangRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanBalazs SztojkovicsShowing 2 applications SearchReset' or . = 'SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecAndrea De SouzaSayeed RahmanNimesh GaralaKhalil IssaAndrea DesouzaSufian BaigBaha JabarinMelissa FisherAkhil PogulaGaeun KimMarty CerisanoJack WangRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanBalazs SztojkovicsShowing 2 applications SearchReset')]</value>
+      <webElementGuid>e0433fa7-a862-4429-88ba-cef7092f197f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_(111) 111-1111</name>
+   <tag></tag>
+   <elementGuidId>bc57fc44-f623-4526-9147-dc1907d1e13f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab[2]/div/form/div/div/app-training-eligibility-result/div/div[2]/div/div[2]/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>73811e90-7abd-43c5-8aae-f9f12d548194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(111) 111-1111</value>
+      <webElementGuid>bcc56a86-3dc4-4515-917b-a2108fdfb495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched ng-submitted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-details&quot;]/app-training-eligibility-result[1]/div[@class=&quot;training-eligibility-results ontario-small-12 ontario-medium-12 ontario-large-12 failure&quot;]/div[2]/div[@class=&quot;first-box ontario-small-12 ontario-medium-12 ontario-large-4&quot;]/div[2]/div[1]/b[1]</value>
+      <webElementGuid>688b0833-4279-4dbd-89d5-b1c3d677fa0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>6229b353-34cd-4ac0-990a-cbd51b19aaa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(111) 111-1111</value>
+      <webElementGuid>944a5523-45b1-454f-ae6a-30df33b69d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched ng-submitted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-details&quot;]/app-training-eligibility-result[1]/div[@class=&quot;training-eligibility-results ontario-small-12 ontario-medium-12 ontario-large-12 failure&quot;]/div[2]/div[@class=&quot;first-box ontario-small-12 ontario-medium-12 ontario-large-4&quot;]/div[2]/div[1]/b[1]</value>
+      <webElementGuid>3c9de811-7183-4746-9dae-63e87d63b415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>15e011cc-812d-460c-88e9-7c317dc754df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(111) 111-1111</value>
+      <webElementGuid>b6467b58-0e11-4916-b927-8dba55bdcb37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched ng-submitted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-details&quot;]/app-training-eligibility-result[1]/div[@class=&quot;training-eligibility-results ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[2]/div[@class=&quot;first-box ontario-small-12 ontario-medium-12 ontario-large-4&quot;]/div[2]/div[1]/b[1]</value>
+      <webElementGuid>e6b46b91-8250-45c8-a415-8cf5883a2464</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab[2]/div/form/div/div/app-training-eligibility-result/div/div[2]/div/div[2]/div/b</value>
+      <webElementGuid>c5f60064-f7ca-4c86-b200-c1a8d690f76a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[2]/following::b[1]</value>
+      <webElementGuid>77253cce-c9d3-4d16-9c6e-49813ef13dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MLTSD Learner ID'])[1]/following::b[2]</value>
+      <webElementGuid>49461512-85c8-42ed-9c81-24f187114816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights - Refresher'])[1]/preceding::b[1]</value>
+      <webElementGuid>343bd4ac-fd22-4471-be6f-9edb32b1c0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights Certification.'])[1]/preceding::b[2]</value>
+      <webElementGuid>298de3bc-1078-4a92-a0cb-089f0a9848f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(111) 111-1111']/parent::*</value>
+      <webElementGuid>1f028ec0-2a54-492a-a244-54c02946b6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/b</value>
+      <webElementGuid>ae55336c-2fd9-4cde-8453-ee5474a4e8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '(111) 111-1111' or . = '(111) 111-1111')]</value>
+      <webElementGuid>1f8d044e-1310-479f-962c-8535e87344a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part Two'])[1]/preceding::b[1]</value>
+      <webElementGuid>794a7a41-bd91-493b-9372-e7a64fbcfaaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joint Health and Safety Committee Certification.'])[1]/preceding::b[2]</value>
+      <webElementGuid>927351f7-3617-47fb-9361-c83d086759c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part One'])[1]/preceding::b[1]</value>
+      <webElementGuid>72f0b131-874c-4052-a28c-1759dc2e9377</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

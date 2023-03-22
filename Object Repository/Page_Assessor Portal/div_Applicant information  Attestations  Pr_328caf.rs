@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Applicant information  Attestations  Pr_328caf</name>
+   <tag></tag>
+   <elementGuidId>cb7b47cc-cfa4-430f-8a44-97fab2f23ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>291a5cca-3f1c-4cb8-b9e1-95e67a8f3ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sticky ontario-column ontario-small-12 ontario-medium-3 float-right ontario-margin-top-24-!</value>
+      <webElementGuid>62f8f438-1b80-471b-93c9-eac01bfdb7d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Applicant information  Attestations  Program documents  Program requirements </value>
+      <webElementGuid>7b19b06b-45b3-4a7a-a27c-6157851acd7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;sticky ontario-column ontario-small-12 ontario-medium-3 float-right ontario-margin-top-24-!&quot;]</value>
+      <webElementGuid>7a276685-f189-4c15-8d2c-c9371cec372d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div</value>
+      <webElementGuid>ce2ab798-573c-4898-acf6-a4cc192aa4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC-2014-2-10049'])[1]/following::div[2]</value>
+      <webElementGuid>4674353a-0119-41e9-99c8-3549ea720fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part Two'])[1]/following::div[3]</value>
+      <webElementGuid>c2fa690e-59b1-447e-bcad-8de21810049b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-triage-assessment/div/div</value>
+      <webElementGuid>a814279d-25f3-42f4-a0f2-81d7817c2a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Applicant information  Attestations  Program documents  Program requirements ' or . = ' Applicant information  Attestations  Program documents  Program requirements ')]</value>
+      <webElementGuid>cad694a5-1e12-49e6-899f-7841c05dea09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

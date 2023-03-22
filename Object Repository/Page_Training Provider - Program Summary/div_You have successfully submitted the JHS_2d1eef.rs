@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You have successfully submitted the JHS_2d1eef</name>
+   <tag></tag>
+   <elementGuidId>6047ac98-9901-4e58-9da3-75ae204a27b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-alert-banner/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>56f3b87c-f4f5-4281-be9d-2fe4ea46aa9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>a8fcb410-0592-4595-b0cb-6451b88b03a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have successfully submitted the JHSC1 training application. You can track the application progress from this page.Ensure you login regularly to see notifications and changes in application status. When a notification is created for you organization to action, it will be viewable in your dashboard and you will receive a courtesy email to prompt to inform you to login to your account.</value>
+      <webElementGuid>6ce72233-4470-48fc-ad00-9ae848807dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-7 ontario-margin-top-24-! float-left&quot;]/app-alert-banner[1]/div[@class=&quot;banner success&quot;]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>52fe5d96-059a-4979-9158-5f5cbe4abd58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aaede001-e447-4e8f-9c22-7850941e95f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>999613ae-2348-4614-b378-21354b3e9fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have successfully submitted the JHSC1 training application. You can track the application progress from this page.Ensure you login regularly to see notifications and changes in application status. When a notification is created for you organization to action, it will be viewable in your dashboard and you will receive a courtesy email to prompt to inform you to login to your account.</value>
+      <webElementGuid>3957b607-34d0-419c-8973-4d0a850c7b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-7 ontario-margin-top-24-! float-left&quot;]/app-alert-banner[1]/div[@class=&quot;banner success&quot;]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>11dc9fb3-630a-43eb-909b-60ff9da49bcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[3]/app-alert-banner/div/div[2]</value>
+      <webElementGuid>a4dad7e3-9937-4b28-b1a7-3900bcdb1070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit training program delivery application'])[1]/following::div[5]</value>
+      <webElementGuid>9eaf6e7c-b656-44c9-a49d-2badd94bfed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage approved training programs'])[1]/following::div[6]</value>
+      <webElementGuid>f9856019-856b-456a-8a56-49dc6df46b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One or more program application(s) require your action'])[1]/preceding::div[3]</value>
+      <webElementGuid>9916f7d8-be44-444a-bb28-01e2c42becb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alert-banner/div/div[2]</value>
+      <webElementGuid>1f362311-4606-4699-a940-74832f8a222e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'You have successfully submitted the JHSC1 training application. You can track the application progress from this page.Ensure you login regularly to see notifications and changes in application status. When a notification is created for you organization to action, it will be viewable in your dashboard and you will receive a courtesy email to prompt to inform you to login to your account.' or . = 'You have successfully submitted the JHSC1 training application. You can track the application progress from this page.Ensure you login regularly to see notifications and changes in application status. When a notification is created for you organization to action, it will be viewable in your dashboard and you will receive a courtesy email to prompt to inform you to login to your account.')]</value>
+      <webElementGuid>45a6f632-329a-496f-af2c-0ab60dda12ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

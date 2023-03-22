@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Offer JHSC training program_checkbox-_8c1fe5</name>
+   <tag></tag>
+   <elementGuidId>8c1d6b6f-a591-4657-9e2c-32b7d0fde33b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='checkbox-option-Offer first aid training program']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b493350e-31b2-4954-bc3f-b51f4618470b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>5cbe74a2-0380-42cc-855e-fa807ed13da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-checkboxes__input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>2731101d-10db-4a73-8dea-1e18e07adab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkbox-option-Offer first aid training program</value>
+      <webElementGuid>5508bd6f-12e6-4b71-9c1e-b1c2d560855b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkbox-option-Offer first aid training program&quot;)</value>
+      <webElementGuid>b30e5fc3-a02b-455f-b38c-a207b569f68e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='checkbox-option-Offer first aid training program']</value>
+      <webElementGuid>f5b184ce-7563-40d8-aa21-9690f8390706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trainingDeliveryInfo']/div[2]/div/div/app-checkbox[3]/div/input</value>
+      <webElementGuid>29d86db6-d522-42cc-8142-7bbf2b71ada9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-checkbox[3]/div/input</value>
+      <webElementGuid>6751c62a-d67e-40fd-bbfd-9b2c65b41549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'checkbox-option-Offer first aid training program']</value>
+      <webElementGuid>9ac1dd2d-d065-4fb0-9ee3-ef6d204f82c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

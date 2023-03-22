@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Attestations</name>
+   <tag></tag>
+   <elementGuidId>8852a9cd-56a9-4de9-9c04-fbe96a9c9fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapsible-header.less-left-padding.collapsed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-field-assessment/div/div/app-field-assessment-side-bar/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>760897f5-f15b-481a-b38d-af8c978b7b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>024d3a2d-fa03-4567-aa62-9903088c81dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsible-header less-left-padding collapsed</value>
+      <webElementGuid>cfb7f63d-1df6-447e-a478-546058a1c0aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Attestations </value>
+      <webElementGuid>08de203b-cf22-4e7d-abe6-cab5a329011e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-field-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-3 float-right ontario-margin-top-24-! sticky&quot;]/app-field-assessment-side-bar[1]/div[@class=&quot;sidebar-background&quot;]/div[@class=&quot;collapsible-header less-left-padding collapsed&quot;]</value>
+      <webElementGuid>4e5f33fd-27e0-4af7-a076-a42c8aaf02ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-field-assessment/div/div/app-field-assessment-side-bar/div/div[2]</value>
+      <webElementGuid>e865e83e-ddd2-46eb-9168-c4085e805599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant information'])[1]/following::div[1]</value>
+      <webElementGuid>6026ca19-29c0-46f9-9e61-5d744a780c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH-10564'])[1]/following::div[5]</value>
+      <webElementGuid>b8a92220-891a-4003-8ce3-59b50a6163d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program materials'])[1]/preceding::div[1]</value>
+      <webElementGuid>8a4c8ac3-7f37-4004-b2e6-d4bd159b4689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule &amp; Pre-field Checklist'])[1]/preceding::div[2]</value>
+      <webElementGuid>d2b0da97-0fb4-4272-b69b-a2d03184c808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Attestations']/parent::*</value>
+      <webElementGuid>6d8a35b8-cdf1-49d9-b512-34b7ae3506d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-field-assessment-side-bar/div/div[2]</value>
+      <webElementGuid>b648dfb5-6c14-46f1-86b9-29e17d8a9020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Attestations ' or . = ' Attestations ')]</value>
+      <webElementGuid>40e4ad62-d1cc-40af-b436-a2aa0331f295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

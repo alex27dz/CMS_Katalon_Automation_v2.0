@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Applicant contact informationContact in_aca410</name>
+   <tag></tag>
+   <elementGuidId>9bc93eaf-22c4-44da-92db-5f09bb42aa1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-applicant-contact-information[@id='contactInfo']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0839333c-7949-4a4c-8c6f-4e21ab2f4db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-12</value>
+      <webElementGuid>de56b107-3070-4ab8-9953-bf443fbedfb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant contact informationContact information required here is for the person who is responsible for the administration of the training provider’s portal account with the ministry.Fields marked with an asterisk (*) are mandatory.First nameLast namePhone numberEmail addressAlternate email address(es)Enter multiple email addresses separated by commaYour role in your organization/company Select a roleManager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportPlease specify your roleMailing address CanadaUSA Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYT</value>
+      <webElementGuid>807e7e7c-76aa-41ea-be24-78e76d531140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactInfo&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]</value>
+      <webElementGuid>e5bd8760-f99e-47c1-aaf7-2c247711bd5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4eb316ff-9bba-4224-8038-14800a2308ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-12</value>
+      <webElementGuid>cfd14f4a-1fdb-4ef8-9e99-6bb4622bb9fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant contact informationContact information required here is for the person who is responsible for the administration of the training provider’s portal account with the ministry.Fields marked with an asterisk (*) are mandatory.First nameLast namePhone numberEmail addressAlternate email address(es)Enter multiple email addresses separated by commaYour role in your organization/company Select a roleManager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportPlease specify your roleMailing address CanadaUSA Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYT</value>
+      <webElementGuid>f442f36e-796c-45c9-935d-b8a7c44d2b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactInfo&quot;)/div[@class=&quot;ontario-row input-div&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12&quot;]</value>
+      <webElementGuid>63387945-0d43-471e-8709-1d9a45517abc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-applicant-contact-information[@id='contactInfo']/div/div</value>
+      <webElementGuid>9977cefb-24a2-4855-b6c4-0bb0661e1039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::div[8]</value>
+      <webElementGuid>14e83ea8-f078-49cd-8341-b79ec7b717e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::div[9]</value>
+      <webElementGuid>f0f15181-b322-42ce-8db2-0451939fbf1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-applicant-contact-information/div/div</value>
+      <webElementGuid>e16b0ee9-8ee9-42f6-b448-f5cc5e4ad836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Applicant contact informationContact information required here is for the person who is responsible for the administration of the training provider’s portal account with the ministry.Fields marked with an asterisk (*) are mandatory.First nameLast namePhone numberEmail addressAlternate email address(es)Enter multiple email addresses separated by commaYour role in your organization/company Select a roleManager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportPlease specify your roleMailing address CanadaUSA Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYT' or . = 'Applicant contact informationContact information required here is for the person who is responsible for the administration of the training provider’s portal account with the ministry.Fields marked with an asterisk (*) are mandatory.First nameLast namePhone numberEmail addressAlternate email address(es)Enter multiple email addresses separated by commaYour role in your organization/company Select a roleManager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportPlease specify your roleMailing address CanadaUSA Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYT')]</value>
+      <webElementGuid>5969c332-9af0-4b74-b05e-7a871ea1bc6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

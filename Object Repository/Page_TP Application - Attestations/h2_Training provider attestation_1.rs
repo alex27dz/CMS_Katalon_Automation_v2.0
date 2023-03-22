@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Training provider attestation_1</name>
+   <tag></tag>
+   <elementGuidId>b12f7ec8-179d-470e-8dcb-5667109af56f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='attest-sidebar']/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c1a02b7d-981c-4ac6-9ca7-62d9f9bea310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training provider attestation</value>
+      <webElementGuid>3368f85e-100d-4c82-a021-a79008fac188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attest-sidebar&quot;)/div[@class=&quot;ontario-row attest-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 checked-list&quot;]/h2[1]</value>
+      <webElementGuid>360c6ca8-42e5-4747-9695-eb457df6df19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8615318a-cd63-46ff-be16-cf46c72cf90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training provider attestation</value>
+      <webElementGuid>d5ddf0bb-6942-4213-8938-515182f7d540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attest-sidebar&quot;)/div[@class=&quot;ontario-row attest-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 checked-list&quot;]/h2[1]</value>
+      <webElementGuid>b42171f6-9d1a-409a-b786-41af8ca620cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attest-sidebar']/div/div/h2</value>
+      <webElementGuid>e7dfb9c1-992e-4205-94b5-e12a623a2a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::h2[1]</value>
+      <webElementGuid>8511e019-321d-4e4c-bb23-e16d887cf262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview &amp; Submit application'])[1]/following::h2[1]</value>
+      <webElementGuid>32edd8df-0075-4aef-82ca-7f6f75bef016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training provider requirements'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5f4dfcad-4a67-4f94-aa50-cd9d400f8e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training instructor requirements'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a4fe68b6-ce3c-4488-b666-e6e3827101f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f54e5723-d759-4e3e-83d1-44b42c4e04e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Training provider attestation' or . = 'Training provider attestation')]</value>
+      <webElementGuid>6d5440e9-704d-499a-a5f4-149aac92e050</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

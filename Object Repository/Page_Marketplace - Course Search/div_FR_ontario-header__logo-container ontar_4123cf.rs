@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FR_ontario-header__logo-container ontar_4123cf</name>
+   <tag></tag>
+   <elementGuidId>f254b2fa-8e41-4774-8b4c-82195357214d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-header__logo-container.ontario-columns.ontario-small-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='ontario-header-default']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f16d8f5b-58b6-4b0a-b211-f0b26633131b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-header__logo-container ontario-columns ontario-small-9</value>
+      <webElementGuid>7861b945-ee17-433a-baef-0e4d029946c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ontario-header-default&quot;)/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-header__logo-container ontario-columns ontario-small-9&quot;]</value>
+      <webElementGuid>546acda8-033c-4990-a0b7-46424fdb8e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7da5f7c1-862a-422e-a82a-a5dc13cdfb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-header__logo-container ontario-columns ontario-small-9</value>
+      <webElementGuid>a2513e36-efd2-47db-95cd-3eadbb2ea83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ontario-header-default&quot;)/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-header__logo-container ontario-columns ontario-small-9&quot;]</value>
+      <webElementGuid>8833c1f5-08d3-4d7b-9ee4-75ad5aa19307</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='ontario-header-default']/div/div</value>
+      <webElementGuid>e0848543-5f10-4acd-a932-bd274d1078e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FR'])[1]/preceding::div[1]</value>
+      <webElementGuid>09641c20-9288-4c63-82dd-ce3f42bd4341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[1]/preceding::div[1]</value>
+      <webElementGuid>2efd4545-d8c2-4be4-bae5-33bf6836b750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>e6ec966d-dcb4-46e1-bfcd-9da234b4be67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

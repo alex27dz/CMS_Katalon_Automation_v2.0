@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DESK DeficienciesMarty CerisanoJan 4, 2_73d7e5 (1)</name>
+   <tag></tag>
+   <elementGuidId>1d22c700-6bf3-45cf-8ad3-f1f5b08ec1be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.note-item-assessor.last-note-style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div/div/app-notes-section/div/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ee0ae53-5687-4bc7-a837-06ecc43b4de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>note-item-assessor last-note-style</value>
+      <webElementGuid>60c95b7b-f03c-49f5-9f4f-13f034ddec36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DESK: DeficienciesMarty Cerisano|Jan 4, 2023There is a problem with the files</value>
+      <webElementGuid>f31f46c1-5495-44f8-a7ae-f15183a52084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-program-docs[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-padding-left-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[1]/app-notes-section[1]/div[@class=&quot;note-section-div&quot;]/div[3]/div[@class=&quot;note-item deficiency-note-item&quot;]/div[@class=&quot;note-item-assessor last-note-style&quot;]</value>
+      <webElementGuid>f8af3b5b-5efb-46cd-92c7-f6943fe7599e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div/div/app-notes-section/div/div[3]/div[2]/div</value>
+      <webElementGuid>5f21752f-07b2-40b8-acb3-7132af0efec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESK: First Review'])[1]/following::div[2]</value>
+      <webElementGuid>2d581bc1-9113-4d51-a9fa-a84989d8327a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[6]</value>
+      <webElementGuid>442504a4-d4fc-4b57-87cd-c7d5366ef939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>be3bc6f3-d4b0-4c04-9e64-07eaedc45992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DESK: DeficienciesMarty Cerisano|Jan 4, 2023There is a problem with the files' or . = 'DESK: DeficienciesMarty Cerisano|Jan 4, 2023There is a problem with the files')]</value>
+      <webElementGuid>2af97d06-73d0-4541-b5a3-b00c7d67992e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

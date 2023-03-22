@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Applicant information  Attestations  Pr_eb0666</name>
+   <tag></tag>
+   <elementGuidId>fae699c9-4ca8-4521-a0d8-bd40c5f40685</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sidebar-background</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-field-assessment/div/div/app-field-assessment-side-bar/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>440f9067-44db-4647-8aa0-b87e8104692c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-background</value>
+      <webElementGuid>47267628-1b33-4446-aa17-44d2c406ac1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Applicant information  Attestations  Program materials  Schedule &amp; Pre-field Checklist  Field visit worksheet  Additional observation  Application </value>
+      <webElementGuid>b421ebdc-ba13-4dc7-99a7-5d173446ef8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-field-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-3 float-right ontario-margin-top-24-! sticky&quot;]/app-field-assessment-side-bar[1]/div[@class=&quot;sidebar-background&quot;]</value>
+      <webElementGuid>3862f7f3-fa4c-46c5-99cc-0a94e72c655e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-field-assessment/div/div/app-field-assessment-side-bar/div</value>
+      <webElementGuid>80bd41f4-fb70-4e68-8dff-c59d084fee18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH-10564'])[1]/following::div[3]</value>
+      <webElementGuid>ce1baef5-b827-4eef-af41-c2eabb976a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights - Full'])[1]/following::div[4]</value>
+      <webElementGuid>9847ef84-2d2b-46c3-a43f-1687aa8e863b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-field-assessment-side-bar/div</value>
+      <webElementGuid>115966c3-b05a-4988-be59-a8f9aba9f636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Applicant information  Attestations  Program materials  Schedule &amp; Pre-field Checklist  Field visit worksheet  Additional observation  Application ' or . = ' Applicant information  Attestations  Program materials  Schedule &amp; Pre-field Checklist  Field visit worksheet  Additional observation  Application ')]</value>
+      <webElementGuid>39514579-e61a-4039-8f7b-28772010f215</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

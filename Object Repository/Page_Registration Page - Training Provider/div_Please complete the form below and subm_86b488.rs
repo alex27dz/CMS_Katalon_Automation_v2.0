@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please complete the form below and subm_86b488</name>
+   <tag></tag>
+   <elementGuidId>ee9669da-5e43-4f2e-89d8-545de1ca9703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-register-training-provider/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7ee1979-3c14-4824-8724-2b692345bdee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-text</value>
+      <webElementGuid>150790ac-a6b0-4841-95ab-40024aad967d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please complete the form below and submit your application to become an approved training provider. You will receive an email to verify your email address. Once you verify, you will be able to submit your training program application to get CPO’s approval. Note: You have to submit a minimum one training program application within 180 days to maintain your status as an approved training provider.</value>
+      <webElementGuid>20ef7dec-4c00-4e5d-80df-c4ad594ef4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-register-training-provider[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;main-text&quot;]</value>
+      <webElementGuid>2444ba98-1237-43aa-bc9b-3d3c86c73d21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-register-training-provider/div/div[2]/div[2]</value>
+      <webElementGuid>a136c113-155f-4122-8efe-69e7a634c636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application to create an account as a training provider'])[1]/following::div[1]</value>
+      <webElementGuid>4ceca644-ba2a-4835-9727-8a2f539d1882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level 5 - Chief Prevention Officer approval'])[1]/following::div[3]</value>
+      <webElementGuid>23b6f817-7596-4c85-aeed-e3ccc54a6c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create your account as a training provider'])[1]/preceding::div[3]</value>
+      <webElementGuid>891f0d8f-26e6-4895-95bf-082d079d4325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit training program to become CPO approved training provider'])[1]/preceding::div[4]</value>
+      <webElementGuid>5c1ec8d2-03d9-42a7-98c1-fba0216ad7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please complete the form below and submit your application to become an approved training provider. You will receive an email to verify your email address. Once you verify, you will be able to submit your training program application to get CPO’s approval.']/parent::*</value>
+      <webElementGuid>cf8b64cb-9b32-494f-82f8-f6cf0eb01ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]</value>
+      <webElementGuid>e86be49a-1665-42f1-ae26-e1d986a176e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please complete the form below and submit your application to become an approved training provider. You will receive an email to verify your email address. Once you verify, you will be able to submit your training program application to get CPO’s approval. Note: You have to submit a minimum one training program application within 180 days to maintain your status as an approved training provider.' or . = 'Please complete the form below and submit your application to become an approved training provider. You will receive an email to verify your email address. Once you verify, you will be able to submit your training program application to get CPO’s approval. Note: You have to submit a minimum one training program application within 180 days to maintain your status as an approved training provider.')]</value>
+      <webElementGuid>45f59389-8c44-47e9-b80a-3c7f161f5c79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

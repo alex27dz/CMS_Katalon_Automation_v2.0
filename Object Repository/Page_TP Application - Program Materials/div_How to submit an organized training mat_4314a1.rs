@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_How to submit an organized training mat_4314a1</name>
+   <tag></tag>
+   <elementGuidId>a99ce7f3-0824-4d20-9f5d-ec9b47d826a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-medium-11.banners-accordians</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>727d55f5-1fb1-4ffb-a54b-38c12c7101b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-11 banners-accordians</value>
+      <webElementGuid>0a1418d5-0f16-4aaa-ad2b-0381ef6c8442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab</value>
+      <webElementGuid>2f3afb1e-0cb4-4e36-91ce-4309fa5c9e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[2]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;program-mats&quot;]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 banners-accordians&quot;]</value>
+      <webElementGuid>1395ca40-cbb1-43bc-a823-662ecb4825b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div/div[2]</value>
+      <webElementGuid>e07826fb-a1fd-415f-8c3b-f6c69d8db66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program design'])[1]/following::div[2]</value>
+      <webElementGuid>d0a2fa4e-3033-4a8d-b2ca-03a1f69d2c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand all'])[1]/following::div[3]</value>
+      <webElementGuid>b49d003d-3643-4d1b-bb03-cb7b6b26ce79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab/div/div/div/div[2]</value>
+      <webElementGuid>57d883ff-26ff-4fc4-a374-98b307bdbf2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab' or . = 'How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab')]</value>
+      <webElementGuid>d3aa7263-0b15-4c03-97b9-922b6781b06d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

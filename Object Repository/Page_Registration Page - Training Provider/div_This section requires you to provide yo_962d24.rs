@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This section requires you to provide yo_962d24</name>
+   <tag></tag>
+   <elementGuidId>b9798556-b046-4a0e-8695-2853e9ea0ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='trainingDeliveryInfo']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d619d9d0-35c1-4fbd-b498-8a210834f7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-text</value>
+      <webElementGuid>1661dc7e-d298-4d6c-90e4-2171766818a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This section requires you to provide your current approval status with the Ministry of Labour, Training and Skills Development (if applicable).</value>
+      <webElementGuid>132b2868-1995-495d-849a-0451ef466c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trainingDeliveryInfo&quot;)/div[@class=&quot;sub-text&quot;]</value>
+      <webElementGuid>a1ea7bb8-06b7-44a6-8db2-c58acdaf9682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trainingDeliveryInfo']/div[3]</value>
+      <webElementGuid>7dab7320-b370-406d-943f-a52eaeb609d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other MLTSD Programs'])[1]/following::div[1]</value>
+      <webElementGuid>97358787-8b97-41f7-afb2-774adf3c638c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/following::div[1]</value>
+      <webElementGuid>a3033d65-8ce7-46c2-8ffb-c5770ce45d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[1]</value>
+      <webElementGuid>5a8652ca-9632-4942-8217-8d09c17a309e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[3]/preceding::div[2]</value>
+      <webElementGuid>37b5d838-aed9-40d0-a327-3158709c4185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This section requires you to provide your current approval status with the Ministry of Labour, Training and Skills Development (if applicable).']/parent::*</value>
+      <webElementGuid>77ae4c1e-87be-4cb6-834e-273e33037a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[3]</value>
+      <webElementGuid>3f494b9b-e89e-49b2-820c-77543dd297d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'This section requires you to provide your current approval status with the Ministry of Labour, Training and Skills Development (if applicable).' or . = 'This section requires you to provide your current approval status with the Ministry of Labour, Training and Skills Development (if applicable).')]</value>
+      <webElementGuid>3eb2cc3a-e8ad-45cf-97eb-4abe7ff050df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

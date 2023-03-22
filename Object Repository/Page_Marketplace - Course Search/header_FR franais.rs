@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_FR franais</name>
+   <tag></tag>
+   <elementGuidId>e613bfb6-54f3-4540-b499-3d10dec9c5ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ontario-header-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='ontario-header-default']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>113727d8-97aa-4ae4-bf6a-3ccfc6bdb3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ontario-header-default</value>
+      <webElementGuid>4b34a624-4b4d-4c3c-b25c-3d5637e57e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-header header noprint</value>
+      <webElementGuid>6873f428-daf8-40e2-9e31-29d8ff505342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> FR français</value>
+      <webElementGuid>d5c2a8ff-c150-46d5-94e7-d506a2b65c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ontario-header-default&quot;)</value>
+      <webElementGuid>3109e893-caec-4366-95f1-52800d797189</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//header[@id='ontario-header-default']</value>
+      <webElementGuid>a23cfb54-4e67-43af-beed-efd8aad3c2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>ad3e38b1-c1af-4e47-bca4-6390c8bac8da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[@id = 'ontario-header-default' and (text() = ' FR français' or . = ' FR français')]</value>
+      <webElementGuid>b24f36e5-2a42-46a9-92e7-f49968678a0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

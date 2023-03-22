@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This Working at Heights Training Progra_32ec01</name>
+   <tag></tag>
+   <elementGuidId>4ee99448-77c4-437c-b1a5-6c8a292f5e37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grey-box-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf669a70-71ca-4a4f-8604-53369b81d5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-box-content</value>
+      <webElementGuid>b592edf3-3c4f-4c7c-a79f-6c0198d7c81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer (CPO) for approval. It should be read in conjunction with the Working at Heights Training Provider Standard, which sets out the requirements that must be met by training providers seeking approval by the CPO to deliver an approved working at heights training program.</value>
+      <webElementGuid>25469366-7d36-4394-96d6-c5a0aa53b01d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-page-content-loop[1]/app-grey-text-tile[1]/div[@class=&quot;grey-box&quot;]/div[@class=&quot;grey-box-content&quot;]</value>
+      <webElementGuid>1c6ae96a-439e-4927-992e-551415eca2ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile/div/div</value>
+      <webElementGuid>c5a09057-8c70-4fb0-8633-95ced46fe43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at height training [WAH]'])[1]/following::div[1]</value>
+      <webElementGuid>22ca9961-ee36-41d1-b20f-d5be6f37ed64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPO-approved training programs'])[1]/following::div[2]</value>
+      <webElementGuid>efe879c1-747c-4d16-b0a7-0718e282411b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find available courses'])[1]/preceding::div[1]</value>
+      <webElementGuid>7b108692-5f9b-46e6-9440-a97c9eaf981c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standards'])[1]/preceding::div[1]</value>
+      <webElementGuid>2e741436-6d8f-4caa-af28-07576d8f65af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer (CPO) for approval. It should be read in conjunction with the Working at Heights Training Provider Standard, which sets out the requirements that must be met by training providers seeking approval by the CPO to deliver an approved working at heights training program.']/parent::*</value>
+      <webElementGuid>2b24de36-cd1d-4ea3-8edb-45f328a0f557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-tile/div/div</value>
+      <webElementGuid>4a015dce-3d52-4515-a745-ccf36c2a8cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer (CPO) for approval. It should be read in conjunction with the Working at Heights Training Provider Standard, which sets out the requirements that must be met by training providers seeking approval by the CPO to deliver an approved working at heights training program.' or . = 'This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer (CPO) for approval. It should be read in conjunction with the Working at Heights Training Provider Standard, which sets out the requirements that must be met by training providers seeking approval by the CPO to deliver an approved working at heights training program.')]</value>
+      <webElementGuid>8ffca65e-d161-4603-a472-6e9d3f8c0735</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We could not find records that matched _10de31 (2)</name>
+   <tag></tag>
+   <elementGuidId>0bab5307-ba9b-4ce0-bb88-87a524643646</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab/div/form/div/div/div[2]/app-alert-banner/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e612058c-4363-4a98-92a3-1b41958d876d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>56e7c4db-f44b-4838-9b96-3407a3e5a344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We could not find records that matched that information.Please verify that you have entered the correct information, or try entering different information and submitting again. If your personal information has changed since you last completed training, your records may not have been updated. If you require additional assistance, please contact support@test.com</value>
+      <webElementGuid>6f9de312-3c60-45be-9c50-91423ce5a9cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/form[@class=&quot;ng-submitted ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-details&quot;]/div[@class=&quot;training-details-row ontario-row buttons-container&quot;]/app-alert-banner[1]/div[@class=&quot;banner error&quot;]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>7d9c5b2e-7f4c-4814-84b2-f9fd5e64e95e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab/div/form/div/div/div[2]/app-alert-banner/div/div[2]</value>
+      <webElementGuid>b57c4b6c-dbf9-4088-858e-16ee9ca06e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Code'])[1]/following::div[6]</value>
+      <webElementGuid>a639c0cf-6c53-4607-bb33-0d54a04e3978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::div[6]</value>
+      <webElementGuid>71e308a9-2d28-489d-a749-6c9baa8a4292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 2'])[1]/preceding::div[1]</value>
+      <webElementGuid>c73d4c0b-aaee-4f68-b04b-01cd0e546086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='We could not find records that matched that information.']/parent::*</value>
+      <webElementGuid>bcb097f0-f3fb-440e-9b99-2530c0eacdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alert-banner/div/div[2]</value>
+      <webElementGuid>2779b6bf-89a2-4292-8b4b-63d30c5dad49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'We could not find records that matched that information.Please verify that you have entered the correct information, or try entering different information and submitting again. If your personal information has changed since you last completed training, your records may not have been updated. If you require additional assistance, please contact support@test.com' or . = 'We could not find records that matched that information.Please verify that you have entered the correct information, or try entering different information and submitting again. If your personal information has changed since you last completed training, your records may not have been updated. If you require additional assistance, please contact support@test.com')]</value>
+      <webElementGuid>09b533e5-13e6-4090-815c-46661df9549d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

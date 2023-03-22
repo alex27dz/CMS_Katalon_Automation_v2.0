@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Offer WAH training program_checkbox-o_cf643c</name>
+   <tag></tag>
+   <elementGuidId>62405a15-07d9-470c-b181-df9d84981a8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='checkbox-option-Offer JHSC training program']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>41e35038-9d2e-4d7f-93c1-d62a6e4b3d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>1eec7d12-a2b3-4f17-ad1c-9db51b3e0da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-checkboxes__input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>1b781074-7aa5-4efe-a453-5216aad3490b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkbox-option-Offer JHSC training program</value>
+      <webElementGuid>c4dbfebc-5a1e-4953-9285-2e19d61b10af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkbox-option-Offer JHSC training program&quot;)</value>
+      <webElementGuid>a149c8f2-edc7-4b47-beef-2e4f10fad724</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='checkbox-option-Offer JHSC training program']</value>
+      <webElementGuid>67a2637a-407f-40f6-9c7d-93ab44042887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='trainingDeliveryInfo']/div[2]/div/div/app-checkbox[2]/div/input</value>
+      <webElementGuid>d8a71ecf-ec4c-4f99-9892-126779ecf8c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-checkbox[2]/div/input</value>
+      <webElementGuid>0eaebb67-39a0-4dd0-a74b-a681ec7c5d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'checkbox-option-Offer JHSC training program']</value>
+      <webElementGuid>422f482f-facd-4e50-98ca-5e5a90449310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

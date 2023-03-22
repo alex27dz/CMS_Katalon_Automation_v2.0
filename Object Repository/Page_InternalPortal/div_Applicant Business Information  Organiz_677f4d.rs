@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Applicant Business Information  Organiz_677f4d</name>
+   <tag></tag>
+   <elementGuidId>9f0fe18c-d401-4470-a418-f7038cca78b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-applicant-info/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-triage-applicant-info > div.ontario-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>79748abe-f6ef-48ea-b61a-57e1fcfbbf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row</value>
+      <webElementGuid>21312f1d-afe3-4888-a048-7c5f77644f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant Business Information  Organization operating nameABC's Training Center Organization legal nameOntario 15473821 Inc. Business typeJob center Business address 564 Road LaneNorth CobaltON P0J 1P0Canada Preferred method of correspondenceEmailDesignated Signing Authority  First nameJonathan Last nameDoe Phone number(123) 123-1234 Email addressjaclyn.binch@ontario.ca Role in the company/organizationAdministrative Support Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaLocation of Training Records &amp; Delivery  Primary location (City/town) of training recordsTSA assignment test Other location of training deliveryN/AConsent for Posting of Approval Status  For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MOL website.I want to be listed as a training provider offering training services to the public.Program review assessment for applicant information  Program review assessment CompleteDeficiency Notes  Add internal comments for applicant information step </value>
+      <webElementGuid>7066a9f6-e650-4951-8b5f-b77e6fd096cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-applicant-info[1]/div[@class=&quot;ontario-row&quot;]</value>
+      <webElementGuid>f9e944a4-1b1d-47d2-9260-86c16a4ab98b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-applicant-info/div</value>
+      <webElementGuid>4361d2d0-dc23-436d-849c-369f56dddbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program requirements'])[2]/following::div[6]</value>
+      <webElementGuid>4d20652e-9b6f-4fbe-bf3e-282d42cb8254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program documents'])[2]/following::div[6]</value>
+      <webElementGuid>c0755477-952d-4117-b0cb-98d953363dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-triage-applicant-info/div</value>
+      <webElementGuid>82792bdf-d03d-4926-8cec-982715dc3054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Applicant Business Information  Organization operating nameABC&quot; , &quot;'&quot; , &quot;s Training Center Organization legal nameOntario 15473821 Inc. Business typeJob center Business address 564 Road LaneNorth CobaltON P0J 1P0Canada Preferred method of correspondenceEmailDesignated Signing Authority  First nameJonathan Last nameDoe Phone number(123) 123-1234 Email addressjaclyn.binch@ontario.ca Role in the company/organizationAdministrative Support Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaLocation of Training Records &amp; Delivery  Primary location (City/town) of training recordsTSA assignment test Other location of training deliveryN/AConsent for Posting of Approval Status  For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MOL website.I want to be listed as a training provider offering training services to the public.Program review assessment for applicant information  Program review assessment CompleteDeficiency Notes  Add internal comments for applicant information step &quot;) or . = concat(&quot;Applicant Business Information  Organization operating nameABC&quot; , &quot;'&quot; , &quot;s Training Center Organization legal nameOntario 15473821 Inc. Business typeJob center Business address 564 Road LaneNorth CobaltON P0J 1P0Canada Preferred method of correspondenceEmailDesignated Signing Authority  First nameJonathan Last nameDoe Phone number(123) 123-1234 Email addressjaclyn.binch@ontario.ca Role in the company/organizationAdministrative Support Contact address1a 123 Street StreetNorth PoleON H0H 0H0CanadaLocation of Training Records &amp; Delivery  Primary location (City/town) of training recordsTSA assignment test Other location of training deliveryN/AConsent for Posting of Approval Status  For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MOL website.I want to be listed as a training provider offering training services to the public.Program review assessment for applicant information  Program review assessment CompleteDeficiency Notes  Add internal comments for applicant information step &quot;))]</value>
+      <webElementGuid>5f7d2b2a-9d83-4694-8e35-6731fb7e8537</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

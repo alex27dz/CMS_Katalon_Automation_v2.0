@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Team members role in organizationcompany</name>
+   <tag></tag>
+   <elementGuidId>09a1b976-ff50-4352-bdeb-79650c215601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.signing-authority-row.ontario-column.ontario-small-12.ontario-medium-6.ontario-large-5.required-col.has-tooltip > app-dropdown > label.input-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-add-team-member[@id='teamMember']/div/div[2]/form/div[5]/div/app-dropdown/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e0cc2cc4-72b6-4712-b2e8-a505fabeb852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-label</value>
+      <webElementGuid>0fbe08c5-4372-46de-9cbf-f8c64a3474e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Team member's role in organization/company</value>
+      <webElementGuid>e46bc090-7099-4849-9740-68a9f46aa6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team member's role in organization/company </value>
+      <webElementGuid>676423b4-0b7b-4593-8886-48da972469b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teamMember&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;signing-authority-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5 required-col has-tooltip&quot;]/app-dropdown[1]/label[@class=&quot;input-label&quot;]</value>
+      <webElementGuid>1d294157-90ae-4d73-9846-7eea8970ebe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b9bfef33-373e-43ae-91d3-af6276d8eb5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-label</value>
+      <webElementGuid>246704fb-1ada-4541-af0f-78a1e5ec1a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Team member's role in organization/company</value>
+      <webElementGuid>9d4a238e-1e14-4445-8a9d-c25e3ba29477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team member's role in organization/company </value>
+      <webElementGuid>524c62b8-7ff5-4ca8-893c-fc56840c63e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;teamMember&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;signing-authority-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5 required-col has-tooltip&quot;]/app-dropdown[1]/label[@class=&quot;input-label&quot;]</value>
+      <webElementGuid>785833df-80ac-4e66-9dea-39572ef36ced</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-add-team-member[@id='teamMember']/div/div[2]/form/div[5]/div/app-dropdown/label</value>
+      <webElementGuid>eb64fee1-7af2-466b-b09d-60606e172f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[2]/following::label[1]</value>
+      <webElementGuid>345d8f82-81a1-4ba2-9267-c5b74dda5c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number'])[2]/following::label[1]</value>
+      <webElementGuid>e16ce103-1a07-48c2-bb30-320e93d34b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::label[1]</value>
+      <webElementGuid>3c98469d-7483-42d8-a4cc-5e1eb0ce2d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::label[1]</value>
+      <webElementGuid>2916c2ea-dd15-49f8-be49-c4e50dba4cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/app-dropdown/label</value>
+      <webElementGuid>35435668-0467-480e-964c-c2bd9e885cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = concat(&quot;Team member&quot; , &quot;'&quot; , &quot;s role in organization/company &quot;) or . = concat(&quot;Team member&quot; , &quot;'&quot; , &quot;s role in organization/company &quot;))]</value>
+      <webElementGuid>f588c941-d643-4e1c-938e-102c89a4f8a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

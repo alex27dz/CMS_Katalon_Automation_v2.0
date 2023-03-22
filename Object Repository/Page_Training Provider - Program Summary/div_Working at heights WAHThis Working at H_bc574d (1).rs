@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Working at heights WAHThis Working at H_bc574d (1)</name>
+   <tag></tag>
+   <elementGuidId>72fa6abe-510f-4bfa-8de5-8c0cad51cdcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f609e073-7fcd-4080-8ae1-55c33c6388ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-body</value>
+      <webElementGuid>a62beb6c-31f7-4f1b-a47b-f85aad533ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval. Read provider standards Read program standards Become an approved providerJoint health and safety committee [JHSC]Certification of certain Joint Health and Safety Committee(JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act(OHSA). Read provider standards Read program standards Become an approved provider</value>
+      <webElementGuid>4ad84d67-6123-4beb-aa27-1a5f047aa747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right min-height&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]</value>
+      <webElementGuid>a877c678-fce8-4ee6-9327-3c0a9349715d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]</value>
+      <webElementGuid>73f3480d-7cd4-41b6-ae86-b2ec692d26eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPO approved programs'])[1]/following::div[1]</value>
+      <webElementGuid>98ffa38e-bbe6-462c-9263-ecf3a43b295e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[5]</value>
+      <webElementGuid>bd4b8dc9-31c8-4c4e-ab5e-f4620b2c23ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar/div/div[2]</value>
+      <webElementGuid>faf69263-3c30-4c5e-a663-1b00e466ab0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Working at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval. Read provider standards Read program standards Become an approved providerJoint health and safety committee [JHSC]Certification of certain Joint Health and Safety Committee(JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act(OHSA). Read provider standards Read program standards Become an approved provider' or . = 'Working at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval. Read provider standards Read program standards Become an approved providerJoint health and safety committee [JHSC]Certification of certain Joint Health and Safety Committee(JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act(OHSA). Read provider standards Read program standards Become an approved provider')]</value>
+      <webElementGuid>1c8636f2-b0b8-41d4-ba5b-91b097b39f54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

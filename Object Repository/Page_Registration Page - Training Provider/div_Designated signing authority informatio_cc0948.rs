@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Designated signing authority informatio_cc0948</name>
+   <tag></tag>
+   <elementGuidId>c1d1f4d7-e761-49b4-ba53-a2f6476d3cc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-12.bordered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83b6d1de-0e1a-4873-a86c-196dbec5f5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-12 bordered</value>
+      <webElementGuid>ee94fe0b-35f3-4eb1-9bb0-c5618d3907e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Designated signing authority informationShare the information about the designated signing authority of this business. System will send an invitation email to the designated signing authority to confirm the role and set up the account.First nameLast namePhone numberDesignated signing authority's email addressDesignated signing authority's role in organization/company Select a roleManager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportMailing address CanadaUSA Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYTMy mailing address is the same as my business address.</value>
+      <webElementGuid>31649633-8089-4ada-8825-dda4b6f92448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;designateSigningAuthority&quot;)/div[@class=&quot;ontario-row ontario-margin-top-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12 bordered&quot;]</value>
+      <webElementGuid>d14598c6-609b-465a-9fc0-198685067c15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div</value>
+      <webElementGuid>cde386a0-8727-45d9-a72e-14330c3c9f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[2]</value>
+      <webElementGuid>3fcd7a40-8066-4e5b-9cc2-6b56842d1791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred method of correspondence'])[1]/following::div[4]</value>
+      <webElementGuid>ef5b25ba-9d29-490f-855b-78071dbfed4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information/div/div</value>
+      <webElementGuid>9eb18dc1-aa19-49d0-adb3-3c064c6d5504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Designated signing authority informationShare the information about the designated signing authority of this business. System will send an invitation email to the designated signing authority to confirm the role and set up the account.First nameLast namePhone numberDesignated signing authority&quot; , &quot;'&quot; , &quot;s email addressDesignated signing authority&quot; , &quot;'&quot; , &quot;s role in organization/company Select a roleManager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportMailing address CanadaUSA Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYTMy mailing address is the same as my business address.&quot;) or . = concat(&quot;Designated signing authority informationShare the information about the designated signing authority of this business. System will send an invitation email to the designated signing authority to confirm the role and set up the account.First nameLast namePhone numberDesignated signing authority&quot; , &quot;'&quot; , &quot;s email addressDesignated signing authority&quot; , &quot;'&quot; , &quot;s role in organization/company Select a roleManager / Senior LeadershipHealth and Safety CoordinatorHealth and Safety Program DeveloperCoordinator of Training ActivitiesHuman ResourcesInstructorAdministrative SupportMailing address CanadaUSA Please select province/stateABBCMBNBNLNSNTNUONPEQCSKYTMy mailing address is the same as my business address.&quot;))]</value>
+      <webElementGuid>c7012eaa-73a9-4f66-96cb-b91872e4182d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

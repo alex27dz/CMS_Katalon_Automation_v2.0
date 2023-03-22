@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Primary location (Citytown) of trainin_0bf49a</name>
+   <tag></tag>
+   <elementGuidId>ea0f97fc-e86b-4eea-b739-de1cf628a5d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='locations']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#locations</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>434e5064-4ba1-40bd-b4b0-8199a3efc9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>locations</value>
+      <webElementGuid>c4776dad-84f8-475c-a32f-b0fc4eaf7db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>1f3f8e23-fe34-4dd2-afc5-a4d9fb823e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Primary location (City/town) of training recordsAdd additional training delivery locations (if any). Add another location</value>
+      <webElementGuid>eb5522bc-9eaa-42fa-bea7-8bf002940610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locations&quot;)</value>
+      <webElementGuid>0cf7e15e-8ff3-45e8-91a5-f8cf914c50fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@id='locations']</value>
+      <webElementGuid>89778cce-2fe9-4ce8-81be-d7c3dd286cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/form[3]</value>
+      <webElementGuid>0ff784ad-1098-4aa1-b3b9-1f1192337962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location of Training Records &amp; Delivery'])[1]/following::form[1]</value>
+      <webElementGuid>a98fb43e-e744-47ad-bb2f-50571c813f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing address'])[1]/following::form[1]</value>
+      <webElementGuid>002535d7-9996-42cf-86c2-038edc13757e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[3]</value>
+      <webElementGuid>007020db-bca6-42fd-92a5-24924253a638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@id = 'locations' and (text() = 'Primary location (City/town) of training recordsAdd additional training delivery locations (if any). Add another location' or . = 'Primary location (City/town) of training recordsAdd additional training delivery locations (if any). Add another location')]</value>
+      <webElementGuid>33024ec8-16f2-490b-8b01-9c754605852c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

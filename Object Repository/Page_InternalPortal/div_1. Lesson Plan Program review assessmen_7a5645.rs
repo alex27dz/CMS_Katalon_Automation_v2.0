@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1. Lesson Plan Program review assessmen_7a5645</name>
+   <tag></tag>
+   <elementGuidId>a10c15c3-cc41-44db-8480-0200b743a660</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d01273a1-d9b0-4197-b927-a9d49608a32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12</value>
+      <webElementGuid>8bc8478d-b03b-46fa-a0ba-2271f0044548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. Lesson Plan Program review assessment CompleteDeficiency Notes 2. Instructor Manual Program review assessment CompleteDeficiency Notes 3. Presentation Materials Program review assessment CompleteDeficiency Notes 4. Participant Manual Program review assessment CompleteDeficiency Notes 5. Associated Handouts Program review assessment CompleteDeficiency Notes 6. Quick reference material for learners Program review assessment CompleteDeficiency Notes 7. Equipment list Program review assessment CompleteDeficiency Notes 8. Learner Evaluation Plan Program review assessment CompleteDeficiency Notes 9. Written Tests and Assessment Documents Program review assessment CompleteDeficiency Notes 10. Quality Assurance and Continuous Improvement Plan Program review assessment CompleteDeficiency Notes 11. Proof of training completion document (sample) Program review assessment CompleteDeficiency Notes </value>
+      <webElementGuid>d21f5709-4633-4325-be9a-acca0bd41e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/div[@class=&quot;ontario-row ontario-padding-top-16-! ontario-padding-bottom-40-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9 ontario-large-9 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-triage-program-docs[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]/app-application-program-material-files[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-padding-left-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]</value>
+      <webElementGuid>fe400df8-1587-4290-aafe-6049dcba1694</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/div/div[2]/app-triage-program-docs/div/div/app-application-program-material-files/div/div/div</value>
+      <webElementGuid>fefd90af-0090-40c9-a6ce-b0294990f2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program requirements'])[2]/following::div[10]</value>
+      <webElementGuid>aeff802f-f183-40e7-bae0-975fe0b16572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program documents'])[2]/following::div[10]</value>
+      <webElementGuid>ae2b9616-b4b2-49a4-ac56-ab30c283fd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-application-program-material-files/div/div/div</value>
+      <webElementGuid>da2fa824-4a7f-4a1b-a313-1cc3f04403e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1. Lesson Plan Program review assessment CompleteDeficiency Notes 2. Instructor Manual Program review assessment CompleteDeficiency Notes 3. Presentation Materials Program review assessment CompleteDeficiency Notes 4. Participant Manual Program review assessment CompleteDeficiency Notes 5. Associated Handouts Program review assessment CompleteDeficiency Notes 6. Quick reference material for learners Program review assessment CompleteDeficiency Notes 7. Equipment list Program review assessment CompleteDeficiency Notes 8. Learner Evaluation Plan Program review assessment CompleteDeficiency Notes 9. Written Tests and Assessment Documents Program review assessment CompleteDeficiency Notes 10. Quality Assurance and Continuous Improvement Plan Program review assessment CompleteDeficiency Notes 11. Proof of training completion document (sample) Program review assessment CompleteDeficiency Notes ' or . = '1. Lesson Plan Program review assessment CompleteDeficiency Notes 2. Instructor Manual Program review assessment CompleteDeficiency Notes 3. Presentation Materials Program review assessment CompleteDeficiency Notes 4. Participant Manual Program review assessment CompleteDeficiency Notes 5. Associated Handouts Program review assessment CompleteDeficiency Notes 6. Quick reference material for learners Program review assessment CompleteDeficiency Notes 7. Equipment list Program review assessment CompleteDeficiency Notes 8. Learner Evaluation Plan Program review assessment CompleteDeficiency Notes 9. Written Tests and Assessment Documents Program review assessment CompleteDeficiency Notes 10. Quality Assurance and Continuous Improvement Plan Program review assessment CompleteDeficiency Notes 11. Proof of training completion document (sample) Program review assessment CompleteDeficiency Notes ')]</value>
+      <webElementGuid>861f663c-c5bd-4e7d-86a8-5df100cc9299</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The following includes a list of requir_308f55</name>
+   <tag></tag>
+   <elementGuidId>1e5ccc28-d33e-4ddc-b96d-87431bc72d7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>098dab06-21d5-40e4-9eb1-f8b98c1e051f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-text</value>
+      <webElementGuid>ee886540-83b4-45e8-b499-49327805a782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The following includes a list of requirements that the applicant must comply with, per the Working at Heights Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these requirements throughout the duration of your approval.</value>
+      <webElementGuid>b5224b5a-aaa5-459b-a68b-174ebb6503e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-provider-attestation[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/div[@class=&quot;main-text&quot;]</value>
+      <webElementGuid>dd22f415-8ec1-48ae-8020-be936aff81d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-provider-attestation/div/div[2]/div[2]</value>
+      <webElementGuid>db6ab22f-1763-46ba-821a-29d0b53f7f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training provider attestation'])[3]/following::div[1]</value>
+      <webElementGuid>64e7973a-c1fc-46fb-93aa-b9b6cc6d1333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standard'])[1]/following::div[3]</value>
+      <webElementGuid>14ca068b-80de-4f98-b6d1-740a6a794cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provider attestation'])[1]/preceding::div[1]</value>
+      <webElementGuid>b6dffa4a-f4ba-4fdb-876d-dc5edfb2e26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program attestation'])[1]/preceding::div[1]</value>
+      <webElementGuid>1095d175-56bd-4548-8cb9-3fc6e23b0833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The following includes a list of requirements that the applicant must comply with, per the Working at Heights Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these requirements throughout the duration of your approval.']/parent::*</value>
+      <webElementGuid>970cf2e7-96c5-4b00-b415-0fd266513890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>56d4ebda-2713-47bd-aff8-9dc25cf199ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The following includes a list of requirements that the applicant must comply with, per the Working at Heights Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these requirements throughout the duration of your approval.' or . = 'The following includes a list of requirements that the applicant must comply with, per the Working at Heights Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these requirements throughout the duration of your approval.')]</value>
+      <webElementGuid>2416785f-274b-480a-b174-f224c51065a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

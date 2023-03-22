@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_JHSC - Refresher</name>
+   <tag></tag>
+   <elementGuidId>f789d850-6196-45a4-a544-c36a9da406dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#not-completed > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='not-completed']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>27a64d30-b20c-4b7e-8813-22d4793dae32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JHSC - Refresher</value>
+      <webElementGuid>1204b7d8-2cc6-4097-9c78-ce51d457df6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;not-completed&quot;)/b[1]</value>
+      <webElementGuid>9f5ee9d8-2893-4926-8142-cb9357f714be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>eb8fb806-ef7e-4512-afcc-8400c890652f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JHSC - Refresher</value>
+      <webElementGuid>4dafd290-c733-4d71-8766-6b8fe77973ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;completed&quot;)/b[2]</value>
+      <webElementGuid>76491574-90b2-4992-a873-736b2c263f0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='not-completed']/b</value>
+      <webElementGuid>00ee7178-0c2d-433e-8019-cdd31b9878d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(222) 222-2222'])[1]/following::b[1]</value>
+      <webElementGuid>32ad9299-8df8-4469-adc5-407c60c25a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[2]/following::b[2]</value>
+      <webElementGuid>7a887396-4d6d-4867-a2de-aa4c211e3b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joint Health and Safety Committee Certification.'])[1]/preceding::b[1]</value>
+      <webElementGuid>4a1284cf-6349-4df7-8ff4-a078dd398dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JHSC - Refresher']/parent::*</value>
+      <webElementGuid>1d333afe-1b45-4e02-979f-ddce73399cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/b</value>
+      <webElementGuid>206a670a-b32a-4113-8b1b-22fca5905063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'JHSC - Refresher' or . = 'JHSC - Refresher')]</value>
+      <webElementGuid>0d060531-13af-4910-a7af-08b964f02c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='completed']/b[2]</value>
+      <webElementGuid>7fd7fc04-bdcd-46ba-8305-ce98ad06fa91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part Two'])[1]/following::b[1]</value>
+      <webElementGuid>59d2f238-a44d-44e9-88df-fb65074028f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training and other requirements'])[1]/preceding::b[1]</value>
+      <webElementGuid>72eb9c67-bb0c-4ecf-a82a-479c9b4b1e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b[2]</value>
+      <webElementGuid>686c6f91-3677-41f1-b316-86d335235392</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

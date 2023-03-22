@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training program requirementsThanks for_a31d1d (1)</name>
+   <tag></tag>
+   <elementGuidId>4dcc2ad3-1080-44d6-a938-e1019266ed47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/div/app-tabs/div/div[2]/app-tab[3]/div/app-approved-application-program-material/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee0f0cbb-3446-4ea1-81d9-d5fc1dc285b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!</value>
+      <webElementGuid>babe209e-410f-4a88-af31-8ac798bcf2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.1. Lesson Plan Upload new document2. Instructor Manual Upload new document3. Presentation Materials Upload new document4. Participant Manual Upload new document5. Associated Handouts Upload new document6. Quick reference material for learners Upload new document7. Equipment list Upload new document8. Learner Evaluation Plan Upload new document9. Written tests and assessment documents Upload new document10. Quality assurance and continuous improvement plan Upload new document11. Proof of training completion document (sample) Upload new document</value>
+      <webElementGuid>87ca39bb-7c1d-4d66-9499-9b5eec31d7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-approved-application[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-32-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[3]/div[@class=&quot;tab&quot;]/app-approved-application-program-material[1]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]</value>
+      <webElementGuid>a1b71d0e-3700-4a6e-8db5-c69ecc446d23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/div/app-tabs/div/div[2]/app-tab[3]/div/app-approved-application-program-material/div/div</value>
+      <webElementGuid>92e5e686-609f-4df1-a7e1-134b7d2daff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want to be listed as a training provider offering training services to the public.'])[1]/following::div[9]</value>
+      <webElementGuid>58b98b9b-cca0-40df-9173-15a614059782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consent for Posting of Approval Status'])[1]/following::div[11]</value>
+      <webElementGuid>86fb30fe-cae1-4b1e-a04a-02738473442a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-approved-application-program-material/div/div</value>
+      <webElementGuid>e874f67a-507b-43d3-8e16-95e4ced5b8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.1. Lesson Plan Upload new document2. Instructor Manual Upload new document3. Presentation Materials Upload new document4. Participant Manual Upload new document5. Associated Handouts Upload new document6. Quick reference material for learners Upload new document7. Equipment list Upload new document8. Learner Evaluation Plan Upload new document9. Written tests and assessment documents Upload new document10. Quality assurance and continuous improvement plan Upload new document11. Proof of training completion document (sample) Upload new document' or . = 'Training program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.1. Lesson Plan Upload new document2. Instructor Manual Upload new document3. Presentation Materials Upload new document4. Participant Manual Upload new document5. Associated Handouts Upload new document6. Quick reference material for learners Upload new document7. Equipment list Upload new document8. Learner Evaluation Plan Upload new document9. Written tests and assessment documents Upload new document10. Quality assurance and continuous improvement plan Upload new document11. Proof of training completion document (sample) Upload new document')]</value>
+      <webElementGuid>02d2e85d-92b5-43ff-b043-110d25aa356f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

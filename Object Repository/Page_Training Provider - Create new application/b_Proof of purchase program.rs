@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Proof of purchase program</name>
+   <tag></tag>
+   <elementGuidId>583f965f-6514-477c-b8b2-67215eb564a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-text > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[5]/div[2]/div[3]/div/app-alert-banner/div/div[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>52056db3-febd-4401-8aa9-7f2f85eac753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proof of purchase program</value>
+      <webElementGuid>4179ca0c-ed43-4626-b0cb-14c7f864d2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row padding-2rerm ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row purchased-material-btm&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-alert-banner[1]/div[@class=&quot;banner alert&quot;]/div[@class=&quot;icon-text&quot;]/b[1]</value>
+      <webElementGuid>3daa4029-80da-4376-a378-2b788e8adaa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>c20b806c-0585-4ef0-9b7a-5a59eb9a039c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proof of purchase program</value>
+      <webElementGuid>ea976dcf-b6a0-4a05-a28b-79feab869567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row padding-2rerm ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row purchased-material-btm&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-alert-banner[1]/div[@class=&quot;banner alert&quot;]/div[@class=&quot;icon-text&quot;]/b[1]</value>
+      <webElementGuid>630797c0-d216-45b4-8207-666202eb16aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[5]/div[2]/div[3]/div/app-alert-banner/div/div[2]/b</value>
+      <webElementGuid>20a4db96-ba0f-4c0a-9eb4-cb4a090e17b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validate'])[1]/following::b[1]</value>
+      <webElementGuid>9623fa0f-5178-430f-9f92-920764436898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program ID number'])[1]/following::b[1]</value>
+      <webElementGuid>c34b2020-22e1-4d37-ab12-a4a4b7097f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional information'])[1]/preceding::b[1]</value>
+      <webElementGuid>dac4228e-64b7-4726-8b96-90aaaf4479e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery modes'])[1]/preceding::b[1]</value>
+      <webElementGuid>ecf39c6e-24bb-4631-a19a-3b1e01305226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proof of purchase program']/parent::*</value>
+      <webElementGuid>b40df63c-da28-4b02-a37f-9b39bb8585e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/b</value>
+      <webElementGuid>ef56dd46-64c0-4e44-b139-c89587c8c13b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Proof of purchase program' or . = 'Proof of purchase program')]</value>
+      <webElementGuid>08d12313-9aee-420c-be72-21bb069904c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[6]/div[2]/div[3]/div/app-alert-banner/div/div[2]/b</value>
+      <webElementGuid>225695ee-3a0e-4196-b503-ce8653d951a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/app-alert-banner/div/div[2]/b</value>
+      <webElementGuid>33a847a6-e372-41a2-a971-e70fd6702d61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

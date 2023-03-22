@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Training Program Introduction Page - _b4cdce</name>
+   <tag></tag>
+   <elementGuidId>1d2014b0-2962-46db-883e-a4250c4ca901</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='row_vss_285_10']/div[3]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#row_vss_285_10 > div.grid-cell > div.grid-cell-contents-container > a.work-item-title-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>61b9bcae-24d9-48e7-bbd1-c15608c4e098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>work-item-title-link</value>
+      <webElementGuid>aa2698e7-4bb8-4729-9e37-91d627c7973d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/netsdc/SDC/_workitems/edit/72188</value>
+      <webElementGuid>356ddd31-e3e9-40a9-869e-c81a02878e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>91a63d68-d40b-4acf-b16b-911d678413c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Training Program: Introduction Page - Purchased Program</value>
+      <webElementGuid>672dc321-59f0-4904-a26b-dca1d59d77bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row_vss_285_10&quot;)/div[@class=&quot;grid-cell&quot;]/div[@class=&quot;grid-cell-contents-container&quot;]/a[@class=&quot;work-item-title-link&quot;]</value>
+      <webElementGuid>e76c714d-bd1c-4303-835d-377762d88e2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='row_vss_285_10']/div[3]/div[2]/a</value>
+      <webElementGuid>328286a7-e18f-4893-ac93-09eded4c3c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New Training Program: Introduction Page - Purchased Program')]</value>
+      <webElementGuid>98e2867c-933b-44c0-830f-7f98a749c09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/following::a[1]</value>
+      <webElementGuid>43463421-6768-48e3-88c3-c638716f1c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Training Programs: Training Programs Table (With Results)'])[1]/following::a[1]</value>
+      <webElementGuid>6ccdb084-af81-4dc0-a3af-ad9f573b77da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[2]/preceding::a[1]</value>
+      <webElementGuid>205b2962-a89a-494a-a81f-3f9d97fa84a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Training Program: Introduction Page - Duplicate Check'])[1]/preceding::a[1]</value>
+      <webElementGuid>52760568-fabd-42f9-a4e8-271cdca31c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Training Program: Introduction Page - Purchased Program']/parent::*</value>
+      <webElementGuid>873d3a08-f28d-42ac-8c93-1e78a01d3cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/netsdc/SDC/_workitems/edit/72188')]</value>
+      <webElementGuid>4bdff342-3566-403e-a006-c60a128e69e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div[2]/a</value>
+      <webElementGuid>886fc1bd-175f-4e03-a2cd-5b938fde96bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/netsdc/SDC/_workitems/edit/72188' and (text() = 'New Training Program: Introduction Page - Purchased Program' or . = 'New Training Program: Introduction Page - Purchased Program')]</value>
+      <webElementGuid>13aea674-81a5-4300-9dd5-8a32a8e09c5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

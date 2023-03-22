@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Back to Overview  Create DAP (1)</name>
+   <tag></tag>
+   <elementGuidId>cda05a54-e9e7-4149-bacf-d8f6475d54bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.buttons-col</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-triage-assessment/app-triage-assessment-footer/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01adf344-1e92-475c-b45f-89dbc0d15905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttons-col</value>
+      <webElementGuid>9768f2f4-4d8b-4236-82da-dfeaf0667288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Back to Overview  Create DAP </value>
+      <webElementGuid>98713075-235a-4e46-b6b4-d08a98e3f9ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-triage-assessment[1]/app-triage-assessment-footer[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;flex-row ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-col&quot;]</value>
+      <webElementGuid>e20f5b00-4036-459b-a8d2-10643d3ea77b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-triage-assessment/app-triage-assessment-footer/div/div/div/div</value>
+      <webElementGuid>a23e5125-a78d-4907-bf43-551bbdd7f014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add internal comments for applicant information step'])[1]/following::div[4]</value>
+      <webElementGuid>02efdf8d-babf-40c5-af5a-caac5dd334d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[6]</value>
+      <webElementGuid>ed8f344e-e0c8-4ad5-b959-c3fbb0029fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-triage-assessment-footer/div/div/div/div</value>
+      <webElementGuid>06bad66b-a056-44e7-9d39-3d0f3c06c97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Back to Overview  Create DAP ' or . = ' Back to Overview  Create DAP ')]</value>
+      <webElementGuid>d3458c1a-3cd2-404a-9590-7d5cc3d8a382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

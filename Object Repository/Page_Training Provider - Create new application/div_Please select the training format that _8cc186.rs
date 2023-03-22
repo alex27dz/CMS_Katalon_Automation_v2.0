@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please select the training format that _8cc186</name>
+   <tag></tag>
+   <elementGuidId>30c86631-fdbb-4d58-bb11-5ea00f262bcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa2cda73-a5b9-4f2e-8312-2722705830e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row ontario-padding-left-0-! ontario-padding-top-8-!</value>
+      <webElementGuid>2f199ef3-cc31-4af9-98c5-bb517de4d757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select the training format that you want to deliver the training in? You have to submit a separate application for each training format. Blended  In-Class Not sure? Want to learn more about training formats? Safety Training Formats</value>
+      <webElementGuid>8d523d93-ed61-4698-8374-c7a772640c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[1]/div[@class=&quot;ontario-row ontario-margin-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row ontario-padding-left-0-! ontario-padding-top-8-!&quot;]</value>
+      <webElementGuid>d5f36a23-ee52-4817-83b1-d53a2fce54d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[4]</value>
+      <webElementGuid>be286c10-9c47-4630-8816-da0e21d878ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='French'])[1]/following::div[2]</value>
+      <webElementGuid>2cf2fb94-4c68-4b9e-b9df-b4abf199d3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::div[3]</value>
+      <webElementGuid>b6f4d54a-c142-4736-a7ae-cc503f38984a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>8df4c605-c821-441f-b5b6-0cd199ae1e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please select the training format that you want to deliver the training in? You have to submit a separate application for each training format. Blended  In-Class Not sure? Want to learn more about training formats? Safety Training Formats' or . = 'Please select the training format that you want to deliver the training in? You have to submit a separate application for each training format. Blended  In-Class Not sure? Want to learn more about training formats? Safety Training Formats')]</value>
+      <webElementGuid>411247da-2cc1-4f69-8d13-b23c9436dfe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

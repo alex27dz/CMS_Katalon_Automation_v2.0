@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Software DevelopmentProvided byTEST - J_8e6113</name>
+   <tag></tag>
+   <elementGuidId>ded9e6fc-5f6a-4949-9f6d-83e443f4f507</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.training-details</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8b9d45f-3e25-4afd-aba9-1eb20db5fbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>training-details</value>
+      <webElementGuid>d633c1f0-1128-4735-b92c-e66eae2d9434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software DevelopmentProvided byTEST - Jaclyn's amazing trainingClass informationJul 30 @ 11:00 AM to 4:00 PMAug 07 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: jaclyn@jaclynlearning.comP: 123-456-7890W: http://www.jaclynlearning.com</value>
+      <webElementGuid>54eb5cca-c2d9-48fd-b3d5-69e6bff250c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;button-row ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 selected-view&quot;]/app-course-schedule-search-result-card[1]/div[@class=&quot;card&quot;]/div[@class=&quot;training-details&quot;]</value>
+      <webElementGuid>63390d40-5d1c-443d-9cec-5a950c35caca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div/div[3]</value>
+      <webElementGuid>5681dd8c-2d9a-4371-a74e-ff6778494d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$400.00'])[1]/following::div[1]</value>
+      <webElementGuid>96ec8922-79aa-4472-84e3-e087bd78fdd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course fee'])[1]/following::div[1]</value>
+      <webElementGuid>0fb5bf92-b2f9-4a27-9080-a1dcf9767ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-course-schedule-search-result-card/div/div[3]</value>
+      <webElementGuid>e4005709-282c-4b3e-bab0-86facfda4012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationJul 30 @ 11:00 AM to 4:00 PMAug 07 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: jaclyn@jaclynlearning.comP: 123-456-7890W: http://www.jaclynlearning.com&quot;) or . = concat(&quot;Software DevelopmentProvided byTEST - Jaclyn&quot; , &quot;'&quot; , &quot;s amazing trainingClass informationJul 30 @ 11:00 AM to 4:00 PMAug 07 @ 11:00 AM to 4:00 PMTraining LocationTEST - 123 Street, TEST - Toronto ON, T0T 0T0ContactE: jaclyn@jaclynlearning.comP: 123-456-7890W: http://www.jaclynlearning.com&quot;))]</value>
+      <webElementGuid>9f4f614f-5256-4eff-aaa2-99fa9f17eb46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

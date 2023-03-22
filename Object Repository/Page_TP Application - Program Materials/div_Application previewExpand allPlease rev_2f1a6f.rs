@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Application previewExpand allPlease rev_2f1a6f</name>
+   <tag></tag>
+   <elementGuidId>8256dc4a-b8b2-4173-87f0-3b64a97d0e63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-review-program-application/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33366e76-774e-44d2-92db-e698dbb13b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>94e57636-fb3f-458d-ac82-87a16a80087c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Application previewExpand allPlease review the application carefully before you submit.Applicant informationTraining provider attestationTraining program attestationTraining program requirementsCertification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  19 September 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.</value>
+      <webElementGuid>e3fdac6f-c28d-45c2-9609-a75976eba6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-review-program-application[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>3558c1d5-c562-4a0d-90ab-2664c2c6f654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-review-program-application/div/div[2]</value>
+      <webElementGuid>3f004c11-0688-43dd-9038-16d9d6bb791f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ongoing access to your information'])[1]/following::div[1]</value>
+      <webElementGuid>5477e256-8bcb-46cf-bd5e-1454cb9acfa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next step(s)'])[1]/following::div[3]</value>
+      <webElementGuid>f7c3fff6-36ba-47e2-a2f8-b9b13a87996b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-review-program-application/div/div[2]</value>
+      <webElementGuid>a2e304be-166e-4fb7-aaf1-206882cc033c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Application previewExpand allPlease review the application carefully before you submit.Applicant informationTraining provider attestationTraining program attestationTraining program requirementsCertification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  19 September 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.' or . = ' Application previewExpand allPlease review the application carefully before you submit.Applicant informationTraining provider attestationTraining program attestationTraining program requirementsCertification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  19 September 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.')]</value>
+      <webElementGuid>c6103bea-364d-49a5-87f7-350537804ca5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

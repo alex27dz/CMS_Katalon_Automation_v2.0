@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Storefront</name>
+   <tag></tag>
+   <elementGuidId>ec86ea0b-65be-4c1b-af7d-3eb64d42b6b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contact']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.store-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f657e5fd-84ab-419b-b99f-db26973a1dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>store-link</value>
+      <webElementGuid>40878c38-f3a0-47c1-bd43-14448f2312cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/marketplace/course-search?tpId=e756eb4e-0be3-43f2-b9a0-b068116a35f4</value>
+      <webElementGuid>0ec1c9cd-512c-4f5c-803c-c012c984bd5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Storefront</value>
+      <webElementGuid>55c835c7-56d0-43e3-a728-52d9cfaed622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers-search[1]/div[@class=&quot;ontario-row results-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;table&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;table-col contact-cell&quot;]/div[@id=&quot;contact&quot;]/div[1]/a[@class=&quot;store-link&quot;]</value>
+      <webElementGuid>0bbf54cc-e3a8-456b-8e60-576dc5c6aa18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact']/div/a</value>
+      <webElementGuid>01163d96-83d1-48a7-bbbb-7efd0d65bbb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Storefront')]</value>
+      <webElementGuid>3d5eb9e3-10a9-4fad-8456-d5c1d411da9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[2]/following::a[1]</value>
+      <webElementGuid>c2ab1b2f-7f17-4706-9877-22ff8702b791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/following::a[1]</value>
+      <webElementGuid>9d87a4d1-d22d-48c4-afce-fc672e68711b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/preceding::a[1]</value>
+      <webElementGuid>626ae269-7565-4e68-9e1c-98990b28f9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('TEST - Atif', &quot;'&quot;, 's super cool training provisions')])[1]/preceding::a[1]</value>
+      <webElementGuid>4f236738-169c-4cd5-a9e1-d26fc8e4eb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Storefront']/parent::*</value>
+      <webElementGuid>a1414a03-110d-4142-845f-66713854f558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/marketplace/course-search?tpId=e756eb4e-0be3-43f2-b9a0-b068116a35f4')]</value>
+      <webElementGuid>6cb82397-399c-4d9f-9fa3-98a26d56a70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>df6cf4ab-3c83-43dd-8b6b-6884c434c6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/marketplace/course-search?tpId=e756eb4e-0be3-43f2-b9a0-b068116a35f4' and (text() = 'View Storefront' or . = 'View Storefront')]</value>
+      <webElementGuid>558693a4-2abe-4f0b-ad62-99c553b90f02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

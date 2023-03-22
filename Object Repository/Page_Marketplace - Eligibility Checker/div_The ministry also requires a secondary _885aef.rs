@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The ministry also requires a secondary _885aef</name>
+   <tag></tag>
+   <elementGuidId>d9b1e325-311b-4330-8539-4ca382f7d80f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>865aca85-bdbb-405c-ad2a-5bd0d073ae24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The ministry also requires a secondary piece of information to validate the learner's identity. It can be any one of the learners: email address, phone number, or postal code.It must match the information that was submitted to the ministry the last time the learner completed training for a CPO-approved course.</value>
+      <webElementGuid>3a341b9c-4cd9-40e1-bb2c-4a81d1561669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]/div[2]</value>
+      <webElementGuid>530f2d99-d7cd-4f84-8e91-17c7b5811e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8d51c42-dd33-4188-a74b-914038770f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The ministry also requires a secondary piece of information to validate the learner's identity. It can be any one of the learners: email address, phone number, or postal code.It must match the information that was submitted to the ministry the last time the learner completed training for a CPO-approved course.</value>
+      <webElementGuid>116c9738-a9ff-4e88-9889-2c405b3bdcd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]/div[2]</value>
+      <webElementGuid>9791fa51-f284-41e1-bc73-3505e0fefa76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div/div[2]</value>
+      <webElementGuid>51617b6a-8268-4f64-96e8-b600ae59817d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address/ Phone number/ Postal code'])[1]/following::div[1]</value>
+      <webElementGuid>5c0ea067-cdd5-426b-a211-3bca2ac953fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learner ID &amp; Name on training records'])[1]/following::div[2]</value>
+      <webElementGuid>466db96f-89ce-40fb-a3b1-d7307618c4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To access training records'])[1]/preceding::div[1]</value>
+      <webElementGuid>c2c51297-1006-482d-becf-f953fd26ccc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>ad12b386-e362-4001-9705-414055a67693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;The ministry also requires a secondary piece of information to validate the learner&quot; , &quot;'&quot; , &quot;s identity. It can be any one of the learners: email address, phone number, or postal code.It must match the information that was submitted to the ministry the last time the learner completed training for a CPO-approved course.&quot;) or . = concat(&quot;The ministry also requires a secondary piece of information to validate the learner&quot; , &quot;'&quot; , &quot;s identity. It can be any one of the learners: email address, phone number, or postal code.It must match the information that was submitted to the ministry the last time the learner completed training for a CPO-approved course.&quot;))]</value>
+      <webElementGuid>12184624-849b-42ca-87dd-8ca049b5d502</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

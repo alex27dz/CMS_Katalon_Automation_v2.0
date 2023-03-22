@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training provider attestationTraining p_331f73</name>
+   <tag></tag>
+   <elementGuidId>1afa92b0-a8b2-4255-be56-f0f096c10d3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.checked-list</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='attest-sidebar']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>199a0183-12d7-42a7-b08b-cf02138ebe28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 checked-list</value>
+      <webElementGuid>5f82c5fa-1604-443b-a893-d42b135dc34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training provider attestationTraining provider requirements3.1 Legislative and insurance requirements3.2 Advance course materials3.3 Learning needs3.4 Alternative delivery modes3.5.1 Eligibility to deliver eLearning3.6 Program materials3.7 Learning environment3.9 Support transfer of learningTraining instructor requirements4.1 Instructor qualifications4.2 Instructor delivery expectationsTraining evaluator requirements5 Evaluator qualificationsCode of ethics6 Code of ethicsAdministration7 Administration7.2 Records managementRead program standard</value>
+      <webElementGuid>5ea7d9b4-a5a6-43b1-986b-a9daee53b33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attest-sidebar&quot;)/div[@class=&quot;ontario-row attest-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 checked-list&quot;]</value>
+      <webElementGuid>5325e212-8058-4a3f-b080-59584953405b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1beba60a-c47b-4e4b-bfbe-aa0c8276f4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 checked-list</value>
+      <webElementGuid>42c8d5c3-a80c-49b4-b4a3-40a47e78801a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training provider attestationTraining provider requirements3.1 Legislative and insurance requirements3.2 Advance course materials3.3 Learning needs3.4 Alternative delivery modes3.5.1 Eligibility to deliver eLearning3.6 Program materials3.7 Learning environment3.9 Support transfer of learningTraining instructor requirements4.1 Instructor qualifications4.2 Instructor delivery expectationsTraining evaluator requirements5 Evaluator qualificationsCode of ethics6 Code of ethicsAdministration7 Administration7.2 Records managementRead program standard</value>
+      <webElementGuid>2f7eacf1-23ac-4ebb-bfd1-be865a59312a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attest-sidebar&quot;)/div[@class=&quot;ontario-row attest-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 checked-list&quot;]</value>
+      <webElementGuid>f5b7d663-7e3c-4259-9816-9e0240443335</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='attest-sidebar']/div/div</value>
+      <webElementGuid>f914fb7d-1927-4396-9767-bd41e58c0295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[7]</value>
+      <webElementGuid>ab53b700-5d74-4b46-901a-62f56910cc37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview &amp; Submit application'])[1]/following::div[10]</value>
+      <webElementGuid>f4ca1972-a1ca-40e7-a146-c359d548e82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-provider-attestation/div/div/div/div</value>
+      <webElementGuid>7d44ede4-bb2b-4192-99d6-dd9cae1e78ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training provider attestationTraining provider requirements3.1 Legislative and insurance requirements3.2 Advance course materials3.3 Learning needs3.4 Alternative delivery modes3.5.1 Eligibility to deliver eLearning3.6 Program materials3.7 Learning environment3.9 Support transfer of learningTraining instructor requirements4.1 Instructor qualifications4.2 Instructor delivery expectationsTraining evaluator requirements5 Evaluator qualificationsCode of ethics6 Code of ethicsAdministration7 Administration7.2 Records managementRead program standard' or . = 'Training provider attestationTraining provider requirements3.1 Legislative and insurance requirements3.2 Advance course materials3.3 Learning needs3.4 Alternative delivery modes3.5.1 Eligibility to deliver eLearning3.6 Program materials3.7 Learning environment3.9 Support transfer of learningTraining instructor requirements4.1 Instructor qualifications4.2 Instructor delivery expectationsTraining evaluator requirements5 Evaluator qualificationsCode of ethics6 Code of ethicsAdministration7 Administration7.2 Records managementRead program standard')]</value>
+      <webElementGuid>a526fbb0-b1da-4ae7-9ff7-9e734ee9aaca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

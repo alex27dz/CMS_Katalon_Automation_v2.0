@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Date_checkbox-option-By checking the _66ef39</name>
+   <tag></tag>
+   <elementGuidId>464992a6-109b-4676-bfef-d2e029cd954d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='checkbox-option-By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>43319bb4-2066-4b0b-a4b9-82be28b773f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>680b6a3a-9bc5-4bc9-a015-c77949c660d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-checkboxes__input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>9b8cf27f-6f4c-423e-9314-93e2895649b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkbox-option-By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.</value>
+      <webElementGuid>0c623c00-dee3-43cd-b67f-67dffabc411b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkbox-option-By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.&quot;)</value>
+      <webElementGuid>c481cba1-32b5-4f32-bd99-8d2a31d0e525</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='checkbox-option-By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.']</value>
+      <webElementGuid>755552e9-b1f0-4b3e-9808-262aef2fa4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-review-program-application/div/div[2]/div[2]/div[2]/app-checkbox/div/input</value>
+      <webElementGuid>b45c82f8-b15a-4d17-8968-6f4b184e79f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>29775333-fa46-434f-a056-5e0700e47423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'checkbox-option-By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.']</value>
+      <webElementGuid>e9b909ff-65db-4ba6-a901-46e7594f452b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

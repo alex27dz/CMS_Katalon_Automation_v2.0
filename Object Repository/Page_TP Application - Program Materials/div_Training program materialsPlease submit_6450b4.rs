@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training program materialsPlease submit_6450b4</name>
+   <tag></tag>
+   <elementGuidId>8bbe1e50-16ba-4639-8ed2-1119a790f13a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.ontario-large-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3dea8deb-a139-49de-bea7-10935079540a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>71b6b9cc-c7ca-4456-a833-0efcfd8c1ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the WAH training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning</value>
+      <webElementGuid>a37bc69d-8d1e-4d17-9028-10695ad0a605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>34deb565-a120-4941-889a-c7a772cc3f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2a98fe8e-713e-40b8-8214-f5a29cb67b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>8ab9cb08-9b98-4ada-afd9-d6311643e45b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the JHSC training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.</value>
+      <webElementGuid>78cd614b-d42f-4dc6-97b8-e61dd82fd203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>99a5a703-8f5e-4d8b-8078-cfa7edb70955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe6a3268-e32f-426e-b3f9-b3f0faa75c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>56ef66e5-6439-465f-9fc6-4b86871d39c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the WAH training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning</value>
+      <webElementGuid>0752cea7-e790-4841-ad88-41728950249b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>e641482e-9cf4-4fed-ab60-aba0e285e08d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0496e542-0883-4f11-a928-9cfefd731799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>8dfc0d59-f5ec-4441-a255-64bd44ec2cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the JHSC training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.</value>
+      <webElementGuid>264fe6a7-4bce-4945-91b4-f1f1f3223638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>114b24ab-4f9f-40ee-96f9-da38bdea9e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7df49ed8-d24a-4f79-a7ed-40ca67619b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>52953a0a-b018-4b73-b77b-7b4393937ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the WAH training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning</value>
+      <webElementGuid>718b7d0d-5b53-4731-a3f5-fc3339c7dfd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>3e3eb7e2-1a8c-4686-bf61-68fe33560d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e6dc2b3-1d19-4bb1-b927-52068fdc6bab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>99d95e0c-2757-40e3-bb5f-cfe727b7a330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the JHSC training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.</value>
+      <webElementGuid>968aa251-2bc7-4a99-8b26-fa3b5682a5cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>d5f26efe-a172-4209-af96-2fe298d1de76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4870c023-df09-4df0-87b1-14fadf3ccdd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>4700a83a-1f59-4dcd-a37c-b5e642c918fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the WAH training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning</value>
+      <webElementGuid>25b10eb3-5eaa-4eaf-9195-2611e4bbb0a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>62d1ed47-e82d-49e0-89ed-5357323a1477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b85211d-6297-4047-b5b6-53ac22e1b2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-9</value>
+      <webElementGuid>f078d072-9655-4a43-8dce-956f9cfcb230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the JHSC training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.</value>
+      <webElementGuid>3eeaf428-d5de-4bf0-92d6-4fe40bf960c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-training-program-material[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]</value>
+      <webElementGuid>91a8480a-bf6e-4258-8fa6-c4f57e8a4ec6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-training-program-material/div/div[2]</value>
+      <webElementGuid>56bf6bab-a758-4a3d-9a70-22144783268a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standard'])[1]/following::div[15]</value>
+      <webElementGuid>4ed0441d-6776-4408-b865-b11349ba7d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proof of Training Completion Document (Sample)'])[1]/following::div[16]</value>
+      <webElementGuid>e79e08ea-d2fb-42e3-adb6-1c2de382ed7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-program-material/div/div[2]</value>
+      <webElementGuid>e525fafa-3146-43e0-a2ec-724d85768061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the WAH training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning' or . = 'Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the WAH training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Associated HandoutsUpload DocumentsUpload document6Quick reference material for learnersUpload DocumentsUpload document7Equipment listUpload DocumentsUpload document8Learner Evaluation PlanUpload DocumentsUpload document9Written tests and assessment documentsUpload DocumentsUpload document10Quality assurance and continuous improvement planUpload DocumentsUpload document11Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material. Adult learning principles  This section requires you to describe how your program meets Section 5 of the Working at Heights Training Program Standard. Your program must be designed to allow learners to achieve the learning outcomes set out for the Working at Heights Basic Theory module and the Working at Heights Practical Equipment module.  Provide details in the box reserved for section 5.a “Adult learning principles compliance” and provide specific reference location from the submitted program materials, including page or section number in the appropriate reference materials. 5.aAdult Learning Principles Compliance Instructor Materials, Learner Materials, Evaluation Materials Expand allThis section requires you to describe how your program meets the learning outcomes listed in Section 9 of the Working at Heights Training Program Standard.You must fill in the appropriate information as it relates to the documents listed in Part 1: Training Program Materials.Categorize the program materials based on the boxes below: “Instructor”, “Participant” and “Evaluation Material”. Provide written details in the box “Describe how the requirement is met” and provide reference location, including page or section number.9.1.1Rights and Responsibilities9.1.2Identification of the hazards of working at heights9.1.3Eliminating or controlling the hazards of working at heights9.1.4Warning methods and physical barriers9.1.5Ladders and similar equipment9.1.6Personal fall protection equipment9.2.1Barriers and other fixed equipment9.2.2Personal fall protection equipment9.2.3Anchor points9.2.4Work access equipment, and platforms9.2.5Rescue planning')]</value>
+      <webElementGuid>6726abe5-a49d-4429-8953-266cc84155f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standard'])[1]/following::div[9]</value>
+      <webElementGuid>6918bae0-076e-49a4-a836-b5cc94f01e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proof of Training Completion Document (Sample)'])[1]/following::div[10]</value>
+      <webElementGuid>d074c3dd-40c3-473b-957d-e840dcc8076c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the JHSC training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.' or . = 'Training program materialsPlease submit the following documents, electronically, itemized as per below. You can write a brief paragraph to explain the document. Training program documents  Training program requirements Expand all Training program design  Please upload the program material documents for the JHSC training program. You can copy the link of each document upload and refer to the document under the “Document Details” tab. It will help assessors to review the material faster.  Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image.How to submit an organized training material packageIt is very important to organize the training material before you upload. Prepare the document package and upload materials under appropriate sections below. Some of the sections below have a limit for number of document. Once you upload all the document you will require to reference the documents and sections under “Program requirements” tab above.How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.1Lesson PlanThe objectives, desired results and goalsthe method of instruction that will be used to achieve the learning outcome (e.g. activities, procedures)the required materials and equipmentthe evaluation process that will be used to assess learning outcomes Upload Documents Upload document2Instructor ManualUpload DocumentsUpload document3Presentation MaterialsUpload DocumentsUpload document4Participant ManualUpload DocumentsUpload document5Proof of training completion document (sample)Upload DocumentsUpload documentTraining program requirementsThanks for uploading the necessary documents/files. You need to submit the required information under  “Training provider requirements” tab. You can ‘Preview and Submit” the application once you complete all the mandatory requirements under both tabs of this step.Scroll up to select “Training Provider Requirements” tab Please explain the training program content meets each requirement listed. Explain how the instructor, learner and evaluation materials each meet the requirement. Accepted file formats for training program materials: .pdf, .ppt, .pptx, .xlsx, .xls, .doc, .docx, .mp4, or any image. How to reference uploaded materialAll the uploaded files are accessible under the “Files uploaded” tab on the sidebar of the page. There is a link icon next to each uploaded file. Click on that link icon to copy the file link and paste the link under appropriate sections to refer to the material.')]</value>
+      <webElementGuid>95ec6925-2d66-4f8a-80ef-4c5537127afe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

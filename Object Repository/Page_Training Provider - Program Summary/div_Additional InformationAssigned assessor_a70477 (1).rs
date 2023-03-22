@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Additional InformationAssigned assessor_a70477 (1)</name>
+   <tag></tag>
+   <elementGuidId>d2b55172-ed11-4e41-b3e3-218c30d6c4b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='training-program-side-bar']/app-page-content-loop/app-grey-text-box-sidebar/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>acd85848-ec94-40ea-95b6-e76127efe3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box</value>
+      <webElementGuid>7010a20a-fa11-41bc-bf98-a063c6ee0403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional InformationAssigned assessorJean Belec</value>
+      <webElementGuid>41c07012-8f9a-4019-b1a0-502c8744edf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;training-program-side-bar&quot;)/app-page-content-loop[1]/app-grey-text-box-sidebar[1]/div[@class=&quot;box&quot;]</value>
+      <webElementGuid>40fc7862-c3e9-4788-a49a-b097f7898473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='training-program-side-bar']/app-page-content-loop/app-grey-text-box-sidebar/div</value>
+      <webElementGuid>b41f0546-6b8d-454a-8537-90e4a3822dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Johathan Doe'])[1]/following::div[3]</value>
+      <webElementGuid>6458e9e2-4433-4f4b-87fb-4dada385d510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABC Training Inc.'])[1]/following::div[6]</value>
+      <webElementGuid>995240be-b54b-448b-9740-8882dea41fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar/div</value>
+      <webElementGuid>2c9ef627-8467-45f4-bfc0-54c54b236f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Additional InformationAssigned assessorJean Belec' or . = 'Additional InformationAssigned assessorJean Belec')]</value>
+      <webElementGuid>085ce0a6-cb11-419b-a3ae-78bef21e5150</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

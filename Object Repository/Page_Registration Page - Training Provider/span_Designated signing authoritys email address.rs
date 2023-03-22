@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Designated signing authoritys email address</name>
+   <tag></tag>
+   <elementGuidId>05b7174f-0f76-485e-b33f-eaa36f2b2c2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div/form/div[4]/div/mat-label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4802c1ab-0321-4006-b660-2c6172f373b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required-field</value>
+      <webElementGuid>b06390e0-2938-4aff-aa0c-960148c58315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Designated signing authority's email address</value>
+      <webElementGuid>137be13d-e338-4759-b01e-fe6c92dddcef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;designateSigningAuthority&quot;)/div[@class=&quot;ontario-row ontario-margin-top-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-12 bordered&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;signing-authority-row ontario-column ontario-small-12 ontario-medium-6 ontario-large-5&quot;]/mat-label[@class=&quot;input-label&quot;]/span[@class=&quot;required-field&quot;]</value>
+      <webElementGuid>9704757c-c775-4b35-b7eb-f6cd269a4e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information[@id='designateSigningAuthority']/div/div/form/div[4]/div/mat-label/span</value>
+      <webElementGuid>405ab951-b70d-4552-a855-48590b0d8070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number'])[2]/following::span[1]</value>
+      <webElementGuid>18ae6a29-c425-4fa8-bc18-e68027e7dbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[2]/following::span[2]</value>
+      <webElementGuid>97248f26-7e34-4775-8bef-06d0b818cc94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Designated signing authority', &quot;'&quot;, 's role in organization/company')])[1]/preceding::span[1]</value>
+      <webElementGuid>c68fa3db-e538-4f38-92bf-495a837c1f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing address'])[2]/preceding::span[1]</value>
+      <webElementGuid>f72f2d81-83b4-4238-840e-61f2538322f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-signing-authority-information/div/div/form/div[4]/div/mat-label/span</value>
+      <webElementGuid>691ec3f0-8a30-49fb-ad4a-1b90702778ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;Designated signing authority&quot; , &quot;'&quot; , &quot;s email address&quot;) or . = concat(&quot;Designated signing authority&quot; , &quot;'&quot; , &quot;s email address&quot;))]</value>
+      <webElementGuid>700282df-7b9b-4631-8f77-ad4ddb95bc7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

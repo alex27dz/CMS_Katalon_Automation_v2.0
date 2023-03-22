@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_For informational purposes only, the CP_f69ceb</name>
+   <tag></tag>
+   <elementGuidId>4bd81d75-46ea-4029-a3ce-23386adeb22f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5bd73219-2cff-4813-bb5b-b6c21ebadc01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-padding-left-16-! ontario-padding-top-16-!</value>
+      <webElementGuid>b4615e72-b5c1-4275-b5f5-6990111ccee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MLITSD website.* I want to be listed as a training provider offering training services to the public.  I want to be listed as a training provider offering only in-house training services (no services offered to the public). </value>
+      <webElementGuid>84623694-96a9-4259-893b-46fe0ad0e63c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-tp-application-information[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-padding-left-16-! ontario-padding-top-16-!&quot;]</value>
+      <webElementGuid>ae9f1379-268e-4c1d-8f64-960a347bc262</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-tp-application-information/div/div/div[7]</value>
+      <webElementGuid>565e73b0-d304-4878-9618-3537c2911346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consent for Posting of Approval Status'])[1]/following::div[1]</value>
+      <webElementGuid>4bfef23e-92cb-4d78-bf41-dad18bea2ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add another location'])[1]/following::div[1]</value>
+      <webElementGuid>762ef6fa-fd7c-472a-8fae-bf41367ede8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>dd773a5a-1280-4378-a1fc-20149f17cbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MLITSD website.* I want to be listed as a training provider offering training services to the public.  I want to be listed as a training provider offering only in-house training services (no services offered to the public). ' or . = 'For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MLITSD website.* I want to be listed as a training provider offering training services to the public.  I want to be listed as a training provider offering only in-house training services (no services offered to the public). ')]</value>
+      <webElementGuid>a66b319c-a30d-49a6-a408-8601d1dc4a14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

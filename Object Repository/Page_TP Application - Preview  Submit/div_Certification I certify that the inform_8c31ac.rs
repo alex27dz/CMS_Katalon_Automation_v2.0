@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Certification I certify that the inform_8c31ac</name>
+   <tag></tag>
+   <elementGuidId>406e7f2e-a5f5-4ab2-91d8-27ca0b8f646a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.certification-content.ontario-small-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-review-program-application/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b968ad8-024b-405a-8ac8-9e183c970a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column certification-content ontario-small-12</value>
+      <webElementGuid>29effb81-f400-45a2-8528-dc1887dc9c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  18 November 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.</value>
+      <webElementGuid>ff763640-3d0f-42e0-ac61-bdd9ef7e3419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-review-program-application[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-column certification-content ontario-small-12&quot;]</value>
+      <webElementGuid>24571de2-d84c-4ab4-96aa-4caf2f3e6f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36dce720-b042-4d81-b942-74832531a562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column certification-content ontario-small-12</value>
+      <webElementGuid>8214696f-24ee-48ff-a4d0-63fd2a60aa7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  19 September 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.</value>
+      <webElementGuid>a40d7330-0b14-4a2d-82cf-c8c494c36c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/div[1]/div[@class=&quot;ontario-row padding-less&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-top-32-! ontario-padding-bottom-64-!&quot;]/app-review-program-application[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-column certification-content ontario-small-12&quot;]</value>
+      <webElementGuid>2bbeeb0c-c4c0-4f01-bb60-7b50b6609842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/div/div/div/app-review-program-application/div/div[2]/div[2]</value>
+      <webElementGuid>b886a22f-12ed-4aed-ae06-d2d53b3a328c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program requirements'])[1]/following::div[2]</value>
+      <webElementGuid>cba56ddf-100a-41bb-b6d1-a28d42cb4237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Program Uploaded Documents'])[1]/following::div[7]</value>
+      <webElementGuid>15b895ea-b682-4353-8b47-0aac5dc4e1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>a5cc1c18-792b-4e66-8a92-b220ce23de04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  18 November 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.' or . = 'Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  18 November 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.')]</value>
+      <webElementGuid>1030755c-3069-46de-b2ec-f37cd169815f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program attestation'])[1]/following::div[7]</value>
+      <webElementGuid>2a69c66d-a79c-4ca9-b8ea-0899036ae23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  19 September 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.' or . = 'Certification I certify that the information given on this form and all documents attached is complete, accurate and true. False or inaccurate statements may result in rejection of your Application.  First name  Test First Last name  Test Last Email  test@test.ca My role in system  Designated Signing Authority Date  19 September 2022By checking the box, the signatory above represents that he/she is an officer of the applicant organization with complete and appropriate signing authority.')]</value>
+      <webElementGuid>9ea686e7-133c-41f1-ba51-245a7cc9640a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

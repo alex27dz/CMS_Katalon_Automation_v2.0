@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Applicant business information  Organiz_eb4153 (2)</name>
+   <tag></tag>
+   <elementGuidId>08df29ba-21e4-4c54-84b0-9b43574561f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/div/app-tabs/div/div[2]/app-tab/div/app-approved-application-applicant-info/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f867bc8-7fba-4631-b30c-ad93f83f5d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!</value>
+      <webElementGuid>d58d21b4-1b29-4147-b63a-2932ccce0847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applicant business information  Organization operating nameABC's Training Center Organization legal nameOntario 15473821 Inc. Business TypeJob center Business address564 Road Lane, North CobaltP0J 1P0 - ON Canada Preferred method of correspondenceEmail Designated Signing Authority  First nameJonathan Last nameDoe Phone Number(123) 123-1234 Email addresswoweeanemail@email.com Role in the company/organizationAdministrative Support Mailing address1a - 123 Street Street, North PoleH0H 0H0 - ON Canada Location of Training Records &amp; Delivery  Primary location (City/town) of training recordsASdASdasd Consent for Posting of Approval Status  For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MLITSD website.I want to be listed as a training provider offering training services to the public.</value>
+      <webElementGuid>c17a9929-f42e-4cfd-a082-8fa8cf8cd5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-approved-application[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-32-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/app-approved-application-applicant-info[1]/div[1]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-11 ontario-padding-left-0-!&quot;]</value>
+      <webElementGuid>7755dd85-5f2d-44b6-85a4-0ac26c260a20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-approved-application/div[2]/div/app-tabs/div/div[2]/app-tab/div/app-approved-application-applicant-info/div/div[3]</value>
+      <webElementGuid>797d9f7a-1cfb-4296-8c9b-35ae5346353d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program requirements'])[1]/following::div[7]</value>
+      <webElementGuid>cf7417ae-e74d-46a4-8ea1-cdbb904df131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program materials'])[1]/following::div[7]</value>
+      <webElementGuid>568ddf45-66ff-4585-a3c0-7f296a58195f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-approved-application-applicant-info/div/div[3]</value>
+      <webElementGuid>bf5e1ec2-c3fd-4fef-987f-432eeba742e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Applicant business information  Organization operating nameABC&quot; , &quot;'&quot; , &quot;s Training Center Organization legal nameOntario 15473821 Inc. Business TypeJob center Business address564 Road Lane, North CobaltP0J 1P0 - ON Canada Preferred method of correspondenceEmail Designated Signing Authority  First nameJonathan Last nameDoe Phone Number(123) 123-1234 Email addresswoweeanemail@email.com Role in the company/organizationAdministrative Support Mailing address1a - 123 Street Street, North PoleH0H 0H0 - ON Canada Location of Training Records &amp; Delivery  Primary location (City/town) of training recordsASdASdasd Consent for Posting of Approval Status  For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MLITSD website.I want to be listed as a training provider offering training services to the public.&quot;) or . = concat(&quot;Applicant business information  Organization operating nameABC&quot; , &quot;'&quot; , &quot;s Training Center Organization legal nameOntario 15473821 Inc. Business TypeJob center Business address564 Road Lane, North CobaltP0J 1P0 - ON Canada Preferred method of correspondenceEmail Designated Signing Authority  First nameJonathan Last nameDoe Phone Number(123) 123-1234 Email addresswoweeanemail@email.com Role in the company/organizationAdministrative Support Mailing address1a - 123 Street Street, North PoleH0H 0H0 - ON Canada Location of Training Records &amp; Delivery  Primary location (City/town) of training recordsASdASdasd Consent for Posting of Approval Status  For informational purposes only, the CPO will post information about training providers who have been approved to provide approved training programs on the MLITSD website.I want to be listed as a training provider offering training services to the public.&quot;))]</value>
+      <webElementGuid>6a2a28b0-b8f2-4467-9d3d-46dfa498f551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

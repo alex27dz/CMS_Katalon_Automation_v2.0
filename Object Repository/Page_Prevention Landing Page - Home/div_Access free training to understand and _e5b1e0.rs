@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Access free training to understand and _e5b1e0</name>
+   <tag></tag>
+   <elementGuidId>2677768a-fdef-4729-a2f3-c78554de5d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1da7a1fa-87e5-4002-897e-05b20f6a41fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-box-content</value>
+      <webElementGuid>cc18aa03-71ac-4366-bf90-e4e3024a2c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Access free training to understand and encourage ‘Health &amp; Safety’ in your workplace.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ut pharetra efficitur risus, et viverra mauris tempor a.Morbi molestie felis libero, in pharetra felis ullamcorper et.Vivamus cursus consequat cursus.</value>
+      <webElementGuid>03216ac7-7167-4869-b1c4-e7afce9b1cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[1]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-page-content-loop[1]/app-grey-text-tile[3]/div[@class=&quot;grey-box&quot;]/div[@class=&quot;grey-box-content&quot;]</value>
+      <webElementGuid>13bbb96f-32cc-42e2-bf69-c08eddcd8085</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile[3]/div/div</value>
+      <webElementGuid>4fc3ed0a-282c-427f-9bb4-aa80256d48cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free trainings for workers and employers'])[1]/following::div[1]</value>
+      <webElementGuid>18c0e8f6-7053-4abb-be55-533a1d413979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standards'])[2]/following::div[2]</value>
+      <webElementGuid>a96b605c-0e0b-432d-8abc-e436f8908b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find available courses'])[3]/preceding::div[1]</value>
+      <webElementGuid>43779e85-890d-43fa-b069-6357e116faac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a CPO-approved training provider'])[1]/preceding::div[2]</value>
+      <webElementGuid>4e2cb263-3180-4494-ace7-580dce4de306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Access free training to understand and encourage ‘Health &amp; Safety’ in your workplace.']/parent::*</value>
+      <webElementGuid>a40a884b-5c7d-483d-8fca-6e790ba0623a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-tile[3]/div/div</value>
+      <webElementGuid>c0bde62a-ae0e-44bc-ab47-5a058cff202a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Access free training to understand and encourage ‘Health &amp; Safety’ in your workplace.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ut pharetra efficitur risus, et viverra mauris tempor a.Morbi molestie felis libero, in pharetra felis ullamcorper et.Vivamus cursus consequat cursus.' or . = 'Access free training to understand and encourage ‘Health &amp; Safety’ in your workplace.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ut pharetra efficitur risus, et viverra mauris tempor a.Morbi molestie felis libero, in pharetra felis ullamcorper et.Vivamus cursus consequat cursus.')]</value>
+      <webElementGuid>22319739-dd5c-4053-ac52-da52fe7b700e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

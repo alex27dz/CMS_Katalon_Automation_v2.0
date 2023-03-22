@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Helping protect workers and settle workpl_337df8</name>
+   <tag></tag>
+   <elementGuidId>8d4f2370-7c43-4a83-877e-406e15f70325</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='ministry-sub-title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ministry-sub-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>965c1d5d-c288-47a1-a91e-1d5f9842591f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ministry-sub-title</value>
+      <webElementGuid>6c3c30e5-4005-47b9-8c29-e4278fb3be7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Helping protect workers and settle workplace disputes, supporting skilled trades, apprenticeships and employment services, attracting highly-skilled newcomers and helping people get settled in Ontario. </value>
+      <webElementGuid>c2014df0-5408-411e-9089-f071de4cefae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ministry-sub-title&quot;)</value>
+      <webElementGuid>88bdf257-c907-4b70-8ea2-1d7f5984f993</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='ministry-sub-title']</value>
+      <webElementGuid>30c3e959-8034-4b49-8cf6-826b7d0242fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ministry of Labour, Immigration, Training and Skills Development'])[1]/following::p[1]</value>
+      <webElementGuid>028859b8-9120-49a5-9a94-76b02cce9711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[11]/following::p[1]</value>
+      <webElementGuid>71fb2b79-e171-4f31-95b1-718d6c5d672e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Ontario'])[1]/preceding::p[1]</value>
+      <webElementGuid>b2edcbbf-5cf0-4804-880d-929233550e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/preceding::p[1]</value>
+      <webElementGuid>72810c32-c7eb-4351-8cc9-ecaa9a228c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Helping protect workers and settle workplace disputes, supporting skilled trades, apprenticeships and employment services, attracting highly-skilled newcomers and helping people get settled in Ontario.']/parent::*</value>
+      <webElementGuid>d5e7413a-ebf2-4180-a33d-1c58b8514408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/p</value>
+      <webElementGuid>570e1395-a303-41c5-8033-a57fa5a975a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'ministry-sub-title' and (text() = 'Helping protect workers and settle workplace disputes, supporting skilled trades, apprenticeships and employment services, attracting highly-skilled newcomers and helping people get settled in Ontario. ' or . = 'Helping protect workers and settle workplace disputes, supporting skilled trades, apprenticeships and employment services, attracting highly-skilled newcomers and helping people get settled in Ontario. ')]</value>
+      <webElementGuid>4205993b-3dde-44df-8b38-b40468fe93ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

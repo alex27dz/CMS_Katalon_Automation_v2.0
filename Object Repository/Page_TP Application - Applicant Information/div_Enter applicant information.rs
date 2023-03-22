@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter applicant information</name>
+   <tag></tag>
+   <elementGuidId>0319bc1c-d6fd-4050-91d5-ce1a7c5e9f9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-program-application/app-steps-banner/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>699578a8-d028-4562-97c4-125cb87fb037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-container</value>
+      <webElementGuid>57f3783d-d7a7-4a59-bbb1-eea13ae4addf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter applicant information </value>
+      <webElementGuid>8ac4621a-ea19-4f36-abee-6f4ce2735e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/app-steps-banner[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;banner-div ontario-row ontario-padding-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-large-9 ontario-padding-left-0-!&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;step-div active-step&quot;]/div[@class=&quot;step-text ontario-border-highlight--blue&quot;]/div[@class=&quot;text-container&quot;]</value>
+      <webElementGuid>e22bb9df-72bf-4855-8b09-9fdc04724fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0468763-5b22-480c-a3ba-eed388352041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-container</value>
+      <webElementGuid>28c90381-bc72-4788-96f2-8a2fc0758066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter applicant information </value>
+      <webElementGuid>9c5ed9e6-147c-4bdb-b490-8b76dcb5726c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-program-application[1]/app-steps-banner[1]/div[@class=&quot;grey-back&quot;]/div[@class=&quot;banner-div ontario-row ontario-padding-top-16-!&quot;]/div[@class=&quot;ontario-column ontario-large-9 ontario-padding-left-0-!&quot;]/div[@class=&quot;table-row&quot;]/div[@class=&quot;step-div active-step&quot;]/div[@class=&quot;step-text ontario-border-highlight--blue&quot;]/div[@class=&quot;text-container&quot;]</value>
+      <webElementGuid>05915d26-79dd-437e-b43c-2974a7c565d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-program-application/app-steps-banner/div/div/div/div/div/div/div</value>
+      <webElementGuid>b964d80e-07bb-4f46-bf0f-22bee9881260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[1]/following::div[7]</value>
+      <webElementGuid>27416def-da6e-4a57-9ff8-d2ee77566bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FR'])[1]/following::div[7]</value>
+      <webElementGuid>834e05b2-3e6c-40c2-87f9-51d648090d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training provider attestation'])[1]/preceding::div[1]</value>
+      <webElementGuid>8e571a21-7a56-41cc-aed6-f65dc6a8b337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program materials'])[1]/preceding::div[4]</value>
+      <webElementGuid>a3d3a2a3-9baa-4f06-825d-39ff0ec39b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter applicant information']/parent::*</value>
+      <webElementGuid>49f2c3a3-cf0c-4c31-9fa2-43d321fb17d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div</value>
+      <webElementGuid>51322c98-4249-483b-ad59-98638ad83542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enter applicant information ' or . = 'Enter applicant information ')]</value>
+      <webElementGuid>4c9e2cd1-05e2-40fd-ad6e-359ad382389b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

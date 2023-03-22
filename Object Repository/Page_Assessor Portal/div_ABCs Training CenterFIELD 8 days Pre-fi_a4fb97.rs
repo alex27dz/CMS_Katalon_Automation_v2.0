@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ABCs Training CenterFIELD 8 days Pre-fi_a4fb97</name>
+   <tag></tag>
+   <elementGuidId>a1d12dd8-3952-4fb8-a493-6abb8af88660</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89fe5271-e3b3-4ae2-afc7-3102166be8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>0da20868-6de9-49ca-a5bb-ce229259fd2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABC's Training CenterFIELD 8 days Pre-field assessment checklist to be completed JHSC-2014-2-10049 SnapshotJan 10, 2023: Applicant to complete pre-field assessment checklist by Jan 24, 2023 (10 business days)Jan 10, 2023: First Deficiency Action Plan responses receivedJan 04, 2023: First Deficiency Action Plan issued with 1 deficienciesJan 04, 2023: Desk review started by TSATraining program &amp; delivery JHSC 2 - Distance Primary contactN/AN/AProvider IDN/APreferred method of contactN/AAction required by Applicant Received on Dec 19, 2022  30 days ago Assigned to Khalil IssaJaclyn BinchGregg WartmanProvider profileReview application</value>
+      <webElementGuid>5c03cd15-af86-42f9-b2ad-191751e1c73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-training-program-application-card-list[1]/app-training-program-application-card[1]/div[@class=&quot;card&quot;]</value>
+      <webElementGuid>8c94fa59-cc08-4e92-8044-2e9fbd6daee1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-application-card/div</value>
+      <webElementGuid>81e26f7e-ef30-4a24-ab34-cd7377167b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[1]</value>
+      <webElementGuid>c84c2430-2854-462b-9753-61ccab891a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::div[1]</value>
+      <webElementGuid>cf789a36-1fe4-40e5-8859-77b6d4ef22e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-program-application-card/div</value>
+      <webElementGuid>e937628a-d214-4b5e-8e72-bbbdf8239b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;ABC&quot; , &quot;'&quot; , &quot;s Training CenterFIELD 8 days Pre-field assessment checklist to be completed JHSC-2014-2-10049 SnapshotJan 10, 2023: Applicant to complete pre-field assessment checklist by Jan 24, 2023 (10 business days)Jan 10, 2023: First Deficiency Action Plan responses receivedJan 04, 2023: First Deficiency Action Plan issued with 1 deficienciesJan 04, 2023: Desk review started by TSATraining program &amp; delivery JHSC 2 - Distance Primary contactN/AN/AProvider IDN/APreferred method of contactN/AAction required by Applicant Received on Dec 19, 2022  30 days ago Assigned to Khalil IssaJaclyn BinchGregg WartmanProvider profileReview application&quot;) or . = concat(&quot;ABC&quot; , &quot;'&quot; , &quot;s Training CenterFIELD 8 days Pre-field assessment checklist to be completed JHSC-2014-2-10049 SnapshotJan 10, 2023: Applicant to complete pre-field assessment checklist by Jan 24, 2023 (10 business days)Jan 10, 2023: First Deficiency Action Plan responses receivedJan 04, 2023: First Deficiency Action Plan issued with 1 deficienciesJan 04, 2023: Desk review started by TSATraining program &amp; delivery JHSC 2 - Distance Primary contactN/AN/AProvider IDN/APreferred method of contactN/AAction required by Applicant Received on Dec 19, 2022  30 days ago Assigned to Khalil IssaJaclyn BinchGregg WartmanProvider profileReview application&quot;))]</value>
+      <webElementGuid>68dc8e48-68f8-49df-ab2a-c6139ff31bac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
