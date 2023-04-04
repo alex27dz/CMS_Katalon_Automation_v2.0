@@ -17,9 +17,11 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
+'opening web page\r\n'
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
+
 
 WebUI.setText(findTestObject('Object Repository/Page_Google/input__q'), 'mazda')
 

@@ -60,9 +60,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Porta
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/input_Search_input-text ng-untouched ng-pri_6c3f6c'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Assessor Portal/input_Search_input-text ng-untouched ng-pri_6c3f6c'), 
-    '10362')
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Search'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_All'))

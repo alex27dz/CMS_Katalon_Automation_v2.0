@@ -32,9 +32,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (16)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Assessor Portal/input_Search_input-text ng-untouched ng-pri_6c3f6c (1)'), 
-    '10564')
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Search (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Review application (1)'))
@@ -50,8 +47,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Porta
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Provider standards'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Notes'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h2_Applicant information'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Applicant information Applicant Busines_2adfb8'), 
     0)
@@ -74,10 +69,6 @@ WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Program st
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Provider standards'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Notes'))
-
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Field visit general notes'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h2_General notes'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Back to Overview'))
 

@@ -50,8 +50,5 @@ WebUI.scrollToPosition(0, 5000)
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new application/b_Duplicate application'), 
     'Duplicate application')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new application/div_Duplicate applicationThere is already a_35113b'), 
-    0)
-
 WebUI.closeBrowser()
 

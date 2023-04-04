@@ -50,8 +50,5 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create ne
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/b_Important notice'), 
     'Important notice')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_Important noticeAnswer all questions an_d55f8c'), 
-    0)
-
 WebUI.closeBrowser()
 

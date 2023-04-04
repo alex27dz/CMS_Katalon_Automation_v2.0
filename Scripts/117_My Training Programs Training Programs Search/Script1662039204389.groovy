@@ -23,37 +23,48 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/training-provider/my-training-programs')
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Login (1) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Login (3)'))
 
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_Dont have an accountCreate AccountORSig_b8d1de (1)'))
+WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (4)'), 'cmsproj01@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (1) (1)'), 'cmsproj01@gmail.com')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (4)'), 'pTBJ1/YTiw1lhXE0q4kWzw==')
 
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_Dont have an accountCreate AccountORSig_b8d1de'))
+WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (4)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (1) (1)'), 
-    'pTBJ1/YTiw1lhXE0q4kWzw==')
-
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/label_Remember me'))
-
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (2)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Program Type All Safety Training Progra_ffe37b (3)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/h1_My Training Programs (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/p_Training programs (2)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/p_Training programs (3)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Search (3)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_My Training ProgramsPlease select from _775c79 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/span_Incomplete'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Submit training program delivery app_2ec0f1 (3)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Complete application (2)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_CPO approved programsWorking at heights_0f8598 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Delete (2)'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Program Type All Safety Training Progra_ffe37b (4)'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Search (4)'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_JHSC - Part OneApplication review in pr_36c4d9'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Program Type'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Delivery Type'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Application Status'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Sort By'), 0)
 
 WebUI.closeBrowser()
 

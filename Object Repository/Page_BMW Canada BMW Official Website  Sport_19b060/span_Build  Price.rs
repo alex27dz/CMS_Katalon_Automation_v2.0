@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Build  Price</name>
+   <tag></tag>
+   <elementGuidId>b84cda79-8af0-4ec1-88b4-9abadf53dee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#button-67ff37f1e6 > span.cmp-button__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='button-67ff37f1e6']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f87a6181-a274-41d7-acb9-90d54a8d7a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cmp-button__text</value>
+      <webElementGuid>bd98c959-93ad-4dce-937b-79f26c751339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Build &amp; Price</value>
+      <webElementGuid>761aa6ae-5770-4259-9821-277f54fb8a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;button-67ff37f1e6&quot;)/span[@class=&quot;cmp-button__text&quot;]</value>
+      <webElementGuid>9bcbfa3f-9b20-4cc8-9c59-62e7322b40a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='button-67ff37f1e6']/span</value>
+      <webElementGuid>01f16a11-6129-4350-8128-2c55bf3c6ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XM'])[1]/following::span[1]</value>
+      <webElementGuid>fe5e6d61-c227-457a-9114-d67ce21e93f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THE FIRST-EVER BMW'])[1]/following::span[1]</value>
+      <webElementGuid>4b82450e-279c-4a40-a92c-813691ece82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore More'])[1]/preceding::span[1]</value>
+      <webElementGuid>65f7bb7a-06e5-4bcb-99a3-1f620a50cb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THE FIRST-EVER BMW'])[2]/preceding::span[2]</value>
+      <webElementGuid>6ac03d85-d2de-49b9-8b31-bb7ed89a30ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/a/span</value>
+      <webElementGuid>788b8ab4-703c-448a-948a-83718e844ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Build &amp; Price' or . = 'Build &amp; Price')]</value>
+      <webElementGuid>787c20be-9b79-454c-94d9-80e7721369bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

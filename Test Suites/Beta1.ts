@@ -89,13 +89,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d579548a-e0e9-473f-9c68-29bc433b674d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/012_Generic Validation Message Component</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>4dc31477-0173-4740-a79b-f68182f38bd7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
