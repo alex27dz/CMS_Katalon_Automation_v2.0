@@ -70,6 +70,8 @@ WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Provider s
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Notes'))
 
+Thread.sleep(3000)
+
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Back to Overview'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Overview'), 0)
