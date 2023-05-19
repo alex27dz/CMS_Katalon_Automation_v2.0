@@ -32,6 +32,10 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (3)'))
 
+WebUI.click(findTestObject('field'))
+
+Thread.sleep(3000)
+
 WebUI.click(findTestObject('Object Repository/Page_InternalPortal/button_Review application'))
 
 WebUI.click(findTestObject('Object Repository/Page_InternalPortal/button_View details'))

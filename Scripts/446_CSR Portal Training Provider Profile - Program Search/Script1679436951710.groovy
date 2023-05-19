@@ -41,22 +41,13 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Search (4)'), 0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CSR Portal/select_Working at HeightsJoint Health  Safe_abc185 (3)'), 
-    'jhsc', true)
+WebUI.setText(findTestObject('Object Repository/Page_CSR Portal/input_ID_input-text ng-untouched ng-pristin_eff1cb'), 'CD658662')
 
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search (4)'))
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search (10)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Jaclyn BinchNV856946 Address  ABC st  C_625f14 (2)'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Worker profile (3)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Martin Cerisano123QH196001 Address  440_e974c2 (2)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Load more (1)'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Load more (1)'))
-
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Worker profile (2)'))
+Thread.sleep(3000)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h4_Worker profile (1)'), 0)
 
