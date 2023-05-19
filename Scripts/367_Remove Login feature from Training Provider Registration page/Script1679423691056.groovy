@@ -32,6 +32,7 @@ WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/in
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (3)'), 'pTBJ1/YTiw1lhXE0q4kWzw==')
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (3)'))
+Thread.sleep(5000);
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_My Training ProgramsPlease select from _775c79'), 
     0)
