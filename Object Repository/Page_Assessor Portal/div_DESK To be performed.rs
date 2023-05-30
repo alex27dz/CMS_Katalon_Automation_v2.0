@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DESK To be performed</name>
+   <tag></tag>
+   <elementGuidId>e02e34d6-d017-4e00-bec8-0124d987b001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df7f3164-4f25-42c0-9405-aadf9f5a96f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3</value>
+      <webElementGuid>b5a078c7-5b16-4c00-9181-e9d9f1423156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DESK To be performed</value>
+      <webElementGuid>309aad5a-6070-43b3-a412-9cc933be0358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/app-program-overview[1]/div[@class=&quot;cards-container ontario-row&quot;]/div[@class=&quot;stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3&quot;]</value>
+      <webElementGuid>c2d57d86-a55d-4241-94cd-88adb288fe1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div[2]</value>
+      <webElementGuid>91a34bd2-b67a-4c9e-89a7-cc01d54ac3bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Triage Assessment'])[1]/following::div[1]</value>
+      <webElementGuid>4d4e7fb4-0b23-4731-84b1-b5561179eb2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 29, 2023'])[2]/following::div[2]</value>
+      <webElementGuid>f9bda68a-bc2c-42bb-ab6d-2ac4989874dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>23210a5f-77b2-4079-873c-5c30fdb10520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DESK To be performed' or . = 'DESK To be performed')]</value>
+      <webElementGuid>baacaf12-54ac-4d00-b5c7-b9e1b5731a33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FIELD To be performed</name>
+   <tag></tag>
+   <elementGuidId>d74f6fb7-a1a7-4792-a838-d18b5b7c1ee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d3b936a-0592-4016-baed-0f80a5d33f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3</value>
+      <webElementGuid>64a3e9ee-da5b-4800-a0ed-047e6f047041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FIELD To be performed</value>
+      <webElementGuid>565ed654-d055-4028-a571-831f18e5a1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/app-program-overview[1]/div[@class=&quot;cards-container ontario-row&quot;]/div[@class=&quot;stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3&quot;]</value>
+      <webElementGuid>b6e9ff3f-be47-4e79-9a4f-096827415399</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div[3]</value>
+      <webElementGuid>f1b7d5b3-ac92-4257-b61a-6ac9a267ac90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To be performed'])[1]/following::div[1]</value>
+      <webElementGuid>e4828055-1364-4d06-a047-cc7195bafa8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESK'])[1]/following::div[4]</value>
+      <webElementGuid>a8c22452-8724-40e5-98d8-2bb7a4b48744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>005ea042-7289-4c2a-9b0f-70becc2e6d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FIELD To be performed' or . = 'FIELD To be performed')]</value>
+      <webElementGuid>877b0f41-622a-4a2a-9c93-f6dd01c8a1d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

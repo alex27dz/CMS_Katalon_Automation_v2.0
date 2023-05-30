@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Documents</name>
+   <tag></tag>
+   <elementGuidId>8f0a0775-f691-4b09-919b-a7bd5141b01f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bf7f87a3-3ce0-42cd-8f9c-8d9386dc4f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-tab</value>
+      <webElementGuid>bd2878e6-f038-4a51-b703-20c2358d315f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Documents </value>
+      <webElementGuid>75b2ea09-d9d2-47ac-a665-d30be06fd80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;ontario-tab&quot;]</value>
+      <webElementGuid>8651ddeb-4ea5-44b8-a8be-039c65981288</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div/div/ul/li[3]</value>
+      <webElementGuid>864df2a8-5545-4416-9c25-36572ed4e816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key events'])[1]/following::li[1]</value>
+      <webElementGuid>3c95996e-8584-4722-abec-5dbed63fcbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::li[2]</value>
+      <webElementGuid>237b51f8-17c5-4975-819d-86bef8b5b41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::li[1]</value>
+      <webElementGuid>b56e604b-231e-46cf-a8da-cd2552d3f352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program name'])[1]/preceding::li[2]</value>
+      <webElementGuid>4189708d-a5b1-4444-a9b1-36c01bd8759e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Documents']/parent::*</value>
+      <webElementGuid>fa07ed9d-6c52-434f-ab99-73ac1134b7b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>495cfdff-8d68-4f8f-8453-acaaf6882691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Documents ' or . = ' Documents ')]</value>
+      <webElementGuid>be7ef5db-440f-4518-8203-15057450284e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TRIAGE Action required by MinistryMay 2_1a2428</name>
+   <tag></tag>
+   <elementGuidId>3f4b2fec-656a-4b1e-95b0-e940c8fbff73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.stage-card-container.ontario-column.ontario-small-12.ontario-medium-6.ontario-large-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d027915e-bbf6-4975-ba2c-ebebc0d36b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3</value>
+      <webElementGuid>ec479f2a-e3f4-4627-907e-5c1acd0b39f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRIAGE Action required by MinistryMay 29: Under review by PRA Started onMay 29, 2023  2 days agoTriage Assessment</value>
+      <webElementGuid>2743610d-8ac3-4747-a363-cc6c6083488c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/app-program-overview[1]/div[@class=&quot;cards-container ontario-row&quot;]/div[@class=&quot;stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3&quot;]</value>
+      <webElementGuid>b2c1c008-33ad-4634-b708-ae081456806d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div</value>
+      <webElementGuid>016bf89c-201f-4283-92ab-c673330cf45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval stages'])[1]/following::div[2]</value>
+      <webElementGuid>6413fbd6-a225-4bcd-b5c8-f14ddc85c1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager / Senior Leadership'])[2]/following::div[5]</value>
+      <webElementGuid>6147abf5-7716-460f-89da-5204392cf238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>b85c4042-03e7-4be9-8c61-8f74183844ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TRIAGE Action required by MinistryMay 29: Under review by PRA Started onMay 29, 2023  2 days agoTriage Assessment' or . = 'TRIAGE Action required by MinistryMay 29: Under review by PRA Started onMay 29, 2023  2 days agoTriage Assessment')]</value>
+      <webElementGuid>6e83c43e-e58f-4f22-a2c5-1a56b1f56e04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

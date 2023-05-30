@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Aleksey Dzhoharidze_rotated back-arrow (1)</name>
+   <tag></tag>
+   <elementGuidId>e03f8ffc-f6c2-4df6-b4be-139a2b16ff71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.rotated.back-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3574b335-8945-46d7-b30f-8f7a16131770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Go back</value>
+      <webElementGuid>98e21dc6-90a0-4cd3-b2cb-3014d407ebed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/chevron-down-blue-border.svg</value>
+      <webElementGuid>1f48cf08-aa4f-4e6a-8420-2b79c756b2b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rotated back-arrow</value>
+      <webElementGuid>cd490a92-fa6b-4343-b37d-f5087850486f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/img[@class=&quot;rotated back-arrow&quot;]</value>
+      <webElementGuid>912ce1c3-e561-45a4-8b73-e3c01e450665</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/img</value>
+      <webElementGuid>623c2f18-3d62-44dc-9d56-de38278ed8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Go back']</value>
+      <webElementGuid>b0ba188f-7b2a-4d57-b536-1419eb0c538f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>097472a4-1f51-4e56-9a2f-cae0873b6942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Go back' and @src = 'assets/images/chevron-down-blue-border.svg']</value>
+      <webElementGuid>64a146cd-d393-4f99-8a72-238dfb3d02ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

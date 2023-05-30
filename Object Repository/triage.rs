@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>triage</name>
+   <tag></tag>
+   <elementGuidId>fb565292-77a7-47ef-a72a-26cab53cc613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main-content&quot;]/app-program-delivery-applications/div/div/div/app-tabs/div/div[2]/app-tab[1]/div/app-sub-tabs/app-tabs/div/div[1]/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RECOMMENDATION To be performed</name>
+   <tag></tag>
+   <elementGuidId>b5c15fcc-dd58-4dcf-b7d5-7be3749ad933</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4415579-67c5-4619-8062-5b4eb09bea40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3</value>
+      <webElementGuid>3bcaafe1-6512-4ee8-913c-d265b4296c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECOMMENDATION To be performed</value>
+      <webElementGuid>245ea8c2-b72b-4ce0-bd68-121dc5ba8d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/app-program-overview[1]/div[@class=&quot;cards-container ontario-row&quot;]/div[@class=&quot;stage-card-container ontario-column ontario-small-12 ontario-medium-6 ontario-large-3&quot;]</value>
+      <webElementGuid>c1b59ced-171a-4ab5-b2f2-0b0022c0004f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab/div/app-program-overview/div[3]/div[4]</value>
+      <webElementGuid>be3b2375-ad96-4d91-b36c-5d70cb455a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To be performed'])[2]/following::div[1]</value>
+      <webElementGuid>3d538916-78aa-4269-852f-37d9542e3914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FIELD'])[1]/following::div[4]</value>
+      <webElementGuid>ee308a6b-514b-4a6c-8b43-f7a6c5bd29c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]</value>
+      <webElementGuid>eb5c1149-0935-461b-872f-732733e11cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RECOMMENDATION To be performed' or . = 'RECOMMENDATION To be performed')]</value>
+      <webElementGuid>50d87239-5f89-400d-ae27-af14206ed3b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

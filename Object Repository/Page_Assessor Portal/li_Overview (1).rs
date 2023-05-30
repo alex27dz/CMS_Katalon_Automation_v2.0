@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Overview (1)</name>
+   <tag></tag>
+   <elementGuidId>a16a0fa3-4add-41ea-91d2-180271f0a187</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ontario-tab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cd77fb16-3d2d-4515-a2dc-26b08dacd5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-tab</value>
+      <webElementGuid>b0db0c90-ec69-4b8c-b40b-bc8290364314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Overview </value>
+      <webElementGuid>3208ee85-bd08-4523-85ed-dcd96a620bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;ontario-tab&quot;]</value>
+      <webElementGuid>9d5564e8-e464-4fb0-a2bb-7f5c167b14e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div/div/ul/li</value>
+      <webElementGuid>fbf28d1b-2e68-421f-b002-46c163d8c5da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH-10052'])[1]/following::li[1]</value>
+      <webElementGuid>55ef68e0-7783-4fef-85d2-ca9d1de6b205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Under review by PRA'])[1]/following::li[1]</value>
+      <webElementGuid>e048b200-ac3f-49da-806c-ac847efee852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key events'])[1]/preceding::li[1]</value>
+      <webElementGuid>4500175f-4ea4-429b-bb78-8ff45ddcf5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::li[2]</value>
+      <webElementGuid>6a1ed548-d5e1-4385-89fd-cc27c1a8ded2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Overview']/parent::*</value>
+      <webElementGuid>b2d17e3c-ee2c-4ddd-977f-0bd5cfb4c00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>3dd7ca88-5b4d-4ad5-acc1-e2a3694bc18f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Overview ' or . = ' Overview ')]</value>
+      <webElementGuid>e857bfee-99e0-4722-ae6e-e7ff824914ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

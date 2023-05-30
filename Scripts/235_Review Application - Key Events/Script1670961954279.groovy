@@ -19,38 +19,53 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/training-provider/my-training-programs')
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Login (1) (1)'))
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/internal-portal-qa/#/program-delivery-applications')
 
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_Dont have an accountCreate AccountORSig_b8d1de'))
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (3) (1)'), 'aleksey.dzhoharidze@ontario.ca')
 
-WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (1) (1)'), 'cmsproj01@gmail.com')
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (3) (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_Dont have an accountCreate AccountORSig_b8d1de'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (3) (1)'), 
+    'uJrlGS0s9DWEB1gjPJtQ8Q==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (1) (1)'), 
-    'pTBJ1/YTiw1lhXE0q4kWzw==')
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (3) (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (1) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Review application (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details (6)'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_More details'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Key events (1)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Sort ByLatestEarliestFilter ByShow all3_226b07 (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Program nameWorking at Heights - FullPr_4a974e'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_2022 DEC 06Triage stage started Triage _8a176d'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_TRIAGE Action required by MinistryMay 2_1a2428'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Your actions (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_DESK To be performed'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_FIELD To be performed'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_RECOMMENDATION To be performed'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Ministrys actions (1)'), 
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Key events'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_2023 MAY 29Triage stage started Triage _28e611'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Additional InformationAssigned assessor_a70477 (1)'), 
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Documents'))
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Notifications'))
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Overview (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Alex IncTRIAGE 2  DaysUnder review by P_526885'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img_Aleksey Dzhoharidze_rotated back-arrow (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h1_Program delivery applications (1)'), 
     0)
 
 WebUI.closeBrowser()

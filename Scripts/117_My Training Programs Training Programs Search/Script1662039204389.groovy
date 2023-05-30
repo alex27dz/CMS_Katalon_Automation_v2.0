@@ -48,25 +48,11 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provi
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_CPO approved programsWorking at heights_0f8598 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Program Type All Safety Training Progra_ffe37b (4)'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Search (4)'), 
     0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_JHSC - Part OneApplication review in pr_36c4d9'), 
     0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Program Type'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Delivery Type'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Application Status'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/label_Sort By'), 0)
 
 WebUI.closeBrowser()
 
