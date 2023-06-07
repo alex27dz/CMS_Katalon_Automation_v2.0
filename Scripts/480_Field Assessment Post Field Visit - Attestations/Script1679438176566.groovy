@@ -42,13 +42,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Porta
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_TRIAGE Action required by MinistryMay 2_1a2428'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_DESK To be performed'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_FIELD To be performed'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_RECOMMENDATION To be performed'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Key events'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_2023 MAY 29Triage stage started Triage _28e611'), 

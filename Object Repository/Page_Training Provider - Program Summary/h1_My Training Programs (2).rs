@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_My Training Programs (2)</name>
+   <tag></tag>
+   <elementGuidId>6dbc30dd-ffc9-4d1a-bb43-bd31e60f8d94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.border-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[2]/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>90e85e32-78be-44e7-8088-e28a33c41466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>8fb3cef7-9e12-47c6-a5e7-a13c4ae3a5b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Training Programs</value>
+      <webElementGuid>62c30221-122e-4634-bf57-739bade5f104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[1]/h1[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>82cbb810-e0be-4818-ad4f-599423d2dd9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[2]/div/div/div/h1</value>
+      <webElementGuid>04adf83f-ad89-4baa-a47a-df723e5d5f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become an approved provider'])[2]/following::h1[1]</value>
+      <webElementGuid>b89b2abf-2328-4cae-8878-83ee37744cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standards'])[2]/following::h1[1]</value>
+      <webElementGuid>45d19093-a9d5-4107-870f-353daab6e452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create your account as a training provider'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0d99ee1d-f42a-43e6-9e02-211ce866b577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit training program application for CPO approval'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d371a718-8fc0-4dca-b0e5-fb567ef92810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Training Programs']/parent::*</value>
+      <webElementGuid>c0fce526-3783-4724-b7c7-2bd4abb3d3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>da156b01-0a0f-4bb4-bd27-026ded8cff7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'My Training Programs' or . = 'My Training Programs')]</value>
+      <webElementGuid>b76b8b79-a0f3-4ecc-a74a-d83f2fe39f0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

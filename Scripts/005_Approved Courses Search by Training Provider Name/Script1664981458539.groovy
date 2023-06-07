@@ -19,32 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/mat-label_Training provider'), 
+WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training provider_mat-autocomplete-tr_d9d537'), 
+    'better test')
+
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Training Program All Safety Training Pr_fda766'))
+
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_In-ClassJune09FridaySeats available2323_fbbfe5'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/mat-label_Training provider'), 
-    'Training provider')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training provider_mat-autocomplete-tr_25144f'), 
-    0)
-
-WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training provider_mat-autocomplete-tr_25144f'), 
-    't')
-
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/span_TEST - Jaclyns amazing training'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
-
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/span_Showing 5 course advertisements'), 
-    0)
-
-WebUI.rightClick(findTestObject('Object Repository/Page_Marketplace - Course Search/span_Showing 5 course advertisements'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Training provider'), 0)
 
 WebUI.closeBrowser()
 

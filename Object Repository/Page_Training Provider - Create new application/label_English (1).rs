@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_English (1)</name>
+   <tag></tag>
+   <elementGuidId>354cd1f3-fb5b-4f1b-85ad-2bd3670bd0c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.ontario-label.ontario-radios__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[3]/div/app-radio-button-list/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7d9b2626-2dc2-4c68-a899-7cc1a09fc31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-label ontario-radios__label</value>
+      <webElementGuid>eec8a7cf-6996-467a-8c46-7b778c9367c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>radio-button-option-0.8790322526873222-0</value>
+      <webElementGuid>6513b1a7-31f9-492e-9de1-4bdfe9a1ca82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> English </value>
+      <webElementGuid>06d8caea-b77b-4e77-aa9e-672f6a363fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-16-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row ontario-padding-left-0-! ontario-padding-top-24-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-8&quot;]/app-radio-button-list[1]/div[@class=&quot;ontario-radios__item ng-star-inserted&quot;]/label[@class=&quot;ontario-label ontario-radios__label&quot;]</value>
+      <webElementGuid>572688f2-7ea7-4715-a80d-a18f12e8ec46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[3]/div/app-radio-button-list/div[3]/label</value>
+      <webElementGuid>1b73d899-3553-4929-aed9-b255155272bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have to submit a separate application for each language.'])[1]/following::label[1]</value>
+      <webElementGuid>daaf6dc9-fc6d-4369-8c7b-894afda8f181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select the language that you want to deliver the training in?'])[1]/following::label[1]</value>
+      <webElementGuid>3d1147ad-23d4-489b-866c-672c1b4ea419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='French'])[1]/preceding::label[1]</value>
+      <webElementGuid>46f5760a-342e-4fff-b72b-3aeaa89f7d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select the training format that you want to deliver the training in?'])[1]/preceding::label[2]</value>
+      <webElementGuid>628e2041-977e-4a4e-80c5-26a4db893b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='English']/parent::*</value>
+      <webElementGuid>62758967-67e2-4840-afd9-d1fa110cfaeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>1707ffae-b001-498d-a33c-1db420fb857c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' English ' or . = ' English ')]</value>
+      <webElementGuid>3be82a1c-4bab-4e7d-a227-ec727eca0dd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

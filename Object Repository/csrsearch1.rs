@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>csrsearch1</name>
+   <tag></tag>
+   <elementGuidId>c2b53e37-98a0-4f75-8019-2df40b14a969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main-content&quot;]/app-manage-profiles/div/div/div/app-csr-workers/app-worker-search-criteria/form/div/div[1]/div[3]/div[2]/app-dropdown/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

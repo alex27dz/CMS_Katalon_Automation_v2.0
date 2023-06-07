@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Application for Joint Health and Safety _233226 (1)</name>
+   <tag></tag>
+   <elementGuidId>844cb957-75cd-4b49-96ae-8404c97af1df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.border-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4ff4a4b4-7607-4c2e-9313-74ca21385382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>b9439099-f7e1-443d-b2c0-a3a2bee8fa97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application for Joint Health and Safety Committee training program delivery</value>
+      <webElementGuid>0f9b6322-218c-47d4-be56-9fa06db32c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-new-training-program-info-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-padding-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-9&quot;]/h2[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>d55c7d74-6253-4438-aedf-6d71c4f4d0e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-new-training-program-info-component/div/div/h2</value>
+      <webElementGuid>a1927835-b0c6-4ffe-b9b4-b99ff0ed2c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alex Dzhoharidze'])[1]/following::h2[1]</value>
+      <webElementGuid>f94ec29e-f4e7-4b7c-b987-3e4100e29eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alex Inc'])[1]/following::h2[1]</value>
+      <webElementGuid>0a50265b-42d6-408d-b112-a3fb998559d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joint Health and Safety Committee Provider Standard'])[1]/preceding::h2[1]</value>
+      <webElementGuid>86143a02-946b-4f2f-a215-0349638da984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eLearning Instructional Design Guidelines (as applicable)'])[1]/preceding::h2[1]</value>
+      <webElementGuid>62b0f23e-ff4a-430f-b180-ec39b1932b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Application for Joint Health and Safety Committee training program delivery']/parent::*</value>
+      <webElementGuid>84247890-abc1-46fe-9394-1477aad5f4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>87170608-2554-4bfe-a818-0036a30957cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Application for Joint Health and Safety Committee training program delivery' or . = 'Application for Joint Health and Safety Committee training program delivery')]</value>
+      <webElementGuid>f337b15f-dcd5-454b-a583-b0801d1391fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

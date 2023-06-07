@@ -41,8 +41,11 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Search (4)'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Page_CSR Portal/input_ID_input-text ng-untouched ng-pristin_eff1cb'), 'IO502876')
+WebUI.click(findTestObject('csrsearch1'))
 
+WebUI.click(findTestObject('csrsearch2'))
+
+// WebUI.setText(findTestObject('Object Repository/Page_CSR Portal/input_ID_input-text ng-untouched ng-pristin_eff1cb'), 'QG786937')
 WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search (10)'))
 
 WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Worker profile (3)'))

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit training program delivery app_2ec0f1 (4)</name>
+   <tag></tag>
+   <elementGuidId>ac718d59-23f2-49ff-9474-97d0a26a2208</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.blue-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[2]/div/div/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>339245a1-fc43-4fc6-a5f5-1d4935fb9934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blue-button</value>
+      <webElementGuid>98332864-218d-456c-b758-5fd7ec3be9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6bdde0bd-751d-4dba-be3d-225c33e38ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit training program delivery application</value>
+      <webElementGuid>389419cf-ad40-49b6-8dfe-6da082077197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;buttons-container&quot;]/button[@class=&quot;blue-button&quot;]</value>
+      <webElementGuid>69e42e4e-0a0e-4787-b8b5-d89a3e4ff4f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[2]/div/div/div[4]/button</value>
+      <webElementGuid>36a4edff-df15-44c7-bb7e-4bdf1865216c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage approved training programs'])[1]/following::button[1]</value>
+      <webElementGuid>dbd4db9a-d02a-4f1c-b0ae-e2cff19306a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training program application review and status'])[1]/following::button[1]</value>
+      <webElementGuid>98976cf7-8380-4f16-a8a1-f6ec67e1aa0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Type'])[1]/preceding::button[1]</value>
+      <webElementGuid>84259a50-adf4-4104-b1cf-d7639155e920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Type'])[1]/preceding::button[1]</value>
+      <webElementGuid>dc46188a-6500-4ea9-a2eb-e9805f924517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit training program delivery application']/parent::*</value>
+      <webElementGuid>e474cc85-71b3-4851-b0c9-1f4277303f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>6b83b747-5e2d-4a66-8314-1d6deb4a0006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Submit training program delivery application' or . = 'Submit training program delivery application')]</value>
+      <webElementGuid>a85a8c15-0cad-4445-99cc-3a7c0000b3ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

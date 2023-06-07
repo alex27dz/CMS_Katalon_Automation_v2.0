@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Distance</name>
+   <tag></tag>
+   <elementGuidId>4e77aae9-4ea2-4250-bf60-02fa1929527c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[4]/div/app-radio-button-list/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b6bae914-9b28-4bd2-88a5-abcdba50cbad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-label ontario-radios__label</value>
+      <webElementGuid>c3af9893-38ad-43db-abd8-557b5a7fcc85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>radio-button-option-0.19525332903752202-0</value>
+      <webElementGuid>46c2924e-f040-431f-aa51-930ee98f1887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Distance </value>
+      <webElementGuid>ad0eb7f4-ed27-4ae4-951f-5d303465d566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-16-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row ontario-padding-left-0-! ontario-padding-top-8-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-8&quot;]/app-radio-button-list[1]/div[@class=&quot;ontario-radios__item ng-star-inserted&quot;]/label[@class=&quot;ontario-label ontario-radios__label&quot;]</value>
+      <webElementGuid>c87432f5-6827-42cf-ab8f-d9a375f052eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[4]/div/app-radio-button-list/div[3]/label</value>
+      <webElementGuid>81ba31bf-211e-4141-83f4-4303a92e930e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have to submit a separate application for each training format.'])[1]/following::label[1]</value>
+      <webElementGuid>46ecf69d-5e35-491b-a329-6e987d060a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select the training format that you want to deliver the training in?'])[1]/following::label[1]</value>
+      <webElementGuid>ef465f37-7284-4acf-bc2d-32fa26f803a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Class'])[1]/preceding::label[1]</value>
+      <webElementGuid>cf94e6c9-b80d-4639-840e-a0442da1d7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blended'])[1]/preceding::label[2]</value>
+      <webElementGuid>afcc1a87-9bae-4df7-8c6c-b3b63fd49fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Distance']/parent::*</value>
+      <webElementGuid>0894777d-9ff1-42cb-ad15-5a59a8a8e4b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/app-radio-button-list/div[3]/label</value>
+      <webElementGuid>52fc36e8-0ad2-43e3-9387-d3b6ad71e9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Distance ' or . = ' Distance ')]</value>
+      <webElementGuid>3eac2de3-85ff-4009-8146-1778a38da8ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

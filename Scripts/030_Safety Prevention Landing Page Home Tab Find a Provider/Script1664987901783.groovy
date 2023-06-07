@@ -19,22 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
+WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training provider_mat-autocomplete-tr_d9d537'), 
+    'better test')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h2_Find a CPO-approved training provider'), 
-    'Find a CPO-approved training provider')
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Training Program All Safety Training Pr_fda766'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/input_Training provider company name_mat-au_c9be50'), 
-    't')
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/span_TEST - Jaclyns amazing training'))
-
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Search'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Provider name TEST - Jaclyns amazing tr_ba7632'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_In-ClassJune09FridaySeats available2323_fbbfe5'), 
     0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Training provider'), 0)
 
 WebUI.closeBrowser()
 

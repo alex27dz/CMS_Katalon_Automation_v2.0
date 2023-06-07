@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Duplicate application (1)</name>
+   <tag></tag>
+   <elementGuidId>3a981902-8261-490c-98aa-2b2e5ebcfbd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[5]/div/app-alert-banner/div/div/div[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>98081bfc-e16d-4722-ba3b-406ce4db5299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Duplicate application</value>
+      <webElementGuid>abd3f00a-64c7-49cf-a98c-3f3ca7ed1f31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-application-for-new-training-delivery[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-16-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-9&quot;]/div[@class=&quot;ontario-row ontario-padding-left-0-! ontario-padding-top-24-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/app-alert-banner[1]/div[@class=&quot;banner warning&quot;]/div[1]/div[@class=&quot;icon-text&quot;]/b[1]</value>
+      <webElementGuid>291cbdbb-a269-4303-9a54-6410bbe5c31c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-application-for-new-training-delivery/div/div/div[5]/div/app-alert-banner/div/div/div[2]/b</value>
+      <webElementGuid>d867ba37-5a2c-4095-a605-ece123d41bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety Training Formats'])[1]/following::b[1]</value>
+      <webElementGuid>edbe975f-e463-4b87-bf09-88ed210bd9bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional information'])[1]/preceding::b[2]</value>
+      <webElementGuid>a25f864c-58d0-4ad2-9b33-bb9f87abf375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery modes'])[1]/preceding::b[2]</value>
+      <webElementGuid>de1a06a2-dc66-4b41-9cf6-0deacfe144e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Duplicate application']/parent::*</value>
+      <webElementGuid>81a78143-aff8-4704-ae7f-ec6a66c57998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>8e73c471-a109-4dd8-81bb-946c698e7045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Duplicate application' or . = 'Duplicate application')]</value>
+      <webElementGuid>663ec27d-593a-4b47-bad1-aecbae82b646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

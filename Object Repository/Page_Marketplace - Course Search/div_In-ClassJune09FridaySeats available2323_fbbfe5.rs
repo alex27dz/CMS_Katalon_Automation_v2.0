@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_In-ClassJune09FridaySeats available2323_fbbfe5</name>
+   <tag></tag>
+   <elementGuidId>600bec48-73e7-4856-8546-11442abf5062</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bbac0d0-2458-4472-b723-0b6ae46e0a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>8fa6bd72-b8bd-4e66-b014-ba2a56eaf6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In-ClassJune09FridaySeats available23/23Course feeN/AJHSC - Part OneEnrolProvided bybetter testClass informationJun 09 @ 9:00 AM to 5:00 PMTraining Location1111 place street, toronto ON, m1m1m1ContactE: mitchell.ryan@ontario.caP: 1111111111W: fakewebsite.com</value>
+      <webElementGuid>625829d6-891e-4f28-8b66-5a20b356bb03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;button-row ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 selected-view&quot;]/app-course-schedule-search-result-card[1]/div[@class=&quot;card&quot;]</value>
+      <webElementGuid>f3f3ed59-6e50-45f5-8cb0-c5c006011bc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div</value>
+      <webElementGuid>8c6d2d68-7501-4b99-be50-81dbc47b755f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 2 course advertisements'])[1]/following::div[2]</value>
+      <webElementGuid>e3822a12-e0c4-400a-bdfc-b43c6a3ced27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/following::div[4]</value>
+      <webElementGuid>db092139-969b-4693-aa96-8215f614dce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-course-schedule-search-result-card/div</value>
+      <webElementGuid>b83e0133-0d8c-4272-b070-1bf89fc8d064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'In-ClassJune09FridaySeats available23/23Course feeN/AJHSC - Part OneEnrolProvided bybetter testClass informationJun 09 @ 9:00 AM to 5:00 PMTraining Location1111 place street, toronto ON, m1m1m1ContactE: mitchell.ryan@ontario.caP: 1111111111W: fakewebsite.com' or . = 'In-ClassJune09FridaySeats available23/23Course feeN/AJHSC - Part OneEnrolProvided bybetter testClass informationJun 09 @ 9:00 AM to 5:00 PMTraining Location1111 place street, toronto ON, m1m1m1ContactE: mitchell.ryan@ontario.caP: 1111111111W: fakewebsite.com')]</value>
+      <webElementGuid>bccef428-00c6-4b7c-aa27-50270237ccee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
