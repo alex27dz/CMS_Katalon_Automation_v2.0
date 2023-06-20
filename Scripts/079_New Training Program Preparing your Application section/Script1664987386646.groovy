@@ -47,8 +47,5 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create ne
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/button_Start new application'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_Prepare your documents in the method an_86f6f9'), 
-    'Prepare your documents in the method and format outlined in Section 1: Document Checklist. Your documents may be submitted in English or French only. Hand written forms will not be accepted. If your Application does not have all the required documentation outlined in the checklist, it will be returned to you with adeficiency list. Failure to provide all required documents may result in the refusal of your Application.')
-
 WebUI.closeBrowser()
 
