@@ -36,15 +36,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (1) (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details (4)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Please contact us if you have not recei_063023'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Overview (1)'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Program materials (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Overview  Key events  Inactive applicat_e26f34'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_1. Lesson Plan 2. Instructor Manual 3. _26bd27'), 
     0)
 
 WebUI.closeBrowser()

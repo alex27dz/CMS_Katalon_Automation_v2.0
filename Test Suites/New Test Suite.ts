@@ -12,80 +12,66 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>0ed3500c-3086-446e-a0b7-b8f52fe7e5fd</testSuiteGuid>
    <testCaseLink>
-      <guid>c14f2836-967e-4833-927e-3b6b5c31e06e</guid>
+      <guid>e8a1403d-3098-43c0-8bb9-0b16af6225dd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/077_New Training Program Information Page</testCaseId>
+      <testCaseId>Test Cases/201_Approved Program Approved Application Tab Program Materials Cancel Existing file Upload</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a51314e4-a41e-4607-bc2d-702adba0fa30</guid>
+      <guid>95581632-8c90-4f7f-bf79-0dcf9535caac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/078_New Training Program Scope section</testCaseId>
+      <testCaseId>Test Cases/200_Submitted Program Application Review Tab - Program Requirements Sub-Tab</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1a980630-1522-4ece-9337-18202c88e930</guid>
+      <guid>03a5dc20-906a-4f0f-8052-1849e98d1905</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/079_New Training Program Preparing your Application section</testCaseId>
+      <testCaseId>Test Cases/199_Key Events Tab - Timeline Actions</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5f7208d3-96e3-4b1f-a7e8-b2bb0cef1356</guid>
+      <guid>d72aada6-56e5-4627-b3da-135c440d5a5d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/112_Step 1 Location of Training Records Delivery Section</testCaseId>
+      <testCaseId>Test Cases/198_Key Events Tab - Timeline Filtering</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0ba35004-4870-408d-aedd-bfee5a453714</guid>
+      <guid>0e54258f-38e2-4eda-81a7-9331e8ffc24f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/113_Step 1 Consent for Posting of Approval Status Section</testCaseId>
+      <testCaseId>Test Cases/196_Key Events Withdrawn Event</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e1f22f62-8195-4b89-9f19-6227a0bbd941</guid>
+      <guid>debe6f3a-fff4-4425-afe9-cf67d3cb90ec</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/114_Step 1 Save Continue</testCaseId>
+      <testCaseId>Test Cases/194_Program Delivery Applications - All Sub-Tab Results Table</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cff4373d-a45e-47b6-aebd-6c872191e6f1</guid>
+      <guid>f57133b9-9c35-419a-98cc-ba00c74fafe2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/116_Step 3 Back Button</testCaseId>
+      <testCaseId>Test Cases/193_Program Delivery Applications - All Sub-Tab</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>59a205a2-d6f1-4b4f-a33a-051770faa358</guid>
+      <guid>0d2b51b9-b492-4247-9e32-c9ef7a399a7a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/090_New Training Program Introduction Page - Purchased Program</testCaseId>
+      <testCaseId>Test Cases/192_Inactive Program Details Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>89bde6ec-b8e6-4e73-8129-981a86944545</guid>
+      <guid>adef481c-be0f-4005-a756-adbb92954c25</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/091_New Training Program Introduction Page - Duplicate Check</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>23ab65db-7106-47b7-bcd9-3163a45f4075</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/366_CSR Portal Merge Worker - Merge Targets</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>967b008b-029c-407b-82ed-3340c8e0317a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/445_CSR Portal Training Provider Profile - Program Search Criteria</testCaseId>
+      <testCaseId>Test Cases/191_Inactive Program Overview Tab - Summary</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
