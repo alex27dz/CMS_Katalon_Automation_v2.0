@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>9226e43a-db41-428a-ba28-3592f2cb1676</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;'Sidebar.Team' | translate&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-schedules/app-main-sidebar/div/ul/li[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>76279e18-3dcc-49fb-92d8-ab6301add18d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>'Sidebar.Team' | translate</value>
+      <webElementGuid>d347d7e7-0217-4f8a-8eb0-2932d3631910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/my-team.svg</value>
+      <webElementGuid>7f92c590-7ad0-4a42-9567-82621ecbc719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-schedules[@class=&quot;ng-star-inserted&quot;]/app-main-sidebar[1]/div[@class=&quot;nav-bar ng-star-inserted&quot;]/ul[1]/li[3]/img[1]</value>
+      <webElementGuid>15565a28-0cc6-4a09-8786-aed4f7aa584e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-schedules/app-main-sidebar/div/ul/li[3]/img</value>
+      <webElementGuid>c0301a78-36b2-442e-8e5e-3531c7885c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;'Sidebar.Team' | translate&quot;]</value>
+      <webElementGuid>e90c03fb-47ba-4fec-8b20-a38ff53bc092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/img</value>
+      <webElementGuid>a1864056-4085-405c-8aae-c674465c7ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;'&quot; , &quot;Sidebar.Team&quot; , &quot;'&quot; , &quot; | translate&quot;) and @src = 'assets/images/my-team.svg']</value>
+      <webElementGuid>c585c33a-8c47-44fa-9818-686d643daf69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

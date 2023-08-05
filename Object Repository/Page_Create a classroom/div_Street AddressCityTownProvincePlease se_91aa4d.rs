@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Street AddressCityTownProvincePlease se_91aa4d</name>
+   <tag></tag>
+   <elementGuidId>68f89e67-a105-4bb5-a259-c73507f01a62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f0eaff1-2fbd-4c42-9db8-8a05a4ca69bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content ng-star-inserted</value>
+      <webElementGuid>f817cff1-100c-4a3c-bb71-8e7a22069855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Street AddressCity/TownProvincePlease select province/stateABBCMBNBNLNSNTNUONPEQCSKYTPostal CodeMake this as a favourite location</value>
+      <webElementGuid>9753ac90-afe5-49f8-8414-26fd3f147136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-create-classroom[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-16-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-small-12 ontario-large-6 training-schedule-div ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;content ng-star-inserted&quot;]</value>
+      <webElementGuid>8f838db2-efc7-4827-9bf3-2376239e492e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div[7]</value>
+      <webElementGuid>4cf08881-fb57-4419-abd4-1535a858c1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training location'])[1]/following::div[1]</value>
+      <webElementGuid>1d8228f8-f22a-49e2-98a5-9fea5c6013e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurring meeting'])[1]/following::div[2]</value>
+      <webElementGuid>25ce7c57-5376-4255-bd99-123fa411b561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>5277c9b6-dde2-4e6d-8417-2a2606b5b205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Street AddressCity/TownProvincePlease select province/stateABBCMBNBNLNSNTNUONPEQCSKYTPostal CodeMake this as a favourite location' or . = 'Street AddressCity/TownProvincePlease select province/stateABBCMBNBNLNSNTNUONPEQCSKYTPostal CodeMake this as a favourite location')]</value>
+      <webElementGuid>e2421d78-1a09-4e8e-a0b5-42305026db03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Class statusAllFullSeats availableLangu_671858</name>
+   <tag></tag>
+   <elementGuidId>ac385d29-b0cf-4592-8028-d3f2eb24dbdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.inline-container.ontario-column.form-input-div.ontario-small-12.ontario-medium-6.ontario-large-5.float-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-schedules/div/div/div[2]/app-training-schedule-search/div/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0678d650-4bef-4d71-8106-394abcc452f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-container ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-5 float-left</value>
+      <webElementGuid>60127562-c4d5-46dd-b248-8cf1e1c232e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Class statusAllFullSeats availableLanguageAllEnglishFrench</value>
+      <webElementGuid>43b46d14-c37b-49ee-bc16-0d94ecef078a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-schedules[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-16-!&quot;]/app-training-schedule-search[1]/div[@class=&quot;search-criteria-container ontario-padding-right-24-! ontario-padding-left-24-!&quot;]/div[@class=&quot;ontario-row ontario-margin-top-24-!&quot;]/div[@class=&quot;inline-container ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-5 float-left&quot;]</value>
+      <webElementGuid>69ab0444-86db-4f42-b32a-7e8cce6d3ea7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-schedules/div/div/div[2]/app-training-schedule-search/div/div[2]/div[3]</value>
+      <webElementGuid>42625f1e-d885-4272-bdae-d35ad59c62ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[1]/following::div[1]</value>
+      <webElementGuid>b1e2a7cb-84f7-4db2-a6ce-d809e66119be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/following::div[1]</value>
+      <webElementGuid>f9e8e01f-1063-4948-abfb-37be65f8d8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>2847fbbb-dc7d-45c8-b056-81d0fdb2fde6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Class statusAllFullSeats availableLanguageAllEnglishFrench' or . = 'Class statusAllFullSeats availableLanguageAllEnglishFrench')]</value>
+      <webElementGuid>5c215bf1-ea26-4657-87f3-59a11c2c11c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

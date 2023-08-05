@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DateTime 0000 AM  0015 AM  0030 AM  004_3a406b (1)</name>
+   <tag></tag>
+   <elementGuidId>c74f5ac0-9d77-4a60-8089-47245f1556b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>614ec087-5e75-4988-a842-27f067b0a5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content ontario-padding-bottom-0-! ng-star-inserted</value>
+      <webElementGuid>dd8c137e-a8a9-4d8f-bb9c-e1c40a699375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DateTime 00:00 AM  00:15 AM  00:30 AM  00:45 AM  01:00 AM  01:15 AM  01:30 AM  01:45 AM  02:00 AM  02:15 AM  02:30 AM  02:45 AM  03:00 AM  03:15 AM  03:30 AM  03:45 AM  04:00 AM  04:15 AM  04:30 AM  04:45 AM  05:00 AM  05:15 AM  05:30 AM  05:45 AM  06:00 AM  06:15 AM  06:30 AM  06:45 AM  07:00 AM  07:15 AM  07:30 AM  07:45 AM  08:00 AM  08:15 AM  08:30 AM  08:45 AM  9:00 AM  9:15 AM  9:30 AM  9:45 AM  10:00 AM  10:15 AM  10:30 AM  10:45 AM  11:00 AM  11:15 AM  11:30 AM  11:45 AM  12:00 PM  12:15 PM  12:30 PM  12:45 PM  1:00 PM  1:15 PM  1:30 PM  1:45 PM  2:00 PM  2:15 PM  2:30 PM  2:45 PM  3:00 PM  3:15 PM  3:30 PM  3:45 PM  4:00 PM  4:15 PM  4:30 PM  4:45 PM to 9:15 AM  9:30 AM  9:45 AM  10:00 AM  10:15 AM  10:30 AM  10:45 AM  11:00 AM  11:15 AM  11:30 AM  11:45 AM  12:00 PM  12:15 PM  12:30 PM  12:45 PM  1:00 PM  1:15 PM  1:30 PM  1:45 PM  2:00 PM  2:15 PM  2:30 PM  2:45 PM  3:00 PM  3:15 PM  3:30 PM  3:45 PM  4:00 PM  4:15 PM  4:30 PM  4:45 PM  5:00 PM  5:15 PM  5:30 PM  5:45 PM  6:00 PM  6:15 PM  6:30 PM  6:45 PM  7:00 PM  7:15 PM  7:30 PM  7:45 PM  8:00 PM  8:15 PM  8:30 PM  8:45 PM  9:00 PM  9:15 PM  9:30 PM  9:45 PM  10:00 PM  10:15 PM  10:30 PM  10:45 PM  11:00 PM  11:15 PM  11:30 PM  11:45 PM  11:59 AM </value>
+      <webElementGuid>8ac07ce7-a8e2-407a-b443-64335b9df720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-create-classroom[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-16-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-small-12 ontario-large-6 training-schedule-div ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;content ontario-padding-bottom-0-! ng-star-inserted&quot;]</value>
+      <webElementGuid>f1d1bf9e-be4a-442a-8e63-7e0ee2aa0146</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div[4]</value>
+      <webElementGuid>dfcc3d7a-3df4-4c94-9f77-52faae9c8940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training date &amp; time'])[1]/following::div[1]</value>
+      <webElementGuid>faeb1acf-b52b-48d5-80a3-8f72f73c9ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program ID'])[1]/following::div[2]</value>
+      <webElementGuid>1698825a-04bd-4bcf-a2a5-966caf68f3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>946dd071-1feb-45d9-a11f-a3a54700a3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DateTime 00:00 AM  00:15 AM  00:30 AM  00:45 AM  01:00 AM  01:15 AM  01:30 AM  01:45 AM  02:00 AM  02:15 AM  02:30 AM  02:45 AM  03:00 AM  03:15 AM  03:30 AM  03:45 AM  04:00 AM  04:15 AM  04:30 AM  04:45 AM  05:00 AM  05:15 AM  05:30 AM  05:45 AM  06:00 AM  06:15 AM  06:30 AM  06:45 AM  07:00 AM  07:15 AM  07:30 AM  07:45 AM  08:00 AM  08:15 AM  08:30 AM  08:45 AM  9:00 AM  9:15 AM  9:30 AM  9:45 AM  10:00 AM  10:15 AM  10:30 AM  10:45 AM  11:00 AM  11:15 AM  11:30 AM  11:45 AM  12:00 PM  12:15 PM  12:30 PM  12:45 PM  1:00 PM  1:15 PM  1:30 PM  1:45 PM  2:00 PM  2:15 PM  2:30 PM  2:45 PM  3:00 PM  3:15 PM  3:30 PM  3:45 PM  4:00 PM  4:15 PM  4:30 PM  4:45 PM to 9:15 AM  9:30 AM  9:45 AM  10:00 AM  10:15 AM  10:30 AM  10:45 AM  11:00 AM  11:15 AM  11:30 AM  11:45 AM  12:00 PM  12:15 PM  12:30 PM  12:45 PM  1:00 PM  1:15 PM  1:30 PM  1:45 PM  2:00 PM  2:15 PM  2:30 PM  2:45 PM  3:00 PM  3:15 PM  3:30 PM  3:45 PM  4:00 PM  4:15 PM  4:30 PM  4:45 PM  5:00 PM  5:15 PM  5:30 PM  5:45 PM  6:00 PM  6:15 PM  6:30 PM  6:45 PM  7:00 PM  7:15 PM  7:30 PM  7:45 PM  8:00 PM  8:15 PM  8:30 PM  8:45 PM  9:00 PM  9:15 PM  9:30 PM  9:45 PM  10:00 PM  10:15 PM  10:30 PM  10:45 PM  11:00 PM  11:15 PM  11:30 PM  11:45 PM  11:59 AM ' or . = 'DateTime 00:00 AM  00:15 AM  00:30 AM  00:45 AM  01:00 AM  01:15 AM  01:30 AM  01:45 AM  02:00 AM  02:15 AM  02:30 AM  02:45 AM  03:00 AM  03:15 AM  03:30 AM  03:45 AM  04:00 AM  04:15 AM  04:30 AM  04:45 AM  05:00 AM  05:15 AM  05:30 AM  05:45 AM  06:00 AM  06:15 AM  06:30 AM  06:45 AM  07:00 AM  07:15 AM  07:30 AM  07:45 AM  08:00 AM  08:15 AM  08:30 AM  08:45 AM  9:00 AM  9:15 AM  9:30 AM  9:45 AM  10:00 AM  10:15 AM  10:30 AM  10:45 AM  11:00 AM  11:15 AM  11:30 AM  11:45 AM  12:00 PM  12:15 PM  12:30 PM  12:45 PM  1:00 PM  1:15 PM  1:30 PM  1:45 PM  2:00 PM  2:15 PM  2:30 PM  2:45 PM  3:00 PM  3:15 PM  3:30 PM  3:45 PM  4:00 PM  4:15 PM  4:30 PM  4:45 PM to 9:15 AM  9:30 AM  9:45 AM  10:00 AM  10:15 AM  10:30 AM  10:45 AM  11:00 AM  11:15 AM  11:30 AM  11:45 AM  12:00 PM  12:15 PM  12:30 PM  12:45 PM  1:00 PM  1:15 PM  1:30 PM  1:45 PM  2:00 PM  2:15 PM  2:30 PM  2:45 PM  3:00 PM  3:15 PM  3:30 PM  3:45 PM  4:00 PM  4:15 PM  4:30 PM  4:45 PM  5:00 PM  5:15 PM  5:30 PM  5:45 PM  6:00 PM  6:15 PM  6:30 PM  6:45 PM  7:00 PM  7:15 PM  7:30 PM  7:45 PM  8:00 PM  8:15 PM  8:30 PM  8:45 PM  9:00 PM  9:15 PM  9:30 PM  9:45 PM  10:00 PM  10:15 PM  10:30 PM  10:45 PM  11:00 PM  11:15 PM  11:30 PM  11:45 PM  11:59 AM ')]</value>
+      <webElementGuid>1b11dab2-c8d2-4f52-8cf6-26be7e47018e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enrolments for this classroom You will _8b4a90</name>
+   <tag></tag>
+   <elementGuidId>ed4167a8-b8fb-420b-92c9-04a19b853b51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab[2]/div/div/app-alert-banner/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fa69eef-cbfb-48ef-a37b-db8f3e38246e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>4a12e557-2d75-4a0b-8695-b07891aaa8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enrolments for this classroom You will be able to access enrolment requests from learners here</value>
+      <webElementGuid>fdd880aa-0a79-4bc2-8bac-50badbe63df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-create-classroom[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-16-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-content&quot;]/app-alert-banner[1]/div[@class=&quot;banner alert&quot;]/div[1]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>3800844a-d361-4221-885f-e6fe4fc22732</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab[2]/div/div/app-alert-banner/div/div/div[2]</value>
+      <webElementGuid>3271b3ba-8ff3-4041-960a-1e6743b3d696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publishing this training classroom to the public'])[1]/following::div[7]</value>
+      <webElementGuid>4e43e58d-237a-46cd-a2a3-544a94bf8f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publishing preferences'])[1]/following::div[10]</value>
+      <webElementGuid>273582bd-8506-49a6-afeb-e32253b76423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You will be able to access enrolment requests from learners here']/parent::*</value>
+      <webElementGuid>7991583a-3815-462e-8c39-8b0055fb4261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-alert-banner/div/div/div[2]</value>
+      <webElementGuid>9e9e3b61-1078-4b8a-9502-f168ec410bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enrolments for this classroom You will be able to access enrolment requests from learners here' or . = 'Enrolments for this classroom You will be able to access enrolment requests from learners here')]</value>
+      <webElementGuid>1d253f11-4d60-4217-9c09-3e59d13ae14c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

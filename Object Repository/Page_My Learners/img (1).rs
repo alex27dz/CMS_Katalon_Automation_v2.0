@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (1)</name>
+   <tag></tag>
+   <elementGuidId>b58ecab1-3e33-4c94-9323-f19c493cfa41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;'Sidebar.Notifications' | translate&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-my-learners/app-main-sidebar/div/ul/li[4]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>22587074-056f-4c7f-b5a4-fd3de98ca796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>'Sidebar.Notifications' | translate</value>
+      <webElementGuid>619c51a7-3923-450e-ad47-364769f44183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/notifications.svg</value>
+      <webElementGuid>da403548-5172-41ae-b800-7256149707e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-my-learners[@class=&quot;ng-star-inserted&quot;]/app-main-sidebar[1]/div[@class=&quot;nav-bar ng-star-inserted&quot;]/ul[1]/li[4]/img[1]</value>
+      <webElementGuid>f91d37f9-6b79-42ab-9c30-04b8b826f6e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-my-learners/app-main-sidebar/div/ul/li[4]/img</value>
+      <webElementGuid>20f76b83-ba92-4d14-987a-09c70a289927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;'Sidebar.Notifications' | translate&quot;]</value>
+      <webElementGuid>bee28090-4353-4c60-8af6-1f7d43d37502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/img</value>
+      <webElementGuid>7e62e5a5-a7e6-4fec-97df-d480f44199a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;'&quot; , &quot;Sidebar.Notifications&quot; , &quot;'&quot; , &quot; | translate&quot;) and @src = 'assets/images/notifications.svg']</value>
+      <webElementGuid>3f78d285-c68a-42fb-b1ac-908aa32f090c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

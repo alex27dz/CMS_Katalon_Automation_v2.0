@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Notifications for this classroom You wi_b625dd</name>
+   <tag></tag>
+   <elementGuidId>3ef24e2d-e271-42e3-bc39-e28e1fc9244e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab[3]/div/div/app-alert-banner/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-tab:nth-of-type(3) > div.tab > div.tab-content > app-alert-banner > div.banner.alert > div > div.icon-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01d11f09-eac9-48a7-8a9f-dca8296c5dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-text</value>
+      <webElementGuid>635c3a44-8cdd-4b19-ad81-abd127f2dbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notifications for this classroom You will be able to access enrolment requests and other notifications here.</value>
+      <webElementGuid>00904e0f-2cec-4eef-b011-565588f5c77a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-create-classroom[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-16-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[3]/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-content&quot;]/app-alert-banner[1]/div[@class=&quot;banner alert&quot;]/div[1]/div[@class=&quot;icon-text&quot;]</value>
+      <webElementGuid>94ac3a9a-69cc-4a8d-b2cb-98a22088df27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab[3]/div/div/app-alert-banner/div/div/div[2]</value>
+      <webElementGuid>a718c4d9-53fe-4b82-99f9-15b9b792e18c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrolments for this classroom'])[1]/following::div[7]</value>
+      <webElementGuid>bf7215b0-0baa-4c6a-84e6-cfc68b5a6ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>4afb9bcd-17f6-4e56-829d-4e3d1532425b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You will be able to access enrolment requests and other notifications here.']/parent::*</value>
+      <webElementGuid>669a037c-ba2c-4023-8f93-2847ddbf9b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab[3]/div/div/app-alert-banner/div/div/div[2]</value>
+      <webElementGuid>f6e6c24d-d982-4f5f-8fbb-4ac1d695ecdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Notifications for this classroom You will be able to access enrolment requests and other notifications here.' or . = 'Notifications for this classroom You will be able to access enrolment requests and other notifications here.')]</value>
+      <webElementGuid>55436d85-3be5-4294-8bce-a35560624c12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

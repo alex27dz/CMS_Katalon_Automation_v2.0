@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training program details Select program_5b1d3b</name>
+   <tag></tag>
+   <elementGuidId>7b38401c-2bbf-4f67-a0cb-432892b85001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-view-classroom/div[2]/div[4]/app-tabs/div/div[2]/app-tab/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcbc0da9-2cb3-46b5-aaa2-10f8c8baf285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>d76c6238-960e-434e-8642-ab6aecacded5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Training program details Select program Training type  Language  French  Program ID Training date &amp; time Date Aug 1, 2023Start Time9:00 AMEnd Time5:00 PMTraining locationStreet Address440 mc murchcy ave s812City/TownbramptonProvinceONPostal Codel3y0n5Seats &amp; pricingTotal Seats23 Allow learners to send an enrolment request even if the class is fully booked Price ($) CAD Please contact training provider for pricing Teaching staffInstructor ABC apple EvaluatorABC appleContact InformationEmail--Phone number--Website akhil.ca Publishing preferences Publishing this training classroom to the public </value>
+      <webElementGuid>7ad297a0-0429-450d-9878-bf5199f200ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-view-classroom[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-40-! ontario-padding-left-1-! ontario-padding-right-1-! border-bottom-thick ontario-margin-bottom-48-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]</value>
+      <webElementGuid>2e80b111-a604-4833-aced-4514d9843057</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-view-classroom/div[2]/div[4]/app-tabs/div/div[2]/app-tab/div</value>
+      <webElementGuid>7cce61c0-9df7-4a40-99dd-408429a48599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[2]</value>
+      <webElementGuid>25684403-9c30-4261-91dd-7131edf69c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrolments'])[1]/following::div[4]</value>
+      <webElementGuid>46ddfbc8-a09a-4f0b-8ec6-468ce5b9026c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab/div</value>
+      <webElementGuid>a2d46b51-9c1e-49cd-b0c2-9d057477192e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Training program details Select program Training type  Language  French  Program ID Training date &amp; time Date Aug 1, 2023Start Time9:00 AMEnd Time5:00 PMTraining locationStreet Address440 mc murchcy ave s812City/TownbramptonProvinceONPostal Codel3y0n5Seats &amp; pricingTotal Seats23 Allow learners to send an enrolment request even if the class is fully booked Price ($) CAD Please contact training provider for pricing Teaching staffInstructor ABC apple EvaluatorABC appleContact InformationEmail--Phone number--Website akhil.ca Publishing preferences Publishing this training classroom to the public ' or . = ' Training program details Select program Training type  Language  French  Program ID Training date &amp; time Date Aug 1, 2023Start Time9:00 AMEnd Time5:00 PMTraining locationStreet Address440 mc murchcy ave s812City/TownbramptonProvinceONPostal Codel3y0n5Seats &amp; pricingTotal Seats23 Allow learners to send an enrolment request even if the class is fully booked Price ($) CAD Please contact training provider for pricing Teaching staffInstructor ABC apple EvaluatorABC appleContact InformationEmail--Phone number--Website akhil.ca Publishing preferences Publishing this training classroom to the public ')]</value>
+      <webElementGuid>120298e2-983d-4d3f-ba7c-0a0ea468ee03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

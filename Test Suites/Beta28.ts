@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>Beta28</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,68 +10,68 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>0ed3500c-3086-446e-a0b7-b8f52fe7e5fd</testSuiteGuid>
+   <testSuiteGuid>795ceee1-d1a1-4ca6-9c4b-7f1c5cc7f6c1</testSuiteGuid>
    <testCaseLink>
-      <guid>e8a1403d-3098-43c0-8bb9-0b16af6225dd</guid>
+      <guid>54abb30b-606d-4026-ace8-7cf4cdfd720c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/201_Approved Program Approved Application Tab Program Materials Cancel Existing file Upload</testCaseId>
+      <testCaseId>Test Cases/616_Marketplace Approved Training Providers</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>95581632-8c90-4f7f-bf79-0dcf9535caac</guid>
+      <guid>0392b372-13ea-4417-aa25-cef9d6e18447</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/200_Submitted Program Application Review Tab - Program Requirements Sub-Tab</testCaseId>
+      <testCaseId>Test Cases/617_Marketplace Approved Courses</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>03a5dc20-906a-4f0f-8052-1849e98d1905</guid>
+      <guid>b1055e98-f9c1-4438-b162-86473e62c679</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/199_Key Events Tab - Timeline Actions</testCaseId>
+      <testCaseId>Test Cases/621_Classroom Create Notification Page - Sidebar</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d72aada6-56e5-4627-b3da-135c440d5a5d</guid>
+      <guid>178de296-ef1d-4d6b-848e-3d02262fc74f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/198_Key Events Tab - Timeline Filtering</testCaseId>
+      <testCaseId>Test Cases/625_View Classroom Details Schedule</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0e54258f-38e2-4eda-81a7-9331e8ffc24f</guid>
+      <guid>5c2c68b3-ad47-4d90-b519-366657b4bd10</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/196_Key Events Withdrawn Event</testCaseId>
+      <testCaseId>Test Cases/635_Training Provider My Team Page Member list - Filter and Search</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>debe6f3a-fff4-4425-afe9-cf67d3cb90ec</guid>
+      <guid>20f8111a-afcd-4600-8370-a168aba5ef49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/194_Program Delivery Applications - All Sub-Tab Results Table</testCaseId>
+      <testCaseId>Test Cases/636_Training Provider My Team Page v2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f57133b9-9c35-419a-98cc-ba00c74fafe2</guid>
+      <guid>821b3f9e-0ece-401b-ae7a-688417177611</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/193_Program Delivery Applications - All Sub-Tab</testCaseId>
+      <testCaseId>Test Cases/638_Training Provider My Team - Permission page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0d2b51b9-b492-4247-9e32-c9ef7a399a7a</guid>
+      <guid>e3aad54e-293a-4b30-a974-189da6696e39</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/192_Inactive Program Details Page</testCaseId>
+      <testCaseId>Test Cases/647_Classroom Create Enrolment - Save Confirm Later</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>adef481c-be0f-4005-a756-adbb92954c25</guid>
+      <guid>95fb04f4-26ef-4749-ac55-0e2ff9b85596</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/191_Inactive Program Overview Tab - Summary</testCaseId>
+      <testCaseId>Test Cases/649_Add Learner to Class - Search for training Provider Default Search</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

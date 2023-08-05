@@ -27,7 +27,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - 
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLTSD CPO Approved Training Courses'), 
-    'MLTSD CPO Approved Training Courses')
+    'MLITSD CPO Approved Training Courses')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Explore other recommended safety traini_5478a4'), 
     'Explore other recommended safety training by sector or work type')
@@ -41,7 +41,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - 
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_MLTSD CPO Approved Training Courses'), 
-    'MLTSD CPO Approved Training Courses')
+    'MLITSD CPO Approved Training Courses')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_Explore other recommended safety traini_5478a4'), 
     'Explore other recommended safety training by sector or work type')
@@ -57,7 +57,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - 
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_MLTSD CPO Approved Training Courses'), 
-    'MLTSD CPO Approved Training Courses')
+    'MLITSD CPO Approved Training Courses')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_Explore other recommended safety traini_5478a4'), 
     'Explore other recommended safety training by sector or work type')

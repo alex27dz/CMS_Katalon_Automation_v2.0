@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_First name Last name Email addressPhone_1e7901</name>
+   <tag></tag>
+   <elementGuidId>258d1683-2a85-4c66-94d3-5d67b20d7fca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-add-member/div/div/div/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab9816e9-6ccd-4910-9596-06c74e6cb0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>321ba313-0942-4ae6-9cab-748f1cad282f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>First name Last name Email addressPhone Role AdministratorAffiliate administratorInstructorAffiliate instructor Add a second role OrganizationSelectAdd a new organizationAlex IT Inc</value>
+      <webElementGuid>a528d96f-eb66-4b85-b348-c3aa8ab7b68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-add-member[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-48-! ontario-padding-left-12-!&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-schedule-div ontario-column ontario-small-12 ontario-large-9 ontario-margin-top-48-! ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>86b795d1-d74a-4ffe-8383-f2d94cdd06a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-add-member/div/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>584a5571-0319-4fc0-8ae5-3e88dbaae38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member details'])[1]/following::div[1]</value>
+      <webElementGuid>f678d85c-134a-4e9e-b6cf-2bb3c1e6a460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a member'])[1]/following::div[5]</value>
+      <webElementGuid>88525c8a-cc93-4349-a487-c82649460b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]</value>
+      <webElementGuid>513c81e4-076d-41e7-93d3-8e47c5a827ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'First name Last name Email addressPhone Role AdministratorAffiliate administratorInstructorAffiliate instructor Add a second role OrganizationSelectAdd a new organizationAlex IT Inc' or . = 'First name Last name Email addressPhone Role AdministratorAffiliate administratorInstructorAffiliate instructor Add a second role OrganizationSelectAdd a new organizationAlex IT Inc')]</value>
+      <webElementGuid>2c1d4c7f-8940-4e75-97f7-7aff4742a28e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

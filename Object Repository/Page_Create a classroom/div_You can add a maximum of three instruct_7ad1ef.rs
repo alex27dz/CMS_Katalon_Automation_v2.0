@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You can add a maximum of three instruct_7ad1ef</name>
+   <tag></tag>
+   <elementGuidId>e53303e6-aff3-47b7-97a0-1717189b1bbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content.ontario-row.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4caf0205-d5bc-4124-870f-ee191475a19e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content ontario-row ng-star-inserted</value>
+      <webElementGuid>44ab3f93-b1ae-46d8-aa12-0e292250ce00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You can add a maximum of three instructors InstructorInstructor Add another instructor Also set as evaluatorEvaluatorEvaluator</value>
+      <webElementGuid>b196bd60-534b-441c-b738-63275ef8ce9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-create-classroom[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-16-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/div[@class=&quot;ontario-small-12 ontario-large-6 training-schedule-div ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;content ontario-row ng-star-inserted&quot;]</value>
+      <webElementGuid>00b5ecbd-bf4f-47ba-a8c2-0c0cce3f6722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-create-classroom/div[2]/div[2]/app-tabs/div/div[2]/app-tab/div/div/div[11]</value>
+      <webElementGuid>b1f2c22f-c140-4a67-bfae-d2c698eb0b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teaching staff'])[1]/following::div[1]</value>
+      <webElementGuid>af246bfa-4dee-4f37-abe2-94968276b259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please contact training provider for pricing'])[1]/following::div[2]</value>
+      <webElementGuid>a56f9b30-105d-4e30-a381-3581de473149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]</value>
+      <webElementGuid>2a6a8d94-c618-4c86-9dce-4ee6b42d49ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'You can add a maximum of three instructors InstructorInstructor Add another instructor Also set as evaluatorEvaluatorEvaluator' or . = 'You can add a maximum of three instructors InstructorInstructor Add another instructor Also set as evaluatorEvaluatorEvaluator')]</value>
+      <webElementGuid>5f8bdd31-2c38-4982-8237-e3562df727b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

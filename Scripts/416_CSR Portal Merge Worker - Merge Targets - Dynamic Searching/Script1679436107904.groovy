@@ -64,8 +64,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/but
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Edit (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/img_Aleksey Dzhoharidze_rotated back-arrow _18b608'))
+WebUI.back()
 
+// WebUI.click(findTestObject('back assessor'))
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CSR Portal/select_Working at HeightsJoint Health  Safe_abc185 (3)'), 
     'jhsc', true)
 

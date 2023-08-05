@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Become an approved training provider by_6cde4c</name>
+   <tag></tag>
+   <elementGuidId>856d53dd-9f2e-4ea1-8038-ad59b0ff2728</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grey-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>444003c2-09e1-4de6-9fec-7057c4e3397e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-box</value>
+      <webElementGuid>10b32565-e737-48b2-92c8-8b2a5eff26f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Become an approved training provider by submitting an online request and unlock full capabilities of marketing your training offerings. Create and manage the training offerings through computer and mobile phone.Publish offerings as CPO's approved training providerSubmit the training material for CPO approvalsMarket training coursesEnrol the workers/learnersSubmit the training completion recordsAssign multiple roles in your teamManage your teamBuild relationship with workersAnd more…Register as training provider</value>
+      <webElementGuid>aa78937f-cd55-4d76-ad2a-e18b155e333c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;grey-box&quot;]</value>
+      <webElementGuid>d011dcc6-7bb9-47df-9714-13c8fb08d3d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers/div/div[2]/div[2]</value>
+      <webElementGuid>f5cb1bbb-bbf2-401e-80e6-83eb2533450a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become an approved training provider'])[1]/following::div[1]</value>
+      <webElementGuid>82888418-5888-44d7-a7a4-15601d1efd02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[1]/following::div[3]</value>
+      <webElementGuid>2734a72a-2b9c-48ed-a300-37ccd56e76b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>987f9e66-170f-470c-a80d-18d332d43f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Become an approved training provider by submitting an online request and unlock full capabilities of marketing your training offerings. Create and manage the training offerings through computer and mobile phone.Publish offerings as CPO&quot; , &quot;'&quot; , &quot;s approved training providerSubmit the training material for CPO approvalsMarket training coursesEnrol the workers/learnersSubmit the training completion recordsAssign multiple roles in your teamManage your teamBuild relationship with workersAnd more…Register as training provider&quot;) or . = concat(&quot;Become an approved training provider by submitting an online request and unlock full capabilities of marketing your training offerings. Create and manage the training offerings through computer and mobile phone.Publish offerings as CPO&quot; , &quot;'&quot; , &quot;s approved training providerSubmit the training material for CPO approvalsMarket training coursesEnrol the workers/learnersSubmit the training completion recordsAssign multiple roles in your teamManage your teamBuild relationship with workersAnd more…Register as training provider&quot;))]</value>
+      <webElementGuid>ce09a69f-55e9-422b-8a87-76a901a19c51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

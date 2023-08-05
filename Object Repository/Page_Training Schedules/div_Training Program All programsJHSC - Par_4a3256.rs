@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training Program All programsJHSC - Par_4a3256</name>
+   <tag></tag>
+   <elementGuidId>a4f72108-1362-4b96-8810-7254c0f0d722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-schedules/div/div/div[2]/app-training-schedule-search/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0aec5d7a-877f-468a-82a3-ba8214d28d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-criteria-container ontario-padding-right-24-! ontario-padding-left-24-!</value>
+      <webElementGuid>29edb902-d8a8-40ba-a8be-79854d8218d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training Program All programsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsInstructor/evaluatorTraining typeAllBlendedDistanceeLearningIn-ClassTraining LocationSchedule statusCurrent &amp; FuturePastCustomArchivedClass statusAllFullSeats availableLanguageAllEnglishFrenchShow listings with course fee onlyWeekend classes onlyShowing 0 applications SearchReset</value>
+      <webElementGuid>33625d6d-281c-4e5c-80d3-cbead3a69f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-schedules[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-16-!&quot;]/app-training-schedule-search[1]/div[@class=&quot;search-criteria-container ontario-padding-right-24-! ontario-padding-left-24-!&quot;]</value>
+      <webElementGuid>b7d64015-c101-418c-a2ff-703859abdd5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-schedules/div/div/div[2]/app-training-schedule-search/div</value>
+      <webElementGuid>2ff0b757-d97c-42f8-9667-aa218fc1c800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create a classroom'])[1]/following::div[2]</value>
+      <webElementGuid>85978de6-cb8c-4a52-9478-44589dce2771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My training schedules'])[1]/following::div[2]</value>
+      <webElementGuid>9aee0a0c-b050-4182-9e5e-8a1109eff391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-schedule-search/div</value>
+      <webElementGuid>bfce6048-4e58-4c21-aeaa-4b352ee910ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training Program All programsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsInstructor/evaluatorTraining typeAllBlendedDistanceeLearningIn-ClassTraining LocationSchedule statusCurrent &amp; FuturePastCustomArchivedClass statusAllFullSeats availableLanguageAllEnglishFrenchShow listings with course fee onlyWeekend classes onlyShowing 0 applications SearchReset' or . = 'Training Program All programsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsInstructor/evaluatorTraining typeAllBlendedDistanceeLearningIn-ClassTraining LocationSchedule statusCurrent &amp; FuturePastCustomArchivedClass statusAllFullSeats availableLanguageAllEnglishFrenchShow listings with course fee onlyWeekend classes onlyShowing 0 applications SearchReset')]</value>
+      <webElementGuid>4825e303-a5e5-4bea-8504-6a55c7102a68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

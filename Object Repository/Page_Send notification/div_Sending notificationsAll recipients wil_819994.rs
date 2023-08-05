@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sending notificationsAll recipients wil_819994</name>
+   <tag></tag>
+   <elementGuidId>c08d89b5-43ec-4c0c-90a9-93ee6e251537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.training-schedule-div.ontario-column.ontario-small-12.ontario-large-8.ng-untouched.ng-pristine.ng-invalid.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-send-notification/div/div/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8dafb27f-78ed-4e24-b1c0-8590659594fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>training-schedule-div ontario-column ontario-small-12 ontario-large-8 ng-untouched ng-pristine ng-invalid ng-star-inserted</value>
+      <webElementGuid>1ffc25d6-4ce4-40a8-9951-32bc83fb0bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sending notificationsAll recipients will be notified once this notification is sent.RecipientsSelectAllAdministratorAffiliate administratorAffiliate instructorDesignated signing authorityInstructorNotes to include with notification</value>
+      <webElementGuid>eb809dd0-3fe9-454e-a6ae-1555a7f5e183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-send-notification[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-48-! ontario-margin-bottom-48-! ontario-padding-left-12-!&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-schedule-div ontario-column ontario-small-12 ontario-large-8 ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]</value>
+      <webElementGuid>7aad9678-aedd-46b0-bc68-fd1650937424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-send-notification/div/div/div/div[3]/div/div</value>
+      <webElementGuid>474119c5-2ecf-4620-a923-53b2e1eb3a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications details'])[1]/following::div[3]</value>
+      <webElementGuid>78db801e-90d3-4646-9748-84a144ebf310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send notification'])[2]/following::div[4]</value>
+      <webElementGuid>aff9bcc6-13ac-483b-9d76-926f2d1b538a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>91a25440-acb3-4ede-b5b8-52c276a7b3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sending notificationsAll recipients will be notified once this notification is sent.RecipientsSelectAllAdministratorAffiliate administratorAffiliate instructorDesignated signing authorityInstructorNotes to include with notification' or . = 'Sending notificationsAll recipients will be notified once this notification is sent.RecipientsSelectAllAdministratorAffiliate administratorAffiliate instructorDesignated signing authorityInstructorNotes to include with notification')]</value>
+      <webElementGuid>ce17af55-5ed0-4f76-8e89-134efda06f56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

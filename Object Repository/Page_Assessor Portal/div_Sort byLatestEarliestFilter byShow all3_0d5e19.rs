@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sort byLatestEarliestFilter byShow all3_0d5e19</name>
+   <tag></tag>
+   <elementGuidId>2bd35516-337b-4b09-82d2-e3190818101f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab[2]/div/app-timeline/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-row.search-criteria-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c44f97d7-e25f-47cc-b04e-2623664ec537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row search-criteria-container</value>
+      <webElementGuid>bb4d1ed5-7cd6-4587-87d3-71fa118852d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sort byLatestEarliestFilter byShow all30 days180 daysCustom</value>
+      <webElementGuid>f275b32d-3aa0-4a6a-a88c-57b7065ec8b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[1]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-24-! ontario-padding-left-12-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[2]/div[@class=&quot;tab&quot;]/app-timeline[1]/div[@class=&quot;ontario-row search-criteria-container&quot;]</value>
+      <webElementGuid>e4d1cac6-5e7f-4396-a449-f9af9dc0123e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div/app-tabs/div/div[2]/app-tab[2]/div/app-timeline/div</value>
+      <webElementGuid>372336a1-9828-4521-b748-bf466a6bff4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To be performed'])[3]/following::div[2]</value>
+      <webElementGuid>8dd1773b-7800-4a81-91fa-96f2a2c8b8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RECOMMENDATION'])[1]/following::div[5]</value>
+      <webElementGuid>c4d22662-473e-4a74-b565-9ff7aec29064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-timeline/div</value>
+      <webElementGuid>bdc6d142-78a5-4ed2-8693-f4015b17105b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sort byLatestEarliestFilter byShow all30 days180 daysCustom' or . = 'Sort byLatestEarliestFilter byShow all30 days180 daysCustom')]</value>
+      <webElementGuid>833fe25c-ca30-48cd-82d9-9a2a7f0ed0da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

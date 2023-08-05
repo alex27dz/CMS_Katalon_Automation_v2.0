@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Additional Information Designated signi_f2c471</name>
+   <tag></tag>
+   <elementGuidId>f3497628-2ffd-474f-8e53-25712c19e801</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-add-member/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0bf69712-ebf5-4705-a7fb-73b771a4d4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-large-3 grey-box ontario-margin-top-48-!</value>
+      <webElementGuid>a5c6703d-841e-469e-b192-75b344605dda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional Information Designated signing authority(DSA)  A user with a superset of all available permissions, including adding administrators.  Administrator  The administrator is assigned by the DSA and is able to add user such as ohter administrators and instructors and manage thier accounts.  Instructor  The instructor can perform class and learner related operations.  Affiliate administrator  The affiliate administrator is a user belonging to an organization under the training provider's umbrella, and is granted permissions to manage instructor accounts for their organizations only.  Affiliate instructor  Organizations under the umbrella of the training provider may designate their own instructors, with permissions to manage classes and learners. </value>
+      <webElementGuid>6e1185f6-7279-4267-8f92-67e145a623c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-add-member[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row relative&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-48-! ontario-padding-left-12-!&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 grey-box ontario-margin-top-48-!&quot;]</value>
+      <webElementGuid>d75c922b-0814-4d66-b206-52d891fbb590</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-add-member/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>d1bbfc5b-dac5-46da-807d-e191178740d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::div[1]</value>
+      <webElementGuid>3ec2e3a6-9f1b-4e5e-9962-699b1598ed7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::div[3]</value>
+      <webElementGuid>a1a0906c-9e4f-4b6b-ad20-13431924d58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>c1f41231-49d0-456e-907d-2a529d25542c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Additional Information Designated signing authority(DSA)  A user with a superset of all available permissions, including adding administrators.  Administrator  The administrator is assigned by the DSA and is able to add user such as ohter administrators and instructors and manage thier accounts.  Instructor  The instructor can perform class and learner related operations.  Affiliate administrator  The affiliate administrator is a user belonging to an organization under the training provider&quot; , &quot;'&quot; , &quot;s umbrella, and is granted permissions to manage instructor accounts for their organizations only.  Affiliate instructor  Organizations under the umbrella of the training provider may designate their own instructors, with permissions to manage classes and learners. &quot;) or . = concat(&quot;Additional Information Designated signing authority(DSA)  A user with a superset of all available permissions, including adding administrators.  Administrator  The administrator is assigned by the DSA and is able to add user such as ohter administrators and instructors and manage thier accounts.  Instructor  The instructor can perform class and learner related operations.  Affiliate administrator  The affiliate administrator is a user belonging to an organization under the training provider&quot; , &quot;'&quot; , &quot;s umbrella, and is granted permissions to manage instructor accounts for their organizations only.  Affiliate instructor  Organizations under the umbrella of the training provider may designate their own instructors, with permissions to manage classes and learners. &quot;))]</value>
+      <webElementGuid>7cbfdcbf-50aa-453b-8fe4-3dc4fc330b11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

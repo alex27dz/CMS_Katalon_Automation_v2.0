@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SearchRoleAllDesignated signing authori_676fb1 (1)</name>
+   <tag></tag>
+   <elementGuidId>4c226c17-b793-4891-9668-f1cc7f80badd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-box.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-my-team/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>486b2455-bdeb-4851-928a-f11e79be33af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-box ng-star-inserted</value>
+      <webElementGuid>fffea5b5-a25f-40fd-a0b8-ab7552b2652a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SearchRoleAllDesignated signing authorityAlternate signing authorityAdministratorAffiliate administratorInstructorAffiliate instructor Reset  Search </value>
+      <webElementGuid>783ee65f-ed74-49d3-8073-9fd91602479c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-my-team[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;filter-box ng-star-inserted&quot;]</value>
+      <webElementGuid>33824947-7610-48b8-83ee-4bd73c9f6872</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-my-team/div/div/div[2]/div</value>
+      <webElementGuid>5113c7e2-b787-4429-9d5c-d0205d12539d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a member'])[1]/following::div[2]</value>
+      <webElementGuid>c30cc129-4e1e-4f78-a015-d572a66450a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Team'])[2]/following::div[2]</value>
+      <webElementGuid>e8aaf7bd-24e1-4d68-95db-9ecfb575bc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>160788ef-c83a-4c80-b547-d7c39e9b30ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SearchRoleAllDesignated signing authorityAlternate signing authorityAdministratorAffiliate administratorInstructorAffiliate instructor Reset  Search ' or . = 'SearchRoleAllDesignated signing authorityAlternate signing authorityAdministratorAffiliate administratorInstructorAffiliate instructor Reset  Search ')]</value>
+      <webElementGuid>93ac66de-e44f-41a5-aea5-ee90da12fd62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

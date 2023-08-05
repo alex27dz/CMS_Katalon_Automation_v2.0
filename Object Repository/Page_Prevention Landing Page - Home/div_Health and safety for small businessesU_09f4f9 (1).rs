@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Health and safety for small businessesU_09f4f9 (1)</name>
+   <tag></tag>
+   <elementGuidId>db0b76ce-73ba-48cc-97ad-37458f882c53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b61c0c6b-5f45-439f-bfbc-a5d23e7fd647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box</value>
+      <webElementGuid>db33f2ba-2217-4afa-b2dd-ea2cdf32aee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Health and safety for small businessesUnder the Occupational Health and Safety Act (OHSA), small business employers have many of the same duties as any other employer, including the following: to do everything they reasonably can to protect their workers in each situationto inform, instruct and supervise workers to protect their health and safetyto make sure that every worker and supervisor takes the required training, including basic occupational health and safety awareness training, and keep records of that training Health and safety for small businesses</value>
+      <webElementGuid>587bc8ae-dc08-4b19-913f-b0234c3b7c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;box&quot;]</value>
+      <webElementGuid>818e544f-534e-4a80-9df4-379f57b09a8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div/app-page-content-loop/app-grey-text-box-sidebar[2]/div</value>
+      <webElementGuid>50e703bd-aa57-46ad-b3e0-a245a82acbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisor health and safety awareness in five steps'])[1]/following::div[1]</value>
+      <webElementGuid>8f8e6f38-622d-4249-8a20-d1db0f6c1a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker health and safety awareness in four steps'])[1]/following::div[1]</value>
+      <webElementGuid>49f2dcae-28a6-4758-8607-51de4b73f47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar[2]/div</value>
+      <webElementGuid>e7162124-569d-4511-aa0f-c4dd75164cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Health and safety for small businessesUnder the Occupational Health and Safety Act (OHSA), small business employers have many of the same duties as any other employer, including the following: to do everything they reasonably can to protect their workers in each situationto inform, instruct and supervise workers to protect their health and safetyto make sure that every worker and supervisor takes the required training, including basic occupational health and safety awareness training, and keep records of that training Health and safety for small businesses' or . = 'Health and safety for small businessesUnder the Occupational Health and Safety Act (OHSA), small business employers have many of the same duties as any other employer, including the following: to do everything they reasonably can to protect their workers in each situationto inform, instruct and supervise workers to protect their health and safetyto make sure that every worker and supervisor takes the required training, including basic occupational health and safety awareness training, and keep records of that training Health and safety for small businesses')]</value>
+      <webElementGuid>add8a284-cb86-4fb3-b4f0-1dcd7b172988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

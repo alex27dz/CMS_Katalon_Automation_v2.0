@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alex  Dezho  cmsproj01gmail.com  (123) _e90459</name>
+   <tag></tag>
+   <elementGuidId>482d6da7-030f-4bbf-8e49-f55365d885f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-row.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-my-team/div/div/div[3]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8256a5c0-e30d-4f83-af5e-7303c81ca1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-row ng-star-inserted</value>
+      <webElementGuid>87a7c645-1dbc-461a-bac9-52e2f8fee655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Alex  Dezho  cmsproj01@gmail.com  (123) 123-1234 Designated signing authority Alex IT Inc 169 Fort York, TorontoM5V0C8 - ON Canada 03 Aug 2023 Edit</value>
+      <webElementGuid>7944eefb-d7d5-4039-849d-0f20e24d7968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-my-team[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-bottom-48-!&quot;]/div[@class=&quot;teams-table&quot;]/div[@class=&quot;table-row ng-star-inserted&quot;]</value>
+      <webElementGuid>2f78220b-1ad7-4512-bb8c-845abb0dc77b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-my-team/div/div/div[3]/div/div[3]</value>
+      <webElementGuid>71aac160-ebac-42a3-b1cb-a18b71e3e759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alex Inc'])[1]/following::div[1]</value>
+      <webElementGuid>8977f610-2bc9-4229-88ac-4cdd17459a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last login'])[1]/following::div[4]</value>
+      <webElementGuid>1301b400-fef8-4033-883c-c2cc0936bdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]</value>
+      <webElementGuid>4a38cdfc-d944-4d08-9491-ce2734b54cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Alex  Dezho  cmsproj01@gmail.com  (123) 123-1234 Designated signing authority Alex IT Inc 169 Fort York, TorontoM5V0C8 - ON Canada 03 Aug 2023 Edit' or . = ' Alex  Dezho  cmsproj01@gmail.com  (123) 123-1234 Designated signing authority Alex IT Inc 169 Fort York, TorontoM5V0C8 - ON Canada 03 Aug 2023 Edit')]</value>
+      <webElementGuid>3c854989-8b51-4fd0-8d34-0c98b26664f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

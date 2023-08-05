@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Program Type All Safety Training Progra_ffe37b (5)</name>
+   <tag></tag>
+   <elementGuidId>12613573-8dbf-4132-ac3b-dbef30714016</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-criteria-container.ontario-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4ab2a3d-ed6a-4543-8a7a-aad59abfe0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-criteria-container ontario-row</value>
+      <webElementGuid>6b551993-897b-47f0-9aec-5ed9e6ca6052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Program Type All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsDelivery Type All Training TypesBlendedDistanceeLearningIn-ClassApplication Status All StatusesIncompleteApplication review in progressApprovedInactiveSort By StatusProgram TypeSearch</value>
+      <webElementGuid>b3dc983c-ec0d-4016-b656-b8e4ce4dd4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9 float-left&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 float-left&quot;]/div[@class=&quot;search-criteria-container ontario-row&quot;]</value>
+      <webElementGuid>f517507e-b9ea-43a3-aebc-47fd9a0e6e33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>434ac6c0-0a72-491a-b1bc-7d5e7c2383d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit training program delivery application'])[1]/following::div[2]</value>
+      <webElementGuid>a24aba3a-8ce4-4211-b674-a6e8f483740f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage approved training programs'])[1]/following::div[3]</value>
+      <webElementGuid>5cbada47-18b8-4c42-997d-96acdb984142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>4e3d0ab8-80a9-4c99-a9eb-907747ab9e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Program Type All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsDelivery Type All Training TypesBlendedDistanceeLearningIn-ClassApplication Status All StatusesIncompleteApplication review in progressApprovedInactiveSort By StatusProgram TypeSearch' or . = 'Program Type All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at HeightsDelivery Type All Training TypesBlendedDistanceeLearningIn-ClassApplication Status All StatusesIncompleteApplication review in progressApprovedInactiveSort By StatusProgram TypeSearch')]</value>
+      <webElementGuid>3dd1ce90-b2c4-410c-8a43-93a4ca733645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

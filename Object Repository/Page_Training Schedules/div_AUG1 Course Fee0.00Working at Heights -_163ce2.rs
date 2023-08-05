@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AUG1 Course Fee0.00Working at Heights -_163ce2</name>
+   <tag></tag>
+   <elementGuidId>41387152-47c4-4ed2-9b2b-0284c11a67bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-schedules/div/div/div[3]/div/div[2]/app-training-schedule-search-card/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.training-schedule-card.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c38dd3a3-9038-452d-9e86-bcd4050beb6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>training-schedule-card ng-star-inserted</value>
+      <webElementGuid>c6331229-cd7e-4c13-b753-ba29970fd754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AUG1 Course Fee$0.00Working at Heights - FullSeats available: 23/23 Delivery Format  Class Information  Training Location  Contact In-Class AUG 1 - Tue @ 9 am to 5 pm  440 mc murchcy ave s  brampton -  ON l3y0n5  Language  Instructor  Evaluator  English  ABC apple ABC apple View classroom</value>
+      <webElementGuid>0d247ac3-e6a8-4bf9-a43d-e60e3a5ad821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-schedules[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-margin-top-16-! ontario-padding-bottom-24-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12&quot;]/div[@class=&quot;resultCard ng-star-inserted&quot;]/app-training-schedule-search-card[1]/div[@class=&quot;training-schedule-card ng-star-inserted&quot;]</value>
+      <webElementGuid>3e9a0faa-a19e-4085-a9ad-59274cf4ce9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-schedules/div/div/div[3]/div/div[2]/app-training-schedule-search-card/div</value>
+      <webElementGuid>74548fbc-b7dd-4bbb-b779-25fea014ba2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 235 classrooms'])[1]/following::div[5]</value>
+      <webElementGuid>eba8215a-d32f-4cb6-baf7-a185f3cfdced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::div[5]</value>
+      <webElementGuid>b2f9feec-9a82-4cf7-a3e7-d6dff7afb9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-schedule-search-card/div</value>
+      <webElementGuid>c54bd2a8-0316-4276-9846-dfc7eb21dead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AUG1 Course Fee$0.00Working at Heights - FullSeats available: 23/23 Delivery Format  Class Information  Training Location  Contact In-Class AUG 1 - Tue @ 9 am to 5 pm  440 mc murchcy ave s  brampton -  ON l3y0n5  Language  Instructor  Evaluator  English  ABC apple ABC apple View classroom' or . = 'AUG1 Course Fee$0.00Working at Heights - FullSeats available: 23/23 Delivery Format  Class Information  Training Location  Contact In-Class AUG 1 - Tue @ 9 am to 5 pm  440 mc murchcy ave s  brampton -  ON l3y0n5  Language  Instructor  Evaluator  English  ABC apple ABC apple View classroom')]</value>
+      <webElementGuid>fe41e59e-c5b5-4a88-9dbd-6f30fafb55fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

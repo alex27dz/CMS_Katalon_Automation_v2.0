@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Alex Dezho_schedule</name>
+   <tag></tag>
+   <elementGuidId>7a5c377e-d7d4-417f-8c99-10e791eed916</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/app-main-sidebar/div/ul/li[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.schedule</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0ef01c0d-f2fd-4503-9c23-31e1d3a6057e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>'Sidebar.Schedule' | translate</value>
+      <webElementGuid>d438b793-b2fb-4db6-b1e1-ba5a0a3e7128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>schedule</value>
+      <webElementGuid>30725da8-1197-4e3d-95ee-cd941007705a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/nav-calendar.svg</value>
+      <webElementGuid>959dea02-93d6-4f10-8259-89a645e44e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[@class=&quot;ng-star-inserted&quot;]/app-main-sidebar[1]/div[@class=&quot;nav-bar ng-star-inserted&quot;]/ul[1]/li[2]/img[@class=&quot;schedule&quot;]</value>
+      <webElementGuid>4b165719-9cb3-4d0b-adcb-6712a493c0c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/app-main-sidebar/div/ul/li[2]/img</value>
+      <webElementGuid>135c3bf6-9e18-4194-81e4-4d2ff03e99d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;'Sidebar.Schedule' | translate&quot;]</value>
+      <webElementGuid>ccd6f2b1-7697-4864-bd65-f30b467923b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/img</value>
+      <webElementGuid>70da78d1-ba5d-40f2-9450-6c4fda73e771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;'&quot; , &quot;Sidebar.Schedule&quot; , &quot;'&quot; , &quot; | translate&quot;) and @src = 'assets/images/nav-calendar.svg']</value>
+      <webElementGuid>3c3d66e6-4796-4c8f-bdf8-7798ee5d5f99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

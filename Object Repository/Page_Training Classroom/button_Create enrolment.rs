@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create enrolment</name>
+   <tag></tag>
+   <elementGuidId>621e3126-89e5-43cf-9255-a8ade287f283</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-view-classroom/div[2]/div[4]/app-tabs/div/div[2]/app-tab[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.create-enrolment-button.black-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>66e7b193-e7c1-428a-b6bc-7fcbf12ae186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>create-enrolment-button black-button</value>
+      <webElementGuid>2a583121-91b2-4e57-b8dd-2a04d3c8c8c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ec10ca82-5de9-4442-856b-94069222a0b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create enrolment </value>
+      <webElementGuid>5fc6fb13-3bdc-42a2-950e-e10815f1802f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-view-classroom[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-margin-top-40-! ontario-padding-left-1-! ontario-padding-right-1-! border-bottom-thick ontario-margin-bottom-48-!&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tab&quot;]/button[@class=&quot;create-enrolment-button black-button&quot;]</value>
+      <webElementGuid>4ce9db09-56c3-45a3-a58b-808a4e31d609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-view-classroom/div[2]/div[4]/app-tabs/div/div[2]/app-tab[2]/div/button</value>
+      <webElementGuid>5b9d51c3-04c5-4b38-aa26-463982477e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publishing this training classroom to the public'])[1]/following::button[1]</value>
+      <webElementGuid>a61527b6-ef8d-42fc-866c-aeb220a99551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publishing preferences'])[1]/following::button[1]</value>
+      <webElementGuid>c68bb6b8-4b81-446b-8abb-3952ff2e2041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Seats'])[2]/preceding::button[1]</value>
+      <webElementGuid>c002646b-599b-4a1c-81bc-4e0d2ecae862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[1]/preceding::button[1]</value>
+      <webElementGuid>18207865-8470-4e52-a46e-827d82dac4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create enrolment']/parent::*</value>
+      <webElementGuid>87cff1f9-7e60-4302-b81c-03cfa7077443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>fe04ec0f-d8f5-4398-941d-00afdc13cda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Create enrolment ' or . = ' Create enrolment ')]</value>
+      <webElementGuid>542b657d-e6de-4550-9d30-c5766a46a329</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

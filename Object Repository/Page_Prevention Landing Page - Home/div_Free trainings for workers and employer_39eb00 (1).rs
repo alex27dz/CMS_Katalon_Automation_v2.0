@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Free trainings for workers and employer_39eb00 (1)</name>
+   <tag></tag>
+   <elementGuidId>3ec49f41-7486-4310-9d89-e946d1dcc835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10d96616-667d-4b0f-9c55-e76bcd6b9746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-box</value>
+      <webElementGuid>d2bf53c8-8199-47bf-9d0a-7f05ce53105d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Free trainings for workers and employersAccess free training to understand and encourage ‘Health &amp; Safety’ in your workplace.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ut pharetra efficitur risus, et viverra mauris tempor a.Morbi molestie felis libero, in pharetra felis ullamcorper et.Vivamus cursus consequat cursus. Find available courses
+</value>
+      <webElementGuid>b0730a57-3e32-4a13-8a30-30d34d2d8854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-page-content-loop[1]/app-grey-text-tile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grey-box&quot;]</value>
+      <webElementGuid>f84782fc-8839-40d4-8b3c-45cc799dcec5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-tile[3]/div</value>
+      <webElementGuid>6b3b9154-ad13-40cb-9db2-f876ed77eea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read program standards'])[2]/following::div[1]</value>
+      <webElementGuid>6ed64915-51b6-4dce-8a3c-db9f7c0d9f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find available courses'])[2]/following::div[1]</value>
+      <webElementGuid>6eecc346-d420-4341-bc43-2f7cf6518035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-tile[3]/div</value>
+      <webElementGuid>3cc4109a-c0f5-4c62-9c5c-17cdaaa44422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Free trainings for workers and employersAccess free training to understand and encourage ‘Health &amp; Safety’ in your workplace.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ut pharetra efficitur risus, et viverra mauris tempor a.Morbi molestie felis libero, in pharetra felis ullamcorper et.Vivamus cursus consequat cursus. Find available courses
+' or . = 'Free trainings for workers and employersAccess free training to understand and encourage ‘Health &amp; Safety’ in your workplace.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Ut pharetra efficitur risus, et viverra mauris tempor a.Morbi molestie felis libero, in pharetra felis ullamcorper et.Vivamus cursus consequat cursus. Find available courses
+')]</value>
+      <webElementGuid>be68415a-1259-4a55-984e-54f16bd7df96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

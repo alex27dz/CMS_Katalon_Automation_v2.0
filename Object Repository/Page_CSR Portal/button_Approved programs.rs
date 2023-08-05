@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Approved programs</name>
+   <tag></tag>
+   <elementGuidId>c0cf945d-2b86-410a-b5e1-b7b656791b87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-add-learner-to-class/div[3]/div[2]/div/app-tp-card/div/div[2]/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.black-button.float-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb8833ae-02d1-4e56-b2ec-3f696f209345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>trainingproviderdisplayid</name>
+      <type>Main</type>
+      <value>tp-profile</value>
+      <webElementGuid>4a6e4b20-ad44-4435-929a-fd5ebc75be28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button float-right</value>
+      <webElementGuid>46102730-f4bb-47d8-89b4-c67fbb2912c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approved programs</value>
+      <webElementGuid>8816e860-ca28-4c60-86c4-ee780f409e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-add-learner-to-class[1]/div[3]/div[@class=&quot;ontario-row&quot;]/div[1]/app-tp-card[1]/div[@class=&quot;tp-container&quot;]/div[@class=&quot;tp-details-box ontario-row&quot;]/div[@class=&quot;right-panel ontario-column ontario-small-12 ontario-large-3&quot;]/div[@class=&quot;button-box&quot;]/button[@class=&quot;black-button float-right&quot;]</value>
+      <webElementGuid>18a0f771-2412-44ea-bb03-fb01a26d7bdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-add-learner-to-class/div[3]/div[2]/div/app-tp-card/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>3a8804b8-0526-4740-ab54-4bc60876cdba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC - Part One Jun 22, 2023'])[1]/following::button[1]</value>
+      <webElementGuid>982a973c-6995-4ff6-a949-8c02ad80a52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights - Full Jun 08, 2023'])[1]/following::button[1]</value>
+      <webElementGuid>cdb9481b-294c-444d-a09c-57d267061b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='better test'])[1]/preceding::button[1]</value>
+      <webElementGuid>ef3c6ff1-ce22-48ea-b4d8-20496842979b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization operating name'])[2]/preceding::button[1]</value>
+      <webElementGuid>487ddb21-f23b-42aa-8551-d60c0cfa54f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>c49f980e-8d0b-49ca-b231-ebcd73124bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Approved programs' or . = 'Approved programs')]</value>
+      <webElementGuid>4b303099-1515-4fae-86aa-de4a12777e43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

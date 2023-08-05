@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log Out</name>
+   <tag></tag>
+   <elementGuidId>8e446172-95ea-4881-8c85-7068e539e2e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-0']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-menu-item.mat-mdc-focus-indicator.ng-tns-c2786309385-0.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3273f419-aa95-4b03-9785-59bac40b92de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-menu-item mat-mdc-focus-indicator ng-tns-c2786309385-0 cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>a720e12a-0cbc-4fac-a22e-5569a65ad4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>96fdbb23-4453-4363-96c5-4fc043e2a090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>504ffc70-25f1-4356-8378-3dd422b3d7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8b070dbf-0d11-4194-9329-14fb11042e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Log Out </value>
+      <webElementGuid>2fa0aab4-ea21-4f60-9cfa-2f096d774b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-0&quot;)/div[@class=&quot;mat-mdc-menu-content ng-tns-c2786309385-0&quot;]/div[@class=&quot;mat-mdc-menu-item mat-mdc-focus-indicator ng-tns-c2786309385-0 cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>8d585175-a057-45b6-95d7-ae7c5e0e6de5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-0']/div/div</value>
+      <webElementGuid>e30474c3-f57a-4700-b92b-5601b323f832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lorem ipsum dolor sit amet, consectetur adipiscing elit.'])[1]/following::div[7]</value>
+      <webElementGuid>0516440f-c016-479d-bfe4-4aa078a77e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('© King', &quot;'&quot;, 's Printer for Ontario, 2012–22')])[1]/following::div[11]</value>
+      <webElementGuid>36ed7f3c-659c-45c0-a722-59661462f7bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>7619bfa2-bc19-4347-8d51-ff758d80709c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Log Out ' or . = ' Log Out ')]</value>
+      <webElementGuid>1d1ca0ef-e82b-479d-82c8-cf736341d742</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
