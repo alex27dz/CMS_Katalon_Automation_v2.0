@@ -19,25 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Weekend classes only'), 
+WebUI.maximizeWindow()
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLITSD CPO Approved Training Courses'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Weekend classes only'), 
-    'Weekend classes only')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/li_CPO Approved Courses'), 
+    0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Show the listings with course fee onl_49a2d2'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search (2)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Show the listings with course fee onl_49a2d2'))
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/span_Showing 3 course advertisements'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_SearchReset filtersSort by Date Earlies_c66c24'), 
     0)
 
 WebUI.closeBrowser()

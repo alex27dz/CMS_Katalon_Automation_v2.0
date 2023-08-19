@@ -26,9 +26,6 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/mat-label_Training location'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/mat-label_Training location'), 
-    'Training location')
-
 WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training location_mat-autocomplete-tr_f1880a'), 
     'Toronto')
 

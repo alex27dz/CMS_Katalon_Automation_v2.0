@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailThe email address you registered w_25c7e6</name>
+   <tag></tag>
+   <elementGuidId>e39d3d9b-aa57-4ad4-ab14-91323acd4250</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.o-form-fieldset-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form32']/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0ad21e0-c678-4147-a817-0c3c21b2a3fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-form-fieldset-container</value>
+      <webElementGuid>07145641-90c1-4780-a8e8-7258a1524098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-se</name>
+      <type>Main</type>
+      <value>o-form-fieldset-container</value>
+      <webElementGuid>e43ecf72-191e-4192-a4ae-43a1c5ecfe34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email The email address you registered withPassword Remember me</value>
+      <webElementGuid>54b135e2-9091-4837-b7fd-027f4555540f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form32&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/div[@class=&quot;o-form-fieldset-container&quot;]</value>
+      <webElementGuid>fd801911-6dd9-4c65-8265-28e8aca12302</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form32']/div/div[4]</value>
+      <webElementGuid>e43c1440-983b-4c90-a552-ce874280f4e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to My Ontario Account'])[1]/following::div[2]</value>
+      <webElementGuid>4c337685-2716-493d-bc03-88c5a099e068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::div[2]</value>
+      <webElementGuid>4faa006b-6236-4b39-a1ee-13dc8e45c1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]</value>
+      <webElementGuid>c35961b9-800d-4308-b80c-0075da5b35ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email The email address you registered withPassword Remember me' or . = 'Email The email address you registered withPassword Remember me')]</value>
+      <webElementGuid>b1d7b395-30f5-471e-8fc1-882794dbfc3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

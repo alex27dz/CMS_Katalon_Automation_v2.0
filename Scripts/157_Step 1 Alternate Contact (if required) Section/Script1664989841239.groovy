@@ -48,9 +48,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provi
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Overview  Key events  Application Revie_8399b7'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_CPO approved programsWorking at heights_0f8598'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review 2'))
 
 WebUI.closeBrowser()

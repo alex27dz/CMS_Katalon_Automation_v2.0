@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Remember me (1)</name>
+   <tag></tag>
+   <elementGuidId>411e9fe2-a461-46af-9860-2aad51fda701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form32']/div/div[4]/div[3]/div/span/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ad32af40-7cd5-478b-9274-a0545e684582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input55</value>
+      <webElementGuid>d7655c8a-adfb-48e8-98d2-268cb2d8b720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-se-for-name</name>
+      <type>Main</type>
+      <value>remember</value>
+      <webElementGuid>30c684b4-d465-4a98-8b28-ad730f5f1eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover</value>
+      <webElementGuid>2038d502-8fa6-48f3-87dd-df1fbd68ab2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remember me</value>
+      <webElementGuid>2d9f68cb-130e-4005-8b56-a410665948a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form32&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/div[@class=&quot;o-form-fieldset-container&quot;]/div[@class=&quot;o-form-fieldset o-form-label-top margin-btm-0&quot;]/div[@class=&quot;o-form-input&quot;]/span[@class=&quot;o-form-input-name-remember&quot;]/div[@class=&quot;custom-checkbox&quot;]/label[@class=&quot;hover&quot;]</value>
+      <webElementGuid>0affe285-b054-43a4-8543-351e8db16341</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form32']/div/div[4]/div[3]/div/span/div/label</value>
+      <webElementGuid>7a9b18c2-7b94-4d6d-b3f9-d09dcaaf6237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[2]/preceding::label[1]</value>
+      <webElementGuid>1bc77cf6-1734-427d-afa4-e21b1f698bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connecting to'])[1]/preceding::label[1]</value>
+      <webElementGuid>c6a4c1ce-ff1e-4f77-8401-68e71b6af369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remember me']/parent::*</value>
+      <webElementGuid>9045136c-448d-419a-99ef-383a66b8a7de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/label</value>
+      <webElementGuid>21567610-fa7f-4c85-a38c-ed8dc9f57097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Remember me' or . = 'Remember me')]</value>
+      <webElementGuid>56deafc4-8e66-4242-b723-2da67f7053ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

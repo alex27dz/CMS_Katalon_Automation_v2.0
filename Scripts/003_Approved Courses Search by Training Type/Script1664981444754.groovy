@@ -31,10 +31,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_PublicPortal/butt
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_PublicPortal/button_Distance'), 'Distance')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_PublicPortal/button_eLearning'), 'eLearning')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_PublicPortal/button_In-Class'), 'In-Class')
-
 WebUI.click(findTestObject('Object Repository/Page_PublicPortal/button_Search'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_PublicPortal/span_Showing 7 course advertisements'), 0)

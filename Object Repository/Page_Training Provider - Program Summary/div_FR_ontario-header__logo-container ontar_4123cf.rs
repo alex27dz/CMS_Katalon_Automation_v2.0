@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FR_ontario-header__logo-container ontar_4123cf</name>
+   <tag></tag>
+   <elementGuidId>f995305a-4ef4-46e3-994e-9d6302ce44c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-header__logo-container.ontario-columns.ontario-small-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='ontario-header-default']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f308e42e-e3b7-4402-9bf4-f58dc90e0149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-header__logo-container ontario-columns ontario-small-9</value>
+      <webElementGuid>5915e4fb-f27b-4746-9728-99ab73bab757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ontario-header-default&quot;)/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-header__logo-container ontario-columns ontario-small-9&quot;]</value>
+      <webElementGuid>05f68c0d-84d3-4b39-ba5e-7dc400a760a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='ontario-header-default']/div/div</value>
+      <webElementGuid>a92c6b67-d69f-46cb-99e2-c22f292d79c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FR'])[1]/preceding::div[1]</value>
+      <webElementGuid>bbcf627c-9244-4565-9626-db2b1cc14fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[1]/preceding::div[1]</value>
+      <webElementGuid>808187cc-da71-4c89-824f-7ebeb5b0b0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>73740fa0-494f-4510-89bc-ae008c2bd5a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

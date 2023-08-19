@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Safety  PreventionAll workers have the _cedcb2 (1)</name>
+   <tag></tag>
+   <elementGuidId>a18e8479-98ec-4146-98b1-3aa44bf380b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-banner-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/div/app-login-header/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a761052d-6f06-480f-a7cd-7e44f85dfd23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-banner-container</value>
+      <webElementGuid>ae94e566-f19a-4106-a70d-1e9f81ac833b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Safety &amp; PreventionAll workers have the right to return home each day safe and sound.Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario. Login  Please login to access your account. Login</value>
+      <webElementGuid>c439f972-7f05-4219-9a95-13416e60abe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;marketplace-login-banner&quot;]/app-login-header[1]/div[@class=&quot;login-banner-container&quot;]</value>
+      <webElementGuid>0f3da205-4f68-4b80-a37d-b112b94d1fe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/div/app-login-header/div</value>
+      <webElementGuid>5fae0173-e9ac-4751-88d2-2bc4e80ddfdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='français'])[1]/following::div[2]</value>
+      <webElementGuid>f7a16139-30c0-4e0b-ad41-a0a5056a1134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FR'])[1]/following::div[2]</value>
+      <webElementGuid>42fac0b6-3a0c-4dc3-b2bc-459b3d2c97ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-login-header/div</value>
+      <webElementGuid>ce9efedb-2588-4c7c-b8c2-04ac2839268b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Safety &amp; PreventionAll workers have the right to return home each day safe and sound.Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario. Login  Please login to access your account. Login' or . = 'Safety &amp; PreventionAll workers have the right to return home each day safe and sound.Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario. Login  Please login to access your account. Login')]</value>
+      <webElementGuid>af7efadc-7f77-4924-89eb-e1682aee846a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

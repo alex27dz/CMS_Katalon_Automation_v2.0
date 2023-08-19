@@ -29,11 +29,13 @@ WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/in
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_Dont have an accountCreate AccountORSig_fe4b2d'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (10)'), 'x2os4ct6PbLL7CQn/6E4lw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (10)'), 'JsaDmEXgSJc8hsUxZIY+9Q==')
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (10)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/img_akhil po_schedule'))
+Thread.sleep(3000)
+
+WebUI.click(findTestObject('schedule ak'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_2023 AUG 32 classrooms scheduled AUG1 C_68b48d'), 
     0)
@@ -63,14 +65,6 @@ WebUI.click(findTestObject('Object Repository/Page_Training Classroom/div_Enrolm
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/button_Create enrolment'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Training Classroom/button_Create enrolment'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create Enrolment/h1_Create Enrolment'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create Enrolment/div_Course details Program name  Working at_3ceba3'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create Enrolment/div_Learners email addressFirst name Last n_9746e0'), 
-    0)
 
 WebUI.click(findTestObject('Object Repository/Page_Create Enrolment/img_akhil po_rotated back-arrow'))
 

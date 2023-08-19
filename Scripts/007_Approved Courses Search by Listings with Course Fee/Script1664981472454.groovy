@@ -23,9 +23,6 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Show the listings with course fee only'), 
-    0)
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Show the listings with course fee only'), 
     'Show the listings with course fee only')
 

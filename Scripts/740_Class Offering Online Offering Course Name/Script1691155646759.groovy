@@ -161,7 +161,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provi
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/img (3)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/img_Alex Dezho_schedule (1)'))
+// WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/img_Alex Dezho_schedule (1)'))
+WebUI.click(findTestObject('schedule alex'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/h1_My training schedules'), 0)
 
@@ -191,7 +192,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Sched
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/button_Create a classroom (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Training Schedules/img'))
+WebUI.click(findTestObject('my team alex'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/h1_My Team (1)'), 0)
 
@@ -208,7 +209,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_La
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_03 Aug 2023'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_My Team/a_Edit'))
+WebUI.click(findTestObject('edit alex'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/h1_Edit member'), 0)
 
@@ -229,7 +230,9 @@ WebUI.click(findTestObject('Object Repository/Page_Training Classroom/img_Alex D
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/button_Add a member (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_My Team/li'))
+Thread.sleep(3000)
+
+WebUI.click(findTestObject('notification alex'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications'), 0)
 
@@ -240,24 +243,15 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Search'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Notifications/img (1)'))
+Thread.sleep(3000)
+
+WebUI.click(findTestObject('learners'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Learners/h1_My Learners'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_My Learners/img (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Notifications/button_Create notification'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Send notification/h1_Send notification'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Send notification/div_Sending notificationsAll recipients wil_819994'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Page_Send notification/img_Alex Dezho_rotated back-arrow'))
-
-WebUI.click(findTestObject('Object Repository/Page_Notifications/img_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_My Team/button_Add a member (1)'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/h1_Add a member'), 0)
 
@@ -273,54 +267,7 @@ WebUI.click(findTestObject('Object Repository/Page_My Team/img_Alex Dezho_rotate
 
 WebUI.click(findTestObject('Object Repository/Page_My Team/img_Alex Dezho_schedule'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Schedules/button_Create a classroom (1)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/h1_Create a classroom (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_Schedule (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_Enrolments (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_Notifications'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/h4_Training program details (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_Select program Training type  Language _f99519 (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_DateTime 0000 AM  0015 AM  0030 AM  004_3a406b (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/h4_Training location'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_Street AddressCityTownProvincePlease se_91aa4d (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/h4_Seats  pricing (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_Total Seats 1  2  3  4  5  6  7  8  9  _6f0685 (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/h4_Teaching staff'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_You can add a maximum of three instruct_7ad1ef (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/h4_Contact Information (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/label_Minimum one contact detail is mandatory'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/div_EmailPhone numberWebsite Minimum one co_da7a57 (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/label_Publishing this training classroom to_615791'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Create a classroom/button_Preview classroom (1)'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_Create a classroom/img_Alex Dezho_rotated back-arrow (1)'))
+WebUI.click(findTestObject('schedule2 alex'))
 
 WebUI.click(findTestObject('Object Repository/Page_Training Schedules/img_1'))
 

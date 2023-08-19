@@ -31,7 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (7)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/img_Alex Dezho_schedule'))
+WebUI.click(findTestObject('schedule alex'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/button_Create a classroom'), 0)
 

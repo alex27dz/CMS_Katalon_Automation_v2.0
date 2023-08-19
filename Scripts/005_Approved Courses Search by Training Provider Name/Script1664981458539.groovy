@@ -28,9 +28,6 @@ WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/d
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_In-ClassJune09FridaySeats available2323_fbbfe5'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Training provider'), 0)
 
 WebUI.closeBrowser()

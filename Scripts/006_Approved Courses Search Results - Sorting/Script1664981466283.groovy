@@ -23,8 +23,6 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Sort by'), 0)
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Sort by'), 'Sort by')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/select_Date Earliest - LatestDate Latest - _092a07'))
