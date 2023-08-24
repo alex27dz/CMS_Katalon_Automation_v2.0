@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SearchProgram delivery format All deliv_81254b (1)</name>
+   <tag></tag>
+   <elementGuidId>aeaadeee-7438-407d-a18d-37ebc2804949</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-search/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a03e558-f513-408b-8b7e-fe226fe651b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-criteria-container ontario-padding-right-24-! ontario-padding-left-24-!</value>
+      <webElementGuid>d5dbd09b-5912-41d6-a20d-51fe276f108c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecBala KondisettiAndrea De SouzaJustin YeSami kheirallaMadhusudhan PogulaSamridhi BindalNimesh GaralaKhalil IssaMarcelo GeldresmerinoMarvin DingMitchell RyanSufian BaigHubert NowackiMelissa FisherAkhil PogulaDmitry KatyshevGurwinder KaurAlice KimAvneet LubanaMarty CerisanoJack WangBrad AlfanoRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanShowing 10 applications SearchReset</value>
+      <webElementGuid>c8900283-64a3-468d-badc-08cbfa332fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-delivery-applications[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12&quot;]/div[1]/app-training-program-application-card-list[1]/app-training-program-search[1]/div[@class=&quot;search-criteria-container ontario-padding-right-24-! ontario-padding-left-24-!&quot;]</value>
+      <webElementGuid>724d61dc-6246-4e41-8f8c-2056061b62ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-delivery-applications/div/div/div/app-training-program-application-card-list/app-training-program-search/div</value>
+      <webElementGuid>3f29ae96-af56-4936-aa3d-f0b0527cf8ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[2]/following::div[9]</value>
+      <webElementGuid>995cf375-1345-4c08-b101-8f38e04cd339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[2]/following::div[10]</value>
+      <webElementGuid>2a72e146-965a-4a77-8ee3-b7c78fc15382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-program-search/div</value>
+      <webElementGuid>1c5422c7-08bf-4653-b8b6-f77d5f896549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecBala KondisettiAndrea De SouzaJustin YeSami kheirallaMadhusudhan PogulaSamridhi BindalNimesh GaralaKhalil IssaMarcelo GeldresmerinoMarvin DingMitchell RyanSufian BaigHubert NowackiMelissa FisherAkhil PogulaDmitry KatyshevGurwinder KaurAlice KimAvneet LubanaMarty CerisanoJack WangBrad AlfanoRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanShowing 10 applications SearchReset' or . = 'SearchProgram delivery format All delivery formatsBlendedIn-ClassProgram typeAllIndependentPurchasedLanguageAllEnglishFrenchWaiting forAllTP actionMinistry actionSort by Date updated: newest to oldestDate updated: oldest to newestDate received: newest to oldestDate received: oldest to newestAssigned to AnyAleksey DzhoharidzeRam KollasridharAtif RazzaqJean BelecBala KondisettiAndrea De SouzaJustin YeSami kheirallaMadhusudhan PogulaSamridhi BindalNimesh GaralaKhalil IssaMarcelo GeldresmerinoMarvin DingMitchell RyanSufian BaigHubert NowackiMelissa FisherAkhil PogulaDmitry KatyshevGurwinder KaurAlice KimAvneet LubanaMarty CerisanoJack WangBrad AlfanoRaj VaradharajanJaclyn BinchJeremy UyedeHitesh ChaudhariGregg WartmanShowing 10 applications SearchReset')]</value>
+      <webElementGuid>071383ad-df8f-446a-94e8-6729d9662a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

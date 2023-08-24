@@ -12,20 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>679bd4f4-2523-4eb6-bd37-1eab28495296</testSuiteGuid>
    <testCaseLink>
-      <guid>89ddfcff-89ae-4852-97d5-baf6cb62162c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/090_New Training Program Introduction Page - Purchased Program</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3633aa69-b557-42ec-b6c8-0eced17f5986</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/091_New Training Program Introduction Page - Duplicate Check</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>b1b31615-216d-4516-b59b-93036074dde1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

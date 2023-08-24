@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/app-root/main/app-my-team/app-main-sidebar/div/ul/li[5]/img</value>
+         <value>/html/body/app-root/main/app-my-team/app-main-sidebar/div/ul/li[4]/img</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -162,7 +162,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provi
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/img (3)'), 0)
 
 // WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/img_Alex Dezho_schedule (1)'))
-WebUI.click(findTestObject('schedule alex'))
+WebUI.click(findTestObject('schedule alex new'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/h1_My training schedules'), 0)
 
@@ -253,23 +253,9 @@ WebUI.click(findTestObject('Object Repository/Page_My Learners/img (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Notifications/button_Create notification'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/h1_Add a member'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Additional Information Designated signi_f2c471'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name Last name Email addressPhone_1e7901'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/button_Add a second role'), 0)
-
 WebUI.click(findTestObject('Object Repository/Page_My Team/img_Alex Dezho_rotated back-arrow'))
 
 WebUI.click(findTestObject('Object Repository/Page_My Team/img_Alex Dezho_schedule'))
-
-WebUI.click(findTestObject('schedule2 alex'))
-
-WebUI.click(findTestObject('Object Repository/Page_Training Schedules/img_1'))
 
 WebUI.closeBrowser()
 

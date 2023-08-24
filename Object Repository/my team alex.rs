@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/app-root/main/app-training-schedules/app-main-sidebar/div/ul/li[4]/img</value>
+         <value>//*[@id=&quot;main-content&quot;]/app-training-schedules/app-main-sidebar/div/ul/li[3]/img</value>
       </entry>
       <entry>
          <key>BASIC</key>

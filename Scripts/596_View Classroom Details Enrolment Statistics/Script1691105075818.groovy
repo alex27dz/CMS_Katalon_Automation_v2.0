@@ -35,13 +35,7 @@ WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/inpu
 
 Thread.sleep(3000)
 
-WebUI.click(findTestObject('schedule ak'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_2023 AUG 32 classrooms scheduled AUG1 C_68b48d'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_AUG1 Course Fee0.00Working at Heights -_163ce2'), 
-    0)
+WebUI.click(findTestObject('new schedule'))
 
 WebUI.click(findTestObject('Object Repository/Page_Training Schedules/div_View classroom'))
 

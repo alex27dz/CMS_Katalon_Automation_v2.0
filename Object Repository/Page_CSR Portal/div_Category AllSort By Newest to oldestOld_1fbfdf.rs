@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Category AllSort By Newest to oldestOld_1fbfdf</name>
+   <tag></tag>
+   <elementGuidId>3393e124-0741-4f90-9a0d-c2d97ca87481</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-criteria-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-my-notifications/div/div/div[3]/app-notifications-search/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65dbd171-b848-49bc-bf0b-e72674f2eabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-criteria-container</value>
+      <webElementGuid>49c05da5-4dc4-461b-b19c-351fc5dac8f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Category AllSort By Newest to oldestOldest to newest General.FromDate  General.ToDateShowAllUnreadResetSearch</value>
+      <webElementGuid>d9b8c766-69f7-496e-8213-16293d8a362a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-my-notifications[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12&quot;]/app-notifications-search[1]/div[@class=&quot;search-criteria-container&quot;]</value>
+      <webElementGuid>b34851b2-dbfb-4e09-9494-aeeb576a3234</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-my-notifications/div/div/div[3]/app-notifications-search/div</value>
+      <webElementGuid>3cb7edc5-5bcf-4830-9ce0-635d7bec2f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[3]</value>
+      <webElementGuid>3f80e553-fd47-49c6-9b8b-3ea20c0538d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aleksey Dzhoharidze'])[1]/following::div[7]</value>
+      <webElementGuid>c0e9b4c3-96a0-494f-b157-21cc7e90969f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-notifications-search/div</value>
+      <webElementGuid>bac80336-8c36-4ffb-b817-a7dacb00b8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Category AllSort By Newest to oldestOldest to newest General.FromDate  General.ToDateShowAllUnreadResetSearch' or . = 'Category AllSort By Newest to oldestOldest to newest General.FromDate  General.ToDateShowAllUnreadResetSearch')]</value>
+      <webElementGuid>a47888db-3247-45e7-8393-6599751ffcaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

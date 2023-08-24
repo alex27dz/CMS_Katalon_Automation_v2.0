@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/app-root/main/app-my-notifications/app-main-sidebar/div/ul/li[6]/img</value>
+         <value>//*[@id=&quot;main-content&quot;]/app-my-notifications/app-main-sidebar/div/ul/li[5]/img</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
