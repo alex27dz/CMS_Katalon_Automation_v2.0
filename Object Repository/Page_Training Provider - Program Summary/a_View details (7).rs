@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View details (7)</name>
+   <tag></tag>
+   <elementGuidId>2196bfbc-5b8e-483a-be35-ef82118d3fbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#view-details-ab6fe43c-6f06-4e45-8359-fd674ceab2d3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='view-details-ab6fe43c-6f06-4e45-8359-fd674ceab2d3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5c2aa6bc-da6c-4efd-b1c8-e1d6c45743da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit-link view-details ng-star-inserted</value>
+      <webElementGuid>9b15bae2-e620-4fc7-adaa-1abd6694a515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>view-details-ab6fe43c-6f06-4e45-8359-fd674ceab2d3</value>
+      <webElementGuid>70895021-7edb-461f-84b3-6bb514611d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details</value>
+      <webElementGuid>4f77479e-4c74-4d12-86d3-fbfe62c0639d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view-details-ab6fe43c-6f06-4e45-8359-fd674ceab2d3&quot;)</value>
+      <webElementGuid>ea4348fd-021a-4aea-bdd9-98d5440fd04f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='view-details-ab6fe43c-6f06-4e45-8359-fd674ceab2d3']</value>
+      <webElementGuid>97b95fdb-f713-434b-ad87-fb9bf3e1964c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div[2]/div/div[3]/app-training-program-list-card[2]/div/div[5]/div/a</value>
+      <webElementGuid>4b4b9a25-279d-4565-a673-3d26c8ba85c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View details')])[2]</value>
+      <webElementGuid>86a0cec8-b1a2-4f6a-ab89-07d5a8bb52f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akhil Pogula'])[1]/following::a[1]</value>
+      <webElementGuid>b3bb0eca-92e1-4bb8-b6cb-136b158ea7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned assessor'])[1]/following::a[1]</value>
+      <webElementGuid>26e833c6-9575-4b2d-9a08-a42867e07533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights - Full'])[2]/preceding::a[1]</value>
+      <webElementGuid>9d667a83-7494-4d43-bf03-12ce201bcb7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application review in progress'])[3]/preceding::a[1]</value>
+      <webElementGuid>876f10fe-e6c9-44b5-bc36-d5c1705b7095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>68f633d7-90e2-4bc1-a4cf-ab3b46ae5f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'view-details-ab6fe43c-6f06-4e45-8359-fd674ceab2d3' and (text() = 'View details' or . = 'View details')]</value>
+      <webElementGuid>d8d9104a-8935-488d-b61f-fdaab42e2dbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

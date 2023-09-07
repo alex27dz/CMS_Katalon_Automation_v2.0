@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OverviewKey eventsApplication ReviewPro_a37495</name>
+   <tag></tag>
+   <elementGuidId>cbf86f63-83e0-4873-8297-b2025a27a313</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad550eb4-b65c-4a33-9c11-330ad2a883a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!</value>
+      <webElementGuid>78ad6138-05a4-4c6f-839e-e4f80e5b8417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OverviewKey eventsApplication ReviewProgram overview Number of certificates issued  0  Number of training classes  0  Number of active staff members  0  Number of quality assurance events  0 Program nameWorking at Heights - FullTraining delivery typeIn-ClassTraining delivery languageEnglishApproved program IDWAH-10013StatusUnder review by PRAWithdraw submitted programSteps to approve your application Expand all The Ministry’s approval process has five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights Training Program and Training Provider Standards.Triage stageDesk assessmentField assessmentRecommendation to the Chief Prevention OfficerChief Prevention Officer approval</value>
+      <webElementGuid>b823f554-6457-40b1-8201-b7645d1e8e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]</value>
+      <webElementGuid>5cf31f7b-9775-4152-9316-ee2e35a39568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div</value>
+      <webElementGuid>eb7ab924-886f-46fe-b0cd-2002d3e430a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRIAGE: Under review by PRA'])[1]/following::div[2]</value>
+      <webElementGuid>88121919-4c1c-43c3-9004-c5bb1079507e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working at Heights - Full'])[1]/following::div[3]</value>
+      <webElementGuid>950b3eea-05ea-47fe-9a81-065cfecf3387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>6eb0bf20-756d-4e14-b6f2-c20adaebb68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OverviewKey eventsApplication ReviewProgram overview Number of certificates issued  0  Number of training classes  0  Number of active staff members  0  Number of quality assurance events  0 Program nameWorking at Heights - FullTraining delivery typeIn-ClassTraining delivery languageEnglishApproved program IDWAH-10013StatusUnder review by PRAWithdraw submitted programSteps to approve your application Expand all The Ministry’s approval process has five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights Training Program and Training Provider Standards.Triage stageDesk assessmentField assessmentRecommendation to the Chief Prevention OfficerChief Prevention Officer approval' or . = 'OverviewKey eventsApplication ReviewProgram overview Number of certificates issued  0  Number of training classes  0  Number of active staff members  0  Number of quality assurance events  0 Program nameWorking at Heights - FullTraining delivery typeIn-ClassTraining delivery languageEnglishApproved program IDWAH-10013StatusUnder review by PRAWithdraw submitted programSteps to approve your application Expand all The Ministry’s approval process has five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights Training Program and Training Provider Standards.Triage stageDesk assessmentField assessmentRecommendation to the Chief Prevention OfficerChief Prevention Officer approval')]</value>
+      <webElementGuid>c50342de-d90d-472e-9e32-694e659ad24d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Key events (2)</name>
+   <tag></tag>
+   <elementGuidId>d925bcfd-6517-48f7-82f5-0866f3bdfa93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-tabs/div/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bf3f20e1-87c9-47dc-95c0-aad97af54168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-tab ng-star-inserted</value>
+      <webElementGuid>3ec6dc89-2768-4de1-9675-af1588d6d42a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Key events</value>
+      <webElementGuid>98e2840c-0146-4418-8edc-e382e7819b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-program-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-! ng-star-inserted&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 ontario-margin-top-16-! ontario-margin-bottom-48-!&quot;]/div[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;ontario-tab ng-star-inserted&quot;]</value>
+      <webElementGuid>3501bdbc-43e0-4292-82d9-43b714f00503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-program-details/div/div[2]/div[4]/div/div/app-tabs/div/div/div/ul/li[2]</value>
+      <webElementGuid>6ff88232-95ed-4285-89c5-7f60be354293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::li[1]</value>
+      <webElementGuid>e976423e-6f98-4b52-be57-6b9673b6289f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRIAGE: Under review by PRA'])[1]/following::li[2]</value>
+      <webElementGuid>60489a7e-d6e2-4672-9815-f0b077bc3a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Review'])[1]/preceding::li[1]</value>
+      <webElementGuid>f360aecb-f1e0-441d-b3e9-c7d5e8f09fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>9952713b-1e81-46df-b084-ebdccb9b87b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Key events' or . = 'Key events')]</value>
+      <webElementGuid>d0839ac8-1780-4b77-80c8-8f0f7a6d2de8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

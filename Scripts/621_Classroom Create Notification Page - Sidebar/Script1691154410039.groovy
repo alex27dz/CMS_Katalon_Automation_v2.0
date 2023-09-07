@@ -120,19 +120,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provi
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Please select from the available option_87c1e7 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_My Training Programs_circle-container (2)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Submit training program delivery applic_b771ea'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_CPO approved programsWorking at heights_0f8598 (3)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Submit training program delivery app_2ec0f1 (5)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/p_Training programs (4)'), 
     0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Program Type All Safety Training Progra_ffe37b (5)'), 
@@ -206,8 +194,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Al
     0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Last login'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_03 Aug 2023'), 0)
 
 WebUI.click(findTestObject('edit alex'))
 

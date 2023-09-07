@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/in
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_Dont have an accountCreate AccountORSig_fe4b2d'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (10)'), 'JsaDmEXgSJc8hsUxZIY+9Q==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (12)'), '5FqiqbTG23n8RmtHkNf4rA==')
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (10)'))
 

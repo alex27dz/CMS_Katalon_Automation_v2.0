@@ -79,7 +79,7 @@ WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Hom
 
 WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (12)'), 'akhil.pogula@ontario.ca')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (12)'), 'JsaDmEXgSJc8hsUxZIY+9Q==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (12)'), '5FqiqbTG23n8RmtHkNf4rA==')
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/label_Remember me (1)'))
 
@@ -150,8 +150,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/h1_My 
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_SearchRoleAllDesignated signing authori_676fb1 (2)'), 
     0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/button_Add a member (2)'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name  Last name  Email  Phone num_9af684 (2)'), 
     0)

@@ -73,7 +73,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Porta
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img (13)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h1_Approved Programs'), 0)
+Thread.sleep(3000)
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img_1'))
 

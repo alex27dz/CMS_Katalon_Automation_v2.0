@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CMS project.xlsx</name>
+   <tag></tag>
+   <elementGuidId>9acffc72-858a-4b2f-a70d-bd6884c78c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.docs-homescreen-list-item-title-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':3o']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>150e0ba1-d2ec-4c30-b136-cb8c4d31ad68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>docs-homescreen-list-item-title-value</value>
+      <webElementGuid>ad1fa641-17e5-423d-8c50-833d0af6a6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CMS project.xlsx</value>
+      <webElementGuid>70dcbb86-1cc8-4bb8-ab1a-0be34a1b6a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:3o&quot;)/div[@class=&quot;docs-homescreen-list-item-cell docs-homescreen-list-item-title&quot;]/div[@class=&quot;docs-homescreen-list-item-title-value&quot;]</value>
+      <webElementGuid>860738eb-7119-4b8f-b79a-ad334fa1b747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':3o']/div[2]/div</value>
+      <webElementGuid>3b9eeb74-e5da-480d-ab4b-3cb58e85db6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last opened by me'])[3]/following::div[7]</value>
+      <webElementGuid>36256981-6c01-4ef1-92aa-14fc90783677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not owned by me'])[3]/following::div[11]</value>
+      <webElementGuid>acd47501-3aeb-4e50-bfff-05328ca75680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='me'])[1]/preceding::div[3]</value>
+      <webElementGuid>fd2bb12a-3722-45aa-9687-6b7c092b38b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yesterday'])[1]/preceding::div[9]</value>
+      <webElementGuid>16c79d69-d90c-428f-bd97-547e1ea0d77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CMS project.xlsx']/parent::*</value>
+      <webElementGuid>1cf98f5b-3c0a-4b59-8f33-4498ce716d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>315636c9-8488-4f3e-aefe-e28a21c38252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CMS project.xlsx' or . = 'CMS project.xlsx')]</value>
+      <webElementGuid>254c1a8d-ec7c-4354-8f3b-3bec2ff456cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

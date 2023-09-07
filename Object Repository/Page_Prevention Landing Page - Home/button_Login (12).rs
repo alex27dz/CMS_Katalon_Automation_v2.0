@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login (12)</name>
+   <tag></tag>
+   <elementGuidId>de7c7ec9-be93-4b21-8b87-888b27b4b4ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.black-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/div/app-login-header/div/div/div[2]/app-login-register/div/div/div[2]/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>72f698c5-413f-4cbd-bb9e-49e194691a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black-button</value>
+      <webElementGuid>66de4b9e-2fb6-4f39-8fe6-7eb342a0100a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>213d3ea3-47f8-4cb9-ae25-329c54df35a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;marketplace-login-banner&quot;]/app-login-header[1]/div[@class=&quot;login-banner-container&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;marketPlaceHeader ontario-columns ontario-small-4&quot;]/app-login-register[1]/div[@class=&quot;register-login&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/div[@class=&quot;tab&quot;]/div[@class=&quot;bottom&quot;]/div[1]/button[@class=&quot;black-button&quot;]</value>
+      <webElementGuid>7f8130c5-b9e4-49dd-9971-4fcf82c37d4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/div/app-login-header/div/div/div[2]/app-login-register/div/div/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>0478baad-df33-4bd0-a1e7-70b12129860c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please login to access your account.'])[1]/following::button[1]</value>
+      <webElementGuid>d9736e5f-5c8e-4521-ba7b-ca8fbd24ae58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::button[1]</value>
+      <webElementGuid>24083f78-0da3-41aa-9a25-2267521bb5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
+      <webElementGuid>1b72f2fd-fc0c-467a-a4ad-f4f63f17e83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workers'])[1]/preceding::button[1]</value>
+      <webElementGuid>1c0e5ea7-d001-4b85-b176-bbf5d5a86514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3d0a16b9-9f29-47c9-a615-dc779e3150d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>a4626e5b-e54c-4f2a-bafc-e73600517a31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
