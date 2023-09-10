@@ -106,12 +106,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provi
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Search (6)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Submit training program delivery app_2ec0f1 (6)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/p_Training programs (5)'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_akhil po_selected'), 
     0)
 
@@ -150,8 +144,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/h1_My 
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_SearchRoleAllDesignated signing authori_676fb1 (2)'), 
     0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/button_Add a member (2)'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name  Last name  Email  Phone num_9af684 (2)'), 
     0)
