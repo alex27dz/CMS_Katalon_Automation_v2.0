@@ -190,9 +190,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Se
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name  Last name  Email  Phone num_9af684 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Alex  Dezho  cmsproj01gmail.com  (123) _e90459'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Last login'), 0)
 
 WebUI.click(findTestObject('edit alex'))

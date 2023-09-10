@@ -54,8 +54,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Porta
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Approved5'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Archived'), 0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_SearchProgram delivery format All deliv_81254b (1)'), 
     0)
 

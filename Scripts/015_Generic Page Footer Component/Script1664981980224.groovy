@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/
 
 Thread.sleep(3000)
 
-WebUI.scrollToPosition(0, 6000)
+WebUI.scrollToPosition(0, 60000)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Ministry of Labour, Training and Skills_1cf71b'), 
     0)
