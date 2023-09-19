@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/internal-portal-qa/#/program-delivery-applications')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (8)'), 'aleksey.dzhoharidze@ontario.ca')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (7)'))
@@ -30,7 +32,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (7)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img (1)'))
+WebUI.click(findTestObject('csr portal button'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_CSR Portal/span_CSR Portal'), 'CSR Portal')
 

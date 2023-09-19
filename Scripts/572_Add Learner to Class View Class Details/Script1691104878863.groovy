@@ -37,7 +37,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (19)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img (12)'))
+WebUI.click(findTestObject('csr portal button'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CSR Portal/select_Working at HeightsJoint Health  Safe_abc185 (10)'), 
     'wah', true)
