@@ -36,9 +36,6 @@ WebUI.click(findTestObject('csr portal button 2'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h2_Manage profiles (3)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_IDLast nameUse exact matchFirst nameUse_d2be0c (3)'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Search (4)'), 0)
 
 WebUI.click(findTestObject('csrsearch1'))

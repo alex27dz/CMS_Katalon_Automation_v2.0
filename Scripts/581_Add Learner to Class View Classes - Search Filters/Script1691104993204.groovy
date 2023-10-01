@@ -23,26 +23,21 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/internal-portal-q
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (22)'), 'aleksey.dzhoharidze@ontario.ca')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (25)'), 'aleksey.dzhoharidze@ontario.ca')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (19)'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (22)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (22)'), 
-    'pTBJ1/YTiw1/tnafn7ZGiQ==')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (19)'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (22)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (25)'), 
     'uJrlGS0s9DWEB1gjPJtQ8Q==')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (19)'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (22)'))
 
-WebUI.click(findTestObject('csr portal button'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img (14)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CSR Portal/select_Working at HeightsJoint Health  Safe_abc185 (10)'), 
-    'wah', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CSR Portal/select_All ProgramsJHSC - Part OneJHSC - Pa_2e89dc'), 
+    '9d17c877-c580-4370-9f5d-d0fb04b09ef1', true)
 
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search (12)'))
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search (14)'))
 
 WebUI.click(findTestObject('Object Repository/Page_CSR Portal/input_Add learner to class_checkbox-input n_3bd7c8 (4)'))
 

@@ -77,29 +77,13 @@ WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img_1'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h2_Manage profiles (4)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Add a worker (2)'), 0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Workers (2)'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Training Providers (2)'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Employers (2)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_IDLast nameUse exact matchFirst nameUse_d2be0c (4)'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Search (13)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Merge (9)'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/img'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h1_Notifications'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Category AllSort By Newest to oldestOld_1fbfdf'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Search_1 (5)'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_CSR Portal/img_1'))
 

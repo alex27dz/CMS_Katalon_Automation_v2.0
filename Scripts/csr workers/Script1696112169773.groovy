@@ -17,3 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/input_Add learner to class_checkbox-input n_3bd7c8 (4)'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Add learner to class (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Approved programs'))
+
+WebUI.scrollToPosition(0, 5000)
+
+Thread.sleep(3000)
+
+WebUI.back()
+
+// WebUI.click(findTestObject('viewclassobj'))
+WebUI.scrollToPosition(0, 5000)
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Class details'))
+
+Thread.sleep(3000)
+
+WebUI.back()
+
+Thread.sleep(3000)
+
+WebUI.back()
+
+Thread.sleep(3000)
+
+WebUI.closeBrowser()
+

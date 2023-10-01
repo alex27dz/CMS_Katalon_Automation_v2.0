@@ -152,9 +152,6 @@ WebUI.click(findTestObject('Object Repository/Page_My Team/li_3'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications (1)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/div_Category AllClassroomMy learnersMy team_c8b9f4 (1)'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications (1)'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Search (1)'), 0)

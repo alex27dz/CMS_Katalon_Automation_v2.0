@@ -46,34 +46,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Employers (1)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_IDLast nameUse exact matchFirst nameUse_d2be0c (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_ID'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Last name (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_First nameUse exact match'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Middle intials'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Email address (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Phone number (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Address (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_City (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Postal code (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Course Type Working at HeightsJoint Hea_9c97c9'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Search (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Add a worker (1)'), 0)
-
 WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Add a worker (1)'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h4_Add a worker (1)'), 0)

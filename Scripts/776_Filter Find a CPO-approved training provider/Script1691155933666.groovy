@@ -19,226 +19,146 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/training-provider/my-training-programs')
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Please login to access your account. Login'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Safety  PreventionAll workers have the _cedcb2 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Login (10)'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Home (2)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Login (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Workers (2)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Safety  PreventionAll workers have the _cedcb2'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers (5)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Home (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Employers (2)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Workers (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers (4)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Working at height training WAHThis Work_995ab9 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Employers (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h2_CPO-approved training programs'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Joint health and safety committee train_02ed90 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Working at height training WAHThis Work_995ab9 (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Free trainings for workers and employer_39eb00 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Joint health and safety committee train_02ed90 (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h2_Find a CPO-approved training provider (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Free trainings for workers and employer_39eb00 (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Training provider company name (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h2_Find a CPO-approved training provider (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Training Program All coursesJHSC - Part_fafa85 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Training provider company name'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Training provider company name Training_0780b2 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Training Program All coursesJHSC - Part_fafa85'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Basic awareness trainingAll employers m_6ad85e (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Training provider company name Training_0780b2'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Health and safety for small businessesU_09f4f9 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Health and safety for small businessesU_09f4f9 (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Basic awareness trainingAll employers m_6ad85e_1'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Basic awareness trainingAll employers m_6ad85e (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_We are ALL responsible  employers, supe_70db6c'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers (4)'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Login (2)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Check worker eligibilityCheck worker el_347032'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Please login to access your account. Login (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/button_Check eligibility (3)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Login (11)'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Login (11)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (12)'), 'akhil.pogula@ontario.ca')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (12)'), '5FqiqbTG23n8RmtHkNf4rA==')
+
+WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/label_Remember me (1)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_Dont have an accountCreate AccountORSig_fe4b2d (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Training delivery formats WAH JHSCTrain_4e6767'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Ontario Account STAGE/div_EmailThe email address you registered w_25c7e6'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Training delivery modes for Working at _1556d0'), 
+WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (12)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_FR_ontario-header__logo-container ontar_4123cf'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/h2_Become an approved training provider (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_My Training ProgramsPlease select from _775c79 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Become an approved training provider by_6cde4c'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_CPO approved programsWorking at heights_0f8598 (4)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/h2_CPO-approved training programs'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Program Type All Safety Training Progra_ffe37b (6)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Working at height training WAHThis Work_995ab9'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Search (6)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Joint health and safety committee train_f5b235'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_akhil po_selected'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Joint health and safety committee train_17599b'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li (2)'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_1 (2)'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_3'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_1_2 (2)'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li (2)'))
+
+WebUI.rightClick(findTestObject('Object Repository/Page_Training Schedules/div_My training schedules Create a classroom'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_My training schedules Create a classroom'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Home (1)'))
+WebUI.rightClick(findTestObject('Object Repository/Page_Training Schedules/button_Create a classroom (2)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Login (10)'))
+WebUI.rightClick(findTestObject('Object Repository/Page_Training Schedules/main_ABC incakhil po3My training schedules _011aaa'))
 
-WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (11)'), 'cmsproj01@gmail.com')
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li (2)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (11)'), 'pTBJ1/YTiw1lhXE0q4kWzw==')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/button_Create a classroom (2)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (11)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/h1_My Training Programs (3)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Training Program All programsJHSC - Par_4a3256 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Please select from the available option_87c1e7 (2)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Sort By Earliest start dateMax available seats'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_CPO approved programsWorking at heights_0f8598 (3)'), 
+WebUI.click(findTestObject('Object Repository/Page_Training Schedules/li'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/h1_My Team (2)'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_SearchRoleAllDesignated signing authori_676fb1 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Program Type All Safety Training Progra_ffe37b (5)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name  Last name  Email  Phone num_9af684 (2)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Program Type All Safety Training Progra_d1773f (1)'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_My Team/li_3'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Delivery Type All Training TypesBlended_10cd2c (1)'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications (1)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Application Status All StatusesIncomple_d94bff (1)'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications (1)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Sort By StatusProgram Type (1)'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Search (1)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Search (5)'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Notifications/li'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_1 (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_1_2 (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/img (3)'), 0)
-
-// WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/img_Alex Dezho_schedule (1)'))
-WebUI.click(findTestObject('schedule alex new'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/h1_My training schedules'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Training Program All programsJHSC - Par_4a3256'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Training Program All programsJHSC - Par_b4b9a9'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Instructorevaluator'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Training typeAllBlendedDistanceeLearnin_513bed'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Class statusAllFullSeats availableLangu_671858'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Schedule statusCurrent  FuturePastCusto_ef482d'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Training Location'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/div_Show listings with course fee onlyWeeke_3648a5'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/button_Search'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Schedules/button_Create a classroom (1)'), 0)
-
-WebUI.click(findTestObject('my team alex'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/h1_My Team (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_SearchRoleAllDesignated signing authori_676fb1 (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name  Last name  Email  Phone num_9af684 (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Last login'), 0)
-
-WebUI.click(findTestObject('edit alex'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/h1_Edit member'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/div_Additional Information Designated signi_f2c471'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/h4_Member details'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/div_First name Last name Email addressPhone_225242'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/button_Save member'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/div_Additional Information Designated signi_f2c471'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Page_Training Classroom/img_Alex Dezho_rotated back-arrow'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/button_Add a member (1)'), 0)
-
-Thread.sleep(3000)
-
-WebUI.click(findTestObject('notification alex'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Create notification'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/div_Category AllClassroomMy learnersMy team_c8b9f4'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Search'), 0)
-
-Thread.sleep(3000)
-
-WebUI.click(findTestObject('learners'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Learners/h1_My Learners'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_My Learners/img (1)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Notifications/button_Create notification'))
-
-WebUI.click(findTestObject('Object Repository/Page_My Team/img_Alex Dezho_rotated back-arrow'))
-
-WebUI.click(findTestObject('Object Repository/Page_My Team/img_Alex Dezho_schedule'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Learners/h1_My Learners (1)'), 0)
 
 WebUI.closeBrowser()
 
