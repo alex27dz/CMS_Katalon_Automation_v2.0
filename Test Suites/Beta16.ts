@@ -47,13 +47,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d398e2c8-ef0a-4c7b-b30d-e6e3c9e8cda3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/326_CSR Portal</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>97357507-9a3f-408f-9392-f37286a37d86</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
