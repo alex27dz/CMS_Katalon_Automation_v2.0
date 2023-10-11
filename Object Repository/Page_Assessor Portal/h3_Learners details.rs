@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Learners details</name>
+   <tag></tag>
+   <elementGuidId>efcb34b0-e642-4b94-8069-4e936505f42c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.border-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-learner-view/div/app-learner-details/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>1115d9dc-b136-4362-9057-5be5d2ac2187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-bottom</value>
+      <webElementGuid>52220ea0-c23e-48c2-b44b-b0749429cef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learner's details</value>
+      <webElementGuid>4dbe513e-ab81-4dcb-b541-769a618c13da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-learner-view[1]/div[@class=&quot;ontario-row relative ontario-margin-top-32-!&quot;]/app-learner-details[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-! border-bottom ontario-margin-bottom-48-! ontario-margin-left-0-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-8 ontario-padding-left-0-!&quot;]/h3[@class=&quot;border-bottom&quot;]</value>
+      <webElementGuid>9f1562b7-f825-42f1-8f08-e19d8f5c2a3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-learner-view/div/app-learner-details/div/div/h3</value>
+      <webElementGuid>592061f6-34a7-4fd5-b53c-8cbdc5d48e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes and events'])[1]/following::h3[1]</value>
+      <webElementGuid>9ead4a38-a8b9-4f66-84b0-28b0bbd2e5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records of completion'])[1]/following::h3[1]</value>
+      <webElementGuid>f4614b12-a446-47e1-a11c-7dae9a410881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learner ID'])[1]/preceding::h3[1]</value>
+      <webElementGuid>8fb6bfae-753a-4ad0-9a34-3660f55730ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZP183802'])[1]/preceding::h3[1]</value>
+      <webElementGuid>8fbc8b94-a0c1-4f1c-9a0b-5ca082190a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>42c7e164-f88f-4ba8-bd7f-c274f85c8a75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = concat(&quot;Learner&quot; , &quot;'&quot; , &quot;s details&quot;) or . = concat(&quot;Learner&quot; , &quot;'&quot; , &quot;s details&quot;))]</value>
+      <webElementGuid>8e343007-8af6-49bc-ab9b-256fc5805c59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

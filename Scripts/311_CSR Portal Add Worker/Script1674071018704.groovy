@@ -23,55 +23,91 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/internal-portal-q
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (8)'), 'aleksey.dzhoharidze@ontario.ca')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (26)'), 'aleksey.dzhoharidze@ontario.ca')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (7)'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (23)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (8)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (26)'), 
+    'pTBJ1/YTiw1lhXE0q4kWzw==')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (23)'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (26)'), 
     'uJrlGS0s9DWEB1gjPJtQ8Q==')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (7)'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (23)'))
 
-WebUI.click(findTestObject('csr portal button'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img (15)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_CSR Portal/span_CSR Portal'), 'CSR Portal')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h2_Manage profiles (5)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/span_CSR Portal'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Learners'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h2_Manage profiles (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Training providers'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Workers (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Employers'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Training Providers (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Employers (1)'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Add a worker (1)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h4_Add a worker (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_First name (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Last name_1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Email address_1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Phone number_1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Secondary email address (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Secondary phone number (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Address_1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_City_1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Postal code_1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Sharing of information Consent to the M_67b6e8 (1)'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Learner IDFirst nameUse exact matchLast_7ce72f'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Create Profile  Cancel (1)'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Program type All ProgramsJHSC - Part On_4ceaa6'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CSR Portal/select_All ProgramsJHSC - Part OneJHSC - Pa_2e89dc (1)'), 
+    '9d17c877-c580-4370-9f5d-d0fb04b09ef1', true)
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search (15)'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/a_Details'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Learners details'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Records of completion'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Notes and events'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h3_Learners details'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Learners detailsLearner IDZP183802First_96eba3'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/div_Records of completion'))
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/div_Notes and events'))
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/div_Records of completion'))
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/div_Learners details'))
+
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img_Aleksey Dzhoharidze_rotated back-arrow (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/div_Training providers'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/div_Employers'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/div_Training providers'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/div_Learners'))
+
+WebUI.scrollToPosition(0, 5000)
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/input_Record issued_ontario-checkboxes__inp_42a34b'))
+
+WebUI.click(findTestObject('inputcheckbox'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Merge (10)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/div_Merge profile'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search_1 (6)'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Cancel (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/input_Record issued_ontario-checkboxes__inp_42a34b'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Add learner to class (3)'))
+
+WebUI.click(findTestObject('Object Repository/Page_CSR Portal/img_Aleksey Dzhoharidze_rotated back-arrow _18b608 (2)'))
 
 WebUI.closeBrowser()
 

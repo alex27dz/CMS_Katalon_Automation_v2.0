@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Learner IDFirst nameUse exact matchLast_7ce72f</name>
+   <tag></tag>
+   <elementGuidId>ae4317c9-a027-45fa-b875-a8556d72ae5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-column.ontario-small-12.search-criteria-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-manage-profiles/app-worker-search-criteria/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e93751a-2f45-4018-90f5-7ea9bff4af6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 search-criteria-container</value>
+      <webElementGuid>15e0ff34-cfa3-4181-a363-614a90f0ae8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learner IDFirst nameUse exact matchLast nameUse exact matchEmail addressPhone numberAddressCityPostal codeProgram type All ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherCompletion date30 days180 daysCustom dateTraining record statusAll Certified Expired Learner accountAll Created Not created  Sort by date completion LatestEarliestSearchReset</value>
+      <webElementGuid>52241a21-0b31-4a84-a09a-4fb9c5ae752a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/app-worker-search-criteria[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 search-criteria-container&quot;]</value>
+      <webElementGuid>7dbff739-7688-4c68-b103-1496e3d2ffee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-manage-profiles/app-worker-search-criteria/div/div</value>
+      <webElementGuid>22c468b3-610b-4a32-8ecc-e781a3f1f999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/following::div[6]</value>
+      <webElementGuid>c83e5290-b160-442b-9572-e92b3e4da8a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training providers'])[1]/following::div[7]</value>
+      <webElementGuid>0f15e126-3f95-4384-b95a-b46c606a9439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-worker-search-criteria/div/div</value>
+      <webElementGuid>18a551ab-10a8-49a6-9c49-66cc544e0024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Learner IDFirst nameUse exact matchLast nameUse exact matchEmail addressPhone numberAddressCityPostal codeProgram type All ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherCompletion date30 days180 daysCustom dateTraining record statusAll Certified Expired Learner accountAll Created Not created  Sort by date completion LatestEarliestSearchReset' or . = 'Learner IDFirst nameUse exact matchLast nameUse exact matchEmail addressPhone numberAddressCityPostal codeProgram type All ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherCompletion date30 days180 daysCustom dateTraining record statusAll Certified Expired Learner accountAll Created Not created  Sort by date completion LatestEarliestSearchReset')]</value>
+      <webElementGuid>e8e3548c-a4b3-48ae-a87f-edf5a9a34d44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

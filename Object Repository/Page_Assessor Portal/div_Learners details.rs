@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Learners details</name>
+   <tag></tag>
+   <elementGuidId>2c2d21d2-5ca6-4c62-9752-2299f033b14f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-title-sub</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-learner-view/div/div/app-tabs/div/div/div/ul/li/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b9563e9-6603-445e-9d51-815bff236dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title-sub</value>
+      <webElementGuid>e0fddde0-27d0-4b1e-8320-b86687d2763a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learner's details</value>
+      <webElementGuid>642afb19-e1c6-4367-846d-300854665895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-learner-view[1]/div[@class=&quot;ontario-row relative ontario-margin-top-32-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;ontario-tab&quot;]/div[@class=&quot;tab-title-sub&quot;]</value>
+      <webElementGuid>b8634265-0315-4ddf-b40e-a37508b00b56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-learner-view/div/div/app-tabs/div/div/div/ul/li/div</value>
+      <webElementGuid>715fe5ec-c4f9-428c-a82e-11745b050c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Pen'])[1]/following::div[5]</value>
+      <webElementGuid>023b14e8-5b46-404e-abee-a92c17f19bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records of completion'])[1]/preceding::div[1]</value>
+      <webElementGuid>ad5803c6-7ac0-48c5-a0f5-f74cd27c4ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes and events'])[1]/preceding::div[2]</value>
+      <webElementGuid>ed0cbbbc-0119-428e-98e9-0c5e840265b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>8edaf195-5362-44e5-b129-eec6bdb75118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Learner&quot; , &quot;'&quot; , &quot;s details&quot;) or . = concat(&quot;Learner&quot; , &quot;'&quot; , &quot;s details&quot;))]</value>
+      <webElementGuid>5e635ff8-3d66-4c86-95f1-d129cbf493ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

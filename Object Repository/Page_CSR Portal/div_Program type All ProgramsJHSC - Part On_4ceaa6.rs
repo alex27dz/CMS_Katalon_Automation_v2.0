@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Program type All ProgramsJHSC - Part On_4ceaa6</name>
+   <tag></tag>
+   <elementGuidId>49f4fa7a-efb5-46fd-bb64-dc62e96f58eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-manage-profiles/app-worker-search-criteria/div/div/form/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec3cf3c8-f534-4c2a-bf81-cf42b11ef997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-row ontario-padding-top-16-! flex-row</value>
+      <webElementGuid>08227056-2548-4533-8ec6-fcf432b30d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Program type All ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherCompletion date30 days180 daysCustom dateTraining record statusAll Certified Expired Learner accountAll Created Not created  Sort by date completion LatestEarliest</value>
+      <webElementGuid>7e1e64ca-f01a-4c15-9162-2c8fdd90ef02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/app-worker-search-criteria[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 search-criteria-container&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ontario-row ontario-padding-top-16-! flex-row&quot;]</value>
+      <webElementGuid>dcbd8b0d-4e55-4f1a-9d5b-6c715f83faed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-manage-profiles/app-worker-search-criteria/div/div/form/div[3]</value>
+      <webElementGuid>ef574e84-b414-4208-a6e2-e2a7c535b969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal code'])[1]/following::div[1]</value>
+      <webElementGuid>5a02d32e-6f8b-4280-8022-caef3787fd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::div[2]</value>
+      <webElementGuid>fbe1711f-4650-4795-b4d3-c4c0a3c3f962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]</value>
+      <webElementGuid>4b9a95d0-f158-4e3f-8033-c5bcfd01f92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Program type All ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherCompletion date30 days180 daysCustom dateTraining record statusAll Certified Expired Learner accountAll Created Not created  Sort by date completion LatestEarliest' or . = 'Program type All ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherCompletion date30 days180 daysCustom dateTraining record statusAll Certified Expired Learner accountAll Created Not created  Sort by date completion LatestEarliest')]</value>
+      <webElementGuid>2b4a70c7-1611-49e5-b1f8-e014e50f99c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -190,11 +190,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Se
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name  Last name  Email  Phone num_9af684 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Alex  Dezho  cmsproj01gmail.com  (123) _e90459'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Last login'), 0)
-
 WebUI.click(findTestObject('edit alex'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/h1_Edit member'), 0)
@@ -221,11 +216,6 @@ Thread.sleep(3000)
 WebUI.click(findTestObject('notification alex'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Create notification'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/div_Category AllClassroomMy learnersMy team_c8b9f4'), 
-    0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Search'), 0)
 

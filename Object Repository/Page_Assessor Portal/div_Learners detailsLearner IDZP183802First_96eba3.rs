@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Learners detailsLearner IDZP183802First_96eba3</name>
+   <tag></tag>
+   <elementGuidId>d3ae7fa4-6559-4537-b0a8-9f00a0d5956d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/app-learner-view/div/app-learner-details/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6e63ec5-b654-4512-a51f-c36b737772c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column ontario-small-12 ontario-medium-8 ontario-padding-left-0-!</value>
+      <webElementGuid>7fb9b951-7311-4464-8ab0-545e90297f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learner's detailsLearner IDZP183802First nameBlueLast namePenEmail addressdeknilolma@gufum.comPhone888-888-8888Birth year2000Address/Postal codeN/ASharing permissionConsent to the Ministry of Labour, Training and Skills Development disclosing to a potential or current employer, pursuant to subsection 7.5(4) of the Occupational Health and Safety Act, information about your successful completion of an approved training program.Allow the MLTSD to contact you to provide feedback on the courses you have completed for program evaluation and quality assurance purposes.Allow the MLTSD to contact you with opportunities to take part in research related to occupational health and safety.SubscriptionsSubscribe to receive general information on Working at Heights and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers.Subscribe to receive general information on Joint Health and Safety Committees and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers. You may unsubscribe at any time.</value>
+      <webElementGuid>7d76e37c-2460-4c88-a776-7d6d6a8b40de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/app-learner-view[1]/div[@class=&quot;ontario-row relative ontario-margin-top-32-!&quot;]/app-learner-details[1]/div[@class=&quot;ontario-row ontario-padding-bottom-48-! border-bottom ontario-margin-bottom-48-! ontario-margin-left-0-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-8 ontario-padding-left-0-!&quot;]</value>
+      <webElementGuid>061046a9-cdee-4048-9720-d46481cebf05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-learner-view/div/app-learner-details/div/div</value>
+      <webElementGuid>271b49db-c339-4fb5-9bb6-fa5f3710b8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes and events'])[1]/following::div[6]</value>
+      <webElementGuid>3a97176c-40ad-4418-9949-c11ee8005797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records of completion'])[1]/following::div[7]</value>
+      <webElementGuid>4177424c-b951-4616-8947-6c30dc347e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-learner-details/div/div</value>
+      <webElementGuid>f2b31241-680b-424d-9c18-cd5d1fa711e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Learner&quot; , &quot;'&quot; , &quot;s detailsLearner IDZP183802First nameBlueLast namePenEmail addressdeknilolma@gufum.comPhone888-888-8888Birth year2000Address/Postal codeN/ASharing permissionConsent to the Ministry of Labour, Training and Skills Development disclosing to a potential or current employer, pursuant to subsection 7.5(4) of the Occupational Health and Safety Act, information about your successful completion of an approved training program.Allow the MLTSD to contact you to provide feedback on the courses you have completed for program evaluation and quality assurance purposes.Allow the MLTSD to contact you with opportunities to take part in research related to occupational health and safety.SubscriptionsSubscribe to receive general information on Working at Heights and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers.Subscribe to receive general information on Joint Health and Safety Committees and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers. You may unsubscribe at any time.&quot;) or . = concat(&quot;Learner&quot; , &quot;'&quot; , &quot;s detailsLearner IDZP183802First nameBlueLast namePenEmail addressdeknilolma@gufum.comPhone888-888-8888Birth year2000Address/Postal codeN/ASharing permissionConsent to the Ministry of Labour, Training and Skills Development disclosing to a potential or current employer, pursuant to subsection 7.5(4) of the Occupational Health and Safety Act, information about your successful completion of an approved training program.Allow the MLTSD to contact you to provide feedback on the courses you have completed for program evaluation and quality assurance purposes.Allow the MLTSD to contact you with opportunities to take part in research related to occupational health and safety.SubscriptionsSubscribe to receive general information on Working at Heights and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers.Subscribe to receive general information on Joint Health and Safety Committees and other occupational health and safety issues. Information is provided for public awareness and education for employers and workers. You may unsubscribe at any time.&quot;))]</value>
+      <webElementGuid>a48c3b31-581a-4e73-8da0-d2ef1c520d06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
