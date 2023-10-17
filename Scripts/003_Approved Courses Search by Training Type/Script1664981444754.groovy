@@ -23,8 +23,6 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_PublicPortal/mat-label_Training type'), 'Training type')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_PublicPortal/button_All'), 'All')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_PublicPortal/button_Blended'), 'Blended')

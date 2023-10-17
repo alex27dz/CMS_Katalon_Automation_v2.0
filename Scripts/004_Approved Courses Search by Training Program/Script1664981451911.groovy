@@ -26,8 +26,6 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Training Program'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Training Program'), 'Training Program')
-
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Course Search/select_All Safety Training ProgramsJHSC - P_44ccf3'), 

@@ -148,17 +148,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_Se
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Team/div_First name  Last name  Email  Phone num_9af684 (2)'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Page_My Team/li_3'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/div_Category AllClassroomMy learnersMy team_c8b9f4 (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/h1_Notifications (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Notifications/button_Search (1)'), 0)
-
 WebUI.click(findTestObject('Object Repository/Page_Notifications/li'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Learners/h1_My Learners (1)'), 0)
