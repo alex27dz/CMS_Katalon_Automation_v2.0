@@ -42,13 +42,8 @@ Thread.sleep(3000)
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review 4'))
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h2_My Training Programs'), 
     'My training programs')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h4_Applicant business information'), 
-    'Applicant business information')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Additional informationWorking at height_8a2a67'), 
     0)

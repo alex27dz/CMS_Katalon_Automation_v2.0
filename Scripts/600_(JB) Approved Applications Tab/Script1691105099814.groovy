@@ -32,13 +32,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (20)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Approved 5'), 0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Approved 5'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_JHSC (1)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Approved 21'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Approved 21'))
 

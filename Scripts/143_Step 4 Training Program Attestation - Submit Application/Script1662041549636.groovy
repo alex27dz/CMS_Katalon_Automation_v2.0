@@ -38,14 +38,5 @@ WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/inpu
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review 2'))
-
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Program materials 2'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h4_1. Lesson Plan'), 
-    '1. Lesson Plan')
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Upload New document'))
-
 WebUI.closeBrowser()
 

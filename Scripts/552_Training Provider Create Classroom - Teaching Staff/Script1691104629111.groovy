@@ -79,7 +79,7 @@ WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Hom
 
 WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (12)'), 'akhil.pogula@ontario.ca')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (12)'), '5FqiqbTG23n8RmtHkNf4rA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (12)'), 'yEiVQwzkT3nlMOEpenrBag==')
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/label_Remember me (1)'))
 

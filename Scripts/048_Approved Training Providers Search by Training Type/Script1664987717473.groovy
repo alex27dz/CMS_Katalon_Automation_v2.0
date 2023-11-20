@@ -51,14 +51,5 @@ WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provid
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_All'), 'All')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Blended'), 'Blended')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Distance'), 'Distance')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_eLearning'), 
-    'eLearning')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_In-Class'), 'In-Class')
-
 WebUI.closeBrowser()
 

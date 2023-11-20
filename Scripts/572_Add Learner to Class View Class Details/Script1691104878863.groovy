@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Search (14)
 
 WebUI.click(findTestObject('Object Repository/Page_CSR Portal/input_Add learner to class_checkbox-input n_3bd7c8 (4)'))
 
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Add learner to class (2)'))
+WebUI.click(findTestObject('learner to class'))
 
 WebUI.click(findTestObject('Object Repository/Page_CSR Portal/button_Approved programs'))
 
