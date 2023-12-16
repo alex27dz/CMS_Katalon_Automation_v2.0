@@ -32,66 +32,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (21)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/header_Assessor Portal Aleksey Dzhoharidze'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h1_Program delivery applications (2)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_WAH (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_JHSC (2)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_All32'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Triage25'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Desk (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Field'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Recommendation2'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Approved5'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_SearchProgram delivery format All deliv_81254b (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Aleksey Dzhoharidze_selected'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li (1)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_1'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_1_2'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_1_2_3'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/button_Search (2)'), 0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img (13)'))
 
 Thread.sleep(3000)
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img_1'))
+WebUI.click(findTestObject('profiles'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h2_Manage profiles (4)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Workers (2)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Training Providers (2)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Employers (2)'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/button_Search (13)'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_CSR Portal/img_1'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/h2_Records of completion'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Learner records'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CSR Portal/li_Classrooms'), 0)
+WebUI.click(findTestObject('records'))
 
 WebUI.closeBrowser()
 

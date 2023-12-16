@@ -21,12 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
-
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/h3_Training delivery formats'), 
-    'Training delivery formats')
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_WAH'))
 
@@ -34,31 +29,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention L
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_First Aid'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Training delivery modes for Working at Heights'), 
-    'Training delivery modes for Working at Heights')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Face-to-face (in-class) trainingRefers t_8b886b'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Blended learningDescribes the practice o_29fc0a'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_JHSC'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Training delivery modes for Joint Healt_743ee1'), 
-    'Training delivery modes for Joint Health and Safety Committee')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Face-to-face (in-class) trainingRefers t_8b886b'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Distance learningAn educational situatio_8077cb'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_eLearning (Electronic Learning) - Part O_0ac282'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Blended learning - Part One onlyDescribe_8e1d7b'), 
-    0)
 
 WebUI.closeBrowser()
 

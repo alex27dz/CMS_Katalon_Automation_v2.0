@@ -21,9 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
-
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/h3_Supporting Ontarios Safe Employers Program'), 
     'Supporting Ontario’s Safe Employers Program')

@@ -21,11 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
-
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/button_Register as training provider'))
+WebUI.click(findTestObject('reg p'))
 
 WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Email_username (1) (1)'), 'cmsproj01@gmail.com')
 

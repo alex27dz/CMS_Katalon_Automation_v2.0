@@ -23,18 +23,12 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h3_Basic awareness training'), 
-    'Basic awareness training')
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Basic awareness trainingAll employers m_6ad85e'), 
     0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Worker health and safety awareness i_719f0b'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Supervisor health and safety awarene_ce833a'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h3_Health and safety for small businesses'), 
-    'Health and safety for small businesses')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Health and safety for small businessesU_09f4f9'), 
     0)

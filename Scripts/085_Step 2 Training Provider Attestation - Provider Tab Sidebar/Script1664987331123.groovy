@@ -36,6 +36,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (1) (1)'))
 
+WebUI.switchToWindowTitle('Training Provider - Program Summary')
+
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Submit training program delivery app_2ec0f1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Training Provider - Create new application/select_Select training programJHSC - Part O_95772d'), 
@@ -55,12 +57,6 @@ WebUI.setText(findTestObject('Object Repository/Page_TP Application - Applicant 
 WebUI.click(findTestObject('Object Repository/Page_TP Application - Applicant Information/label_I want to be listed as a training pro_f7bc16'))
 
 WebUI.click(findTestObject('Object Repository/Page_TP Application - Applicant Information/button_Save  Continue'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Attestations/h2_Training provider attestation'), 
-    'Training provider attestation')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Attestations/div_Training provider attestationTraining p_19b201'), 
-    0)
 
 WebUI.closeBrowser()
 

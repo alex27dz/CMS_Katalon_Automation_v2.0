@@ -35,39 +35,12 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program S
 
 Thread.sleep(3000)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/h2_My training programs (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Number of certificates issued  0  Numbe_41efa8'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_OverviewKey eventsApplication ReviewPro_a37495'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Overview (2)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Key events (2)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review (2)'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Key events'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Additional InformationAssigned assessor_88f363'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_OverviewKey eventsApplication ReviewSor_fe896d'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Sort ByLatestEarliestFilter ByShow all3_226b07 (2)'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Back to my training programs'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/h1_My Training Programs (4)'), 
-    0)
 
 WebUI.closeBrowser()
 

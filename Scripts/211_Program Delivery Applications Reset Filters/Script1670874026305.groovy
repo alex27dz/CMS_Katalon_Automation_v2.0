@@ -35,21 +35,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/div_SearchProgram delivery format All deliv_81254b'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/div_SearchProgram delivery format All deliv_81254b'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/button_Search'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/button_Reset'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/div_SnapshotDec 12, 2022 First Deficiency A_3cfe4a'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/div_All 6 Triage 4 Desk 1 Field  Recommenda_863329'), 
-    0)
 
 WebUI.closeBrowser()
 

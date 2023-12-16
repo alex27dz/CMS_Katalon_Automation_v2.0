@@ -23,43 +23,38 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/internal-portal-qa/#/program-delivery-applications')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (3) (1)'), 'aleksey.dzhoharidze@ontario.ca')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (7)'), 'aleksey.dzhoharidze@ontario.ca')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (3) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (6)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (3) (1)'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (7)'), 
     'uJrlGS0s9DWEB1gjPJtQ8Q==')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (3) (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (6)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Review application (2)'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_JHSC'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_More details'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Ministry action'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Program nameWorking at Heights - FullPr_4a974e'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Search'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_TRIAGE Action required by MinistryMay 2_1a2428'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/input_Search_input-text ng-untouched ng-pri_6c3f6c'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Key events'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Search'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_2023 MAY 29Triage stage started Triage _28e611'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_All'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Documents'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Notifications'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Review application'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Overview (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_View details'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Alex IncTRIAGE 2  DaysUnder review by P_526885'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Attestations'))
 
-WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img_Aleksey Dzhoharidze_rotated back-arrow (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Program documents'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h1_Program delivery applications (1)'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Program requirements'))
 
 WebUI.closeBrowser()
 

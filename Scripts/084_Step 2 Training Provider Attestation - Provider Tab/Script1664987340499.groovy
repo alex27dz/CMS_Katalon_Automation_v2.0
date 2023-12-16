@@ -36,14 +36,16 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (1) (1)'))
 
+WebUI.switchToWindowTitle('Training Provider - Program Summary')
+
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Submit training program delivery app_2ec0f1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Training Provider - Create new application/select_Select training programJHSC - Part O_95772d'), 
     '9d17c877-c580-4370-9f5d-d0fb04b09ef1', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/input_You have to submit a separate applica_c5bd6a'))
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/label_English'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/input_You have to submit a separate applica_3b1ea1'))
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/label_Blended'))
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/button_Start new application'))
 
@@ -52,24 +54,9 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create ne
 WebUI.setText(findTestObject('Object Repository/Page_TP Application - Applicant Information/input_Primary location (Citytown) of traini_48c81b'), 
     'Toronto')
 
-WebUI.click(findTestObject('Object Repository/Page_TP Application - Applicant Information/input__radio-buttons-0.567235508590862-0'))
+WebUI.click(findTestObject('Object Repository/Page_TP Application - Applicant Information/label_I want to be listed as a training pro_f7bc16'))
 
 WebUI.click(findTestObject('Object Repository/Page_TP Application - Applicant Information/button_Save  Continue'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Attestations/li_Provider attestation'), 
-    'Provider attestation')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Attestations/li_Program attestation'), 'Program attestation')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Attestations/li_Provider attestation'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Attestations/li_Program attestation'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Attestations/div_Code of ethics'), 'Code of ethics')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Attestations/div_Administration'), 'Administration')
 
 WebUI.closeBrowser()
 

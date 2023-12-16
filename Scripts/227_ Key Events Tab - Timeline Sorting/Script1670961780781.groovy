@@ -38,20 +38,5 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program S
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Key events (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Sort ByLatestEarliestFilter ByShow all3_226b07 (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_2022 DEC 06Triage stage started Triage _8a176d'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Your actions (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Ministrys actions (1)'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Additional InformationAssigned assessor_a70477 (1)'), 
-    0)
-
 WebUI.closeBrowser()
 

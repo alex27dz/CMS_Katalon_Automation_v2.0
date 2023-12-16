@@ -37,7 +37,9 @@ Thread.sleep(3000)
 
 WebUI.click(findTestObject('new schedule'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Schedules/div_View classroom'))
+WebUI.scrollToPosition(0, 500)
+
+WebUI.click(findTestObject('new classroom'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Classroom/h1_Training Classroom'), 0)
 

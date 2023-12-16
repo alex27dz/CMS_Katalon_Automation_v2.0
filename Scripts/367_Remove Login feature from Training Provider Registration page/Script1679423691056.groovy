@@ -19,11 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/register-as-training-provider')
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
 WebUI.maximizeWindow()
-
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers (3)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/button_Register as training provider (1)'))
 
@@ -32,7 +30,8 @@ WebUI.setText(findTestObject('Object Repository/Page_My Ontario Account STAGE/in
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Password_password (3)'), 'pTBJ1/YTiw1lhXE0q4kWzw==')
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (3)'))
-Thread.sleep(5000);
+
+Thread.sleep(5000)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_My Training ProgramsPlease select from _775c79'), 
     0)

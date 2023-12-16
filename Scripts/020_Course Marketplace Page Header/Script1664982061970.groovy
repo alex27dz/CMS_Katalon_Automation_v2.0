@@ -21,7 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
+
+WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Find available courses'))
+
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Approved Training Providers'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLTSD CPO Approved Training CoursesExpl_2ea26a'), 
     0)

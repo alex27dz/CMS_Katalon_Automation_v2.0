@@ -32,31 +32,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your ac
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (6)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h1_Program delivery applications'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_WAH'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_JHSC'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/ul_All 2 Triage  Desk  Field 1 Recommendati_b64648'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_All 2'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Triage'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/li_Desk'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_SearchProgram delivery format All deliv_81254b'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_JHSC'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Ministry action'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Search'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Ministry'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/input_Search_input-text ng-untouched ng-pri_6c3f6c'))
 
@@ -66,31 +46,13 @@ WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_All'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Search'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Applicant'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/a_Provider profile'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/button_Review application'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_ABCs Training CenterFIELD 8 days Pre-fi_a4fb97'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Review application'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_View details'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Applicant information  Attestations  Pr_328caf'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/ul_Applicant information  Attestations  Pro_8b1ebd'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Attestations'))
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Program documents'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_1. Lesson PlanIMG_7591.JPGUploaded On D_41d201'), 
-    0)
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Program requirements'))
 

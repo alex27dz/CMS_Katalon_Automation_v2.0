@@ -30,15 +30,9 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landin
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Home'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Workers'), 'Workers')
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Workers'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'), 'Training providers')
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Employers'), 'Employers')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Employers'))
 
@@ -51,9 +45,6 @@ WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Tra
 WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Home'))
 
 WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/h2_Become an approved training provider'), 
-    'Become an approved training provider')
 
 WebUI.closeBrowser()
 

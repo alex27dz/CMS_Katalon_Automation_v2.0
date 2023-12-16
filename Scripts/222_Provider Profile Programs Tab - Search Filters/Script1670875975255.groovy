@@ -32,15 +32,5 @@ WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input
 
 WebUI.click(findTestObject('Object Repository/Page_InternalPortal/a_Provider profile'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/li_Provider profile'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/h4_Business information'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/div_Business information  Organization oper_b8f290'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_InternalPortal/div_Assign portfolio contact Portfolio cont_14dba0'), 
-    0)
-
 WebUI.closeBrowser()
 

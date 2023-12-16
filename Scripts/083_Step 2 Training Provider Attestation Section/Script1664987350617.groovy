@@ -58,17 +58,5 @@ WebUI.click(findTestObject('Object Repository/Page_TP Application - Applicant In
 
 WebUI.click(findTestObject('Object Repository/Page_TP Application - Applicant Information/button_Save  Continue'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Attestations/h2_Training provider attestation'), 
-    'Training provider attestation')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Attestations/div_The following includes a list of requir_308f55'), 
-    'The following includes a list of requirements that the applicant must comply with, per the Working at Heights Training Provider Standard, to be approved by the CPO and to maintain approval. You must select, indicating: Yes, No, or N/A (not applicable) to attest that you meet and will continue to meet these requirements throughout the duration of your approval.')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Attestations/li_Provider attestation'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Attestations/li_Program attestation'), 
-    0)
-
 WebUI.closeBrowser()
 

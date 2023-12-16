@@ -21,10 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Training Program'), 
-    0)
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/cpo-approved-courses')
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
 

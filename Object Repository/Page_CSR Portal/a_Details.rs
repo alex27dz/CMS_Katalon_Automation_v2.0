@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='main-content']/app-manage-profiles/app-worker-search-criteria/div[2]/div/app-worker-table/div[2]/div[9]/a</value>
+         <value>/html/body/app-root/main/div/div/app-manage-profiles/app-worker-search-criteria/div[2]/div[1]/app-worker-table/div[2]/div[9]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bae24aec-7368-4d67-aeda-4bc59247b1d4</webElementGuid>
+      <webElementGuid>81375eb2-1526-49be-be78-e7044c4eb410</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Details</value>
-      <webElementGuid>43b87316-20b7-46a4-aee5-d99817ad0801</webElementGuid>
+      <webElementGuid>91647450-5039-487c-9e9a-eca770b2e086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/app-manage-profiles[1]/app-worker-search-criteria[1]/div[@class=&quot;ontario-row min-height ontario-margin-bottom-48-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-padding-left-0-! ontario-padding-right-0-!&quot;]/app-worker-table[1]/div[@class=&quot;table-div&quot;]/div[@class=&quot;table-column right-align ontario-padding-right-48-! singleton&quot;]/a[1]</value>
-      <webElementGuid>6c979ca8-1c73-4d7b-af18-a337bcc15906</webElementGuid>
+      <webElementGuid>57b24a2c-1e80-40e4-867c-b8a242171542</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main-content']/app-manage-profiles/app-worker-search-criteria/div[2]/div/app-worker-table/div[2]/div[9]/a</value>
-      <webElementGuid>cd5b7262-7ab0-4866-8063-211cf65761fe</webElementGuid>
+      <webElementGuid>830aef59-dfb8-429d-9914-1a80a89cab8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Details')]</value>
-      <webElementGuid>4cc32714-7297-4f82-ab0a-7631a2dbfa8e</webElementGuid>
+      <webElementGuid>c2cc6773-5d16-4d40-9f63-6e28d6ffa38f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oct 06, 2023'])[1]/following::a[1]</value>
-      <webElementGuid>ea22d87f-5db6-432c-a56b-e2eac1468c0f</webElementGuid>
+      <webElementGuid>ecd4096a-62c5-4f0e-a438-7d68920d2760</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH Oct 06, 2023'])[1]/following::a[1]</value>
-      <webElementGuid>7505d8c2-32e5-40b1-8d42-c9f49f0f1131</webElementGuid>
+      <webElementGuid>ba71d062-0381-4da9-a1ef-c3a0a22bf2df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DC692060'])[1]/preceding::a[1]</value>
-      <webElementGuid>618c6c4c-4c94-4926-843e-c3d6509edfa7</webElementGuid>
+      <webElementGuid>1a8746a3-f564-4a4b-8325-cb4866da026a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='name1'])[1]/preceding::a[1]</value>
-      <webElementGuid>42a40824-a947-43ad-8358-027ba97f8b70</webElementGuid>
+      <webElementGuid>7cfdb34b-ae44-4d64-83da-4112a7752c70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Details']/parent::*</value>
-      <webElementGuid>2fbe83b7-a95c-4855-9d99-afdd1a872e28</webElementGuid>
+      <webElementGuid>07b49713-736b-4c6f-b62b-bb519c85822f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/a</value>
-      <webElementGuid>d3c97589-fe18-4350-90e4-93fb96be7398</webElementGuid>
+      <webElementGuid>1cbea005-f353-4476-896d-53d7a050eadd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Details' or . = 'Details')]</value>
-      <webElementGuid>2805d8b6-e8af-476c-a662-a5e21d0ac345</webElementGuid>
+      <webElementGuid>b7b83a98-35fb-41cd-b1fe-12219f4cf625</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

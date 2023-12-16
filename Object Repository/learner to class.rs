@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;main-content&quot;]/app-manage-profiles/app-worker-search-criteria/div[3]/div/div/button</value>
+         <value>//*[@id=&quot;main-content&quot;]/div/div/app-manage-profiles/app-worker-search-criteria/div[3]/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

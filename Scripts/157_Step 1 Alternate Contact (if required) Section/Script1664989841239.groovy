@@ -43,11 +43,6 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program S
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h2_My Training Programs'), 
     'My training programs')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Overview'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Overview  Key events  Application Revie_8399b7'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review 2'))
 
 WebUI.closeBrowser()

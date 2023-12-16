@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Eligibility C
 WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/input_Postal Code_input-text ng-untouched n_c7037d'), 
     'email@email.com')
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/button_Step 2'))
+WebUI.click(findTestObject('step two'))
 
 WebUI.closeBrowser()
 

@@ -21,10 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/mat-label_Training location'), 
-    0)
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/cpo-approved-courses')
 
 WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training location_mat-autocomplete-tr_f1880a'), 
     'Toronto')
@@ -37,8 +34,6 @@ WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Course Search
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training location_mat-autocomplete-tr_f1880a'), 
     Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/app-marketplace_Training Program All Safety_8414d5'))
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
 

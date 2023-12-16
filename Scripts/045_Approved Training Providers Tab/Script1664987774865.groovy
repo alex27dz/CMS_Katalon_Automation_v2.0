@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
 WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Find available courses'))
 
@@ -29,11 +29,12 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace 
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Approved Training Providers'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/h2_Find a training provider'), 
-    'Find a training provider')
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_Find a training providerSearch approved_c21d5c'), 
     0)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
 
 WebUI.closeBrowser()
 

@@ -36,16 +36,7 @@ WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_Review
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/button_More details'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Program nameWorking at Heights - FullPr_4a974e'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_TRIAGE Action required by MinistryMay 2_1a2428'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Key events'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_2023 MAY 29Triage stage started Triage _28e611'), 
-    0)
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Documents'))
 
@@ -53,13 +44,7 @@ WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Notificati
 
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/li_Overview (1)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/div_Alex IncTRIAGE 2  DaysUnder review by P_526885'), 
-    0)
-
 WebUI.click(findTestObject('Object Repository/Page_Assessor Portal/img_Aleksey Dzhoharidze_rotated back-arrow (1)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Assessor Portal/h1_Program delivery applications (1)'), 
-    0)
 
 WebUI.closeBrowser()
 

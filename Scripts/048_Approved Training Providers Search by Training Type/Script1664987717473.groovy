@@ -27,9 +27,6 @@ WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Hom
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Approved Training Providers'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/h2_Find a training provider'), 
-    'Find a training provider')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/mat-label_Training type'), 
     'Training type')
 

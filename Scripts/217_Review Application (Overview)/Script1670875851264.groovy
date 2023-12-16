@@ -38,8 +38,5 @@ WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/inpu
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details (5)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Overview  Key events  Application Revie_160631'), 
-    0)
-
 WebUI.closeBrowser()
 

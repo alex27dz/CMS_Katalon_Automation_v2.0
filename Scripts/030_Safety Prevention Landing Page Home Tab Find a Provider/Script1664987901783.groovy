@@ -19,16 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Course Search/input_Training provider_mat-autocomplete-tr_d9d537'), 
-    'better test')
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Training Program All Safety Training Pr_fda766'))
+WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Find available courses'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Training Eligibility'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Training provider'), 0)
+WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/input_Name_input-text ng-untouched ng-prist_4756be'), 
+    '1b')
+
+WebUI.setText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/input_Postal Code_input-text ng-untouched n_c7037d'), 
+    'email@email.com')
+
+WebUI.click(findTestObject('step two'))
 
 WebUI.closeBrowser()
 

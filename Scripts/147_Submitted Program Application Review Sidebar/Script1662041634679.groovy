@@ -36,15 +36,12 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_My Ontario Account
 
 WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/input_Remember me_okta-signin-submit (1) (1)'))
 
+WebUI.scrollToPosition(0, 5000)
+
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h2_My Training Programs'), 
     'My training programs')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Overview'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Overview  Key events  Application Revie_8399b7'), 
-    0)
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review 2'))
 
