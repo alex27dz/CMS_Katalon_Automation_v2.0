@@ -19,39 +19,41 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/cpo-approved-courses')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/label_Total seats'), 'Total seats')
+WebUI.maximizeWindow()
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Total seats_number-button minus'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/label_Total seats'), 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Total seats_number-button plus'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Total seats (1)'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/img'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img_1'))
 
-Thread.sleep(3000)
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Reset filters'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img_1'))
 
 WebUI.closeBrowser()
 

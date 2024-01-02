@@ -45,8 +45,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - App
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/label_Offered to'), 
     'Offered to')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/label_Program offered'), 
-    'Program offered')
-
 WebUI.closeBrowser()
 

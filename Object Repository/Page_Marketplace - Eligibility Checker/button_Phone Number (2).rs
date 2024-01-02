@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab/div/form/div/div/div/div[3]/app-horizontal-radio-button-list/div/button[2]</value>
+         <value>//*[@id=&quot;main-content&quot;]/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab[1]/div/form/div/div/div[1]/div[3]/app-horizontal-radio-button-list/div/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6c44e9a8-99c8-44a4-ae8f-a8678acc21f1</webElementGuid>
+      <webElementGuid>f33c76f1-7c5b-4afe-87f2-4279bf44b417</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>option-button</value>
-      <webElementGuid>62a12421-2668-4bb2-ae97-dd9b18100786</webElementGuid>
+      <webElementGuid>99c959e6-32c9-4fc0-b5d4-342db0883eac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Phone Number</value>
-      <webElementGuid>044b292e-2ae1-4f71-822c-57a7c015f8ae</webElementGuid>
+      <webElementGuid>bb117cf5-8edb-4bd0-a58e-b7886d5c009c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-9&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-tab[1]/div[@class=&quot;tab&quot;]/form[@class=&quot;ng-invalid ng-submitted ng-dirty ng-touched&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;training-details&quot;]/div[@class=&quot;table-header&quot;]/div[@class=&quot;training-details-row margined-top&quot;]/app-horizontal-radio-button-list[1]/div[1]/button[@class=&quot;option-button&quot;]</value>
-      <webElementGuid>9799aad8-a4f7-48cb-9846-30bac7893b79</webElementGuid>
+      <webElementGuid>f22a3fde-ecd4-433a-9f9c-052aece9cc90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-tabs/div/div[2]/app-tab/div/form/div/div/div/div[3]/app-horizontal-radio-button-list/div/button[2]</value>
-      <webElementGuid>7295bb07-df77-4683-804c-e5652d84fb36</webElementGuid>
+      <webElementGuid>0af2ef8a-4518-467b-a24e-54ea516338ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>b05ef22b-c8b4-4af5-98ea-5dbe409ed5ad</webElementGuid>
+      <webElementGuid>8f91c7c2-8318-4910-b238-e1e877b54770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your email, phone number OR postal code:'])[1]/following::button[2]</value>
-      <webElementGuid>e7d7280c-90fa-404a-b272-283590f1c4fd</webElementGuid>
+      <webElementGuid>f2d83c36-7d43-4a77-ae6e-999851389357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Code'])[1]/preceding::button[1]</value>
-      <webElementGuid>f265f001-9a9d-4666-9dc3-413101f778c1</webElementGuid>
+      <webElementGuid>56a6612f-4d38-4f0a-bb4a-0b9ad98a9ca6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 2'])[1]/preceding::button[2]</value>
-      <webElementGuid>9e670805-7c35-4bf1-96fe-4b7156ba5a86</webElementGuid>
+      <webElementGuid>0aac5818-d275-4a9b-b157-1779e1268b47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Phone Number']/parent::*</value>
-      <webElementGuid>cae05427-8fc2-4e41-b7c5-d9e7ac52bfb4</webElementGuid>
+      <webElementGuid>d88bfa37-842f-454e-a4fc-990fbf176fa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/app-horizontal-radio-button-list/div/button[2]</value>
-      <webElementGuid>706343af-8610-406e-9f00-720ef16fe372</webElementGuid>
+      <webElementGuid>02c2ada6-37f2-45b4-aea4-3cfa24189e60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Phone Number' or . = 'Phone Number')]</value>
-      <webElementGuid>d5d1d4d7-7c49-45d5-8eac-fc4b9bca452c</webElementGuid>
+      <webElementGuid>1e7c4230-b0bf-43d9-a1b7-7877520c8c11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

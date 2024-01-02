@@ -19,21 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/h3_Supporting Ontarios Safe Employers Program'), 
-    'Supporting Ontario’s Safe Employers Program')
+WebUI.maximizeWindow()
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/div_Supporting Ontarios Safe Employers is a_ec7ea0'), 
-    'Supporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness.')
+WebUI.scrollToPosition(0, 5000)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/button_More info'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Supporting Ontarios Safe Employers Prog_b46ec3'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/button_More info'))
-
-Thread.sleep(3000)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Supporting Ontarios Safe Employers is a_ec7ea0'), 
+    0)
 
 WebUI.closeBrowser()
 

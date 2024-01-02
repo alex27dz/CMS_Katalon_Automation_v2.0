@@ -19,29 +19,28 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/safety-and-prevention/home')
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
+WebUI.click(findTestObject('Object Repository/Page_Home/div_Eligibility checker'))
 
-WebUI.click(findTestObject('eligible'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Eligibility checker/div_How to access training recordsLearner I_859be4'), 
+    0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/h3_How to access training records'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/h3_How to access training records'), 
     'How to access training records?')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/h6_Learner ID  Name on training records'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/h6_Learner ID  Name on training records'), 
     'Learner ID & Name on training records')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_The ministry requires either a Learner _f7fa35'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/div_The ministry requires either a Learner _f7fa35'), 
     'The ministry requires either a Learner ID number or full name to look up the eligibility of a learner.The Learner ID is issued by the ministry and is a combination of letters and numbers.The full name only includes the learner\'\'s first and last name.If using name, it must match the name that was submitted to the ministry the last time the learner completed training for a CPO-approved course.')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/h6_Email address Phone number Postal code'), 
-    'Email address/ Phone number/ Postal code')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Eligibility checker/div_To access training recordsCall 1-877 20_5ecb11'), 
+    0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_The ministry also requires a secondary _885aef'), 
-    'The ministry also requires a secondary piece of information to validate the learner\'s identity. It can be any one of the learners: email address, phone number, or postal code.It must match the information that was submitted to the ministry the last time the learner completed training for a CPO-approved course.')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/h6_To access training records'), 
-    'To access training records')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/h6_To access training records'), 'To access training records')
 
 WebUI.closeBrowser()
 

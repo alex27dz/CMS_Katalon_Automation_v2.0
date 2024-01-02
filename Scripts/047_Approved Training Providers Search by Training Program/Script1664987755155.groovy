@@ -19,33 +19,79 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/safety-and-prevention/home')
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
+WebUI.click(findTestObject('Object Repository/Page_Home/div_Approved training providers'))
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Find available courses'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Approved training providers/h2_Approved training providers'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Approved Training Providers'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Approved training providers/div_Select training program All Safety Trai_d82ecb'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
-    '3e2f79fd-4dc3-45b5-875c-737921fcf71e', true)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Approved training providers/div_Search approved training providers'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Approved training providers/div_CPO approval status All training provid_85037c'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
-    '6d534dd1-d001-4ad2-b7da-7e3880b15607', true)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Approved training providers/button_Search'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Approved training providers/button_Reset filters'), 0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
-    '990fba34-05fb-4005-9f83-783d96b38dfb', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+    '1ec91659-d817-473a-8e52-c5a72b2f0696', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
     '9d17c877-c580-4370-9f5d-d0fb04b09ef1', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+    '990fba34-05fb-4005-9f83-783d96b38dfb', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+    '6d534dd1-d001-4ad2-b7da-7e3880b15607', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+    '3e2f79fd-4dc3-45b5-875c-737921fcf71e', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+    '00000000-0000-0000-0000-000000000000', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Approved training providers/div_Training type All  In-person  Blended  _18fe5e'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All training providersCurrently CPO-_c633b8'), 
+    'false', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All training providersCurrently CPO-_c633b8'), 
+    'true', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Approved training providers/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+    '6d534dd1-d001-4ad2-b7da-7e3880b15607', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Reset filters'))
+
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/button_Search'))
 
 WebUI.closeBrowser()
 

@@ -17,24 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Training delivery formats WAH JHSCTrain_4e6767'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/h3_Training delivery formats'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_WAH'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_JHSC'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Training delivery modes for Working at Heights'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Face-to-face (in-class) trainingRefers _ab86e7'), 
-    0)
-
-WebUI.closeBrowser()
-

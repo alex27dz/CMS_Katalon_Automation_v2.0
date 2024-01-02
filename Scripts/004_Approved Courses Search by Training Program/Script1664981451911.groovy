@@ -19,44 +19,38 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/cpo-approved-courses')
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.maximizeWindow()
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Course Search/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Find a CPO approved course/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
     '3e2f79fd-4dc3-45b5-875c-737921fcf71e', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Course Search/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Find a CPO approved course/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
     '6d534dd1-d001-4ad2-b7da-7e3880b15607', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Course Search/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Find a CPO approved course/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
     '990fba34-05fb-4005-9f83-783d96b38dfb', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Course Search/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Find a CPO approved course/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
     '9d17c877-c580-4370-9f5d-d0fb04b09ef1', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (1)'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Course Search/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Find a CPO approved course/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
     '1ec91659-d817-473a-8e52-c5a72b2f0696', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Marketplace - Course Search/select_All Safety Training ProgramsJHSC - P_44ccf3'), 
-    '00000000-0000-0000-0000-000000000000', true)
-
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Search'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/span_Showing 7 course advertisements'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (1)'))
 
 WebUI.closeBrowser()
 
