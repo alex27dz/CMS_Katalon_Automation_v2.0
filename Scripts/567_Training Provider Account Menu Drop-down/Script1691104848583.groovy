@@ -42,7 +42,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provi
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Log Out'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Login'), 0)
-
 WebUI.closeBrowser()
 

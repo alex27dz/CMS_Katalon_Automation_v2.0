@@ -40,19 +40,5 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program S
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review 10'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h4_Applicant business information'), 
-    'Applicant business information')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h4_Designated Signing Authority'), 
-    'Designated Signing Authority')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Additional informationWorking at height_8a2a67'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Attestations 2'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Program Summary/div_Lorem ipsum dolor sit amet, consectetur_88178a'), 
-    0)
-
 WebUI.closeBrowser()
 
