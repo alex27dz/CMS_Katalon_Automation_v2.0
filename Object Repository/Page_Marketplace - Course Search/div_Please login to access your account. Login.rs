@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please login to access your account. Login</name>
+   <tag></tag>
+   <elementGuidId>0507cfdb-7330-4060-a2f4-887e46014c42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-homepage/div[2]/app-login-header/div/div/div[2]/app-login-register/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ontario-tab-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a409ec5a-0976-4523-b908-fa63dd9ddc50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-tab-content</value>
+      <webElementGuid>445cde27-f642-4878-87f9-4c7a69e1dec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Please login to access your account. Login</value>
+      <webElementGuid>78df3ac0-8193-455b-a296-ac2f621bf38e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-homepage[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;marketplace-login-banner&quot;]/app-login-header[1]/div[@class=&quot;login-banner-container&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;marketPlaceHeader ontario-columns ontario-small-4&quot;]/app-login-register[1]/div[@class=&quot;register-login&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]</value>
+      <webElementGuid>b69c20fe-5797-47ff-9a36-eed6a8cfbd9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-homepage/div[2]/app-login-header/div/div/div[2]/app-login-register/div/div/div[2]</value>
+      <webElementGuid>ae228620-b6a8-494e-a2e7-5f8af496a57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[1]</value>
+      <webElementGuid>b106ea54-a977-4ba5-9330-2c1257b0c516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore other recommended safety training by sector or work type'])[1]/following::div[7]</value>
+      <webElementGuid>ff9de9ac-25a5-4b4f-8d7f-1136ebb7451c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-login-register/div/div/div[2]</value>
+      <webElementGuid>c1e76358-bcb3-4bde-bd1f-4a852458bc47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Please login to access your account. Login' or . = ' Please login to access your account. Login')]</value>
+      <webElementGuid>543a2011-d840-449e-baa0-4d0c05805ed8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

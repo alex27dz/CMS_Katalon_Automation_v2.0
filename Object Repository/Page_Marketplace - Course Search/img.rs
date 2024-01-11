@@ -6,12 +6,12 @@
    <elementGuidId>20def289-f264-4382-be44-8e16f315d49d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.training-title > button > img</value>
+         <key>XPATH</key>
+         <value>//img[@alt='Government of Ontario']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div/div[3]/div/button/img</value>
+         <key>CSS</key>
+         <value>img[alt=&quot;Government of Ontario&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a96fb128-1113-4f5d-bc13-42c3ba91ec0b</webElementGuid>
+      <webElementGuid>d86044b8-324f-403e-b859-034fe54dacca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>assets/images/chevron-down-black-grey-border.svg</value>
-      <webElementGuid>469ebb8f-9ebb-48c2-b99a-f2d54d85fc81</webElementGuid>
+      <value>assets/ontario-design-system/logos/ontario-logo--desktop.svg</value>
+      <webElementGuid>daf57cc1-39cb-4fd5-a381-1f24520581eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-content&quot;)/app-homepage[1]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[1]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;button-row ontario-column ontario-small-12&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-medium-12 ontario-large-12 selected-view&quot;]/app-course-schedule-search-result-card[1]/div[@class=&quot;card&quot;]/div[@class=&quot;training-details&quot;]/div[@class=&quot;training-title&quot;]/button[1]/img[1]</value>
-      <webElementGuid>667487d5-d486-4de2-a72d-7687760b3f23</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/header[1]/div[@class=&quot;primary-row&quot;]/div[@class=&quot;container&quot;]/div[1]/a[@class=&quot;ontgov&quot;]/img[1]</value>
+      <webElementGuid>e8bcc405-8336-4d94-b26c-1eb489f43694</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,12 +81,12 @@
       <webElementGuid>4ad87bcc-f00a-4c56-887e-9a06dc8dcce2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
       <value>Government of Ontario</value>
-      <webElementGuid>a8bc5365-6988-42af-9542-c096419cb8ae</webElementGuid>
+      <webElementGuid>130b1d7f-6edd-4448-ba7b-398b5e2ccaaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -179,6 +179,30 @@
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Government of Ontario']</value>
+      <webElementGuid>919de63b-c561-4205-b88d-89eef97c609a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>b7ca5a74-9ed3-44d6-a8a1-ee8286a18d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/ontario-design-system/logos/ontario-logo--desktop.svg' and @alt = 'Government of Ontario']</value>
+      <webElementGuid>c719d963-db80-42db-987f-faa9163fee01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[10]/div[4]/app-course-schedule-search-result-card/div/div[3]/div/button/img</value>
@@ -231,29 +255,5 @@
       <type>Main</type>
       <value>//header[@id='ontario-header-default']/div/div/a/img</value>
       <webElementGuid>34fcc1d7-94e6-4da2-b6e4-571ddf805513</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
-      <type>Main</type>
-      <value>//img[@alt='Government of Ontario']</value>
-      <webElementGuid>fb100cce-116b-49e2-8e38-10b4fed4ffcc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//img</value>
-      <webElementGuid>bc9ca48e-e521-4d41-b4a6-1f9e92f3395d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = 'assets/ontario-design-system/logos/ontario-logo--desktop.svg' and @alt = 'Government of Ontario']</value>
-      <webElementGuid>4bd18cb3-1547-43b6-9837-2d83fb428606</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

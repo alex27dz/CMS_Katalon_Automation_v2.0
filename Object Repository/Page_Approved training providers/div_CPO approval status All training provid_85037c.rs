@@ -6,12 +6,11 @@
    <elementGuidId>487cbbf1-5764-4636-b6e3-4660bf4ecd30</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main-content&quot;]/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div[1]/div[5]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div/div[5]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>62f74a01-7ee5-4bdc-b401-373abfbcd8e5</webElementGuid>
+      <webElementGuid>456fcfc9-e69b-4810-9bd4-f20c05ea4425</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3</value>
-      <webElementGuid>859fb3d5-40a4-496c-854a-a5f185f7647b</webElementGuid>
+      <webElementGuid>8f5115cf-ae27-4a29-91f9-85b1338b875d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CPO approval status All training providersCurrently CPO-approvedNo longer approved</value>
-      <webElementGuid>cb1f4bb7-1075-4c73-b624-3237ae03c418</webElementGuid>
+      <webElementGuid>85698805-abd7-4df0-8653-cc1f493bdaf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers-search[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3&quot;]</value>
-      <webElementGuid>aa87c6cb-8dbc-43aa-adcb-79615c6ebbb3</webElementGuid>
+      <webElementGuid>04e5e406-ccbd-4fdb-acaf-2986d56093a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div/div[5]</value>
-      <webElementGuid>83ba6b46-22aa-41bb-83b0-092f6ba54562</webElementGuid>
+      <webElementGuid>124853eb-be6e-42d2-a84b-fa9e20553a74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Elearning'])[1]/following::div[1]</value>
-      <webElementGuid>61292aaa-1def-48ab-94c5-25bf19b58c42</webElementGuid>
+      <webElementGuid>4576fe9a-8e4c-4f49-9aca-1dcc00904654</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Distance learning'])[1]/following::div[1]</value>
-      <webElementGuid>d2d8c722-2745-4fda-9060-fafabeac9ee3</webElementGuid>
+      <webElementGuid>713344e8-936e-4723-897d-9bc2a70d6623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::div[1]</value>
-      <webElementGuid>102172ad-3c68-4d61-9390-3d7c0644107b</webElementGuid>
+      <webElementGuid>4e7580d9-2e40-472a-9622-c430d0db0002</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]</value>
-      <webElementGuid>2dd3df42-8d47-4ccc-bd09-82b1aee0195a</webElementGuid>
+      <webElementGuid>71e892ea-8d6f-43b4-a959-4f88f1cd5eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'CPO approval status All training providersCurrently CPO-approvedNo longer approved' or . = 'CPO approval status All training providersCurrently CPO-approvedNo longer approved')]</value>
-      <webElementGuid>171b75d8-dc99-428a-8e24-7c479629663a</webElementGuid>
+      <webElementGuid>3e96d28d-a52b-486a-8b29-225a2f555b83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

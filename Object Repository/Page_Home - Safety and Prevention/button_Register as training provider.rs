@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Register as training provider</name>
+   <tag></tag>
+   <elementGuidId>b94a4090-b981-4d2d-a812-155f0120c430</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.blue-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>935ceedc-0baa-4e5f-8347-11411386d27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blue-button</value>
+      <webElementGuid>163a4b59-367e-4573-bc8c-44f28a93ee48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register as training provider</value>
+      <webElementGuid>6cd92eb9-38cc-4ab4-a6a2-863c539f6656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row&quot;]/div[@class=&quot;right-sidebar&quot;]/div[@class=&quot;grey-box&quot;]/button[@class=&quot;blue-button&quot;]</value>
+      <webElementGuid>f872767c-e76d-450d-835f-e5ee677ca415</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/div/button</value>
+      <webElementGuid>764ca7af-bd7b-40b5-8c39-f22f4c04b078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='And more…'])[1]/following::button[1]</value>
+      <webElementGuid>a893b558-bd36-462a-b927-17c1f3d005b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build relationship with learners'])[1]/following::button[1]</value>
+      <webElementGuid>2b47046e-d9a5-48b5-bd3b-b5b0ca996994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery formats'])[1]/preceding::button[1]</value>
+      <webElementGuid>650e15f0-a05b-46e6-b904-79f6a2152b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH'])[1]/preceding::button[1]</value>
+      <webElementGuid>bbf6b1ad-15c5-4563-855d-282200ed6603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register as training provider']/parent::*</value>
+      <webElementGuid>be1c905d-7ff4-43f4-ac64-ef0f8129bf95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-safety-and-prevention/div/div[2]/div/button</value>
+      <webElementGuid>3605d990-dab9-4402-a62f-5ab5f6354585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Register as training provider' or . = 'Register as training provider')]</value>
+      <webElementGuid>971ec26f-8214-4fc1-95b8-20b843680303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

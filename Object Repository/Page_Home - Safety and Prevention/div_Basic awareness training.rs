@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Basic awareness training</name>
+   <tag></tag>
+   <elementGuidId>b996590e-2935-4bbc-a498-db0eba29c074</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c12835ff-4a58-4a83-bb2a-a97b8914197d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-header ng-star-inserted</value>
+      <webElementGuid>04dd72f4-f3af-426c-a6dc-e2d641b41af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Basic awareness training</value>
+      <webElementGuid>a0216e56-fa15-4049-b285-ff0d0df8e8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row&quot;]/div[@class=&quot;right-sidebar&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-header ng-star-inserted&quot;]</value>
+      <webElementGuid>55c5bf11-e10e-45bc-add1-0a887aa57984</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar[2]/div/div</value>
+      <webElementGuid>767f38d8-1d72-4fc3-a632-39fbc869f70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Standard'])[1]/following::div[2]</value>
+      <webElementGuid>390426b5-7f4e-48a8-9b35-c84ba7c02af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blended learning'])[1]/following::div[2]</value>
+      <webElementGuid>51c6e17f-dcbe-4903-b5ca-600da7e0e421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker health and safety awareness in four steps'])[1]/preceding::div[2]</value>
+      <webElementGuid>191a0c67-96d8-485d-a317-610f027f5d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar[2]/div/div</value>
+      <webElementGuid>fbfd1198-65b2-4bcc-a96f-2c634de3e0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Basic awareness training' or . = 'Basic awareness training')]</value>
+      <webElementGuid>3106b8e2-580b-4380-be0a-d6a73335b9bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

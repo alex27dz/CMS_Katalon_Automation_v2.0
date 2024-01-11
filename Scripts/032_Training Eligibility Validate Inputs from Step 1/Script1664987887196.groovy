@@ -23,7 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
 
-WebUI.click(findTestObject('eligible'))
+WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Find available courses'))
+
+WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Training Eligibility'))
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/button_Name (1)'))
 

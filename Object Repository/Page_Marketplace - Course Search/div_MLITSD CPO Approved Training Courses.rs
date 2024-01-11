@@ -6,12 +6,12 @@
    <elementGuidId>1a0b1bac-0237-4283-ac06-5c2083f5dfb3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.login-banner-heading</value>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-homepage/div[2]/app-login-header/div/div/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main-content']/app-homepage/div[2]/app-login-header/div/div/div/div</value>
+         <key>CSS</key>
+         <value>div.login-banner-heading</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d02713e8-513e-4bd2-bf00-da6cc21d0dee</webElementGuid>
+      <webElementGuid>8a70fbe2-e874-419d-95d4-8a2dfab4fc16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login-banner-heading</value>
-      <webElementGuid>b83f9700-77ba-4639-bda2-09e3a59b9408</webElementGuid>
+      <webElementGuid>670ea089-b94c-4628-ab33-109e5aedbe5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,18 +38,74 @@
       <name>text</name>
       <type>Main</type>
       <value>MLITSD CPO Approved Training Courses</value>
-      <webElementGuid>4cfafa38-def2-455e-9157-32f9ea3a11d5</webElementGuid>
+      <webElementGuid>baa65304-ab8c-4a27-b224-a114e860650d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-content&quot;)/app-homepage[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;marketplace-login-banner&quot;]/app-login-header[1]/div[@class=&quot;login-banner-container&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;marketPlaceHeader ontario-columns ontario-small-8 ng-star-inserted&quot;]/div[@class=&quot;login-banner-heading&quot;]</value>
-      <webElementGuid>fbb68921-f3de-4ff9-8e26-73c776748159</webElementGuid>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-homepage[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;marketplace-login-banner&quot;]/app-login-header[1]/div[@class=&quot;login-banner-container&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;marketPlaceHeader ontario-columns ontario-small-8 ng-star-inserted&quot;]/div[@class=&quot;login-banner-heading&quot;]</value>
+      <webElementGuid>a013551c-4330-4434-b5de-646c2de09ddc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-homepage/div[2]/app-login-header/div/div/div/div</value>
+      <webElementGuid>6c274443-13b0-471f-a76b-3447bbbeae63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Français'])[1]/following::div[8]</value>
+      <webElementGuid>8c91f38e-0039-4df0-a2c6-cd1984c1690a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore other recommended safety training by sector or work type'])[1]/preceding::div[1]</value>
+      <webElementGuid>3af65bdc-f505-4d5e-aa24-2daf948b2995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::div[3]</value>
+      <webElementGuid>14e65ca9-fe45-4745-86ff-37b9ff3de906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MLITSD CPO Approved Training Courses']/parent::*</value>
+      <webElementGuid>1bd546d7-eaf6-4fa5-83ca-a323c482c87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-login-header/div/div/div/div</value>
+      <webElementGuid>c075c0c6-5995-4a76-8a8d-0bcb2d669404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MLITSD CPO Approved Training Courses' or . = 'MLITSD CPO Approved Training Courses')]</value>
+      <webElementGuid>56e46935-d95f-4f0d-a39f-9d3a452aab0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -75,41 +131,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore other recommended safety training by sector or work type'])[1]/preceding::div[1]</value>
-      <webElementGuid>5f235dfe-d633-4060-af39-0e8bcbd00fcf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::div[3]</value>
-      <webElementGuid>41206f8a-3ac4-49a6-8ee0-4faae94113cc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='MLITSD CPO Approved Training Courses']/parent::*</value>
-      <webElementGuid>12d01e93-98a2-4465-b64d-f6e8947f9c69</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div</value>
       <webElementGuid>a09fe428-8939-4a0b-82e2-d919aff75b75</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'MLITSD CPO Approved Training Courses' or . = 'MLITSD CPO Approved Training Courses')]</value>
-      <webElementGuid>ef3f6529-8b17-423f-ac21-025e6c18bca0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

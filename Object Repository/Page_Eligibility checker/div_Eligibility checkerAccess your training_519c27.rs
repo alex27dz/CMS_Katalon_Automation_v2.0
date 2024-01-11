@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Eligibility checkerAccess your training_519c27</name>
+   <tag></tag>
+   <elementGuidId>b63236d5-ef62-41e9-98a8-3e48ece41337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-content.page-content.ontario-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68577e52-7c47-45a5-82d5-e6443b5edf40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-content page-content ontario-row</value>
+      <webElementGuid>1065c07e-c1e2-4720-b8b2-60bd5b76a365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eligibility checkerAccess your training records and understand your eligibility for the course you want to take.Enter personal detailsCheck EligibilityEnter personal detailsEnter your name OR MLITSD Learner ID:Learner IDNameEnter your email, phone number OR postal code:EmailPhone NumberPostal Code Step 2  Reset Check EligibilityChecking eligibility for Select a courseJHSC - Part TwoJHSC - RefresherWorking at Heights - Refresher Eligibility On  Check Eligibility  Back  Reset </value>
+      <webElementGuid>64715230-eb04-43f5-9275-e3da261bf7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row ontario-margin-top-0-!&quot;]/div[@class=&quot;main-content page-content ontario-row&quot;]</value>
+      <webElementGuid>5b15ec92-ecda-4bad-af92-9be1fea12dae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div</value>
+      <webElementGuid>8c432028-7fee-479f-a268-64c5b1170eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved training providers'])[1]/following::div[7]</value>
+      <webElementGuid>df5b6d55-7bd0-4da5-8612-bd2525cc114d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eligibility checker'])[2]/following::div[8]</value>
+      <webElementGuid>ac1817b6-cb39-4d62-b7d4-ec9f848877a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-training-eligibility/div/div</value>
+      <webElementGuid>e70b2c60-880d-4aa7-ac5c-7914369b695d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Eligibility checkerAccess your training records and understand your eligibility for the course you want to take.Enter personal detailsCheck EligibilityEnter personal detailsEnter your name OR MLITSD Learner ID:Learner IDNameEnter your email, phone number OR postal code:EmailPhone NumberPostal Code Step 2  Reset Check EligibilityChecking eligibility for Select a courseJHSC - Part TwoJHSC - RefresherWorking at Heights - Refresher Eligibility On  Check Eligibility  Back  Reset ' or . = 'Eligibility checkerAccess your training records and understand your eligibility for the course you want to take.Enter personal detailsCheck EligibilityEnter personal detailsEnter your name OR MLITSD Learner ID:Learner IDNameEnter your email, phone number OR postal code:EmailPhone NumberPostal Code Step 2  Reset Check EligibilityChecking eligibility for Select a courseJHSC - Part TwoJHSC - RefresherWorking at Heights - Refresher Eligibility On  Check Eligibility  Back  Reset ')]</value>
+      <webElementGuid>2b208e6b-18f4-4a79-8544-d22206159ded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

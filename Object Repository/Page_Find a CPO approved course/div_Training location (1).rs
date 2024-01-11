@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Training location (1)</name>
+   <tag></tag>
+   <elementGuidId>2dd4c0d1-dc01-4d50-ac47-aeb72ed2a86c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-cpo-approved-courses/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b430f50-fd28-4550-b1a9-b1adedad575a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3</value>
+      <webElementGuid>fd8cb6f3-7071-42f0-9d01-9a687add7ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training location</value>
+      <webElementGuid>7a4d3aa6-a4a8-438f-a5da-bc6346449451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-cpo-approved-courses[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3&quot;]</value>
+      <webElementGuid>0d259e2e-d57b-40c2-bc8e-b5a96304f887</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-cpo-approved-courses/div/div[5]</value>
+      <webElementGuid>80246cde-499e-47a8-ad30-68899ec70435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elearning'])[1]/following::div[1]</value>
+      <webElementGuid>78b750ca-4f52-4956-a8cf-7309c0d5686e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional training format'])[1]/following::div[1]</value>
+      <webElementGuid>6f4e66b7-1c2a-4aaa-9b83-41a565956368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select radius'])[1]/preceding::div[1]</value>
+      <webElementGuid>b33484c9-8501-43ad-bbc3-a89b11217f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>9eec17a3-4deb-4346-9c45-6241de985469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Training location' or . = 'Training location')]</value>
+      <webElementGuid>97d5e2a4-223e-4def-9c71-8b08b97b5ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

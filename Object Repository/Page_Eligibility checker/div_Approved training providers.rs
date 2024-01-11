@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Approved training providers</name>
+   <tag></tag>
+   <elementGuidId>a1d60da0-4517-4a2c-830b-b0952c72ba0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div/div/ul/li[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57b67e4c-56d1-4342-85df-4f8b60769fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title-sub</value>
+      <webElementGuid>a037038f-2941-4129-a1b6-32289a472989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approved training providers</value>
+      <webElementGuid>fb4367f9-7a59-4374-a27a-d0e2764a18ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;ontario-tab ng-star-inserted&quot;]/div[@class=&quot;tab-title-sub&quot;]</value>
+      <webElementGuid>ba35d48a-b148-47c2-aa0f-434d76bdaef3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div/div/ul/li[4]/div</value>
+      <webElementGuid>35d5897b-d97c-4817-afc7-b41334a6caea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eligibility checker'])[2]/following::div[1]</value>
+      <webElementGuid>9acdb7f3-9db2-4684-824a-f48858c8439e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a CPO approved course'])[1]/following::div[2]</value>
+      <webElementGuid>086963fd-47a5-4b7c-b632-5e13fc4f908f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eligibility checker'])[3]/preceding::div[5]</value>
+      <webElementGuid>ee0a1138-e32f-4170-a992-fdd315f2ea22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access your training records and understand your eligibility for the course you want to take.'])[1]/preceding::div[5]</value>
+      <webElementGuid>cbf15709-ab93-4f1c-9ac0-4df44fc80f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approved training providers']/parent::*</value>
+      <webElementGuid>8bea06b1-5522-4108-83de-9c16a6253bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div</value>
+      <webElementGuid>8b0af417-890f-4676-9424-c1cfaa11408e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Approved training providers' or . = 'Approved training providers')]</value>
+      <webElementGuid>c7deb393-c6de-41eb-bf80-74bbecb84669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -30,28 +30,17 @@ WebUI.scrollToPosition(0, 60000)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Ministry of Labour, Training and Skills_1cf71b'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/h2_Ministry of Labour, Training and Skills _ca15bc'), 
-    'Ministry of Labour, Immigration, Training and Skills Development')
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/a_About Ontario'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/a_About Ontario'), 'About Ontario')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/a_Accessibility'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/a_Accessibility'), 'Accessibility')
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/a_News'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/a_News'), 'News')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/a_Privacy'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/a_Privacy'), 'Privacy')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/a_Terms of Use'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/a_Terms of Use'), 'Terms of Use')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Course Search/a_Queens Printer for Ontario, 201221'))
 

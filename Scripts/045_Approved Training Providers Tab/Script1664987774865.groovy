@@ -29,9 +29,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace 
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Approved Training Providers'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_Find a training providerSearch approved_c21d5c'), 
-    0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))

@@ -6,12 +6,12 @@
    <elementGuidId>0a77b404-b9c7-448a-b809-e3e6c736dabb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ontario-column.form-input-div.ontario-small-12.ontario-medium-6.ontario-large-3</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main-content&quot;]/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div[1]/div[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div/div[2]</value>
+         <key>CSS</key>
+         <value>div.ontario-column.form-input-div.ontario-small-12.ontario-medium-6.ontario-large-3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>db1335d0-fa2b-4df4-9a4c-6c3b215c7278</webElementGuid>
+      <webElementGuid>2b16a638-34f9-4dd6-8e29-b0ef6b85631e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3</value>
-      <webElementGuid>800f7d1c-4c00-48cf-a7a4-1c63807dd0c4</webElementGuid>
+      <webElementGuid>8459139d-9243-4d4e-9abd-1e8d660cc468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search approved training providers</value>
-      <webElementGuid>249ff0ed-ab37-461a-9c96-56e6465e7a98</webElementGuid>
+      <webElementGuid>df909585-660c-41c8-aa2e-24932715ff4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers-search[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3&quot;]</value>
-      <webElementGuid>7523739a-6818-4cc2-8664-03eb685f9860</webElementGuid>
+      <webElementGuid>5ede4aab-ce4f-4b66-84d5-b679a90f5874</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div/div[2]</value>
-      <webElementGuid>f6d4385a-6065-42ed-b061-b2befd0cd53a</webElementGuid>
+      <webElementGuid>8a32ac44-64cb-429c-8771-28430d030ef9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved training providers'])[3]/following::div[1]</value>
-      <webElementGuid>1e02e2bb-a91e-4869-95c6-e81feae65cd5</webElementGuid>
+      <webElementGuid>5799e0dd-79c0-4b8f-a600-fad3dc949fd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved training providers'])[2]/following::div[8]</value>
-      <webElementGuid>e262f064-0080-42fa-b39d-34c711312c69</webElementGuid>
+      <webElementGuid>5fa1904f-60d7-4b40-b228-5872e6d0e0a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select training program'])[1]/preceding::div[1]</value>
-      <webElementGuid>6447706e-1f52-4a1c-ab23-44f885d51b6f</webElementGuid>
+      <webElementGuid>3a9f41a9-9114-4194-8c24-cbbd298bc059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-training-providers-search/div/div[2]</value>
-      <webElementGuid>8b5ca846-ad7a-4010-bc96-006981e3fad2</webElementGuid>
+      <webElementGuid>615fb679-2ef4-4615-877a-959950a85621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Search approved training providers' or . = 'Search approved training providers')]</value>
-      <webElementGuid>1c2b9dc9-07f0-44c0-8eb4-c36d794205ac</webElementGuid>
+      <webElementGuid>5eaf63b0-7ab4-4e38-a980-2b3d3ae41725</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

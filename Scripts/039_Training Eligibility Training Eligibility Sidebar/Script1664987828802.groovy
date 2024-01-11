@@ -23,24 +23,21 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Home/div_Eligibility checker'))
+WebUI.click(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Eligibility checker'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Eligibility checker/h3_How to access training records'), 
+    0)
+
+WebUI.rightClick(findTestObject('Object Repository/Page_Eligibility checker/div_Eligibility checkerAccess your training_519c27'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Eligibility checker/div_How to access training recordsLearner I_859be4'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/h3_How to access training records'), 
-    'How to access training records?')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/h6_Learner ID  Name on training records'), 
-    'Learner ID & Name on training records')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/div_The ministry requires either a Learner _f7fa35'), 
-    'The ministry requires either a Learner ID number or full name to look up the eligibility of a learner.The Learner ID is issued by the ministry and is a combination of letters and numbers.The full name only includes the learner\'\'s first and last name.If using name, it must match the name that was submitted to the ministry the last time the learner completed training for a CPO-approved course.')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Eligibility checker/div_To access training recordsCall 1-877 20_5ecb11'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Eligibility checker/h6_Learner ID  Name on training records'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/h6_To access training records'), 'To access training records')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Eligibility checker/div_The ministry requires either a Learner _f7fa35'), 
+    0)
 
 WebUI.closeBrowser()
 

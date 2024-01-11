@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Find a CPO approved course</name>
+   <tag></tag>
+   <elementGuidId>c7d2bfca-761b-44f9-a5ef-b0002c4d46a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-homepage/app-tabs/div/div/div/ul/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-title-sub</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f07cf274-f56d-4255-9fef-1bf9148c6886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title-sub</value>
+      <webElementGuid>a9ea8fea-1e51-4948-83cd-248bbe8d3f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find a CPO approved course</value>
+      <webElementGuid>789664c9-36a4-4fba-83ce-e632200ac732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tabs-header&quot;]/div[@class=&quot;ontario-row&quot;]/ul[@class=&quot;ontario-nav-tabs&quot;]/li[@class=&quot;ontario-tab active ng-star-inserted&quot;]/div[@class=&quot;tab-title-sub&quot;]</value>
+      <webElementGuid>910cede2-129e-4272-b625-abb58e47528b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-homepage/app-tabs/div/div/div/ul/li/div</value>
+      <webElementGuid>84490260-15d9-4120-929d-8b755b053934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[4]</value>
+      <webElementGuid>549409e5-4bfd-46b7-8f44-3c2a66ef067d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please login to access your account.'])[1]/following::div[6]</value>
+      <webElementGuid>92d549d7-1b08-4b6b-b6a6-2704f2b7001c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Eligibility'])[1]/preceding::div[1]</value>
+      <webElementGuid>2f082f01-2e89-499d-83c2-d30ad15b2332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved training providers'])[1]/preceding::div[2]</value>
+      <webElementGuid>8e0d27e2-4f2c-45f4-a4a8-726c767da2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find a CPO approved course']/parent::*</value>
+      <webElementGuid>bafad872-f2de-41cb-b81f-cd987757a7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>63ca4f14-4f36-45fd-a1af-7d9c8b81f3da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Find a CPO approved course' or . = 'Find a CPO approved course')]</value>
+      <webElementGuid>ab2d9ff4-1fd7-4869-a05d-8ce68c70c0ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

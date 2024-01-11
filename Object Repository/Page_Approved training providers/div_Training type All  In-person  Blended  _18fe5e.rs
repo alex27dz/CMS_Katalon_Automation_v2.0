@@ -6,12 +6,12 @@
    <elementGuidId>ea7e9719-eaa2-4055-b1a1-5c30c4fde90b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ontario-column.form-input-div.ontario-small-12.ontario-medium-6.ontario-large-6.nowrap</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main-content&quot;]/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div[1]/div[4]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div/div[4]</value>
+         <key>CSS</key>
+         <value>div.ontario-column.form-input-div.ontario-small-12.ontario-medium-6.ontario-large-6.nowrap</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6bae7e65-4e48-4a32-9668-4e3f4d593fab</webElementGuid>
+      <webElementGuid>43e823e7-a8b9-474f-8eb8-911da337b184</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-6 nowrap</value>
-      <webElementGuid>f6560a4c-25c0-424b-92bf-ba4f098707f3</webElementGuid>
+      <webElementGuid>53eae921-05ed-480b-8937-5f9bcc888c76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Training type All  In-person  Blended  Distance learning  Elearning </value>
-      <webElementGuid>c8199e93-8fd0-43a3-aec2-5b9b4b2c2407</webElementGuid>
+      <webElementGuid>2201ccdb-057b-4145-ab72-c2b6eed78d94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-providers-search[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-6 nowrap&quot;]</value>
-      <webElementGuid>66f521fa-8d30-4b01-8fc5-f3896416964b</webElementGuid>
+      <webElementGuid>bc659a6e-550e-401a-a267-4e6ef8d8f762</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-providers-search/div/div[4]</value>
-      <webElementGuid>004ca6bd-0111-483f-b656-38c1a465904b</webElementGuid>
+      <webElementGuid>0f163c47-f6c8-4a28-8017-855b68593da7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select training program'])[1]/following::div[1]</value>
-      <webElementGuid>fc32ef63-9edc-4884-89a7-3ec5962999a4</webElementGuid>
+      <webElementGuid>59032582-6eaf-4197-9bf1-a48b63a8107a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search approved training providers'])[1]/following::div[2]</value>
-      <webElementGuid>f65df7d1-7c68-4a9d-8622-2c57580c745d</webElementGuid>
+      <webElementGuid>2a3bfff8-46d6-4f22-a7f3-0ad646f245f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]</value>
-      <webElementGuid>f9eb31df-627d-46cd-a7a5-c8c89e621395</webElementGuid>
+      <webElementGuid>2468372a-5789-488a-b478-5d475258c79e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Training type All  In-person  Blended  Distance learning  Elearning ' or . = 'Training type All  In-person  Blended  Distance learning  Elearning ')]</value>
-      <webElementGuid>ec7ea832-f6c9-48fc-98e9-f9efa4e6dbe6</webElementGuid>
+      <webElementGuid>be90baf2-82bd-455a-bf27-0fc0c51c8fcf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

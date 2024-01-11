@@ -21,19 +21,22 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Training delivery formats WAH JHSCTrain_4e6767'), 
+WebUI.maximizeWindow()
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Become an approved training providerBec_5d1d52'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/h3_Training delivery formats'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_WAH'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_JHSC'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Training delivery modes for Working at Heights'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Training delivery formats WAH JHSCTrain_4e6767'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/div_Face-to-face (in-class) trainingRefers _ab86e7'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_WAH'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_JHSC'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Basic awareness trainingAll employers m_6ad85e'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Supporting Ontarios Safe Employers Prog_b46ec3'), 
     0)
 
 WebUI.closeBrowser()

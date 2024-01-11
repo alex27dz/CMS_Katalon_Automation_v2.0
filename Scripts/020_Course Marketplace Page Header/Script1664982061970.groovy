@@ -19,55 +19,42 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home')
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Find available courses'))
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Approved Training Providers'))
+WebUI.click(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Approved training providers'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLTSD CPO Approved Training CoursesExpl_2ea26a'), 
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/div_Find a CPO approved course'))
+
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/div_Eligibility checker'))
+
+WebUI.click(findTestObject('Object Repository/Page_Eligibility checker/div_Home'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home - Safety and Prevention/button_Find available courses'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLITSD CPO Approved Training Courses'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLTSD CPO Approved Training Courses'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLITSD CPO Approved Training Courses'), 
     'MLITSD CPO Approved Training Courses')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Explore other recommended safety traini_5478a4'), 
-    'Explore other recommended safety training by sector or work type')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Working to prevent workplace injuries a_8fc2b8'), 
-    'Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario.')
-
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/li_Training Eligibility'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_MLTSD CPO Approved Training CoursesExpl_2ea26a'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_MLITSD CPO Approved Training CoursesExp_e2a71b'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_MLTSD CPO Approved Training Courses'), 
-    'MLITSD CPO Approved Training Courses')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_Explore other recommended safety traini_5478a4'), 
-    'Explore other recommended safety training by sector or work type')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/div_Working to prevent workplace injuries a_8fc2b8'), 
-    'Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario.')
-
-WebUI.click(findTestObject('Object Repository/Page_Marketplace - Eligibility Checker/li_Approved Training Providers'))
-
-WebUI.rightClick(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_MLTSD CPO Approved Training CoursesExpl_2ea26a'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_MLTSD CPO Approved Training CoursesExpl_2ea26a'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Please login to access your account. Login'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_MLTSD CPO Approved Training Courses'), 
-    'MLITSD CPO Approved Training Courses')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Find a CPO approved course'), 
+    0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_Explore other recommended safety traini_5478a4'), 
-    'Explore other recommended safety training by sector or work type')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Franais'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_Working to prevent workplace injuries a_8fc2b8'), 
-    'Working to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario.')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/img'), 0)
+
+WebUI.rightClick(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Franais'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Franais'), 0)
 
 WebUI.closeBrowser()
 

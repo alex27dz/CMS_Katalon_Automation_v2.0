@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Supporting Ontarios Safe Employers Prog_b46ec3</name>
+   <tag></tag>
+   <elementGuidId>190a5aac-3ad9-41fa-8d48-5dbe04acc5fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14725311-b873-4fde-a143-76066078f2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box</value>
+      <webElementGuid>782bc9ac-dba7-4870-b34d-0f8cb9adf78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supporting Ontario’s Safe Employers ProgramSupporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness. More info</value>
+      <webElementGuid>b336e554-94e2-4cd2-ac3c-74936e83cb8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row&quot;]/div[@class=&quot;right-sidebar&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;box&quot;]</value>
+      <webElementGuid>74b55e09-3439-4442-bfde-9b6aa4bb0596</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar[3]/div</value>
+      <webElementGuid>b7406f1c-038f-4966-b302-8a32ec135d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisor health and safety awareness in five steps'])[1]/following::div[1]</value>
+      <webElementGuid>6107524a-c5d0-48f6-8e67-0998e87a8ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker health and safety awareness in four steps'])[1]/following::div[1]</value>
+      <webElementGuid>da84073b-fa2b-47cf-865c-dd205bdd5a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-grey-text-box-sidebar[3]/div</value>
+      <webElementGuid>8a511277-9068-4720-9b04-4d7205e86779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Supporting Ontario’s Safe Employers ProgramSupporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness. More info' or . = 'Supporting Ontario’s Safe Employers ProgramSupporting Ontario’s Safe Employers is a voluntary Ministry of Labour, Training and Skills Development program run by the Chief Prevention Officer (CPO). It promotes health and safety in the workplace and helps reduce injuries and illness. More info')]</value>
+      <webElementGuid>cffc8b93-5517-47bf-a17a-3397469e4deb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

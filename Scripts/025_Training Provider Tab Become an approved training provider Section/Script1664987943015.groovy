@@ -19,32 +19,36 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/safety-and-prevention/home')
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Home  Workers  Training providers  Employers'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Become an approved training providerBec_5d1d52'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Home'), 'Home')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Home - Safety and Prevention/h4_Become an approved training provider'), 
+    'Become an approved training provider')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Home'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/button_Register as training provider'), 
+    0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Workers'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Basic awareness trainingAll employers m_6ad85e'), 
+    0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Home - Safety and Prevention/h3_Basic awareness training'), 
+    'Basic awareness training')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Employers'))
+WebUI.click(findTestObject('Object Repository/Page_Home - Safety and Prevention/li_Eligibility checker'))
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Workers'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Eligibility checker/h2_Eligibility checker'), 'Eligibility checker')
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
+WebUI.click(findTestObject('Object Repository/Page_Eligibility checker/div_Approved training providers'))
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Employers'))
+WebUI.click(findTestObject('Object Repository/Page_Approved training providers/div_Find a CPO approved course'))
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Training Providers/li_Home'))
+WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/li_Home'))
 
-WebUI.click(findTestObject('Object Repository/Page_Prevention Landing Page - Home/li_Training providers'))
+WebUI.click(findTestObject('Object Repository/Page_Home - Safety and Prevention/button_Find available courses'))
 
 WebUI.closeBrowser()
 

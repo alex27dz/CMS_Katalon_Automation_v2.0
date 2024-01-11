@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Become an approved training providerBec_5d1d52</name>
+   <tag></tag>
+   <elementGuidId>da4f5087-c245-4fc9-9ead-b6582cc6a963</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-sidebar > div.grey-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1511e77e-efa5-4f2f-a17e-37c33d4a75fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grey-box</value>
+      <webElementGuid>e341093a-363f-4f2d-8b64-e14e80f828d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Become an approved training providerBecome an approved training provider by submitting an online request and unlock full capabilities of marketing your training offerings. Create and manage the training offerings through computer and mobile phone.Publish offerings as CPO's approved training providerSubmit the training material for CPO approvalsMarket training coursesEnrol the learnersSubmit the training completion recordsAssign multiple roles in your teamManage your teamBuild relationship with learnersAnd more…Register as training provider</value>
+      <webElementGuid>9fa6efbf-c60a-45fa-8ccf-a5275056e0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row&quot;]/div[@class=&quot;right-sidebar&quot;]/div[@class=&quot;grey-box&quot;]</value>
+      <webElementGuid>c2e02295-d805-47d9-bff1-ea7399d6512f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/div</value>
+      <webElementGuid>6aa1bc60-7c01-4071-a216-604c087aceeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access all CPO-approved providers'])[1]/following::div[2]</value>
+      <webElementGuid>9b5b6a39-5189-4831-8e4b-bcb0890947ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact MLITSD for more information'])[1]/following::div[2]</value>
+      <webElementGuid>f8774209-2038-4ca4-a63c-9c9ab69039b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-safety-and-prevention/div/div[2]/div</value>
+      <webElementGuid>ba251328-f2d0-46fb-b530-93e7a67740b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Become an approved training providerBecome an approved training provider by submitting an online request and unlock full capabilities of marketing your training offerings. Create and manage the training offerings through computer and mobile phone.Publish offerings as CPO&quot; , &quot;'&quot; , &quot;s approved training providerSubmit the training material for CPO approvalsMarket training coursesEnrol the learnersSubmit the training completion recordsAssign multiple roles in your teamManage your teamBuild relationship with learnersAnd more…Register as training provider&quot;) or . = concat(&quot;Become an approved training providerBecome an approved training provider by submitting an online request and unlock full capabilities of marketing your training offerings. Create and manage the training offerings through computer and mobile phone.Publish offerings as CPO&quot; , &quot;'&quot; , &quot;s approved training providerSubmit the training material for CPO approvalsMarket training coursesEnrol the learnersSubmit the training completion recordsAssign multiple roles in your teamManage your teamBuild relationship with learnersAnd more…Register as training provider&quot;))]</value>
+      <webElementGuid>0c03b566-bd0d-4c77-8c4a-702faed16179</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

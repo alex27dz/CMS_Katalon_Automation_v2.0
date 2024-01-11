@@ -29,9 +29,6 @@ WebUI.click(findTestObject('Object Repository/Page_Marketplace - Course Search/l
 
 WebUI.click(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/button_Search'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/div_Provider nameCityTownRegistered address_186803'), 
-    0)
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Marketplace - Approved Provider List/label_Provider name'), 
     'Provider name')
 

@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='main-content']/app-homepage/app-tabs/div/div[2]/app-marketplace/div/div[9]/app-numeric-input/div/div</value>
+         <value>//div/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.numeric-input-div</value>
+         <value>div.grow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>faed32bb-93d9-47f9-8a90-662a347092c6</webElementGuid>
+      <webElementGuid>c21011cd-130c-40c7-9677-68263450f0d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>numeric-input-div</value>
-      <webElementGuid>835c7e6f-b81f-47e2-9e31-59aa0bb0665d</webElementGuid>
+      <value>grow</value>
+      <webElementGuid>36c246a5-d626-4361-8057-4062c82868a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-content&quot;)/app-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[1]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-marketplace[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3&quot;]/app-numeric-input[1]/div[1]/div[@class=&quot;numeric-input-div&quot;]</value>
-      <webElementGuid>c071321c-a343-46b2-a5d7-38f71dc7dbd0</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/header[1]/div[@class=&quot;primary-row&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;grow&quot;]</value>
+      <webElementGuid>bfb733b3-fadd-4653-895b-e2a221d6b265</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>3b2d9699-d33f-4b71-b9a5-6fa71efd8da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

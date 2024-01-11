@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total seats_numeric-input-div</name>
+   <tag></tag>
+   <elementGuidId>ae45bce0-87e9-4354-b189-88158d43d04a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-cpo-approved-courses/div/div[9]/app-numeric-input/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.numeric-input-div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e29379ae-06a1-4316-aa22-a474122060a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>numeric-input-div</value>
+      <webElementGuid>6f3ee5bf-23e7-45ad-ba56-4b4b992ddc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-cpo-approved-courses[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column form-input-div ontario-small-12 ontario-medium-6 ontario-large-3&quot;]/app-numeric-input[1]/div[1]/div[@class=&quot;numeric-input-div&quot;]</value>
+      <webElementGuid>6a1b3950-2742-41a6-a913-389473cf25d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-cpo-approved-courses/div/div[9]/app-numeric-input/div/div</value>
+      <webElementGuid>629ae54a-041a-4e2c-b6e5-4c1d7399bcb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total seats'])[1]/following::div[1]</value>
+      <webElementGuid>846dd2bb-d0f7-4402-85df-671e282ca118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To date'])[1]/following::div[4]</value>
+      <webElementGuid>a7946fee-0b32-4b06-a962-c9d89531cd8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show the listings with course fee only'])[1]/preceding::div[1]</value>
+      <webElementGuid>dfeaac4f-b236-4fc9-ae67-ae2651446ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekend classes only'])[1]/preceding::div[3]</value>
+      <webElementGuid>75793a59-dcbe-4696-9532-bbccf4877356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-numeric-input/div/div</value>
+      <webElementGuid>f776f5db-f650-4aaf-8f0a-a763ddaa93cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

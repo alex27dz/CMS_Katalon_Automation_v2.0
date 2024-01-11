@@ -23,42 +23,40 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training program All Safety Training Pr_3585c8'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training program All Safety Training Pr_3585c8 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training provider'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training type All  In-person  Blended  _c38467'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training provider (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Additional training format Elearning'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training type All  In-person  Blended  _c38467 (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training location'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Select radiusAll25 kms50 kms100 kms'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Additional training format Elearning (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_From date'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_From date  To date'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_To date'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/div_Total seats'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Total seats'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Show the listings with course fee only'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Select radiusAll25 kms50 kms100 kms (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Weekend classes only'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Training location (1)'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/label_Total seats (1)'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Sort by Date Earliest - LatestDate Late_2e06d9'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Total seats_numeric-input-div'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Search  Reset filters Sort by Date Earl_ef08fa'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/button_Search (2)'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Show the listings with course fee only (1)'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Weekend classes only (1)'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/li_Find a CPO approved course'), 
     0)
 
 WebUI.closeBrowser()

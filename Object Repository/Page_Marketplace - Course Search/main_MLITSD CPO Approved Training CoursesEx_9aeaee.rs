@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_MLITSD CPO Approved Training CoursesEx_9aeaee</name>
+   <tag></tag>
+   <elementGuidId>7cb8c3d4-a73c-4066-8550-b80327a313ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>318403e2-b458-43c8-b213-24c204d20c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main-content</value>
+      <webElementGuid>00e38ebd-6ee7-4b43-abd3-397058be4e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MLITSD CPO Approved Training CoursesExplore other recommended safety training by sector or work typeWorking to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario. Login  Please login to access your account. LoginFind a CPO approved courseTraining EligibilityApproved training providersTraining program All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherTraining providerTraining type All  In-person  Blended  Distance learning Additional training format Elearning Training locationSelect radiusAll25 kms50 kms100 kms From date  To dateTotal seatsShow the listings with course fee onlyWeekend classes only Search  Reset filters Sort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - Low Showing 0 course advertisements Feedback We would like to hear about your experience and welcome suggestions/feedback to improve the service. </value>
+      <webElementGuid>621fa6ca-1e6e-420f-b269-193ffcc3aac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)</value>
+      <webElementGuid>16666a5f-f72a-4cfc-943b-2074e4b647e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']</value>
+      <webElementGuid>6aec7b34-bcb0-466c-90f7-54d51e83cb8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Français'])[1]/following::main[1]</value>
+      <webElementGuid>634ee213-147d-497b-b057-05d0cee17851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>09edd2f1-5794-4d97-a11e-070c7213ff75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[@id = 'main-content' and (text() = 'MLITSD CPO Approved Training CoursesExplore other recommended safety training by sector or work typeWorking to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario. Login  Please login to access your account. LoginFind a CPO approved courseTraining EligibilityApproved training providersTraining program All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherTraining providerTraining type All  In-person  Blended  Distance learning Additional training format Elearning Training locationSelect radiusAll25 kms50 kms100 kms From date  To dateTotal seatsShow the listings with course fee onlyWeekend classes only Search  Reset filters Sort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - Low Showing 0 course advertisements Feedback We would like to hear about your experience and welcome suggestions/feedback to improve the service. ' or . = 'MLITSD CPO Approved Training CoursesExplore other recommended safety training by sector or work typeWorking to prevent workplace injuries and illnesses, promoting and enforcing employment standards, helping settle workplace disputes and collective agreements, supporting apprenticeships, the skilled trades, industry training and employment services in Ontario. Login  Please login to access your account. LoginFind a CPO approved courseTraining EligibilityApproved training providersTraining program All Safety Training ProgramsJHSC - Part OneJHSC - Part TwoJHSC - RefresherWorking at Heights - FullWorking at Heights - RefresherTraining providerTraining type All  In-person  Blended  Distance learning Additional training format Elearning Training locationSelect radiusAll25 kms50 kms100 kms From date  To dateTotal seatsShow the listings with course fee onlyWeekend classes only Search  Reset filters Sort by Date: Earliest - LatestDate: Latest - EarliestPrice: Low - HighPrice: High - Low Showing 0 course advertisements Feedback We would like to hear about your experience and welcome suggestions/feedback to improve the service. ')]</value>
+      <webElementGuid>598e8dbf-90de-45d3-9f78-e98710d0f74d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

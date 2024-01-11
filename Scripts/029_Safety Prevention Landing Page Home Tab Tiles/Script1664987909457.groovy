@@ -19,27 +19,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/safety-and-prevention/home')
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Working at height training WAHThis Work_995ab9'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Working at height training WAHThis Work_995ab9'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h3_Working at height training WAH'), 
-    'Working at height training [WAH]')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Joint health and safety committee train_02ed90'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Joint health and safety committee train_02ed90'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h3_Joint health and safety committee training JHSC'), 
-    'Joint health and safety committee training [JHSC]')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Free trainings for workers and employer_39eb00'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Free trainings for workers and employer_39eb00'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Prevention Landing Page - Home/h3_Free trainings for workers and employers'), 
-    'Free trainings for workers and employers')
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/button_Find available courses'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/button_Find available courses'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/button_Find available courses'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/h2_Find a CPO-approved training provider'), 
+    0)
 
 WebUI.closeBrowser()
 

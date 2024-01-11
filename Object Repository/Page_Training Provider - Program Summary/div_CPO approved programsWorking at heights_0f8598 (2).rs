@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div</value>
+         <value>//*[@id=&quot;main-content&quot;]/div/div/app-training-provider-registration-confirmation/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4deb68c9-13a2-440a-8d96-17101f95324b</webElementGuid>
+      <webElementGuid>0f5df7d3-9ce1-4767-a968-bb154ea275c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ontario-column ontario-small-12 ontario-large-3 float-right</value>
-      <webElementGuid>2ce7e5a2-48cb-43e5-b5ff-8a68167f39b6</webElementGuid>
+      <webElementGuid>1da63c83-b315-47f7-afa7-11a7abfeeba9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CPO approved programsWorking at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval. Read provider standards Read program standards Become an approved providerJoint health and safety committee [JHSC]Certification of certain Joint Health and Safety Committee(JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act(OHSA). Read provider standards Read program standards Become an approved provider</value>
-      <webElementGuid>5bd39d9c-3a4d-41b5-b37a-e2f907a2c2a0</webElementGuid>
+      <webElementGuid>83dca752-0226-4a29-a20a-3f2f828c030a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/app-training-provider-registration-confirmation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row ontario-margin-top-32-! ontario-padding-bottom-24-!&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right&quot;]</value>
-      <webElementGuid>f56f6488-e18d-41dc-92ff-eda115108d0a</webElementGuid>
+      <webElementGuid>0cf1c739-c484-4d67-8cf4-b1a6983d11c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main-content']/app-training-provider-registration-confirmation/div/div</value>
-      <webElementGuid>4c3c9495-6558-47b8-8503-b40f4ebbc274</webElementGuid>
+      <webElementGuid>8b2f6d0b-75e3-4be4-be24-2453edffe2d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='john doe'])[1]/following::div[3]</value>
-      <webElementGuid>47f7237c-60a8-420f-87a6-03d9b7be53f9</webElementGuid>
+      <webElementGuid>4c214d0d-f69d-470f-8ab0-b943cd49aa04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alex Dev Inc'])[1]/following::div[6]</value>
-      <webElementGuid>90240f5a-ac8d-4933-860b-1a0af6446062</webElementGuid>
+      <webElementGuid>6293f888-cf63-4800-8d81-e31a53cffdc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-training-provider-registration-confirmation/div/div</value>
-      <webElementGuid>e4e67880-3859-49b2-939e-2a1b0f8052bf</webElementGuid>
+      <webElementGuid>cde9749b-3274-49ea-a5dd-e2db94031f96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'CPO approved programsWorking at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval. Read provider standards Read program standards Become an approved providerJoint health and safety committee [JHSC]Certification of certain Joint Health and Safety Committee(JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act(OHSA). Read provider standards Read program standards Become an approved provider' or . = 'CPO approved programsWorking at heights [WAH]This Working at Heights Training Program Standard sets out the requirements that must be met by training programs submitted to the Chief Prevention Officer(CPO) for approval. Read provider standards Read program standards Become an approved providerJoint health and safety committee [JHSC]Certification of certain Joint Health and Safety Committee(JHSC) members is required under section 9 of Ontario’s Occupational Health and Safety Act(OHSA). Read provider standards Read program standards Become an approved provider')]</value>
-      <webElementGuid>6490804e-c711-47e9-9629-65d094751072</webElementGuid>
+      <webElementGuid>595d5ca4-36c9-4a60-8a68-5b3cb4a82405</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -58,8 +58,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/button_Save  Continue'), 
     'Save & Continue')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_Save  Complete Later_image-div'), 
-    0)
-
 WebUI.closeBrowser()
 

@@ -6,12 +6,11 @@
    <elementGuidId>6d525a2e-8ecc-45d1-9f8c-72f68b48ba91</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main-content&quot;]/div/div/app-safety-and-prevention-homepage/div/app-login-header/div/div/div[2]/app-login-register/div/div/div[2]/div/div[2]/div/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;main-content&quot;]/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[1]/div/button</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

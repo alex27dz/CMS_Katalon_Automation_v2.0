@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JHSC</name>
+   <tag></tag>
+   <elementGuidId>3a9adf92-5577-4fe6-8b43-36d7934f7c3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/div/app-dynamic-tab[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59851b6c-f9f2-4319-b1bc-5ebc0714869f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4e311164-ec00-4f99-9d0a-6c02ca726048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>c517c13f-451a-47ac-a62f-9d968eaa8325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> JHSC
+</value>
+      <webElementGuid>434e0eb2-4db4-416c-b4f9-b9189fb7e21f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row&quot;]/div[@class=&quot;right-sidebar&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section ng-star-inserted&quot;]/app-page-content-loop[1]/app-dynamic-tab-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tab-list&quot;]/app-dynamic-tab[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>1fc554e6-6590-4d0f-b284-9fc115af9d44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/div/app-dynamic-tab[2]/div</value>
+      <webElementGuid>a5416227-aacf-45d0-b98c-41a7a8f88013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAH'])[1]/following::div[1]</value>
+      <webElementGuid>2226d4ef-4818-4691-a280-4ef8a68a9f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery formats'])[1]/following::div[6]</value>
+      <webElementGuid>31608004-a2fe-403b-846d-5180de53ad5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery modes for Working at Heights'])[1]/preceding::div[2]</value>
+      <webElementGuid>2da72d5b-731b-42e8-875b-5f4ffcc43500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Face-to-face (in-class) training'])[1]/preceding::div[3]</value>
+      <webElementGuid>eaf1feea-1bf6-4cfd-85fe-ab42d3d08958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JHSC']/parent::*</value>
+      <webElementGuid>c1ae1abf-d035-48ef-a878-023f76d8c221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dynamic-tab[2]/div</value>
+      <webElementGuid>b695e336-ab89-43c9-92e9-c35e790e0bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' JHSC
+' or . = ' JHSC
+')]</value>
+      <webElementGuid>0d51e517-2e3c-4ca2-9256-17a549e31b99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

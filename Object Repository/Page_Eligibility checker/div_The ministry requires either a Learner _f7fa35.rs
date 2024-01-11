@@ -6,12 +6,12 @@
    <elementGuidId>f04f5a95-dc62-4f6a-85e2-1d660896183b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.content > div</value>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div/div</value>
+         <key>CSS</key>
+         <value>div.content > div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d79ab57a-b39f-4135-a6ac-9b76358fdce3</webElementGuid>
+      <webElementGuid>f3a7af05-383f-4db2-a71c-12c2df4e0da1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,23 +30,23 @@
       <name>text</name>
       <type>Main</type>
       <value> The ministry requires either a Learner ID number or full name to look up the eligibility of a learner.The Learner ID is issued by the ministry and is a combination of letters and numbers.The full name only includes the learner''s first and last name.If using name, it must match the name that was submitted to the ministry the last time the learner completed training for a CPO-approved course.</value>
-      <webElementGuid>615c152f-6c87-4d1d-ab14-1b2c5fe3b6fa</webElementGuid>
+      <webElementGuid>2483c2fd-4ada-4e16-84d0-72b2bfc070ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-content&quot;)/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-column ontario-small-12 ontario-large-3 float-right ng-star-inserted&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]/div[1]</value>
-      <webElementGuid>bb673577-d436-45ff-b73a-c15004400a57</webElementGuid>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-training-eligibility[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row ontario-margin-top-0-!&quot;]/div[@class=&quot;right-sidebar ng-star-inserted&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;content&quot;]/div[1]</value>
+      <webElementGuid>418fbd19-da32-4bbb-8457-a2fee0f214c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div/div</value>
-      <webElementGuid>cf9bb836-9dc7-4332-ba76-d6142bdfd04d</webElementGuid>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div/div</value>
+      <webElementGuid>1f3f087b-63ab-43b5-b32b-e7fb925f91ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Learner ID &amp; Name on training records'])[1]/following::div[1]</value>
-      <webElementGuid>0fbb98f8-e143-45d5-95ff-bbb8dee7e282</webElementGuid>
+      <webElementGuid>c24d4cf0-61be-47fd-949c-148dfb57557a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='How to access training records?'])[1]/following::div[3]</value>
-      <webElementGuid>193a49de-655d-4fa3-a535-a04cfbe4287f</webElementGuid>
+      <webElementGuid>533095a6-beea-43c1-b192-99b922f46804</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address/ Phone number/ Postal code'])[1]/preceding::div[1]</value>
-      <webElementGuid>b84ddefe-3d57-4eb0-96cd-deada0acad2a</webElementGuid>
+      <webElementGuid>748688af-bd60-473f-9977-718ce00e7ef6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-grey-text-box-sidebar/div/div[2]/div/div</value>
-      <webElementGuid>aff6d319-fd56-474c-806e-a18b44c67e2b</webElementGuid>
+      <webElementGuid>512a6e0a-a5ab-4a01-9317-b156772e88de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = concat(&quot; The ministry requires either a Learner ID number or full name to look up the eligibility of a learner.The Learner ID is issued by the ministry and is a combination of letters and numbers.The full name only includes the learner&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;s first and last name.If using name, it must match the name that was submitted to the ministry the last time the learner completed training for a CPO-approved course.&quot;) or . = concat(&quot; The ministry requires either a Learner ID number or full name to look up the eligibility of a learner.The Learner ID is issued by the ministry and is a combination of letters and numbers.The full name only includes the learner&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;s first and last name.If using name, it must match the name that was submitted to the ministry the last time the learner completed training for a CPO-approved course.&quot;))]</value>
-      <webElementGuid>e54d5e57-0bfd-44c6-b7a7-a5a89fe59746</webElementGuid>
+      <webElementGuid>71bc9950-e11c-4c12-bbc5-ce910a6e2bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-training-eligibility/div/div/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div/div</value>
+      <webElementGuid>cf9bb836-9dc7-4332-ba76-d6142bdfd04d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

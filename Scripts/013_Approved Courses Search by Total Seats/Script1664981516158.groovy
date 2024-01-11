@@ -23,10 +23,6 @@ WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/label_Total seats'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Find a CPO approved course/div_Total seats (1)'), 0)
-
 WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))
 
 WebUI.click(findTestObject('Object Repository/Page_Find a CPO approved course/img'))

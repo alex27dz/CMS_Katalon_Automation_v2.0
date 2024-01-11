@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WAH</name>
+   <tag></tag>
+   <elementGuidId>48a52df6-4c16-4125-a367-a5734dc80a68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/div/app-dynamic-tab/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d415353f-e48b-42f0-a4c3-b3fe05f0cbd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3de669dd-a1d5-41c0-8d3a-2ce848d9bfa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title active</value>
+      <webElementGuid>1daa1ca5-ff13-4c1a-b061-76cb7b42f85a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> WAH
+</value>
+      <webElementGuid>4a28ccb4-e920-4958-b2bf-fd6f8b2a4836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;container&quot;]/div[1]/app-safety-and-prevention-homepage[@class=&quot;ng-star-inserted&quot;]/app-tabs[@class=&quot;safety-override&quot;]/div[@class=&quot;ontario-tabs&quot;]/div[@class=&quot;ontario-tab-content&quot;]/app-safety-and-prevention[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content-with-right-sidebar ontario-row&quot;]/div[@class=&quot;right-sidebar&quot;]/app-page-content-loop[1]/app-grey-text-box-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body&quot;]/div[@class=&quot;sub-section ng-star-inserted&quot;]/app-page-content-loop[1]/app-dynamic-tab-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tab-list&quot;]/app-dynamic-tab[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;title active&quot;]</value>
+      <webElementGuid>e65f31fa-af79-4330-891c-8c4ee6e2c80e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/app-safety-and-prevention-homepage/app-tabs/div/div[2]/app-safety-and-prevention/div/div[2]/app-page-content-loop/app-grey-text-box-sidebar/div/div[2]/div[2]/app-page-content-loop/app-dynamic-tab-list/div/app-dynamic-tab/div</value>
+      <webElementGuid>ab7eeb18-759b-48d4-aedb-3166f038e342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery formats'])[1]/following::div[5]</value>
+      <webElementGuid>52eeb41a-e548-43b6-9261-76fda02e05a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register as training provider'])[1]/following::div[7]</value>
+      <webElementGuid>5d1679f4-9709-41f0-b7a8-8919b9ee85ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JHSC'])[1]/preceding::div[1]</value>
+      <webElementGuid>9c36e80a-c58e-44a6-86c5-54b1204c7f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training delivery modes for Working at Heights'])[1]/preceding::div[3]</value>
+      <webElementGuid>a8036357-39ac-48e2-a01a-4c75525c88d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WAH']/parent::*</value>
+      <webElementGuid>ff591f3f-b9b7-48f8-aaa0-3b7c4783da2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dynamic-tab/div</value>
+      <webElementGuid>856b8722-0e1f-4f1f-bab3-534ba010f633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' WAH
+' or . = ' WAH
+')]</value>
+      <webElementGuid>a08be895-493e-42a2-aba3-a77cabd9a9a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,9 +3,9 @@
    <description></description>
    <name>Regression</name>
    <tag></tag>
-   <delayBetweenInstances>15</delayBetweenInstances>
+   <delayBetweenInstances>10</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
-   <maxConcurrentInstances>3</maxConcurrentInstances>
+   <maxConcurrentInstances>5</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>

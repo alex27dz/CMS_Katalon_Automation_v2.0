@@ -19,21 +19,18 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/safety-and-prevention/home#/safety-and-prevention/home')
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/#/safety-and-prevention/home')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Basic awareness trainingAll employers m_6ad85e'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Basic awareness training'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Worker health and safety awareness i_719f0b'))
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Supervisor health and safety awarene_ce833a'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Prevention Landing Page - Home/div_Health and safety for small businessesU_09f4f9'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Basic awareness trainingAll employers m_6ad85e'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Prevention Landing Page - Home/button_Health and safety for small businesses'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Safety and Prevention/div_Supporting Ontarios Safe Employers Prog_b46ec3'), 
+    0)
 
 WebUI.closeBrowser()
 

@@ -21,11 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://intra.stage.apps.labour.gov.on.ca/public-portal-qa/marketplace/course-search')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/img_1'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/div_Franais'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/a_FR franais'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/img'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/header_FR franais'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Franais'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Marketplace - Course Search/button_Franais'), 0)
 
 WebUI.closeBrowser()
 
