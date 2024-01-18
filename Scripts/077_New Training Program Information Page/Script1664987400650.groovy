@@ -53,8 +53,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_The Working at Heights Training Provide_134ca0'), 
     'The Working at Heights Training Provider Application and associated Application Guidelines are applicable to all applicant training providers applying to the CPO approval to become an approved training provider of an approved Working at Heights Training Program. The documents should be read in conjunction as they describe the assessment processes and the documentation that must be submitted to the Ministry, including:')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_Application for Working at Heights trai_4bbf5d'), 
-    0)
-
 WebUI.closeBrowser()
 

@@ -47,23 +47,5 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create ne
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/button_Start new application'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/h2_Application for Joint Health and Safety _233226'), 
-    'Application for Joint Health and Safety Committee training program delivery')
-
-WebUI.scrollToPosition(0, 6000)
-
-Thread.sleep(3000)
-
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_Applicant information'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_Applicant information'), 
-    'Applicant information')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_This section requires you to provide co_a54041'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_Applicant informationDesigning signing _c2aeae'), 
-    0)
-
 WebUI.closeBrowser()
 

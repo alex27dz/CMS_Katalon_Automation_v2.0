@@ -5,7 +5,7 @@
    <tag></tag>
    <delayBetweenInstances>10</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
-   <maxConcurrentInstances>5</maxConcurrentInstances>
+   <maxConcurrentInstances>3</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>

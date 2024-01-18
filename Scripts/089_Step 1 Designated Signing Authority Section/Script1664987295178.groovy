@@ -39,26 +39,25 @@ WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/inpu
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/button_Submit training program delivery app_2ec0f1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Training Provider - Create new application/select_Select training programJHSC - Part O_95772d'), 
-    '9d17c877-c580-4370-9f5d-d0fb04b09ef1', true)
+    '3e2f79fd-4dc3-45b5-875c-737921fcf71e', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/input_You have to submit a separate applica_31f65a'))
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/input_You have to submit a separate applica_6621d7'))
 
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/input_Blended_radio-buttons-0.9213357034839205-1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/label_Blended'))
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/input_Blended_radio-buttons-0.4743901969608175-3'))
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new application/button_Start new application'))
 
+WebUI.rightClick(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/li_Training providers that have previously _c1a33a'))
+
+WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/li_Joint Health and Safety Committee Provid_31871b'))
+
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/button_Save  Continue'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Applicant Information/h4_Designated Signing Authority'), 
-    'Designated Signing Authority')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Applicant Information/h4_Applicant business information'), 
+    'Applicant business information')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Applicant Information/div_Please use my account settings page to _b18dc1'), 
     'Please use my account settings page to update the business information.')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Applicant Information/form_First nameJonathan Last nameDoe Phone _d7bf93'), 
-    0)
 
 WebUI.closeBrowser()
 

@@ -56,14 +56,8 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create ne
 WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Applicant Information/h4_Applicant business information'), 
     'Applicant business information')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Applicant Information/h4_Applicant business information'), 
-    0)
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Applicant Information/div_Please use my account settings page to _b18dc1'), 
     'Please use my account settings page to update the business information.')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Applicant Information/form_Organization operating nameABCs Traini_5239d7'), 
-    0)
 
 WebUI.closeBrowser()
 

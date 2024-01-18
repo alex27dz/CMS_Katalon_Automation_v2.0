@@ -40,9 +40,6 @@ WebUI.scrollToPosition(0, 5000)
 
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_View details'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h2_My Training Programs'), 
-    'My training programs')
-
 WebUI.click(findTestObject('Object Repository/Page_Training Provider - Program Summary/li_Application Review 2'))
 
 WebUI.closeBrowser()

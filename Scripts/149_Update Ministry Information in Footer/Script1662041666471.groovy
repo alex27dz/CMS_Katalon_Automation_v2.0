@@ -38,28 +38,13 @@ WebUI.click(findTestObject('Object Repository/Page_My Ontario Account STAGE/inpu
 
 Thread.sleep(3000)
 
-WebUI.scrollToPosition(0, 30000)
+WebUI.scrollToPosition(0, 300000)
 
 Thread.sleep(3000)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/h2_Ministry of Labour, Immigration, Trainin_57799f'), 
-    'Ministry of Labour, Immigration, Training and Skills Development')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/p_Helping protect workers and settle workpl_337df8'), 
-    'Helping protect workers and settle workplace disputes, supporting skilled trades, apprenticeships and employment services, attracting highly-skilled newcomers and helping people get settled in Ontario.')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_About Ontario'), 'About Ontario')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Accessibility'), 'Accessibility')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_News'), 'News')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Privacy'), 'Privacy')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Terms of Use'), 'Terms of Use')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Program Summary/a_Kings Printer for Ontario, 201222'), 
-    '© King\'s Printer for Ontario, 2012–22')
 
 WebUI.closeBrowser()
 

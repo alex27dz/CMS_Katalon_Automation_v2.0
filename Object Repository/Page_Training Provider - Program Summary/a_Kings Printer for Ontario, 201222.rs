@@ -6,12 +6,11 @@
    <elementGuidId>838431b8-0621-404e-8d86-42a7d914cd95</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/following::a[1]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/app-root/footer/div/div/div/div/ul/li[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ef54208f-8860-4a5a-af93-9a396c077bf7</webElementGuid>
+      <webElementGuid>d4a830c4-909a-4ad2-98de-c4d8c20327f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>e91da354-71dc-4da3-96c5-e12b0b042e50</webElementGuid>
+      <webElementGuid>7b5e9085-6986-4dbd-85ed-4d678b2011f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ontario-footer__link ontario-footer-nowrap__link</value>
-      <webElementGuid>269a2f9a-399a-43be-8f3b-ed3bf0342351</webElementGuid>
+      <webElementGuid>7b2249c9-58c1-45af-b8d8-4332b41c3c32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.ontario.ca/page/copyright-information</value>
-      <webElementGuid>5d419fa9-4ea0-44a5-9750-2a253a739a73</webElementGuid>
+      <webElementGuid>1e0a0c1d-fb21-45e1-a10b-8006000b66fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>© King's Printer for Ontario, 2012–22</value>
-      <webElementGuid>add96d05-8c14-4f58-9134-6b38983cf896</webElementGuid>
+      <webElementGuid>afe0c8ba-de77-4983-96ec-8e17c071d52e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-footer[1]/footer[@class=&quot;ontario-footer ontario-footer--expanded noprint&quot;]/div[@class=&quot;ontario-footer__expanded-top-section&quot;]/div[@class=&quot;ontario-row&quot;]/div[@class=&quot;ontario-columns ontario-small-12 ontario-medium-5 border-left-white ontario-margin-top-12-!&quot;]/div[@class=&quot;ontario-columns ontario-small-12 ontario-medium-12 ontario-large-5 footer-column&quot;]/a[@class=&quot;ontario-footer__link ontario-footer-nowrap__link&quot;]</value>
-      <webElementGuid>56491144-ab72-4348-ba16-0c5c073172c9</webElementGuid>
+      <webElementGuid>134b2e42-18e6-472e-986b-84913ba9686a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/following::a[1]</value>
-      <webElementGuid>e3e0f876-c5d6-4df9-9219-f1611da48d48</webElementGuid>
+      <webElementGuid>7a525e43-acd7-411c-96e0-7f6d462376bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility'])[1]/following::a[2]</value>
-      <webElementGuid>70e160b3-f53a-43e7-88fe-46683d092b30</webElementGuid>
+      <webElementGuid>bd6ba9db-29eb-4786-b3aa-e092b4db9c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.ontario.ca/page/copyright-information')]</value>
-      <webElementGuid>754b2a6e-2484-4953-a369-65f173a65dbe</webElementGuid>
+      <webElementGuid>05a862ef-0df2-47c3-beb8-ea5817396334</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/a</value>
-      <webElementGuid>25f0339d-ed3a-4a5b-8262-977e2e411c35</webElementGuid>
+      <webElementGuid>9bd0769b-8b64-4bf2-9ee7-e6491e3afd8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.ontario.ca/page/copyright-information' and (text() = concat(&quot;© King&quot; , &quot;'&quot; , &quot;s Printer for Ontario, 2012–22&quot;) or . = concat(&quot;© King&quot; , &quot;'&quot; , &quot;s Printer for Ontario, 2012–22&quot;))]</value>
-      <webElementGuid>b7f3166c-10cf-4184-a2b9-46a935d63065</webElementGuid>
+      <webElementGuid>8dafb4c0-e83b-43b9-b9a7-a0621408a8e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

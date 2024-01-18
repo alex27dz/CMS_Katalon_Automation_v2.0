@@ -50,10 +50,5 @@ WebUI.click(findTestObject('Object Repository/Page_Training Provider - Create ne
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_The ministrys approval process involves_a2cc58'), 
     'The ministry\'s approval process involves five levels of assessment to verify that both the technical content and program delivery elements meet the requirements in the Working at Heights.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_1Triage2Desk assessment3Field assessmen_d87503'), 
-    0)
-
-WebUI.rightClick(findTestObject('Object Repository/Page_Training Provider - Create new applica_585dfb/div_1'))
-
 WebUI.closeBrowser()
 

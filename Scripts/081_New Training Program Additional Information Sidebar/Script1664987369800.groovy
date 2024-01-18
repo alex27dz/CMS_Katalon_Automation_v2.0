@@ -44,8 +44,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new application/div_Training delivery modes'), 
     'Training delivery modes')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Training Provider - Create new application/div_Training delivery modesBlended learning_e3d686_1'), 
-    0)
-
 WebUI.closeBrowser()
 

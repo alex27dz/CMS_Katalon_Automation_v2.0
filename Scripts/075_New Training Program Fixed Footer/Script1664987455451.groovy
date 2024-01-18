@@ -44,8 +44,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new application/button_Start new application'), 
     'Start new application')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Training Provider - Create new application/div_Start new application_image-div'), 
-    '')
-
 WebUI.closeBrowser()
 

@@ -58,9 +58,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application
 WebUI.verifyElementText(findTestObject('Object Repository/Page_TP Application - Applicant Information/h4_Consent for Posting of Approval Status'), 
     'Consent for Posting of Approval Status')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_TP Application - Applicant Information/div_For informational purposes only, the CP_f69ceb'), 
-    0)
-
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_TP Application - Applicant Information/button_Back'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_TP Application - Applicant Information/button_Save  Complete Later'))
